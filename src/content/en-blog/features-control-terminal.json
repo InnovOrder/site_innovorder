@@ -1,15 +1,14 @@
 {
  "slug": "features-control-terminal",
  "seo": {
-  "title": "Control terminals: 7 essential features",
+  "title": "Self-ordering kiosks: 7 essential features",
   "description": "Discover the 7 essential features of order kiosks to enhance the fast-food customer experience.",
   "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/680a480488ea1c76af0f694b_Borne%20BCHEF.avif",
   "lang": "en",
   "htmlAttrs": {
    "data-wf-page": "6493777d655aea5e6643cc01",
    "data-wf-collection": "6493777d655aea5e6643cb6c",
-   "data-wf-item-slug": "fonctionnalites-borne-de-commande",
-   "data-wg-translated": "en"
+   "data-wf-item-slug": "fonctionnalites-borne-de-commande"
   },
   "bodyClass": "body",
   "bodyAttrs": {
@@ -40,17 +39,20 @@
     "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
     "crossorigin": "anonymous"
    }
-  ]
+  ],
+  "alternates": {
+   "fr": "https://www.innovorder.com/blog/fonctionnalites-borne-de-commande",
+   "en": "https://www.innovorder.com/en/blog/features-control-terminal"
+  }
  },
  "fields": {
-  "head:field-script": "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.innovorder.com/en/blog/features-control-terminal\"},\"headline\":\"Bornes de commande : 7 fonctionnalités indispensables\",\"description\":\"Discover the 7 essential features of order kiosks to enhance the fast-food customer experience.\",\"image\":\"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/680a480488ea1c76af0f694b_Borne%20BCHEF.avif\",\"author\":{\"@type\":\"Person\",\"name\":\"Chloé Thévenet\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Innovorder\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.9\",\"reviewCount\":\"550\",\"bestRating\":\"5\",\"worstRating\":\"1\"}},\"datePublished\":\"18 février 2025\",\"dateModified\":\"\",\"articleSection\":\"Développer son activité\",\"timeRequired\":\"4\"}</script>",
-  "field-script-2": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/blog/fonctionnalites-borne-de-commande\",\"en\":\"https://www.innovorder.com/en/blog/features-control-terminal\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/blog/fonctionnalites-borne-de-commande\",\"originalPath\":\"/blog/fonctionnalites-borne-de-commande\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
-  "head:link-href": "https://www.innovorder.com/blog/fonctionnalites-borne-de-commande",
-  "link-href-2": "https://www.innovorder.com/en/blog/features-control-terminal",
+  "head:field-script": "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.innovorder.com/en/blog/features-control-terminal\"},\"headline\":\"Self-ordering kiosks: 7 essential features\",\"description\":\"Discover the 7 essential features of order kiosks to enhance the fast-food customer experience.\",\"image\":\"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/680a480488ea1c76af0f694b_Borne%20BCHEF.avif\",\"author\":{\"@type\":\"Person\",\"name\":\"Chloé Thévenet\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Innovorder\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.9\",\"reviewCount\":\"550\",\"bestRating\":\"5\",\"worstRating\":\"1\"}},\"datePublished\":\"18 février 2025\",\"dateModified\":\"\",\"articleSection\":\"Expanding your business\",\"timeRequired\":\"4\"}</script>",
+  "wg-selector-2-href": "/en/blog/features-control-terminal",
+  "wg-selector-2-href-2": "/blog/fonctionnalites-borne-de-commande",
   "breadcrumb-text-href": "/en/categories/digital-transformation-restoration",
   "breadcrumb-text": "Expanding your business",
   "breadcrumb-text-href-2": "/en/blog/features-control-terminal",
-  "breadcrumb-text-2": "Control terminals: 7 essential features",
+  "breadcrumb-text-2": "Self-ordering kiosks: 7 essential features",
   "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/680a480488ea1c76af0f694b_Borne%20BCHEF.avif",
   "current-post-image-alt": "",
   "current-post-image-sizes": "100vw",
@@ -58,7 +60,7 @@
   "category-name-current-post": "Expanding your business",
   "read-time-txt-class": "read-time-txt",
   "read-time-txt-html": "4",
-  "title-post": "Control terminals: 7 essential features",
+  "title-post": "Self-ordering kiosks: 7 essential features",
   "author-post-class": "author-post",
   "author-post-html": "Chloé Thévenet",
   "date-post-text": "31 July 2026",
@@ -96,6 +98,6 @@
   "div-role-12": "listitem",
   "div-class-13": "w-dyn-item",
   "div-html-6": "<a href=\"/en/blog/price-self-ordering-kiosk\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64d349c8e8a154f9990a0082_DSC05556-Edit.jpg\" sizes=\"(max-width: 479px) 100vw, 262px\" srcset=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64d349c8e8a154f9990a0082_DSC05556-Edit-p-500.jpg 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64d349c8e8a154f9990a0082_DSC05556-Edit.jpg 800w\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">How much does a restaurant ordering kiosk cost?</div>\n                  <div class=\"interesting-articles-category\">Expanding your business</div>\n                </div>\n              </a>",
-  "tail:field-script": "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.innovorder.com/en/blog/features-control-terminal\"},\"headline\":\"Bornes de commande : 7 fonctionnalités indispensables\",\"description\":\"Discover the 7 essential features of order kiosks to enhance the fast-food customer experience.\",\"image\":\"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/68513a196d0fb2a6f1da9df2_Screenshot%202025-04-18%20at%2014.12.21%20(1).avif\",\"author\":{\"@type\":\"\",\"name\":\"Chloé Thévenet\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Innovorder\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"}},\"datePublished\":\"18 février 2025\"}</script>"
+  "tail:field-script": "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.innovorder.com/en/blog/features-control-terminal\"},\"headline\":\"Self-ordering kiosks: 7 essential features\",\"description\":\"Discover the 7 essential features of order kiosks to enhance the fast-food customer experience.\",\"image\":\"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/68513a196d0fb2a6f1da9df2_Screenshot%202025-04-18%20at%2014.12.21%20(1).avif\",\"author\":{\"@type\":\"\",\"name\":\"Chloé Thévenet\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Innovorder\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"}},\"datePublished\":\"18 février 2025\"}</script>"
  }
 }

@@ -1,0 +1,104 @@
+{
+  "_comment": "Corrections des traductions automatiques Weglot sur les pages EN. « terms » : expressions remplacées partout (majuscule initiale conservée) ; « labels » : libellés remplacés uniquement quand ils constituent tout le texte (menus, boutons).",
+  "terms": [
+    {
+      "find": "very small enterprises",
+      "replace": "payment terminals",
+      "note": "TPE = terminal de paiement électronique"
+    },
+    {
+      "find": "very small enterprise",
+      "replace": "payment terminal"
+    },
+    {
+      "find": "Very small businesses: how do you cancel your lease with your bank",
+      "replace": "Payment terminals: how do you cancel your lease with your bank"
+    },
+    {
+      "find": "\\bVSEs\\b(?! and SMEs)",
+      "replace": "payment terminals",
+      "regex": true,
+      "caseSensitive": true,
+      "note": "« VSEs and SMEs » désigne bien les petites entreprises"
+    },
+    {
+      "find": "\\bVSE\\b",
+      "replace": "payment terminal",
+      "regex": true,
+      "caseSensitive": true
+    },
+    {
+      "find": "control terminals",
+      "replace": "self-ordering kiosks",
+      "note": "borne de commande"
+    },
+    {
+      "find": "control terminal",
+      "replace": "self-ordering kiosk"
+    },
+    {
+      "find": "flatbed scanners",
+      "replace": "tray scanners",
+      "note": "scan plateau"
+    },
+    {
+      "find": "flatbed scanner",
+      "replace": "tray scanner"
+    },
+    {
+      "find": "a control pad",
+      "replace": "an ordering pad",
+      "note": "accord de l'article"
+    },
+    {
+      "find": "control pads",
+      "replace": "ordering pads",
+      "note": "pad de commande"
+    },
+    {
+      "find": "control pad",
+      "replace": "ordering pad"
+    },
+    {
+      "find": "Automatic coin acceptor",
+      "replace": "Automated cash recycler",
+      "note": "monnayeur automatique"
+    },
+    {
+      "find": "coin acceptors",
+      "replace": "cash recyclers"
+    },
+    {
+      "find": "coin acceptor",
+      "replace": "cash recycler"
+    },
+    {
+      "find": "Tray Scan IA",
+      "replace": "AI Tray Scan"
+    },
+    {
+      "find": "Transform your guests' experience with integrated payment from IA Scan",
+      "replace": "Transform your guests' experience with payment built into AI Scan"
+    },
+    {
+      "find": "Discover our new 2nd generation tray scanner!",
+      "replace": "Discover our new 2nd-generation AI tray scanner!"
+    }
+  ],
+  "labels": {
+    "Collection": "Payments",
+    "Steering": "Management",
+    "Client screen": "Customer display",
+    "Reception": "Goods receiving",
+    "Who are we?": "About us",
+    "The human being above all": "People first",
+    "Press area": "Press room",
+    "Read the testimony": "Read the testimonial",
+    "Teaching": "Education",
+    "Health": "Healthcare",
+    "Eliminate lines": "Eliminate queues",
+    "Place your order right at your table": "Take orders right at the table",
+    "Leisure area": "Leisure venues",
+    "Control your business at your fingertips": "Run your business at your fingertips"
+  }
+}

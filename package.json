@@ -7,14 +7,15 @@
     "node": ">=20"
   },
   "scripts": {
-    "dev": "astro dev",
+    "dev": "NODE_OPTIONS=--max-old-space-size=8192 astro dev",
     "build": "astro build",
     "preview": "astro preview",
     "check": "astro check",
     "migrate:webflow": "node scripts/migrate-webflow.mjs",
     "check:links": "node scripts/check-links.mjs",
     "crawl": "node scripts/crawl-live.mjs",
-    "verify:parity": "node scripts/verify-parity.mjs"
+    "verify:parity": "node scripts/verify-parity.mjs",
+    "audit:translations": "node scripts/audit-translations.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.4",
@@ -24,6 +25,7 @@
     "dom-serializer": "^3.1.1",
     "domhandler": "^6.0.1",
     "domutils": "^4.0.2",
+    "entities": "^9.0.0",
     "htmlparser2": "^12.0.0"
   }
 }

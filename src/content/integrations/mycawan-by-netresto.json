@@ -37,12 +37,13 @@
     "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
     "crossorigin": "anonymous"
    }
-  ]
+  ],
+  "alternates": {
+   "fr": "https://www.innovorder.com/integrations/mycawan-by-netresto",
+   "en": "https://www.innovorder.com/en/integrations/mycawan-by-netresto"
+  }
  },
  "fields": {
-  "head:field-script": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/integrations/mycawan-by-netresto\",\"en\":\"https://www.innovorder.com/en/integrations/mycawan-by-netresto\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/integrations/mycawan-by-netresto\",\"originalPath\":\"/integrations/mycawan-by-netresto\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
-  "head:link-href": "https://www.innovorder.com/integrations/mycawan-by-netresto",
-  "link-href-2": "https://www.innovorder.com/en/integrations/mycawan-by-netresto",
   "title-00": "Innovorder & Mycawan",
   "text-17px": "Analysez et pilotez la rentabilité de tous vos établissements avec des rapports de vente centralisés. Gagnez du temps sur la gestion administrative et maîtrisez vos sites de restauration.",
   "logo-integration-inner-hero-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/665dd9b9ab388e866f91ecb3_mycawan%20hero.avif",

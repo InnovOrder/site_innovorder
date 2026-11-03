@@ -33,12 +33,15 @@
     "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
     "crossorigin": "anonymous"
    }
-  ]
+  ],
+  "alternates": {
+   "fr": "https://www.innovorder.com/restauration-collective/scolaire",
+   "en": "https://www.innovorder.com/en/collective-catering/school"
+  }
  },
  "fields": {
-  "head:field-script": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/restauration-collective/scolaire\",\"en\":\"https://www.innovorder.com/en/collective-catering/school\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/restauration-collective/scolaire\",\"originalPath\":\"/restauration-collective/scolaire\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
-  "head:link-href": "https://www.innovorder.com/restauration-collective/scolaire",
-  "link-href-2": "https://www.innovorder.com/en/collective-catering/school",
+  "wg-selector-2-href": "/en/collective-catering/school",
+  "wg-selector-2-href-2": "/restauration-collective/scolaire",
   "expertises-hero-text-html": "Innovorder, la solution digitale pour la <strong>restauration scolaire</strong>",
   "text-17px-html": "\n            <p>Repensez le self et la cafétéria de votre établissement scolaire ou universitaire avec des solutions connectées qui plairont autant à vos élèves, à leurs parents et à vos équipes.</p>\n          ",
   "image-hero-expertise-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc597f511a01e7_enseignement%20hero%201.avif",

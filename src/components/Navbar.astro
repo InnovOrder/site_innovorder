@@ -1,6 +1,10 @@
 ---
 // Navigation principale (fr).
 // Généré depuis le site Webflow par scripts/migrate-webflow.mjs, puis maintenu dans ce dépôt.
+
+// Versions traduites de la page courante, fournies par BaseLayout (sélecteur de langue).
+const alternates: Record<string, string> = Astro.locals.alternates ?? {};
+const switchTo = (lang: string) => alternates[lang] ?? (lang === 'en' ? '/en' : '/');
 ---
 <div data-animation="default" class="navbar-fix-2 w-nav" data-easing2="ease" data-easing="ease" data-collapse="medium" data-w-id="4a99b083-0ad0-61ac-2513-827a15531d30" role="banner" data-no-scroll="1" data-duration="400">
   <div class="topbar-ebook">
@@ -1257,10 +1261,10 @@
         </div>
       </nav>
     </div>
-    <div class="wg-element-wrapper sw3" data-wg-notranslate><a lang="en" data-w-id="7f17fd5a-2482-ebfb-f802-128c9309125c" href="#" class="wg-selector-2 s1 w-inline-block">
+    <div class="wg-element-wrapper sw3"><a lang="en" data-w-id="7f17fd5a-2482-ebfb-f802-128c9309125c" href={switchTo("en")} class="wg-selector-2 s1 w-inline-block" hreflang="en">
         <div class="wg-selector-2-fill f1c"></div>
         <div class="wg-selector2-text-lang1">EN</div>
-      </a><a lang="fr" data-w-id="7f17fd5a-2482-ebfb-f802-128c93091260" href="#" class="wg-selector-2 s2 w-inline-block">
+      </a><a lang="fr" data-w-id="7f17fd5a-2482-ebfb-f802-128c93091260" href={switchTo("fr")} class="wg-selector-2 s2 w-inline-block" hreflang="fr">
         <div class="wg-selector-2-fill f2"></div>
         <div class="wg-selector2-text-lang2">FR</div>
       </a></div>

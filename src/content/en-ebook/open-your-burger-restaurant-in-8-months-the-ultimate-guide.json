@@ -8,8 +8,7 @@
   "htmlAttrs": {
    "data-wf-page": "6493777d655aea5e6643cc09",
    "data-wf-collection": "6493777d655aea5e6643cb5f",
-   "data-wf-item-slug": "ouvrir-son-restaurant-de-burgers-en-8-mois-le-guide-ultime",
-   "data-wg-translated": "en"
+   "data-wf-item-slug": "ouvrir-son-restaurant-de-burgers-en-8-mois-le-guide-ultime"
   },
   "bodyClass": "body",
   "webflowScripts": [
@@ -37,12 +36,15 @@
     "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
     "crossorigin": "anonymous"
    }
-  ]
+  ],
+  "alternates": {
+   "fr": "https://www.innovorder.com/ebook/ouvrir-son-restaurant-de-burgers-en-8-mois-le-guide-ultime",
+   "en": "https://www.innovorder.com/en/ebook/open-your-burger-restaurant-in-8-months-the-ultimate-guide"
+  }
  },
  "fields": {
-  "head:field-script": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/ebook/ouvrir-son-restaurant-de-burgers-en-8-mois-le-guide-ultime\",\"en\":\"https://www.innovorder.com/en/ebook/open-your-burger-restaurant-in-8-months-the-ultimate-guide\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/ebook/ouvrir-son-restaurant-de-burgers-en-8-mois-le-guide-ultime\",\"originalPath\":\"/ebook/ouvrir-son-restaurant-de-burgers-en-8-mois-le-guide-ultime\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
-  "head:link-href": "https://www.innovorder.com/ebook/ouvrir-son-restaurant-de-burgers-en-8-mois-le-guide-ultime",
-  "link-href-2": "https://www.innovorder.com/en/ebook/open-your-burger-restaurant-in-8-months-the-ultimate-guide",
+  "wg-selector-2-href": "/en/ebook/open-your-burger-restaurant-in-8-months-the-ultimate-guide",
+  "wg-selector-2-href-2": "/ebook/ouvrir-son-restaurant-de-burgers-en-8-mois-le-guide-ultime",
   "title-00": "Opening a burger restaurant in 8 months: the ultimate guide",
   "subtitle-hero-ebook-inner": "Follow our detailed, month-by-month action plan to successfully open your burger restaurant.",
   "name-value": "Ouvrir son restaurant de burgers en 8 mois : le guide ultime",
@@ -64,7 +66,7 @@
   "icon-ebook-src-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/67c6154b7cdc2efa5688105d_IO%20Analytics%201.png",
   "icon-ebook-sizes-3": null,
   "icon-ebook-srcset-3": null,
-  "rt-decouvrirez-block-html-3": "\n            <p>How to <strong>ensure</strong> your restaurant's long-term <strong data-wg-splitted>profitability</strong> from day 1</p>\n          ",
+  "rt-decouvrirez-block-html-3": "\n            <p>How to <strong>ensure</strong> your restaurant's long-term <strong>profitability</strong> from day 1</p>\n          ",
   "rt-decouvrirez-block-html-4": "\n          <p>In an ultra-competitive sector where new burger concepts spring up every week, getting into the restaurant business requires more than just a good idea. The reality is clear: 1 in 2 restaurants closes within the first 5 years.</p>\n          <p>To give you the best chance of success, we've put together a comprehensive, actionable guide, based on feedback from restaurateurs who have successfully launched their businesses.</p>\n        "
  }
 }

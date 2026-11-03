@@ -8,8 +8,7 @@
   "htmlAttrs": {
    "data-wf-page": "6493777d655aea5e6643cc30",
    "data-wf-collection": "6493777d655aea5e6643cb6a",
-   "data-wf-item-slug": "boulangerie-tranche-innovorder",
-   "data-wg-translated": "en"
+   "data-wf-item-slug": "boulangerie-tranche-innovorder"
   },
   "bodyClass": "body",
   "webflowScripts": [
@@ -37,12 +36,15 @@
     "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
     "crossorigin": "anonymous"
    }
-  ]
+  ],
+  "alternates": {
+   "fr": "https://www.innovorder.com/success-stories/boulangerie-tranche-innovorder",
+   "en": "https://www.innovorder.com/en/success-stories/boulangerie-tranche-innovorder"
+  }
  },
  "fields": {
-  "head:field-script": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/success-stories/boulangerie-tranche-innovorder\",\"en\":\"https://www.innovorder.com/en/success-stories/boulangerie-tranche-innovorder\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/success-stories/boulangerie-tranche-innovorder\",\"originalPath\":\"/success-stories/boulangerie-tranche-innovorder\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
-  "head:link-href": "https://www.innovorder.com/success-stories/boulangerie-tranche-innovorder",
-  "link-href-2": "https://www.innovorder.com/en/success-stories/boulangerie-tranche-innovorder",
+  "wg-selector-2-href": "/en/success-stories/boulangerie-tranche-innovorder",
+  "wg-selector-2-href-2": "/success-stories/boulangerie-tranche-innovorder",
   "title-post": "How can you improve cash management in your bakery? The case of Tranché",
   "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/68d29891551c8d19d1fa5307_Screenshot%202025-09-15%20at%2016.47.07.avif",
   "current-post-image-sizes": "100vw",
@@ -52,7 +54,7 @@
   "rt-blog-html": "\n          <figure style=\"padding-bottom:56.206088992974244%\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-video\">\n            <div>\n              <iframe src=\"https://www.youtube.com/embed/-jSicjESgOE\" title=\"20 to 30% of sales in cash: the real challenge for the Tranché bakery\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>\n            </div>\n          </figure>\n          <p>‍</p>\n          <p>Marie and Augustin, founders of Tranché, had a simple ambition: to modernize the neighborhood bakery, without ever abandoning traditional methods. A rare balance, but essential if passion and performance are to be combined.</p>\n          <blockquote>\"Tranché was born of our passion for craftsmanship and our desire to shake up the bakery codes a little.\"</blockquote>\n          <p>With four stores and more on the way, they have made a key choice: to rely on technology to drive their growth.</p>\n          <h3>30% of sales... in cash</h3>\n          <p>What many people don't know is that in a bakery, the bank card doesn't reign supreme. At Tranché, between 20% and 30% of sales are still made in cash. A nightmare to manage for those who want to have a clear vision of margins.</p>\n          <blockquote>\"The <a href=\"/en/automated-cash-recycling-system\">coiner</a> has become essential. Without it, mistakes are made, time is wasted, and there's a lot of uncertainty.\"</blockquote>\n          <h3>Technology as a silent lever</h3>\n          <p>Marie and Augustin aren't geeks, but they know that the key to lasting success is to have the right tools. Their <a href=\"/en/restaurant-touch-cash-register\">cash register</a>? Connected to their accounting, HR and ERP systems. Their sales? Tracked in real time. Their margins? Calculated, controlled and corrected.</p>\n          <p>Behind the scenes, it's Innovorder that structures this management. An integrated solution, to be sure. But above all, a partner who understands the realities of the field.</p>\n          <h3>Growing without losing focus</h3>\n          <p>What Tranché wants to prove is that it's possible to be a demanding craftsman and a seasoned entrepreneur. That technology, far from dehumanizing, allows you to spend more time on what's essential: the product, the team, the customer.</p>\n          <p>\"Being a modern craftsman means not being afraid to get help from tech.\"</p>\n          <h3>-</h3>\n          <p>Would you like to equip your <a href=\"/en/bakery\">bakery</a>? Call in an Innovorder expert and find out how to streamline checkout!</p>\n        ",
   "right-head": "Sliced",
   "bozzolo-cat": "Franchise",
-  "div-html": "\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/en/point-of-sales-restaurant\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc596eea1a0225_Portefeuille-2.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Cash register</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/en/automated-cash-recycling-system\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59f3e01a0224_Monnayeur.webp\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Automatic coin acceptor</div>\n                    </a></div>\n                ",
+  "div-html": "\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/en/point-of-sales-restaurant\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc596eea1a0225_Portefeuille-2.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Cash register</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/en/automated-cash-recycling-system\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59f3e01a0224_Monnayeur.webp\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Automated cash recycler</div>\n                    </a></div>\n                ",
   "image-thumb-3x-href": "/en/success-stories/how-burgouzz-went-from-a-dark-kitchen-to-3-physical-restaurants",
   "bg-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/673ddf407484f43263a2cc63_Screenshot%202024-10-31%20at%2014.28.15%20(1).avif",
   "bg-image-sizes": "(max-width: 767px) 100vw, 800px",
@@ -70,7 +72,7 @@
   "company-img-logo-style-2": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/67e65fdf6927b77524b4011d_l'express%20avoriaz.avif\")",
   "link-block-9-href-2": "/en/success-stories/lexpress-avoriaz-innovorder",
   "title-cs-2": "How do you manage the flow of a fast-food restaurant at the foot of the slopes?",
-  "company-name-cs-2": "L'Express Avoriaz",
+  "company-name-cs-2": "Smash Smash",
   "label-category-card-2": "Independent",
   "arrow-block-blog-href-2": "/en/success-stories/lexpress-avoriaz-innovorder",
   "image-thumb-3x-href-3": "/en/success-stories/becchi-innovorder",

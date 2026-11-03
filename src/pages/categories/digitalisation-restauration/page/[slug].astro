@@ -15,8 +15,6 @@ const d = entry.data.fields;
 ---
 <BaseLayout {...entry.data.seo}>
   <Fragment slot="head">
-    <!-- Weglot -->
-    <Fragment set:html={d["head:field-script"]} />
     <!-- [Attributes by Finsweet] CMS Filter -->
     <script async src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-cmsfilter@1/cmsfilter.js" is:inline></script>
     <!-- [Attributes by Finsweet] CMS Sort -->
@@ -31,8 +29,6 @@ const d = entry.data.fields;
         transform: translateZ(0);
     }
     </style>
-    <link href={d["head:link-href"]} hreflang="fr" rel="alternate">
-    <link href={d["link-href-2"]} hreflang="en" rel="alternate">
   </Fragment>
   <div class="gtm-embed w-embed"></div>
   <div data-animation="default" class="navbar-fix-2 w-nav" data-easing2="ease" data-easing="ease" data-collapse="medium" data-w-id="4a99b083-0ad0-61ac-2513-827a15531d30" role="banner" data-no-scroll="1" data-duration="400">
@@ -1290,10 +1286,10 @@ const d = entry.data.fields;
           </div>
         </nav>
       </div>
-      <div class="wg-element-wrapper sw3" data-wg-notranslate><a lang="en" data-w-id="7f17fd5a-2482-ebfb-f802-128c9309125c" href="#" class="wg-selector-2 s1 w-inline-block">
+      <div class="wg-element-wrapper sw3"><a lang="en" data-w-id="7f17fd5a-2482-ebfb-f802-128c9309125c" href="/en/categories/digital-transformation-restoration" class="wg-selector-2 s1 w-inline-block" hreflang="en">
           <div class="wg-selector-2-fill f1c"></div>
           <div class="wg-selector2-text-lang1">EN</div>
-        </a><a lang="fr" data-w-id="7f17fd5a-2482-ebfb-f802-128c93091260" href="#" class="wg-selector-2 s2 w-inline-block">
+        </a><a lang="fr" data-w-id="7f17fd5a-2482-ebfb-f802-128c93091260" href="/categories/digitalisation-restauration" class="wg-selector-2 s2 w-inline-block" hreflang="fr">
           <div class="wg-selector-2-fill f2"></div>
           <div class="wg-selector2-text-lang2">FR</div>
         </a></div>

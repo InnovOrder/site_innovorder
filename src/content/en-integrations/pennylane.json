@@ -8,8 +8,7 @@
   "htmlAttrs": {
    "data-wf-page": "665dbac1b2f38c490697d94c",
    "data-wf-collection": "665dbac1b2f38c490697d93e",
-   "data-wf-item-slug": "pennylane",
-   "data-wg-translated": "en"
+   "data-wf-item-slug": "pennylane"
   },
   "bodyAttrs": {
    "data-w-id": "665dbac1b2f38c490697d952"
@@ -39,12 +38,13 @@
     "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
     "crossorigin": "anonymous"
    }
-  ]
+  ],
+  "alternates": {
+   "fr": "https://www.innovorder.com/integrations/pennylane",
+   "en": "https://www.innovorder.com/en/integrations/pennylane"
+  }
  },
  "fields": {
-  "head:field-script": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/integrations/pennylane\",\"en\":\"https://www.innovorder.com/en/integrations/pennylane\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/integrations/pennylane\",\"originalPath\":\"/integrations/pennylane\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
-  "head:link-href": "https://www.innovorder.com/integrations/pennylane",
-  "link-href-2": "https://www.innovorder.com/en/integrations/pennylane",
   "title-00": "Innovorder & Pennylane",
   "text-17px": "Thanks to Pennylane's integration with Innovorder, you can centralize your restaurant's financial and accounting management, enabling you to control your business simply and in real time.",
   "logo-integration-inner-hero-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66939386383af3570040e424_hero.avif",
@@ -52,7 +52,7 @@
   "logo-integration-inner-hero-sizes": null,
   "logo-integration-inner-hero-srcset": null,
   "24-rt-gradient-html": "<strong>Pennylane </strong>is an all-in-one platform that simplifies accounting, cash management and invoicing for restaurateurs<strong>.</strong>",
-  "h2-logos-prix-html": "\n              <h2>Make a difference with <strong>Pennylane </strong> integration <strong data-wg-splitted>: </strong></h2>\n            ",
+  "h2-logos-prix-html": "\n              <h2>Make a difference with <strong>Pennylane </strong> integration <strong>: </strong></h2>\n            ",
   "rt-features-integration-html": "\n              <li>Simplify invoicing and speed up receipt of payments</li>\n              <li>Manage your purchases and control your expenses</li>\n              <li>Feed your accounts in real time</li>\n              <li>Analyze your financial performance</li>\n            ",
   "button-icon-hp-href": "https://www.pennylane.com/fr/",
   "w-node-77b77414-b9e7-e0e5-4124-2b2a5107031a-0697d94c": "Discover Pennylane",

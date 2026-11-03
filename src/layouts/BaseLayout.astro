@@ -24,12 +24,14 @@ interface Props {
   canonical?: string;
   noindex?: boolean;
   lang?: string;
-  /** Attributs Webflow / Weglot de <html> (data-wf-page, data-wf-collection…) utilisés par webflow.js. */
+  /** Attributs Webflow de <html> (data-wf-page, data-wf-collection…) utilisés par webflow.js. */
   htmlAttrs?: Record<string, string>;
   bodyClass?: string;
   bodyAttrs?: Record<string, string>;
   /** jQuery + chunks webflow.js chargés par la page (Webflow découpe son runtime page par page). */
   webflowScripts?: Record<string, string>[];
+  /** URLs absolues des versions de la page par langue ({ fr, en }) : hreflang et sélecteur de langue. */
+  alternates?: Record<string, string>;
 }
 
 const {
@@ -46,7 +48,11 @@ const {
   bodyClass,
   bodyAttrs = {},
   webflowScripts = [],
+  alternates = {},
 } = Astro.props;
+
+// Lu par la navbar (rendue dans le slot) pour le sélecteur de langue.
+Astro.locals.alternates = Object.fromEntries(Object.entries(alternates).map(([l, url]) => [l, new URL(url).pathname]));
 
 // En build (format « file »), Astro.url.pathname vaut /prix.html : on revient à l'URL publique /prix.
 const pathname = Astro.url.pathname.replace(/(\/index)?\.html$/, '').replace(/\/$/, '') || '/';
@@ -64,6 +70,7 @@ const locale = lang === 'en' ? 'en_US' : 'fr_FR';
     {description && <meta name="description" content={description} />}
     <link rel="canonical" href={canonicalUrl} />
     {noindex && <meta name="robots" content="noindex" />}
+    {Object.entries(alternates).map(([hreflang, href]) => <link rel="alternate" hreflang={hreflang} href={href} />)}
 
     <meta property="og:type" content={ogType} />
     <meta property="og:site_name" content={SITE_NAME} />

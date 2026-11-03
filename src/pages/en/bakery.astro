@@ -9,8 +9,7 @@ const seo = {
   "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/66ccddb6ef25eba071852afe_hero%20img.png",
   "lang": "en",
   "htmlAttrs": {
-    "data-wf-page": "66ccdd65521b772e30010920",
-    "data-wg-translated": "en"
+    "data-wf-page": "66ccdd65521b772e30010920"
   },
   "bodyClass": "body",
   "webflowScripts": [
@@ -38,13 +37,15 @@ const seo = {
       "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
       "crossorigin": "anonymous"
     }
-  ]
+  ],
+  "alternates": {
+    "fr": "https://www.innovorder.com/boulangerie",
+    "en": "https://www.innovorder.com/en/bakery"
+  }
 };
 ---
 <BaseLayout {...seo}>
   <Fragment slot="head">
-    <!-- Weglot -->
-    <script type="application/json" id="weglot-data" is:inline>{"allLanguageUrls":{"fr":"https://www.innovorder.com/boulangerie","en":"https://www.innovorder.com/en/bakery"},"originalCanonicalUrl":"https://www.innovorder.com/boulangerie","originalPath":"/boulangerie","settings":{"auto_switch":false,"auto_switch_fallback":null,"category":11,"custom_settings":{"button_style":{"with_name":true,"full_name":false,"is_dropdown":true,"with_flags":false,"flag_type":"rectangle_mat","custom_css":".country-selector {\r\n  visibility: hidden;\r\n}"},"switchers":[],"translate_search":false,"loading_bar":true,"hide_switcher":false,"wait_transition":true,"definitions":{}},"deleted_at":null,"dynamics":[],"excluded_blocks":[{"value":"wg-selector2-text-lang1","description":null},{"value":"wg-selector2-text-lang2","description":null},{"value":".wg-element-wrapper","description":null},{"value":".weglot-exclude","description":null},{"value":".date-post-text","description":null}],"excluded_paths":[{"excluded_languages":["en"],"language_button_displayed":false,"type":"CONTAIN","value":"/ressources/glossaire"}],"external_enabled":false,"host":"www.innovorder.com","is_dns_set":true,"is_https":true,"language_from":"fr","language_from_custom_flag":null,"language_from_custom_name":null,"languages":[{"connect_host_destination":null,"custom_code":null,"custom_flag":null,"custom_local_name":null,"custom_name":null,"enabled":true,"language_to":"en"}],"media_enabled":false,"page_views_enabled":false,"technology_id":13,"technology_name":"Webflow","translation_engine":3,"url_type":"SUBDIRECTORY","versions":{"translation":1785418213,"slugTranslation":1781253270}}}</script>
     <style is:inline>
 
     	.volume-marquee__collection-wrapper {
@@ -111,8 +112,6 @@ const seo = {
       }
 
     </style>
-    <link href="https://www.innovorder.com/boulangerie" hreflang="fr" rel="alternate">
-    <link href="https://www.innovorder.com/en/bakery" hreflang="en" rel="alternate">
   </Fragment>
   <div data-animation="default" class="navbar-fix-2 w-nav" data-easing2="ease" data-easing="ease" data-collapse="medium" data-w-id="4a99b083-0ad0-61ac-2513-827a15531d30" role="banner" data-no-scroll="1" data-duration="400">
     <div class="topbar-ebook">
@@ -157,12 +156,12 @@ const seo = {
                               <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6ab668266294f087c3ce0ac4_f154054e1c067182a33787f6b0149d05_Pad%20de%20Commande.avif" loading="lazy" width="26" alt class="icon-navigation">
                               <div>
                                 <div class="title-label-wrap">
-                                  <div class="nav-menu-title">Control Pad</div>
+                                  <div class="nav-menu-title">Ordering Pad</div>
                                   <div class="new-label _1">
                                     <div>New</div>
                                   </div>
                                 </div>
-                                <div class="nav-menu-text-2">Place your order right at your table</div>
+                                <div class="nav-menu-text-2">Take orders right at the table</div>
                               </div>
                             </div>
                           </a>
@@ -180,9 +179,9 @@ const seo = {
                               <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59280e19fe15_Scan%20plateau.webp" loading="lazy" width="26" alt class="icon-navigation">
                               <div>
                                 <div class="title-label-wrap">
-                                  <div class="nav-menu-title">Tray Scan IA</div>
+                                  <div class="nav-menu-title">AI Tray Scan</div>
                                 </div>
-                                <div class="nav-menu-text-2">Eliminate lines</div>
+                                <div class="nav-menu-text-2">Eliminate queues</div>
                               </div>
                             </div>
                           </a>
@@ -220,7 +219,7 @@ const seo = {
                       <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c93090f23-15531d30" class="w-layout-grid nav-v-grid-2-column">
                         <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c93090f24-15531d30" class="column-nav-inner-wrap solutions">
                           <div class="column-nav">
-                            <div class="title-nav">Collection</div>
+                            <div class="title-nav">Payments</div>
                             <div class="gradient-spacer menu"></div>
                           </div>
                           <a href="/en/restaurant-touch-cash-register" class="nav-link-with-icon encaissement-hover w-inline-block">
@@ -228,7 +227,7 @@ const seo = {
                               <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5984c219fe07_Portefeuille-2.webp" loading="lazy" width="26" alt class="icon-navigation">
                               <div>
                                 <div class="nav-menu-title">Cash register</div>
-                                <div class="nav-menu-text-2">Control your business at your fingertips<br></div>
+                                <div class="nav-menu-text-2">Run your business at your fingertips<br></div>
                               </div>
                             </div>
                           </a>
@@ -236,7 +235,7 @@ const seo = {
                             <div class="icon-link-nav">
                               <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc595d7d19fe0b_Monnayeur.webp" loading="lazy" width="26" alt class="icon-navigation">
                               <div>
-                                <div class="nav-menu-title">Automatic coin acceptor</div>
+                                <div class="nav-menu-title">Automated cash recycler</div>
                                 <div class="nav-menu-text-2">Save time on cash payments</div>
                               </div>
                             </div>
@@ -266,10 +265,10 @@ const seo = {
                           </a>
                           <a href="/en/tpe-restaurant" class="nav-link-with-icon encaissement-hover w-inline-block">
                             <div class="icon-link-nav relative">
-                              <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/692ed70609f8edf0b0d2ff0b_Icons_NFC%201.avif" loading="lazy" width="26" alt="very small enterprise" class="icon-navigation">
+                              <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/692ed70609f8edf0b0d2ff0b_Icons_NFC%201.avif" loading="lazy" width="26" alt="payment terminal" class="icon-navigation">
                               <div>
                                 <div class="title-label-wrap">
-                                  <div class="nav-menu-title bold">very small enterprise</div>
+                                  <div class="nav-menu-title bold">payment terminal</div>
                                 </div>
                                 <div class="nav-menu-text-2">Collect payments quickly and without errors</div>
                               </div>
@@ -297,7 +296,7 @@ const seo = {
                               <div class="icon-link-nav">
                                 <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f3fcfc593cae19ff43_ecran-client.png" loading="lazy" width="26" alt class="icon-navigation">
                                 <div>
-                                  <div class="nav-menu-title">Client screen</div>
+                                  <div class="nav-menu-title">Customer display</div>
                                   <div class="nav-menu-text-2">Communicate with your customers and delivery people</div>
                                 </div>
                               </div>
@@ -306,7 +305,7 @@ const seo = {
                               <div class="icon-link-nav">
                                 <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f3fcfc593a8019ff44_reception.png" loading="lazy" width="26" alt class="icon-navigation small">
                                 <div>
-                                  <div class="nav-menu-title">Reception</div>
+                                  <div class="nav-menu-title">Goods receiving</div>
                                   <div class="nav-menu-text-2">Optimize your order management</div>
                                 </div>
                               </div>
@@ -316,7 +315,7 @@ const seo = {
                         <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c93090f6c-15531d30" class="w-layout-grid nav-v-grid-2-column">
                           <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c93090f6d-15531d30" class="column-nav-inner-wrap solutions">
                             <div class="column-nav">
-                              <div class="title-nav">Steering</div>
+                              <div class="title-nav">Management</div>
                               <div class="gradient-spacer menu"></div>
                             </div>
                             <a href="/en/logiciel-pilotage" class="nav-link-with-icon pilotage-hover w-inline-block">
@@ -403,8 +402,8 @@ const seo = {
                           </a>
                           <div id="w-node-_8efeb25a-f915-7c25-f2d0-13b2a0b1265d-15531d30" class="col-new-solution-nav">
                             <div class="text-solutions-wrap">
-                              <div class="text-20px"><strong>Discover our new 2nd generation flatbed scanner!</strong></div>
-                              <div>Transform your guests' experience with integrated payment from IA Scan.</div>
+                              <div class="text-20px"><strong>Discover our new 2nd-generation AI tray scanner!</strong></div>
+                              <div>Transform your guests' experience with payment built into AI Scan.</div>
                             </div>
                             <a href="#" class="w-inline-block w-lightbox">
                               <div class="button-lightbox">
@@ -462,7 +461,7 @@ const seo = {
                       </div>
                       <a id="w-node-_03b7b6c2-69d4-9142-94eb-67ce3204819c-15531d30" href="/en/collective-catering/healthcare" class="exp-inner-block collective-hov w-inline-block">
                         <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5951ef19fef3_Sant%C3%A9.webp" loading="lazy" alt class="icon-navigation exp">
-                        <div>Health</div>
+                        <div>Healthcare</div>
                       </a>
                       <a id="w-node-c8b3112d-8ab6-0950-2efc-da3916b60cc0-15531d30" href="/en/collective-catering/enterprise" class="exp-inner-block collective-hov w-inline-block">
                         <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59bbdc19fef4_Entreprise.webp" loading="lazy" alt class="icon-navigation exp">
@@ -488,7 +487,7 @@ const seo = {
                       </a>
                       <a id="w-node-d7752374-55d1-0a55-407a-0d4a77f62ea0-15531d30" href="/en/collective-catering/school" class="exp-inner-block collective-hov w-inline-block">
                         <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5909e119fef5_Enseignement.webp" loading="lazy" alt class="icon-navigation exp">
-                        <div>Teaching</div>
+                        <div>Education</div>
                       </a>
                       <a id="w-node-_78636bf4-7bdb-4ad5-1108-180d722578e8-15531d30" href="/en/collective-catering/administration" class="exp-inner-block collective-hov w-inline-block">
                         <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59046519fefb_Administration.webp" loading="lazy" alt class="icon-navigation exp">
@@ -519,7 +518,7 @@ const seo = {
                       </a>
                       <a id="w-node-f23bba0b-b18d-806a-14fa-d4882686fedd-15531d30" href="/en/commercial-catering/leisure-park" class="exp-inner-block specialite-hov w-inline-block">
                         <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/68849a6d6dec5df6f836a659_ESPACE%20DE%20LOISIR.avif" loading="lazy" alt class="icon-navigation exp">
-                        <div>Leisure area</div>
+                        <div>Leisure venues</div>
                       </a>
                       <div class="spacer-grid"></div>
                       <a id="w-node-_146552e5-c16d-a46c-ba4a-0a664f628ff5-15531d30" href="/en/tacos" class="exp-inner-block specialite-hov w-inline-block">
@@ -533,7 +532,7 @@ const seo = {
                       <div class="spacer-grid"></div>
                       <a id="w-node-a9c9ae20-1c90-4b99-83d5-e9420c7183cd-15531d30" href="/en/ice-cream-shop" class="exp-inner-block specialite-hov w-inline-block">
                         <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/66cce82594e850308d07c7cc_glacier.avif" loading="lazy" alt class="icon-navigation exp">
-                        <div><strong>Glacier</strong></div>
+                        <div><strong>Ice cream shop</strong></div>
                       </a>
                       <a id="w-node-_7b8da83d-7cf2-7f54-8543-d6aee64cbab5-15531d30" href="/en/commercial-catering/amusement-parks" class="exp-inner-block specialite-hov w-inline-block">
                         <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/68849a6d6e8226dcdd0aa7a6_PARC%20D'ATTRACTION.avif" loading="lazy" alt class="icon-navigation exp">
@@ -592,8 +591,8 @@ const seo = {
                         <div class="icon-link-nav entreprise v2">
                           <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/648dcae3052fafd80a76543f_Picto%20euro.avif" loading="lazy" width="26" alt class="icon-navigation">
                           <div>
-                            <div class="nav-menu-title">Who are we?</div>
-                            <div class="nav-menu-text-2">The human being above all</div>
+                            <div class="nav-menu-title">About us</div>
+                            <div class="nav-menu-text-2">People first</div>
                           </div>
                         </div>
                       </a><a href="/en/ia-is-at-the-heart-of-innovorder-vision" class="nav-link-with-icon prise-hover no-space w-inline-block">
@@ -608,7 +607,7 @@ const seo = {
                         <div class="icon-link-nav entreprise">
                           <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/649e9d68e4a96ea598d6006c_Picto%20presse%201.avif" loading="lazy" width="26" alt class="icon-navigation">
                           <div>
-                            <div class="nav-menu-title">Press area</div>
+                            <div class="nav-menu-title">Press room</div>
                             <div class="nav-menu-text-2">All our news</div>
                           </div>
                         </div>
@@ -794,7 +793,7 @@ const seo = {
                   </a>
                   <a href="/en/pad-de-commande" class="nav-link-with-icon prise-hover w-inline-block">
                     <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6ab668266294f087c3ce0ac4_f154054e1c067182a33787f6b0149d05_Pad%20de%20Commande.avif" loading="lazy" width="26" alt class="icon-navigation">
-                    <div class="nav-menu-title">Control Pad</div>
+                    <div class="nav-menu-title">Ordering Pad</div>
                     <div class="new-label mobile _1">
                       <div>New</div>
                     </div>
@@ -826,7 +825,7 @@ const seo = {
               <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c930910c4-15531d30" class="w-layout-grid nav-v-grid-2-column">
                 <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c930910c5-15531d30" class="column-nav-inner-wrap">
                   <div class="column-nav">
-                    <div class="title-nav">Collection</div>
+                    <div class="title-nav">Payments</div>
                     <div class="gradient-spacer menu"></div>
                   </div>
                   <a href="/en/restaurant-touch-cash-register" class="nav-link-with-icon encaissement-hover w-inline-block">
@@ -835,7 +834,7 @@ const seo = {
                   </a>
                   <a href="/en/automated-cash-recycling-system" class="nav-link-with-icon encaissement-hover w-inline-block">
                     <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc595d7d19fe0b_Monnayeur.webp" loading="lazy" width="26" alt class="icon-navigation">
-                    <div class="nav-menu-title">Automatic coin acceptor</div>
+                    <div class="nav-menu-title">Automated cash recycler</div>
                   </a>
                   <a href="/en/e-wallet" class="nav-link-with-icon encaissement-hover w-inline-block">
                     <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59572f19fe16_Portefeuille%20elec.webp" loading="lazy" width="26" alt class="icon-navigation">
@@ -850,7 +849,7 @@ const seo = {
                   </a>
                   <a href="/en/tpe-restaurant" class="nav-link-with-icon relative encaissement-hover w-inline-block">
                     <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/692ed70609f8edf0b0d2ff0b_Icons_NFC%201.avif" loading="lazy" width="26" alt class="icon-navigation">
-                    <div class="nav-menu-title bold">very small enterprise</div>
+                    <div class="nav-menu-title bold">payment terminal</div>
                   </a>
                 </div>
               </div>
@@ -866,14 +865,14 @@ const seo = {
                   </a>
                   <a href="/en/order-display-system" class="nav-link-with-icon preparation-hover w-inline-block">
                     <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f3fcfc593cae19ff43_ecran-client.png" loading="lazy" width="26" alt class="icon-navigation">
-                    <div class="nav-menu-title"><strong>Client screen</strong></div>
+                    <div class="nav-menu-title"><strong>Customer display</strong></div>
                   </a>
                   <a href="/en/reception" class="nav-link-with-icon preparation-hover w-inline-block">
                     <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f3fcfc593a8019ff44_reception.png" loading="lazy" width="26" alt class="icon-navigation">
-                    <div class="nav-menu-title"><strong>Reception</strong></div>
+                    <div class="nav-menu-title"><strong>Goods receiving</strong></div>
                   </a>
                   <div class="column-nav">
-                    <div class="title-nav">Steering</div>
+                    <div class="title-nav">Management</div>
                     <div class="gradient-spacer menu"></div>
                   </div>
                   <a href="/en/restaurant-pos-software" class="nav-link-with-icon pilotage-hover w-inline-block">
@@ -912,8 +911,8 @@ const seo = {
                   </a>
                   <div id="w-node-_7d266de7-46e3-3e64-0ae1-8d4c6e3407da-15531d30" class="col-new-solution-nav">
                     <div class="text-solutions-wrap">
-                      <div class="text-20px is-left"><strong>Discover our new 2nd generation flatbed scanner!</strong></div>
-                      <div>Transform your guests' experience with integrated payment from IA Scan.</div>
+                      <div class="text-20px is-left"><strong>Discover our new 2nd-generation AI tray scanner!</strong></div>
+                      <div>Transform your guests' experience with payment built into AI Scan.</div>
                     </div>
                     <a href="#" class="w-inline-block w-lightbox">
                       <div class="button-lightbox">
@@ -986,13 +985,13 @@ const seo = {
                       </div>
                       <div class="block-1-ex-low-grid"><a href="/en/collective-catering/healthcare" class="exp-inner-block collective-hov w-inline-block">
                           <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5951ef19fef3_Sant%C3%A9.webp" loading="lazy" alt class="icon-navigation exp">
-                          <div>Health</div>
+                          <div>Healthcare</div>
                         </a><a href="/en/collective-catering/enterprise" class="exp-inner-block collective-hov w-inline-block">
                           <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59bbdc19fef4_Entreprise.webp" loading="lazy" alt class="icon-navigation exp">
                           <div>Company</div>
                         </a><a href="/en/collective-catering/school" class="exp-inner-block collective-hov w-inline-block">
                           <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5909e119fef5_Enseignement.webp" loading="lazy" alt class="icon-navigation exp">
-                          <div>Teaching</div>
+                          <div>Education</div>
                         </a><a href="/en/collective-catering/administration" class="exp-inner-block collective-hov w-inline-block">
                           <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59046519fefb_Administration.webp" loading="lazy" alt class="icon-navigation exp">
                           <div>Administration</div>
@@ -1031,7 +1030,7 @@ const seo = {
                           <div>Bowling</div>
                         </a><a href="/en/commercial-catering/leisure-park" class="exp-inner-block commerciale-hov w-inline-block">
                           <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/68849a6d6dec5df6f836a659_ESPACE%20DE%20LOISIR.avif" loading="lazy" alt class="icon-navigation exp">
-                          <div>Leisure area</div>
+                          <div>Leisure venues</div>
                         </a><a href="/en/commercial-catering/amusement-parks" class="exp-inner-block commerciale-hov w-inline-block">
                           <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/68849a6d6e8226dcdd0aa7a6_PARC%20D'ATTRACTION.avif" loading="lazy" alt class="icon-navigation exp">
                           <div>Amusement park</div>
@@ -1079,7 +1078,7 @@ const seo = {
                           <div>Poké</div>
                         </a><a href="/en/ice-cream-shop" class="exp-inner-block specialite-hov w-inline-block">
                           <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/66cce82594e850308d07c7cc_glacier.avif" loading="lazy" alt class="icon-navigation exp">
-                          <div>Glacier</div>
+                          <div>Ice cream shop</div>
                         </a><a href="/en/bakery" class="exp-inner-block specialite-hov w-inline-block">
                           <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/66cce82592b1fed4f753df0b_Boulangeri.avif" loading="lazy" alt class="icon-navigation exp">
                           <div>Bakery</div>
@@ -1156,7 +1155,7 @@ const seo = {
                         <div class="person-quote-success"><strong>Nils Edelman,</strong><br>Co-founder of What The Foc ?!</div>
                         <div class="gradient-spacer menu"></div>
                         <div class="nav-title-arrow space">
-                          <div class="link-nav"><strong>Read the testimony</strong></div>
+                          <div class="link-nav"><strong>Read the testimonial</strong></div>
                           <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6457afdea27d219b01a4dfe1_arrow-nav.png" loading="lazy" alt class="img-arrow-nav">
                         </div>
                       </div>
@@ -1193,8 +1192,8 @@ const seo = {
                       <div class="icon-link-nav entreprise">
                         <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6457c2ee5b3209613614bd97_nous.png" loading="lazy" width="26" alt class="icon-navigation">
                         <div>
-                          <div class="nav-menu-title entreprise">Who are we?</div>
-                          <div class="nav-menu-text-2">The human being above all</div>
+                          <div class="nav-menu-title entreprise">About us</div>
+                          <div class="nav-menu-text-2">People first</div>
                         </div>
                       </div>
                     </a><a href="/en/ia-is-at-the-heart-of-innovorder-vision" class="nav-link-with-icon prise-hover no-space mob w-inline-block">
@@ -1209,7 +1208,7 @@ const seo = {
                       <div class="icon-link-nav entreprise">
                         <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/649e9d68e4a96ea598d6006c_Picto%20presse%201.avif" loading="lazy" width="26" alt class="icon-navigation">
                         <div>
-                          <div class="nav-menu-title left">Press area</div>
+                          <div class="nav-menu-title left">Press room</div>
                           <div class="nav-menu-text-2">All our news</div>
                         </div>
                       </div>
@@ -1369,10 +1368,10 @@ const seo = {
           </div>
         </nav>
       </div>
-      <div class="wg-element-wrapper sw3" data-wg-notranslate><a lang="en" data-w-id="7f17fd5a-2482-ebfb-f802-128c9309125c" href="#" class="wg-selector-2 s1 w-inline-block">
+      <div class="wg-element-wrapper sw3"><a lang="en" data-w-id="7f17fd5a-2482-ebfb-f802-128c9309125c" href="/en/bakery" class="wg-selector-2 s1 w-inline-block" hreflang="en">
           <div class="wg-selector-2-fill f1c"></div>
           <div class="wg-selector2-text-lang1">EN</div>
-        </a><a lang="fr" data-w-id="7f17fd5a-2482-ebfb-f802-128c93091260" href="#" class="wg-selector-2 s2 w-inline-block">
+        </a><a lang="fr" data-w-id="7f17fd5a-2482-ebfb-f802-128c93091260" href="/boulangerie" class="wg-selector-2 s2 w-inline-block" hreflang="fr">
           <div class="wg-selector-2-fill f2"></div>
           <div class="wg-selector2-text-lang2">FR</div>
         </a></div>
@@ -1750,14 +1749,14 @@ const seo = {
         <div class="grid-links-main"><a id="w-node-_7f9396cf-0d78-fecd-2846-d703735e1f68-735e1f59" href="/en/restaurant-touch-cash-register" class="box-grid-kiosk w-inline-block">
             <img loading="lazy" src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/64d4ef1ac7ac8613e3833a86_caisse.webp" alt="Cash register" class="icon-box-grid-kiosk">
             <div class="title-box-grid-kiosk"><span class="gradient-text">Cash register</span></div>
-            <div class="box-grid-description-14"><strong>Control your business at your fingertips</strong></div>
+            <div class="box-grid-description-14"><strong>Run your business at your fingertips</strong></div>
           </a><a id="w-node-_7f9396cf-0d78-fecd-2846-d703735e1f70-735e1f59" href="/en/online-ordering-for-restaurant" class="box-grid-kiosk w-inline-block">
             <img loading="lazy" src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59fd6419fe0f_Commande%20en%20ligne.webp" alt="Online Ordering" class="icon-box-grid-kiosk">
             <div class="title-box-grid-kiosk"><span class="gradient-text">Online Ordering</span></div>
             <div class="box-grid-description-14"><strong>Increase your order volume</strong></div>
           </a><a id="w-node-_7f9396cf-0d78-fecd-2846-d703735e1fac-735e1f59" href="/en/automated-cash-recycling-system" class="box-grid-kiosk w-inline-block">
-            <img loading="lazy" src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6496e85583da529238ef58f9_monnayeur.svg" alt="Automatic coin acceptor" class="icon-box-grid-kiosk">
-            <div class="title-box-grid-kiosk ad2"><span class="gradient-text">Automatic coin acceptor</span></div>
+            <img loading="lazy" src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6496e85583da529238ef58f9_monnayeur.svg" alt="Automated cash recycler" class="icon-box-grid-kiosk">
+            <div class="title-box-grid-kiosk ad2"><span class="gradient-text">Automated cash recycler</span></div>
             <div class="box-grid-description-14"><strong>Save time on cash payments</strong></div>
           </a><a id="w-node-_7f9396cf-0d78-fecd-2846-d703735e1fbc-735e1f59" href="/en/logiciel-pilotage" class="box-grid-kiosk w-inline-block">
             <img loading="lazy" src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6ac253c89b6bc7fcc80cb109_Icons_Fus%C3%A9e%201.avif" alt="atlas" class="icon-box-grid-kiosk">
@@ -1833,7 +1832,7 @@ const seo = {
         <div class="w-layout-grid faq-solutions prix">
           <div id="w-node-_08ed7327-4b28-fda0-66eb-aa9a462d2e7b-30010920" data-w-id="08ed7327-4b28-fda0-66eb-aa9a462d2e7b" class="accordion-wrapper---solutions no-border">
             <div class="accordion-trigger prix">
-              <h3 class="accordion-title---solutions"><strong>How much does a control terminal cost?</strong></h3>
+              <h3 class="accordion-title---solutions"><strong>How much does a self-ordering kiosk cost?</strong></h3>
               <div class="arrow-faq gradient">
                 <div class="html-embed-3 gradient w-embed"><svg width="13" height="8" viewBox="0 0 13 8" fill="none" xmlns="http://www.w3.org/2000/svg">
   <path d="M6.4997 2.8284L1.54996 7.7782L0.135742 6.364L6.4997 0L12.8637 6.364L11.4495 7.7782L6.4997 2.8284Z" fill="currentColor"/>
@@ -1874,7 +1873,7 @@ const seo = {
                 <li>reducing theft (internal and external), fraud and aggression,</li>
                 <li>improved employee hygiene (no contact with coins).</li>
               </ul>
-              <div class="accordion-text---solutions">Synchronized with a cash register, the coin acceptor enables the merchant to be instantly up to date with every transaction.<br></div>
+              <div class="accordion-text---solutions">Synchronized with a cash register, the cash recycler enables the merchant to be instantly up to date with every transaction.<br></div>
             </div>
           </div>
           <div id="w-node-_08ed7327-4b28-fda0-66eb-aa9a462d2e91-30010920" data-w-id="08ed7327-4b28-fda0-66eb-aa9a462d2e91" class="accordion-wrapper---solutions no-border">
@@ -1887,7 +1886,7 @@ const seo = {
               </div>
             </div>
             <div style="height:0PX" class="accordion-content">
-              <div class="accordion-text---solutions">An automatic coin acceptor is a secure, self-contained unit that collects and dispenses change at a point of sale (bakery, restaurant, etc.).<br><br>In concrete terms: the customer deposits his change (coins and banknotes) in dedicated slots, and if the count is wrong, the coin acceptor returns the exact amount to the customer.<br><br>By equipping yourself with Innovorder, you can be sure that your automatic coin acceptor and your cash register are perfectly synchronized.<br></div>
+              <div class="accordion-text---solutions">An automated cash recycler is a secure, self-contained unit that collects and dispenses change at a point of sale (bakery, restaurant, etc.).<br><br>In concrete terms: the customer deposits his change (coins and banknotes) in dedicated slots, and if the count is wrong, the cash recycler returns the exact amount to the customer.<br><br>By equipping yourself with Innovorder, you can be sure that your automated cash recycler and your cash register are perfectly synchronized.<br></div>
             </div>
           </div>
           <div id="w-node-_08ed7327-4b28-fda0-66eb-aa9a462d2e9c-30010920" data-w-id="08ed7327-4b28-fda0-66eb-aa9a462d2e9c" class="accordion-wrapper---solutions no-border">
