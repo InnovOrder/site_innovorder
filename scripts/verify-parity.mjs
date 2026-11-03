@@ -40,7 +40,7 @@ function normUrl(value, base) {
   const asset = v.match(/^(?:https:\/\/(?:cdn\.prod\.website-files\.com|uploads-ssl\.webflow\.com|assets-global\.website-files\.com|assets\.website-files\.com|global-uploads\.webflow\.com|d3e54v103j8qbb\.cloudfront\.net)|\/assets\/[^/]+)\/(.*)$/);
   if (asset) {
     try {
-      return `asset:${decodeURIComponent(asset[1].split('?')[0])}`;
+      return `asset:${decodeURIComponent(asset[1].split('?')[0]).normalize('NFC')}`;
     } catch {
       return `asset:${asset[1]}`;
     }

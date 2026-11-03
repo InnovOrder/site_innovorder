@@ -56,7 +56,9 @@ function assetUrl(cdnUrl) {
   const rel = assetManifest[clean] ?? assetManifest[clean.split('?')[0]];
   if (!rel) return null;
   usedAssets.add(rel);
-  return `${ASSETS_URL}/${rel.split('/').map(encodeURIComponent).join('/')}`;
+  // Noms de fichiers normalisés en NFC : git (macOS) et les serveurs statiques comparent les octets,
+  // un « é » décomposé (NFD) dans l'URL ne trouverait pas le fichier.
+  return `${ASSETS_URL}/${rel.normalize('NFC').split('/').map(encodeURIComponent).join('/')}`;
 }
 
 function resolveUrl(url) {
@@ -536,7 +538,7 @@ let bytes = 0;
 for (const rel of usedAssets) {
   const src = path.join(LIVE, 'assets', rel);
   if (!fs.existsSync(src)) continue;
-  const dest = path.join(publicAssets, rel);
+  const dest = path.join(publicAssets, rel.normalize('NFC'));
   fs.mkdirSync(path.dirname(dest), { recursive: true });
   if (rel.endsWith('.css')) {
     const css = fs.readFileSync(src, 'utf8').replace(/url\((['"]?)(.+?)\1\)/g, (m, q, u) => {
@@ -552,7 +554,7 @@ for (const rel of usedAssets) {
 }
 // Assets ajoutés par la réécriture des CSS.
 for (const rel of usedAssets) {
-  const dest = path.join(publicAssets, rel);
+  const dest = path.join(publicAssets, rel.normalize('NFC'));
   const src = path.join(LIVE, 'assets', rel);
   if (!fs.existsSync(dest) && fs.existsSync(src)) {
     fs.mkdirSync(path.dirname(dest), { recursive: true });
