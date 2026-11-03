@@ -37,7 +37,7 @@ export function induce(pageNodeLists, prefix = '') {
 
   const addField = (name, kind, values) => {
     let unique = prefix + name;
-    for (let i = 2; names.has(unique); i++) unique = `${name}-${i}`;
+    for (let i = 2; names.has(unique); i++) unique = `${prefix}${name}-${i}`;
     names.set(unique, true);
     fields.push({ name: unique, kind, values });
     return unique;

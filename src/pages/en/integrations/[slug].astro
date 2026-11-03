@@ -14,12 +14,6 @@ const { entry } = Astro.props;
 const d = entry.data.fields;
 ---
 <BaseLayout {...entry.data.seo}>
-  <Fragment slot="head">
-    <!-- Weglot -->
-    <Fragment set:html={d["head:field-script"]} />
-    <link href={d["head:link-href"]} hreflang="fr" rel="alternate">
-    <link href={d["link-href-2"]} hreflang="en" rel="alternate">
-  </Fragment>
   <div class="overflow-hidden"><div class="gtm-embed w-embed"></div><NavbarEn /><div class="section-hero-n integrations">
       <div class="container-1280">
         <div class="wrap-hero-integrations">

@@ -3,26 +3,15 @@
 // Généré depuis le site Webflow par scripts/migrate-webflow.mjs, puis maintenu dans ce dépôt.
 ---
 <script is:inline>
-// on Weglot init
-Weglot.on('initialized', ()=>{
-	// get the current active language
-  const currentLang = Weglot.getCurrentLang();
-  // if the current active language link exists
-  if(document.querySelector('.wg-element-wrapper.sw3 [lang='+currentLang+']')){
-  	// click the link
-  	document.querySelector('.wg-element-wrapper.sw3 [lang='+currentLang+']').click();
-  }
-});
-
-// for each of the .wg-element-wrapper language links
-document.querySelectorAll('.wg-element-wrapper.sw3 [lang]').forEach((link)=>{
-	// add a click event listener
-	link.addEventListener('click', function(e){
-  	// prevent default
-		e.preventDefault();
-    // switch current active language after a setTimeout
-    setTimeout(()=>Weglot.switchTo(this.getAttribute('lang')),700);
-	});
+// Sélecteur de langue : la langue courante est marquée au chargement (animation Webflow du sélecteur),
+// un clic sur l'autre langue joue l'animation puis ouvre la page traduite.
+document.querySelectorAll('.wg-element-wrapper.sw3 [lang]').forEach((link) => {
+  const isCurrent = link.getAttribute('lang') === document.documentElement.lang;
+  link.addEventListener('click', (e) => {
+    e.preventDefault();
+    if (!isCurrent) setTimeout(() => window.location.assign(link.href), 700);
+  });
+  if (isCurrent) window.addEventListener('load', () => link.click());
 });
 </script>
 <script is:inline>

@@ -24,6 +24,7 @@ import render from 'dom-serializer';
 import * as du from 'domutils';
 import { Text, cloneNode } from 'domhandler';
 import { induce, bindAttributes } from './lib/induce.mjs';
+import { removeWeglot, align, buildMemory, translatePage, loadDictionary, loadGlossary, looksFrench, isEnRoute } from './lib/i18n.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const LIVE = path.join(ROOT, '.cache', 'live');
@@ -216,6 +217,47 @@ const pages = Object.entries(livePages)
   });
 
 // ---------------------------------------------------------------------------
+// 1 bis. Langues : suppression de Weglot et traduction des pages EN
+// ---------------------------------------------------------------------------
+
+const byRoute = new Map(pages.map((p) => [p.route, p]));
+for (const p of pages) p.alternates = removeWeglot(p);
+
+const routeOf = (url) => url && new URL(url).pathname.replace(/\/$/, '');
+const enPages = pages.filter((p) => isEnRoute(p.route));
+const localPairs = new Map();
+const frOf = new Map();
+for (const p of enPages) {
+  const fr = byRoute.get(routeOf(p.alternates.fr));
+  if (fr) {
+    localPairs.set(p, align(fr.body, p.body));
+    frOf.set(p, fr);
+  }
+}
+const memory = buildMemory(localPairs.values());
+const dictionary = loadDictionary();
+const correct = loadGlossary();
+const untranslated = new Map();
+for (const p of enPages) {
+  const local = localPairs.get(p);
+  const lookup = (t) => local?.get(t) ?? memory.get(t) ?? dictionary[t];
+  for (const t of translatePage(p, lookup, looksFrench, dictionary, frOf.get(p), correct)) {
+    if (!untranslated.has(t)) untranslated.set(t, new Set());
+    untranslated.get(t).add(p.route);
+  }
+}
+write(
+  'migration/untranslated.json',
+  `${JSON.stringify(Object.fromEntries([...untranslated].map(([t, r]) => [t, [...r].slice(0, 3)])), null, 2)}\n`,
+);
+
+// Le sélecteur de langue de la navbar dépend de la page : marqueur remplacé par le composant.
+const SWITCHER = (e) => e.name === 'a' && e.attribs.hreflang && e.parent?.attribs?.class?.includes('wg-element-wrapper');
+for (const p of pages) {
+  for (const a of du.findAll(SWITCHER, p.body.children)) a.attribs.href = `@@ALT:${a.attribs.hreflang}@@`;
+}
+
+// ---------------------------------------------------------------------------
 // 2. Détection du code global (head et fin de body)
 // ---------------------------------------------------------------------------
 
@@ -225,6 +267,7 @@ const isLayoutNode = (n) =>
   n.name === 'title' ||
   (n.name === 'meta' && (n.attribs.charset !== undefined || SEO_META.has(n.attribs.name) || SEO_PROP.has(n.attribs.property))) ||
   (n.name === 'link' && ['canonical', 'shortcut icon', 'apple-touch-icon', 'preconnect'].includes(n.attribs.rel)) ||
+  (n.name === 'link' && n.attribs.rel === 'alternate' && n.attribs.hreflang) ||
   (n.name === 'link' && n.attribs.rel === 'stylesheet' && n.attribs.href?.startsWith(ASSETS_URL)) ||
   // Script Webflow qui ajoute w-mod-js / w-mod-touch : repris dans le layout.
   (n.name === 'script' && /w-mod-/.test(du.textContent(n)));
@@ -349,10 +392,11 @@ function preparePage(p) {
     canonical: canonical && canonical.replace(/\/$/, '') !== route.replace(/\/$/, '') ? canonical : undefined,
     noindex: /noindex/i.test(getMeta('name', 'robots') || ''),
     lang: htmlEl.attribs.lang,
-    htmlAttrs: Object.fromEntries(Object.entries(htmlEl.attribs).filter(([k]) => /^data-w[fg]-/.test(k) && !['data-wf-domain', 'data-wf-site'].includes(k))),
+    htmlAttrs: Object.fromEntries(Object.entries(htmlEl.attribs).filter(([k]) => /^data-wf-/.test(k) && !['data-wf-domain', 'data-wf-site'].includes(k))),
     bodyClass: body.attribs.class,
     bodyAttrs: Object.fromEntries(Object.entries(body.attribs).filter(([k]) => k !== 'class')),
     webflowScripts: p.split.runtime.map((n) => ({ ...n.attribs })),
+    alternates: p.alternates,
   };
   if (props.ogTitle === props.title) delete props.ogTitle;
   if (props.ogDescription === props.description) delete props.ogDescription;
@@ -375,6 +419,12 @@ function preparePage(p) {
     du.replaceElement(footer, Object.assign(new Text(`<Footer${s.lang.suffix} />`), { raw: true }));
     imports.add(`import Footer${s.lang.suffix} from '@/components/Footer${s.lang.suffix}.astro';`);
   } else if (footer) report.customFooter.push(route);
+
+  // Sélecteurs de langue hors navbar commune (landing pages) : lien direct vers la page traduite.
+  for (const a of du.findAll((e) => /^@@ALT:/.test(e.attribs.href || ''), p.split.content)) {
+    const target = a.attribs.hreflang;
+    a.attribs.href = p.alternates[target] ? new URL(p.alternates[target]).pathname : target === 'en' ? '/en' : '/';
+  }
 
   const format = (list) => {
     for (const n of list) indentTree(n, 0);
@@ -492,10 +542,23 @@ for (const p of prepared) {
 }
 
 for (const { lang, nav, footer } of Object.values(shared)) {
-  if (nav) write(`src/components/Navbar${lang.suffix}.astro`, `${banner(`Navigation principale (${lang.id}).`)}${toAstro([nav])}\n`);
+  if (nav) {
+    const front = [
+      '---',
+      `// Navigation principale (${lang.id}).`,
+      '// Généré depuis le site Webflow par scripts/migrate-webflow.mjs, puis maintenu dans ce dépôt.',
+      '',
+      '// Versions traduites de la page courante, fournies par BaseLayout (sélecteur de langue).',
+      "const alternates: Record<string, string> = Astro.locals.alternates ?? {};",
+      "const switchTo = (lang: string) => alternates[lang] ?? (lang === 'en' ? '/en' : '/');",
+      '---',
+      '',
+    ].join('\n');
+    write(`src/components/Navbar${lang.suffix}.astro`, `${front}${toAstro([nav]).replace(/href="@@ALT:(\w+)@@"/g, (_, l) => `href={switchTo(${JSON.stringify(l)})}`)}\n`);
+  }
   if (footer) write(`src/components/Footer${lang.suffix}.astro`, `${banner(`Pied de page (${lang.id}).`)}${toAstro([footer])}\n`);
 }
-write('src/components/site/GlobalHead.astro', `${banner('Code tiers chargé dans le <head> de toutes les pages (consentement, GTM, Weglot…).')}${toAstro(headNodes)}\n`);
+write('src/components/site/GlobalHead.astro', `${banner('Code tiers chargé dans le <head> de toutes les pages (consentement, GTM…).')}${toAstro(headNodes)}\n`);
 write('src/components/site/GlobalScripts.astro', `${banner('Scripts chargés en fin de <body> sur toutes les pages (jQuery, Webflow, tracking…).')}${toAstro(tailNodes)}\n`);
 // Pages hors sitemap : noindex, pages de pagination et pages absentes du sitemap Webflow.
 const sitemapRoutes = new Set(readJson('sitemap.json'));
@@ -576,6 +639,7 @@ const lines = [
   ...report.collections.map((c) => `  - ${c}`),
   `- Pages exclues (fonctionnalités Webflow) : ${[...EXCLUDED].join(', ')}`,
   `- Redirections : ${Object.keys(redirects).length} (src/redirects.json)`,
+  `- Textes EN restés en français : ${untranslated.size} (migration/untranslated.json)`,
   `- Assets copiés : ${usedAssets.size} (${(bytes / 1e6).toFixed(1)} Mo)`,
   '',
   '## Pages avec une navbar spécifique (non factorisée)',

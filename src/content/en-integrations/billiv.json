@@ -8,8 +8,7 @@
   "htmlAttrs": {
    "data-wf-page": "665dbac1b2f38c490697d94c",
    "data-wf-collection": "665dbac1b2f38c490697d93e",
-   "data-wf-item-slug": "billiv",
-   "data-wg-translated": "en"
+   "data-wf-item-slug": "billiv"
   },
   "bodyAttrs": {
    "data-w-id": "665dbac1b2f38c490697d952"
@@ -39,12 +38,13 @@
     "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
     "crossorigin": "anonymous"
    }
-  ]
+  ],
+  "alternates": {
+   "fr": "https://www.innovorder.com/integrations/billiv",
+   "en": "https://www.innovorder.com/en/integrations/billiv"
+  }
  },
  "fields": {
-  "head:field-script": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/integrations/billiv\",\"en\":\"https://www.innovorder.com/en/integrations/billiv\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/integrations/billiv\",\"originalPath\":\"/integrations/billiv\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
-  "head:link-href": "https://www.innovorder.com/integrations/billiv",
-  "link-href-2": "https://www.innovorder.com/en/integrations/billiv",
   "title-00": "Innovorder & Billiv",
   "text-17px": "Build customer loyalty automatically and boost your Google reviews with every order, thanks to Billiv integration.",
   "logo-integration-inner-hero-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66938f4b400954f7dddc8cb3_hero.avif",
@@ -52,7 +52,7 @@
   "logo-integration-inner-hero-sizes": null,
   "logo-integration-inner-hero-srcset": null,
   "24-rt-gradient-html": "<strong>Billiv </strong>is an eco-responsible dematerialized sales receipt solution that transforms your sales receipts into a marketing tool<strong>.</strong>",
-  "h2-logos-prix-html": "\n              <h2>Make the difference with <strong>Billiv </strong> integration <strong data-wg-splitted>: </strong></h2>\n            ",
+  "h2-logos-prix-html": "\n              <h2>Make the difference with <strong>Billiv </strong> integration <strong>: </strong></h2>\n            ",
   "rt-features-integration-html": "\n              <li>Increase customer loyalty by 30% compared with traditional loyalty programs based on cards or registrations (email or phone number).</li>\n              <li>Multiply by 5 the number of customer reviews on platforms like Google or TripAdvisor</li>\n              <li>Easily propose your current offers</li>\n              <li>Allow your customers to collect loyalty points </li>\n              <li>Increase the reach of your communications by a factor of 4 compared with email tickets</li>\n            ",
   "button-icon-hp-href": "https://www.billiv.fr/",
   "w-node-77b77414-b9e7-e0e5-4124-2b2a5107031a-0697d94c": "Discover Billiv",

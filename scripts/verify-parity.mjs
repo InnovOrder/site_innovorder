@@ -9,12 +9,15 @@
  *  - <body> : arbre complet (balises, attributs, textes, scripts).
  * Différences neutralisées : emplacement des assets (CDN Webflow -> /assets), domaine des liens
  * internes, pagination (?xxx_page=N -> /page/N), mise en forme, classe w--current posée par webflow.js.
+ * Évolutions volontaires appliquées au site publié avant comparaison (scripts/lib/i18n.mjs) :
+ * suppression de Weglot, sélecteur de langue natif, traduction des textes EN restés en français.
  */
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { parseDocument } from 'htmlparser2';
 import * as du from 'domutils';
+import { removeWeglot, align, buildMemory, translatePage, loadDictionary, loadGlossary, looksFrench, isEnRoute } from './lib/i18n.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const LIVE = path.join(ROOT, '.cache', 'live');
@@ -111,7 +114,41 @@ function headInfo(doc, base) {
 
 let ok = 0;
 const failures = [];
-const routes = Object.keys(pages).filter((r) => !EXCLUDED.test(r) && !/_page=1$/.test(r) && (!only.length || only.includes(r)));
+const allRoutes = Object.keys(pages).filter((r) => !EXCLUDED.test(r) && !/_page=1$/.test(r));
+const routes = allRoutes.filter((r) => !only.length || only.includes(r));
+
+// Site publié + évolutions volontaires (même traitement que la migration).
+const liveDocs = new Map();
+for (const r of allRoutes) {
+  const doc = parseDocument(fs.readFileSync(path.join(LIVE, 'pages', pages[r]), 'utf8'));
+  const page = {
+    route: paginated(r),
+    doc,
+    htmlEl: du.findOne((e) => e.name === 'html', doc.children),
+    head: du.findOne((e) => e.name === 'head', doc.children),
+    body: du.findOne((e) => e.name === 'body', doc.children),
+  };
+  page.alternates = removeWeglot(page);
+  liveDocs.set(r, page);
+}
+const byRoute = new Map([...liveDocs.values()].map((p) => [p.route, p]));
+const enPages = [...liveDocs.values()].filter((p) => isEnRoute(p.route));
+const localPairs = new Map();
+const frOf = new Map();
+for (const p of enPages) {
+  const fr = p.alternates.fr && byRoute.get(new URL(p.alternates.fr).pathname.replace(/\/$/, ''));
+  if (fr) {
+    localPairs.set(p, align(fr.body, p.body));
+    frOf.set(p, fr);
+  }
+}
+const memory = buildMemory(localPairs.values());
+const dictionary = loadDictionary();
+const correct = loadGlossary();
+for (const p of enPages) {
+  const local = localPairs.get(p);
+  translatePage(p, (t) => local?.get(t) ?? memory.get(t) ?? dictionary[t], looksFrench, dictionary, frOf.get(p), correct);
+}
 
 for (const liveRoute of routes) {
   const route = paginated(liveRoute);
@@ -121,7 +158,7 @@ for (const liveRoute of routes) {
     failures.push({ route, reason: 'page absente du build' });
     continue;
   }
-  const live = parseDocument(fs.readFileSync(path.join(LIVE, 'pages', pages[liveRoute]), 'utf8'));
+  const live = liveDocs.get(liveRoute).doc;
   const built = parseDocument(fs.readFileSync(distFile, 'utf8'));
 
   const problems = [];

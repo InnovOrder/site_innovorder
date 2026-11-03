@@ -38,13 +38,16 @@
     "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
     "crossorigin": "anonymous"
    }
-  ]
+  ],
+  "alternates": {
+   "fr": "https://www.innovorder.com/blog/business-plan-boulangerie",
+   "en": "https://www.innovorder.com/en/blog/business-plan-boulangerie"
+  }
  },
  "fields": {
   "head:field-script": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"BlogPosting\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://www.innovorder.com/blog/business-plan-boulangerie\"\n  },\n  \"headline\": \"Comment réussir le business plan de votre boulangerie ?\",\n  \"description\": \"Business plan de boulangerie : conseils, budget, prévisionnel et financement pour construire un projet rentable et convaincre les banques.\",\n  \"image\": \"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6a296c53bfeac0809c84d849_woman-in-apron-working-in-bakery-2026-01-08-00-16-09-utc%20(1)%20(1).jpg\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Chloé Thévenet\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Innovorder\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"\n    },\n    \"aggregateRating\": {\n      \"@type\": \"AggregateRating\",\n      \"ratingValue\": \"4.9\",\n      \"reviewCount\": \"550\",\n      \"bestRating\": \"5\",\n      \"worstRating\": \"1\"\n      }\n  },\n  \"datePublished\": \"10 juin 2026\",\n  \"dateModified\": \"\",\n  \"articleSection\": \"Ouvrir ou reprendre son restaurant\",\n  \"timeRequired\": \"8\"\n}\n</script>",
-  "field-script-2": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/blog/business-plan-boulangerie\",\"en\":\"https://www.innovorder.com/en/blog/business-plan-boulangerie\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/blog/business-plan-boulangerie\",\"originalPath\":\"/blog/business-plan-boulangerie\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
-  "head:link-href": "https://www.innovorder.com/blog/business-plan-boulangerie",
-  "link-href-2": "https://www.innovorder.com/en/blog/business-plan-boulangerie",
+  "wg-selector-2-href": "/en/blog/business-plan-boulangerie",
+  "wg-selector-2-href-2": "/blog/business-plan-boulangerie",
   "breadcrumb-text-href": "/categories/ouvrir-restaurant",
   "breadcrumb-text": "Ouvrir ou reprendre son restaurant ",
   "breadcrumb-text-href-2": "/blog/business-plan-boulangerie",

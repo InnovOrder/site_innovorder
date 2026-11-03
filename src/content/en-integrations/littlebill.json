@@ -8,8 +8,7 @@
   "htmlAttrs": {
    "data-wf-page": "665dbac1b2f38c490697d94c",
    "data-wf-collection": "665dbac1b2f38c490697d93e",
-   "data-wf-item-slug": "littlebill",
-   "data-wg-translated": "en"
+   "data-wf-item-slug": "littlebill"
   },
   "bodyAttrs": {
    "data-w-id": "665dbac1b2f38c490697d952"
@@ -39,12 +38,13 @@
     "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
     "crossorigin": "anonymous"
    }
-  ]
+  ],
+  "alternates": {
+   "fr": "https://www.innovorder.com/integrations/littlebill",
+   "en": "https://www.innovorder.com/en/integrations/littlebill"
+  }
  },
  "fields": {
-  "head:field-script": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/integrations/littlebill\",\"en\":\"https://www.innovorder.com/en/integrations/littlebill\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/integrations/littlebill\",\"originalPath\":\"/integrations/littlebill\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
-  "head:link-href": "https://www.innovorder.com/integrations/littlebill",
-  "link-href-2": "https://www.innovorder.com/en/integrations/littlebill",
   "title-00": "Innovorder & LittleBill",
   "text-17px": "LittleBill is the digital and responsible loyalty reference for shops and franchises. It's a marketing and communication assistant that saves time and keeps customers coming back! ",
   "logo-integration-inner-hero-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6782bf41d398e5d0c1a2f817_LittleBill.avif",
@@ -52,7 +52,7 @@
   "logo-integration-inner-hero-sizes": "100vw",
   "logo-integration-inner-hero-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6782bf41d398e5d0c1a2f817_LittleBill-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6782bf41d398e5d0c1a2f817_LittleBill.avif 518w",
   "24-rt-gradient-html": "<strong>LittleBill</strong>: Digital &amp; responsible loyalty for retailers and franchises!",
-  "h2-logos-prix-html": "\n              <h2>Make the difference with <strong>LittleBill</strong> integration <strong data-wg-splitted>:</strong></h2>\n            ",
+  "h2-logos-prix-html": "\n              <h2>Make the difference with <strong>LittleBill</strong> integration <strong>:</strong></h2>\n            ",
   "rt-features-integration-html": "\n              <li>A digital loyalty card</li>\n              <li>A boost for Google reviews</li>\n              <li>Customized communication campaigns</li>\n              <li>E-marketing</li>\n              <li>Dematerialized sales receipts (AGEC law)</li>\n            ",
   "button-icon-hp-href": "https://www.littlebill.io/fr",
   "w-node-77b77414-b9e7-e0e5-4124-2b2a5107031a-0697d94c": "Discover LittleBill",

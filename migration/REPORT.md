@@ -2,40 +2,41 @@
 
 - Pages statiques : 181
 - Collections CMS (template + données) :
-  - /ebook : 21 pages, 26 champs
-  - /categories : 4 pages, 107 champs
-  - /restauration-collective : 4 pages, 30 champs
-  - /webinars : 7 pages, 28 champs
-  - /success-stories : 40 pages, 43 champs
-  - /blog : 459 pages, 54 champs
-  - /restauration-commerciale : 8 pages, 84 champs
-  - /integrations : 33 pages, 19 champs
-  - /en/ebook : 21 pages, 26 champs
-  - /en/categories : 4 pages, 107 champs
-  - /en/collective-catering : 4 pages, 30 champs
-  - /en/webinars : 7 pages, 28 champs
-  - /en/success-stories : 40 pages, 43 champs
-  - /en/blog : 459 pages, 54 champs
-  - /en/commercial-catering : 8 pages, 84 champs
-  - /en/integrations : 33 pages, 19 champs
-  - /presse/page : 2 pages, 38 champs
-  - /blog/page : 78 pages, 5 champs
-  - /success-stories/page : 4 pages, 5 champs
-  - /ressources/ebook/page : 4 pages, 30 champs
-  - /categories/restauration-collective/page : 9 pages, 5 champs
-  - /categories/tendances-restauration/page : 10 pages, 5 champs
-  - /categories/digitalisation-restauration/page : 37 pages, 5 champs
-  - /en/success-stories/page : 4 pages, 5 champs
-  - /en/resources/ebook/page : 4 pages, 30 champs
-  - /categories/ouvrir-restaurant/page : 18 pages, 5 champs
-  - /en/blog/page : 78 pages, 5 champs
-  - /en/media/page : 2 pages, 38 champs
-  - /en/categories/collective-catering/page : 9 pages, 5 champs
-  - /en/categories/opening-a-restaurant/page : 18 pages, 5 champs
-  - /en/categories/digital-transformation-restoration/page : 37 pages, 5 champs
-  - /en/categories/catering-trends/page : 10 pages, 5 champs
+  - /ebook : 21 pages, 25 champs
+  - /categories : 4 pages, 106 champs
+  - /restauration-collective : 4 pages, 29 champs
+  - /webinars : 7 pages, 27 champs
+  - /success-stories : 40 pages, 42 champs
+  - /blog : 459 pages, 53 champs
+  - /restauration-commerciale : 8 pages, 83 champs
+  - /integrations : 33 pages, 16 champs
+  - /en/ebook : 21 pages, 25 champs
+  - /en/categories : 4 pages, 106 champs
+  - /en/collective-catering : 4 pages, 29 champs
+  - /en/webinars : 7 pages, 27 champs
+  - /en/success-stories : 40 pages, 42 champs
+  - /en/blog : 459 pages, 53 champs
+  - /en/commercial-catering : 8 pages, 83 champs
+  - /en/integrations : 33 pages, 16 champs
+  - /presse/page : 2 pages, 35 champs
+  - /blog/page : 78 pages, 2 champs
+  - /success-stories/page : 4 pages, 2 champs
+  - /ressources/ebook/page : 4 pages, 27 champs
+  - /categories/restauration-collective/page : 9 pages, 2 champs
+  - /categories/tendances-restauration/page : 10 pages, 2 champs
+  - /categories/digitalisation-restauration/page : 37 pages, 2 champs
+  - /en/success-stories/page : 4 pages, 2 champs
+  - /en/resources/ebook/page : 4 pages, 27 champs
+  - /categories/ouvrir-restaurant/page : 18 pages, 2 champs
+  - /en/blog/page : 78 pages, 2 champs
+  - /en/media/page : 2 pages, 35 champs
+  - /en/categories/collective-catering/page : 9 pages, 2 champs
+  - /en/categories/opening-a-restaurant/page : 18 pages, 2 champs
+  - /en/categories/digital-transformation-restoration/page : 37 pages, 2 champs
+  - /en/categories/catering-trends/page : 10 pages, 2 champs
 - Pages exclues (fonctionnalités Webflow) : /search, /checkout, /paypal-checkout, /order-confirmation, /en/search, /en/checkout, /en/paypal-checkout, /en/order-confirmation
 - Redirections : 64 (src/redirects.json)
+- Textes EN restés en français : 0 (migration/untranslated.json)
 - Assets copiés : 4556 (527.0 Mo)
 
 ## Pages avec une navbar spécifique (non factorisée)
