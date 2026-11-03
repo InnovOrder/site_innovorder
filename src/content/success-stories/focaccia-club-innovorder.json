@@ -1,0 +1,85 @@
+{
+ "slug": "focaccia-club-innovorder",
+ "seo": {
+  "title": "Success Story - Pourquoi Focaccia Club a équipé ses 9 restaurants avec Innovorder",
+  "description": "Jing Ren, fondateur de Focaccia Club veut positionner sa chaîne de restaurant comme le leader de la focaccia en France. Il a fait appel à Innovorder pour équiper ses restaurants.",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6495863c35b706f1aa51128b_iStock-544333618.avif",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc30",
+   "data-wf-collection": "6493777d655aea5e6643cb6a",
+   "data-wf-item-slug": "focaccia-club-innovorder"
+  },
+  "bodyClass": "body",
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/success-stories/focaccia-club-innovorder\",\"en\":\"https://www.innovorder.com/en/success-stories/focaccia-club-innovorder\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/success-stories/focaccia-club-innovorder\",\"originalPath\":\"/success-stories/focaccia-club-innovorder\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/success-stories/focaccia-club-innovorder",
+  "link-href-2": "https://www.innovorder.com/en/success-stories/focaccia-club-innovorder",
+  "title-post": "Pourquoi Focaccia Club a équipé ses 9 restaurants avec Innovorder ",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6495863c35b706f1aa51128b_iStock-544333618.avif",
+  "current-post-image-sizes": "100vw",
+  "current-post-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6495863c35b706f1aa51128b_iStock-544333618-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6495863c35b706f1aa51128b_iStock-544333618-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6495863c35b706f1aa51128b_iStock-544333618.avif 1254w",
+  "company-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6495677d3b68942460fe2b3b_logo%20focaccia.avif\")",
+  "title-post-2": "Pourquoi Focaccia Club a équipé ses 9 restaurants avec Innovorder ",
+  "rt-blog-html": "\n          <h4><strong>Objectif : devenir le leader de la focaccia en France d’ici 2024</strong></h4>\n          <p>Jing Ren, fondateur de Focaccia Club ne s’en cache pas. Il veut positionner sa chaîne de restaurant comme le leader de la focaccia en France.</p>\n          <p>Pour atteindre cet objectif ambitieux, cet entrepreneur ambitieux puise dans son expérience du retail pour répliquer un modèle qui a fait ses preuves.</p>\n          <p>Sa stratégie est simple : développer un vaste réseau de restaurants rapidement, sur un segment où une belle place est à prendre.</p>\n          <p>Avec déjà 9 points de vente sur Paris, Jing ne perd pas une seconde. Pour autant, son projet est mûrement réfléchi et rien n’est laissé au hasard.</p>\n          <blockquote>‍<em>“J’ai fait le choix d’emplacements premium, pour capitaliser sur une très belle visibilité, de petites surfaces et surtout d’un produit de qualité, qui plaît à tout le monde.”</em></blockquote>\n          <p>Côté branding, Focaccia Club ne fait pas non plus dans la demi-mesure. Ses restaurants tapent à l'œil et il est aujourd’hui impossible de les manquer dans le paysage parisien. Des devantures blanches et roses qui claquent, un sol vert foncé. Aucun doute, c’est Focaccia Club !</p>\n          <p>‍</p>\n          <figure style=\"max-width:1200pxpx\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\">\n            <div><img loading=\"lazy\" alt=\"Préparation Focaccia Club\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64956875ad3aa0c1f383494f_L1265113%20V3.avif\"></div>\n          </figure>\n          <p>‍</p>\n          <h4><strong>Bien s’entourer est indispensable pour réussir</strong></h4>\n          <p>Cela dit, Jing, comme des milliers d’entrepreneurs dans la restauration, fait face à de nombreuses contraintes pour développer son réseau :</p>\n          <ul role=\"list\">\n            <li>la conjoncture actuelle rend le futur incertain,</li>\n            <li>il doit composer avec des espaces restreints pour ne pas entamer sa rentabilité,</li>\n            <li>le recrutement en salle et en cuisine est long et complexe, d’autant qu’il compte sur une équipe dynamique et souriante pour accueillir ses clients.</li>\n          </ul>\n          <p>Il met d’ailleurs un point d’honneur à ce sujet.</p>\n          <blockquote><em>“C’est la priorité de notre modèle : les clients doivent être bien servis. En restauration, 90% du business se réalise sur le terrain.”</em></blockquote>\n          <p>Pour assurer la croissance de Focaccia Club et atteindre son objectif, il est aussi convaincu que la maîtrise de son image autant que la maîtrise de la partie technique, sont indispensables.</p>\n          <blockquote><em>“Une fois qu’un premier restaurant est ouvert, que le concept est rôdé, dupliquer notre modèle est forcément plus facile et donc plus rapide.”</em></blockquote>\n          <p>Pour cette raison, choisir des outils et des partenaires fiables est crucial.</p>\n          <p>‍</p>\n          <figure style=\"max-width:1200pxpx\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\">\n            <div><img loading=\"lazy\" alt=\"Sac Focaccia Club\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6495689bb431e096dc73b841_L1265235%20V3.avif\"></div>\n          </figure>\n          <p>‍</p>\n          <h4><strong>Le choix d’une solution robuste et tout-en-un</strong></h4>\n          <p>Afin d’entreprendre sereinement et se concentrer sur la croissance de son activité, Jing s’est tourné vers les solutions les plus scalables possibles, qu’il s’agisse de sa solution de caisse, de la gestion de ses plannings ou de ses fiches paies.</p>\n          <blockquote><em>“Innovorder est présent sur tous mes points de vente car c’est un système de caisse complet, simple à utiliser et facile à déployer.”</em></blockquote>\n          <p>En tant que dirigeant d’une chaîne de restaurants, c'est même l'intérêt principal d’un écosystème comme Innovorder selon lui.</p>\n          <blockquote><em>“En quelques clics, mon responsable de réseau pilote tous mes restaurants, vérifie les performances produit et la rentabilité. Nous avons une vision globale grâce aux différents reportings.”</em></blockquote>\n          <p>‍</p>\n          <figure style=\"max-width:1200pxpx\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\">\n            <div><img loading=\"lazy\" alt=\"Borne de commande Innovorder chez Focaccia Club \" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/649568c05a1370412a1fb67e_L1265357%20V3.avif\"></div>\n          </figure>\n          <p>‍</p>\n          <h4><strong>La suite pour Focaccia Club ?</strong></h4>\n          <p>Les premières bornes de commande Innovorder ont fait leur apparition sur certains points de vente, et d’autres pourraient bientôt suivre. Son objectif : fluidifier la prise de commande et augmenter son panier grâce aux ventes additionnelles.</p>\n          <p>En attendant, Focaccia Club poursuit sa croissance.</p>\n          <blockquote><em>“C’est très rassurant de travailler avec une structure sérieuse, qui connaît le terrain, comprend mes besoins, et qui propose un vrai service après-vente.”</em></blockquote>\n          <p>10 restaurants supplémentaires sont attendus en région parisienne d’ici la fin de l’année et le réseau pourrait s’ouvrir à la franchise en province dès 2024 une fois le concept parfaitement maîtrisé !</p>\n          <p>—</p>\n          <p>Merci Jing pour votre confiance, toute l’équipe Innovorder est fière de vous accompagner dans cette belle aventure 🙂</p>\n        ",
+  "right-head": "Focaccia Club",
+  "bozzolo-cat": "Franchise",
+  "div-html": "\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/caisse-enregistreuse-tactile-restauration\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc596eea1a0225_Portefeuille-2.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Caisse enregistreuse</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/borne-de-commande\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5975dd1a0229_Borne%20de%20commande.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Borne de commande</div>\n                    </a></div>\n                ",
+  "image-thumb-3x-href": "/success-stories/bchef-innovorder",
+  "bg-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5960b71a0242_BCHEF.avif",
+  "bg-image-sizes": "(max-width: 767px) 100vw, 800px",
+  "bg-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5960b71a0242_BCHEF-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5960b71a0242_BCHEF-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5960b71a0242_BCHEF-p-1080.avif 1080w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5960b71a0242_BCHEF.avif 1920w",
+  "company-img-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5978961a0240_logo%20bchef.avif\")",
+  "link-block-9-href": "/success-stories/bchef-innovorder",
+  "title-cs": "Comment Charlène a fluidifié le service dans son restaurant BCHEF",
+  "company-name-cs": "BCHEF",
+  "label-category-card": "Franchise",
+  "arrow-block-blog-href": "/success-stories/bchef-innovorder",
+  "image-thumb-3x-href-2": "/success-stories/ankka-grenoble-innovorder",
+  "bg-image-src-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc593f411a01b8_Alain%20Ankka%20Miniature.avif",
+  "bg-image-sizes-2": null,
+  "bg-image-srcset-2": null,
+  "company-img-logo-style-2": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5980181a022d_Ankka_logo.avif\")",
+  "link-block-9-href-2": "/success-stories/ankka-grenoble-innovorder",
+  "title-cs-2": "Comment Ankka a boosté sa franchise en 5 étapes",
+  "company-name-cs-2": "Ankka",
+  "label-category-card-2": "Franchise",
+  "arrow-block-blog-href-2": "/success-stories/ankka-grenoble-innovorder",
+  "image-thumb-3x-href-3": "/success-stories/clasico-argentino-a-multiplie-x4-son-nombre-de-clients-grace-au-click-collect-innovorder",
+  "bg-image-src-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59c1661a0234_clasico%20argentino.avif",
+  "bg-image-sizes-3": null,
+  "bg-image-srcset-3": null,
+  "company-img-logo-style-3": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5977e41a0233_Clasico.avif\")",
+  "link-block-9-href-3": "/success-stories/clasico-argentino-a-multiplie-x4-son-nombre-de-clients-grace-au-click-collect-innovorder",
+  "title-cs-3": "Comment Clasico Argentino a multiplié par 4 ses clients grâce au Click & Collect",
+  "company-name-cs-3": "Clasico Argentino",
+  "label-category-card-3": "Franchise",
+  "arrow-block-blog-href-3": "/success-stories/clasico-argentino-a-multiplie-x4-son-nombre-de-clients-grace-au-click-collect-innovorder"
+ }
+}

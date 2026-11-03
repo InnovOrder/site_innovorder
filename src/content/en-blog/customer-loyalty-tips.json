@@ -1,0 +1,101 @@
+{
+ "slug": "customer-loyalty-tips",
+ "seo": {
+  "title": "Loyalty: how do you get your customers to actually use your program?",
+  "description": "Loyalty: how do you get your customers to really use your program? - Organizing your loyalty plan",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d49d35c53f4c7958b7_63f501f3fcfc59d9611a001b_61beff6dbb1f2fe76320ea8c_fidelisation-restaurant-innovorder-blog.avif",
+  "lang": "en",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc01",
+   "data-wf-collection": "6493777d655aea5e6643cb6c",
+   "data-wf-item-slug": "fidelisation-conseils",
+   "data-wg-translated": "en"
+  },
+  "bodyClass": "body",
+  "bodyAttrs": {
+   "ph-category": "blog"
+  },
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.innovorder.com/en/blog/customer-loyalty-tips\"},\"headline\":\"Fidélisation : comment faire pour que vos clients utilisent vraiment votre programme ?\",\"description\":\"Loyalty: how do you get your customers to really use your program? - Organizing your loyalty plan\",\"image\":\"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d49d35c53f4c7958b7_63f501f3fcfc59d9611a001b_61beff6dbb1f2fe76320ea8c_fidelisation-restaurant-innovorder-blog.avif\",\"author\":{\"@type\":\"Person\",\"name\":\"Sophie Lecomte\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Innovorder\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.9\",\"reviewCount\":\"550\",\"bestRating\":\"5\",\"worstRating\":\"1\"}},\"datePublished\":\"10 février 2020\",\"dateModified\":\"\",\"articleSection\":\"Développer son activité\",\"timeRequired\":\"4\"}</script>",
+  "field-script-2": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/blog/fidelisation-conseils\",\"en\":\"https://www.innovorder.com/en/blog/customer-loyalty-tips\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/blog/fidelisation-conseils\",\"originalPath\":\"/blog/fidelisation-conseils\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/blog/fidelisation-conseils",
+  "link-href-2": "https://www.innovorder.com/en/blog/customer-loyalty-tips",
+  "breadcrumb-text-href": "/en/categories/digital-transformation-restoration",
+  "breadcrumb-text": "Expanding your business",
+  "breadcrumb-text-href-2": "/en/blog/customer-loyalty-tips",
+  "breadcrumb-text-2": "Loyalty: how do you get your customers to actually use your program?",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d49d35c53f4c7958b7_63f501f3fcfc59d9611a001b_61beff6dbb1f2fe76320ea8c_fidelisation-restaurant-innovorder-blog.avif",
+  "current-post-image-alt": "",
+  "current-post-image-sizes": null,
+  "current-post-image-srcset": null,
+  "category-name-current-post": "Expanding your business",
+  "read-time-txt-class": "read-time-txt",
+  "read-time-txt-html": "4",
+  "title-post": "Loyalty: how do you get your customers to actually use your program?",
+  "author-post-class": "author-post",
+  "author-post-html": "Sophie Lecomte",
+  "date-post-text": "25 September 2026",
+  "rt-blog-html": "\n          <p id>A customer arrives at the checkout or is about to pay his bill at a kiosk, another places an order <a id href=\"/en/blog/benefits-of-online-ordering-for-restaurants\"><strong id>order online</strong></a>A third customer pays for his menu but doesn't take the time to indicate his membership to your loyalty program.... <strong id>how can you multiply the registrations</strong> <strong id>to the program and easily accompany the recently \"enrolled\" customers,</strong> to be able to contact them regularly and increase their loyalty? The ultimate goal is to re-engage them and increase traffic to your store.</p>\n          <p id>This requires several areas of optimization:</p>\n          <ul id>\n            <li id><strong id>Organize your loyalty plan</strong> (propose a loyalty card program for example)</li>\n            <li id><strong id>Training your teams</strong>: take into account every available contact point and don't stop at the first stage, which is enrolling in the program, so as not to miss any opportunities</li>\n            <li id><strong id>Maintain a relationship of trust </strong>with your audience by developing other channels of communication (Offer promotions or exclusive discounts for your most loyal customers, be close to your customers by developing your presence on social networks etc. ...)</li>\n            <li id><strong id>Guarantee optimal customer satisfaction</strong>: a satisfied customer is a customer who will consume again and who will talk about your brand, this contributes to your brand image</li>\n          </ul>\n          <h2 id><strong id>Train the staff to systematically offer the loyalty option</strong></h2>\n          <p id>One of the biggest enrollment levers is to have a team that knows the program inside and out, knows how to promote it and offers it at every checkout. The <em id>retail </em>sector is the specialist in this, whether it's restaurants or any other product! Let's take the example of a checkout at H&amp;M: the employee behind the cash register, even during a peak of traffic, is trained to ask if the customer is registered to the loyalty program, and to immediately offer to do it with him if he is not... while highlighting a <strong id>bonus valid the day of the registration. This strategy is just as valid in the restaurant business!</strong></p>\n          <p id><em id>Some essentials for team training</em></p>\n          <ul id>\n            <li id>Master the effective explanation of how rewards work (achievement and rewarded actions)</li>\n            <li id>Mention how promotions, account tracking and rewards are communicated (email, app, notifications, SMS...)</li>\n            <li id>Know how to answer the most common questions and objections about the program</li>\n            <li id>Knowing how the application or registration works to support the customer if needed (from their point of view)</li>\n          </ul>\n          <figure id class=\"w-richtext-figure-type- \" data-rt-type data-rt-align>\n            <div id><img id alt src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59cea71a0025_programme-fidelite-king-marcel-restauration-innovorder-768x385-1.png\" width=\"auto\" height=\"auto\" loading=\"auto\"></div>\n          </figure>\n          <p id><em id>Like </em><a id href=\"https://kingmarcel.fr/\"><strong id><em id>King Marcel above</em></strong></a><em id>don't hesitate to create a nice digital space dedicated to loyalty.</em></p>\n          <h2 id><strong id>Create a welcome bonus that can be used immediately</strong></h2>\n          <p id>10% off your order the day you sign up, a free dessert, a discount on shipping, extra points credited or doubled cashback the first week... a well-targeted bonus will activate the newly registered consumer, in addition to convincing them to join your program.</p>\n          <p id>The process is underway, they already have a tangible benefit or points that move them towards their first rewards. This dimension is often overlooked by restaurateurs, who believe that simply signing up is already a victory. But this is just the beginning of the relationship, and the risk of being relegated to the bottom of an inbox or wallet at this stage is still very high.</p>\n          <h2 id><strong id>Additional services to build customer loyalty</strong></h2>\n          <p id><strong id>Use the free wifi in exchange for signing up</strong> for special offers and news from the store or restaurant will help you build customer loyalty and make them want to return.</p>\n          <h2 id><strong id>Offer a mobile version of the loyalty program</strong></h2>\n          <p id>This allows customers (especially generations Y and Z who particularly expect this) to quickly and easily sign up via an app, website or sometimes just a phone number... and most importantly not have to think about their loyalty card every time they go out to lunch or order! <strong id>Being able to be found by a simple name, zip code and/or email/phone number is particularly valuable</strong>. Again, omnichannel reigns supreme. Note however that the physical card is still far from disappearing in favor of applications.</p>\n          <h2 id><strong id>Hammer home the message</strong></h2>\n          <p id>In the shopping cart, at the checkout, on the virtual or paper receipt, or on the home delivery bag... don't hesitate to <strong id>mention the number of points or cashback earned during the transaction</strong>. You can even push the game a little further by adopting an approach such as \"<em id>if you were a member of the [Name of the company] club, you would have accumulated X euros or so many points</em>\"!</p>\n          <p id>Finally, to make the customer progress within the loyalty program and reinforce his consumption and/or the visibility of the brand, <strong id>create a tiered reward system (statuses), accessible in a gamified way via spending thresholds, the purchase of certain products or pre-arranged actions (social sharing, recommendation to a relative, reviews)</strong> will be particularly effective.</p>\n          <h2 id><strong id>Bonus: download your ebook \"Loyalty: engage and keep your customers coming back\".</strong></h2>\n          <figure id class=\"w-richtext-figure-type-image w-richtext-align-fullwidth\" style=\"max-width:2080px\" data-rt-type=\"image\" data-rt-align=\"fullwidth\" data-rt-max-width=\"2080px\"><a id href=\"/en/ebook/fidelisation-le-guide-ultime-pour-faire-revenir-vos-clients\" target=\"_blank\">\n              <div id><img id src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/674872421ac84ec71b58a432_64a2d6f4daf287011e0bbad4_Bannie%25CC%2580re%2520Blog%2520-%2520Fide%25CC%2581lisation.jpeg\" width=\"auto\" height=\"auto\" loading=\"auto\"></div>\n            </a></figure>\n          <p id>How can you calculate what <strong id>a loyal customer</strong> is for your brand?</p>\n          <ul id>\n            <li id><strong id>Build</strong> brand loyalty</li>\n            <li id><strong id>Increase</strong> the attendance rate, boost the average ticket and your ROI</li>\n          </ul>\n          <p id>Get<strong id> more recommendations on our restaurant loyalty program!</strong></p>\n        ",
+  "div-class": "w-condition-invisible",
+  "right-head-class": "right-head interesting-art",
+  "div-role": "list",
+  "div-class-2": "w-dyn-items",
+  "div-role-2": "listitem",
+  "div-class-3": "w-dyn-item",
+  "div-html": "<a href=\"/en/blog/customer-loyalty-restaurant\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d4e7e987c37933ee05_63f501f3fcfc5914bd1a0193_iStock-1226424658.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Customer loyalty: 6 ideas for your restaurant</div>\n                  <div class=\"interesting-articles-category\">Expanding your business</div>\n                </div>\n              </a>",
+  "div-role-3": "list",
+  "div-class-4": "w-dyn-items",
+  "div-role-4": "listitem",
+  "div-class-5": "w-dyn-item",
+  "div-html-2": "<a href=\"/en/blog/7-tips-to-collect-customer-reviews-for-your-restaurant\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01cfa40adbb37f870e2e_63f501f3fcfc59cce11a01eb_Miniature%2520avis.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">7 tips for collecting good customer reviews for your restaurant</div>\n                  <div class=\"interesting-articles-category\">Expanding your business</div>\n                </div>\n              </a>",
+  "div-role-5": "list",
+  "div-class-6": "w-dyn-items",
+  "div-role-6": "listitem",
+  "div-class-7": "w-dyn-item",
+  "div-html-3": "<a href=\"/en/blog/facebook-and-instagram-advertising-for-restaurants\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01db8dc4be4399d7ec72_63f501f3fcfc5911a11a01ba_Restaurant%2520pub%2520Facebook%2520sur%2520smartphone%2520-%2520Miniature.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">How to advertise on Facebook for your restaurant?</div>\n                  <div class=\"interesting-articles-category\">Expanding your business</div>\n                </div>\n              </a>",
+  "slider-mobile-blog-class": "slider-mobile-blog w-slider",
+  "div-role-7": "list",
+  "div-class-8": "w-dyn-items",
+  "div-role-8": "listitem",
+  "div-class-9": "w-dyn-item",
+  "div-html-4": "<a href=\"/en/blog/customer-loyalty-restaurant\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d4e7e987c37933ee05_63f501f3fcfc5914bd1a0193_iStock-1226424658.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Customer loyalty: 6 ideas for your restaurant</div>\n                  <div class=\"interesting-articles-category\">Expanding your business</div>\n                </div>\n              </a>",
+  "div-role-9": "list",
+  "div-class-10": "w-dyn-items",
+  "div-role-10": "listitem",
+  "div-class-11": "w-dyn-item",
+  "div-html-5": "<a href=\"/en/blog/7-tips-to-collect-customer-reviews-for-your-restaurant\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01cfa40adbb37f870e2e_63f501f3fcfc59cce11a01eb_Miniature%2520avis.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">7 tips for collecting good customer reviews for your restaurant</div>\n                  <div class=\"interesting-articles-category\">Expanding your business</div>\n                </div>\n              </a>",
+  "div-role-11": "list",
+  "div-class-12": "w-dyn-items",
+  "div-role-12": "listitem",
+  "div-class-13": "w-dyn-item",
+  "div-html-6": "<a href=\"/en/blog/facebook-and-instagram-advertising-for-restaurants\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01db8dc4be4399d7ec72_63f501f3fcfc5911a11a01ba_Restaurant%2520pub%2520Facebook%2520sur%2520smartphone%2520-%2520Miniature.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">How to advertise on Facebook for your restaurant?</div>\n                  <div class=\"interesting-articles-category\">Expanding your business</div>\n                </div>\n              </a>",
+  "tail:field-script": "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.innovorder.com/en/blog/customer-loyalty-tips\"},\"headline\":\"Fidélisation : comment faire pour que vos clients utilisent vraiment votre programme ?\",\"description\":\"Loyalty: how do you get your customers to really use your program? - Organizing your loyalty plan\",\"image\":\"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d49d35c53f4c7958b7_63f501f3fcfc59d9611a001b_61beff6dbb1f2fe76320ea8c_fidelisation-restaurant-innovorder-blog.avif\",\"author\":{\"@type\":\"\",\"name\":\"Sophie Lecomte\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Innovorder\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"}},\"datePublished\":\"10 février 2020\"}</script>"
+ }
+}

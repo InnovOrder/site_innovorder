@@ -1,0 +1,85 @@
+{
+ "slug": "alfi-innovorder",
+ "seo": {
+  "title": "Success Story - Comment Alfi a augmenté son panier moyen de 28%",
+  "description": "Albert Fitoussi, fondateur d’Alfi, a fait appel à Innovorder pour fluidifier son organisation en cuisine, servir ses clients plus rapidement et augmenter son panier moyen.",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5939891a020c_image%20(6).avif",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc30",
+   "data-wf-collection": "6493777d655aea5e6643cb6a",
+   "data-wf-item-slug": "alfi-innovorder"
+  },
+  "bodyClass": "body",
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/success-stories/alfi-innovorder\",\"en\":\"https://www.innovorder.com/en/success-stories/alfi-innovorder\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/success-stories/alfi-innovorder\",\"originalPath\":\"/success-stories/alfi-innovorder\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/success-stories/alfi-innovorder",
+  "link-href-2": "https://www.innovorder.com/en/success-stories/alfi-innovorder",
+  "title-post": "Comment Alfi a augmenté son panier moyen de 28%",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5939891a020c_image%20(6).avif",
+  "current-post-image-sizes": "100vw",
+  "current-post-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5939891a020c_image%2520(6)-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5939891a020c_image%2520(6)-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5939891a020c_image%20(6).avif 1916w",
+  "company-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59f5ea1a022b_Alfi.avif\")",
+  "title-post-2": "Comment Alfi a augmenté son panier moyen de 28%",
+  "rt-blog-html": "\n          <figure style=\"padding-bottom:56.206088992974244%\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-video\">\n            <div>\n              <iframe src=\"https://www.youtube.com/embed/VhyD1cMqGzY\" title=\"Innovorder x Alfi\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>\n            </div>\n          </figure>\n          <p>‍</p>\n          <p>Situé rue du Roi de Sicile, en plein cœur du Marais à Paris, <a href=\"https://www.instagram.com/alfi.tradition/?hl=fr\">Alfi</a> est une star des réseaux sociaux (+23K abonnés sur Instagram). Conséquence : la queue s’étire très souvent sur le trottoir !</p>\n          <p>Albert Fitoussi, fondateur d’Alfi, fait donc appel à Innovorder pour fluidifier son organisation en cuisine, servir ses clients plus rapidement et augmenter son panier moyen.</p>\n          <h4><strong>80% des commandes passent par ses bornes</strong>.</h4>\n          <p>Il commence par installer 2 bornes dans son restaurant. En déchargeant son équipe de la prise de commande et de l’encaissement, il libère un équivalent temps plein qu’il alloue à la préparation des sandwichs en cuisine.</p>\n          <h4><strong>Son panier moyen passe de 18 à 23€, soit +28% !</strong></h4>\n          <p>Grâce aux <a href=\"/borne-de-commande\">bornes</a>, il réalise notamment plus de ventes additionnelles. Face aux écrans, ses clients se font plaisir et optent souvent pour une extra chiffonnade, une boisson ou un dessert. On les comprend, difficile de résister à la tentation face à des photos alléchantes !</p>\n          <h4><strong>S</strong>es clients ne font plus la queue.</h4>\n          <p>En cuisine, il installe des KDS (ou <a href=\"/ecran-cuisine-production\">écrans de production</a>). Comme toutes les commandes arrivent directement sur les KDS, ses assembleurs gagnent un temps fou pendant les rushs. Plus besoin de trier les tickets, les tickets ne se perdent plus. Au final, tout est plus simple. Grâce à l'affichage des commandes en couleurs et par ordre de priorité, il a réussi à optimiser son organisation.</p>\n          <blockquote><em>“Innovorder est un peu comme notre boussole ! Grâce au KDS, tout est fluide, les assembleurs ne se trompent pas. C’est ludique, intuitif et totalement novateur.”</em></blockquote>\n          <p>—</p>\n          <p>Vous êtes restaurateur et vous cherchez une solution pour vous simplifier la vie et gérer de gros volumes en toute sérénité ?</p>\n          <p>👉 <a href=\"/restauration-commerciale/independant\"><strong>Découvrez notre expertise pour la restauration rapide !</strong></a></p>\n        ",
+  "right-head": "Alfi",
+  "bozzolo-cat": "Indépendant",
+  "div-html": "\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/borne-de-commande\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5975dd1a0229_Borne%20de%20commande.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Borne de commande</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/commande-ligne\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59e0dd1a0228_Commande%20en%20ligne.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Commande en ligne</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/caisse-enregistreuse-tactile-restauration\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc596eea1a0225_Portefeuille-2.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Caisse enregistreuse</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/ecran-cuisine-production\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc595abf1a0222_%C3%A9cran%20de%20production.webp\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Écran de production</div>\n                    </a></div>\n                ",
+  "image-thumb-3x-href": "/success-stories/bozzolo-innovorder",
+  "bg-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5978471a01fb_image%20(3).avif",
+  "bg-image-sizes": "(max-width: 767px) 100vw, 800px",
+  "bg-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5978471a01fb_image%2520(3)-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5978471a01fb_image%2520(3)-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5978471a01fb_image%20(3).avif 1920w",
+  "company-img-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59e60b1a022a_bozzolo-transparent-officiel.avif\")",
+  "link-block-9-href": "/success-stories/bozzolo-innovorder",
+  "title-cs": "Comment Bozzolo gère de gros volumes avec peu de personnel",
+  "company-name-cs": "Bozzolo",
+  "label-category-card": "Indépendant",
+  "arrow-block-blog-href": "/success-stories/bozzolo-innovorder",
+  "image-thumb-3x-href-2": "/success-stories/chicken-village-innovorder",
+  "bg-image-src-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc596c781a0169_Chicken%20Village.avif",
+  "bg-image-sizes-2": "100vw",
+  "bg-image-srcset-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc596c781a0169_Chicken%2520Village-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc596c781a0169_Chicken%2520Village-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc596c781a0169_Chicken%20Village.avif 1773w",
+  "company-img-logo-style-2": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59489f1a022f_Chicken%20village.png\")",
+  "link-block-9-href-2": "/success-stories/chicken-village-innovorder",
+  "title-cs-2": "Comment Chicken Village sert 200 clients par heure sans erreur",
+  "company-name-cs-2": "Chicken Village",
+  "label-category-card-2": "Indépendant",
+  "arrow-block-blog-href-2": "/success-stories/chicken-village-innovorder",
+  "image-thumb-3x-href-3": "/success-stories/cot-cot-innovorder",
+  "bg-image-src-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5958f71a0149_Cot%20cot.avif",
+  "bg-image-sizes-3": "(max-width: 479px) 100vw, (max-width: 991px) 95vw, (max-width: 1439px) 30vw, 403.3203125px",
+  "bg-image-srcset-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5958f71a0149_Cotcot%2520(1)-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5958f71a0149_Cotcot%2520(1)-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5958f71a0149_Cotcot%2520(1)-p-1080.avif 1080w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5958f71a0149_Cotcot%2520(1)-p-1600.avif 1600w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5958f71a0149_Cot%20cot.avif 2710w",
+  "company-img-logo-style-3": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc599fdd1a022e_logo%2BCOTCOT%2B2%2Blignes.avif\")",
+  "link-block-9-href-3": "/success-stories/cot-cot-innovorder",
+  "title-cs-3": "Comment Cot Cot sert toujours ses clients à temps",
+  "company-name-cs-3": "CotCot",
+  "label-category-card-3": "Indépendant",
+  "arrow-block-blog-href-3": "/success-stories/cot-cot-innovorder"
+ }
+}

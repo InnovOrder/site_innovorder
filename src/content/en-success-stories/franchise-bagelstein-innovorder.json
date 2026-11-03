@@ -1,0 +1,87 @@
+{
+ "slug": "franchise-bagelstein-innovorder",
+ "seo": {
+  "title": "Success Story - Bagelstein was against kiosks... until they saw the impact on average basket size",
+  "description": "Long skeptical, the founder of Bagelstein tested the ordering kiosks in his network. The result: an increase in average basket size and nationwide rollout. His unfiltered feedback.",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/699486230cb4e9719562b036_Screenshot%202026-02-09%20at%2010.51.40.avif",
+  "lang": "en",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc30",
+   "data-wf-collection": "6493777d655aea5e6643cb6a",
+   "data-wf-item-slug": "franchise-bagelstein-innovorder",
+   "data-wg-translated": "en"
+  },
+  "bodyClass": "body",
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/success-stories/franchise-bagelstein-innovorder\",\"en\":\"https://www.innovorder.com/en/success-stories/franchise-bagelstein-innovorder\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/success-stories/franchise-bagelstein-innovorder\",\"originalPath\":\"/success-stories/franchise-bagelstein-innovorder\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/success-stories/franchise-bagelstein-innovorder",
+  "link-href-2": "https://www.innovorder.com/en/success-stories/franchise-bagelstein-innovorder",
+  "title-post": "Bagelstein was against the terminals... until he saw the impact on the average basket size.",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/699486230cb4e9719562b036_Screenshot%202026-02-09%20at%2010.51.40.avif",
+  "current-post-image-sizes": "100vw",
+  "current-post-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/699486230cb4e9719562b036_Screenshot%202026-02-09%20at%2010.51.40-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/699486230cb4e9719562b036_Screenshot%202026-02-09%20at%2010.51.40-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/699486230cb4e9719562b036_Screenshot%202026-02-09%20at%2010.51.40-p-1080.avif 1080w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/699486230cb4e9719562b036_Screenshot%202026-02-09%20at%2010.51.40.avif 1200w",
+  "company-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3eec906bbc17bc05f31f_Logo-Bagelstein-NBO-512x474-1.avif\")",
+  "title-post-2": "Bagelstein was against the terminals... until he saw the impact on the average basket size.",
+  "rt-blog-html": "\n          <figure style=\"padding-bottom:56.206088992974244%\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-video\">\n            <div>\n              <iframe src=\"https://www.youtube.com/embed/WCa2jTFFwgg\" title=\"Thierry Veil was against the terminals... until he saw the impact on average basket size.\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>\n            </div>\n          </figure>\n          <p>‍</p>\n          <p>In this interview, <strong>Thierry Veil</strong>, co-founder of <strong>Bagelstein</strong>, shares his unfiltered feedback on digital technology in franchising and the integration of kiosks into his network.</p>\n          <h2>“I didn't want any terminals.”</h2>\n          <p>When Thierry Veil launched Bagelstein nearly 15 years ago, the concept was based on one central pillar: <strong>customer experience</strong>.</p>\n          <p>Homemade, quirky tone, strong branding, human connection.</p>\n          <p>The idea of installing self-service kiosks? In his opinion, incompatible with the customer experience.</p>\n          <blockquote>“I created this concept around one thing: the customer experience.” Thierry Veil, co-founder of Bagelstein</blockquote>\n          <p>Like many restaurant owners, the fear is clear:</p>\n          <ul role=\"list\">\n            <li>Loss of human contact</li>\n            <li>Standardization</li>\n            <li>Dehumanization of the point of sale</li>\n          </ul>\n          <h2>The turning point: testing rather than assuming</h2>\n          <p>The market is changing fast. Very fast.</p>\n          <p>Today, a restaurant must be more than just good.<br>It must:</p>\n          <ul role=\"list\">\n            <li>Provide a seamless experience</li>\n            <li>Maintain an excellent Google rating</li>\n            <li>Optimize your operations</li>\n            <li>Maximizing your average basket size</li>\n          </ul>\n          <p>Faced with this development, a strategic decision is required: <strong>to test</strong>.</p>\n          <p>And the test changes everything.</p>\n          <h2>The real impact of ordering kiosks</h2>\n          <p>Result observed in the network:</p>\n          <ul role=\"list\">\n            <li><strong>Significant increase in average basket</strong>size</li>\n            <li>Streamlining traffic in restaurants</li>\n          </ul>\n          <p>The conclusion is clear: the terminal has not ruined the customer experience at all—quite the contrary.<br></p>\n          <p>Thierry Veil admits it himself:</p>\n          <blockquote>“Who am I to deprive my franchise network of this growth?”</blockquote>\n          <h2>A complete ecosystem: kiosk, cash register, and KDS</h2>\n          <p>The project was not limited to installing a terminal.</p>\n          <p>The network has deployed a comprehensive ecosystem:</p>\n          <ul role=\"list\">\n            <li><a href=\"/en/self-ordering-kiosk\">Control terminals</a></li>\n            <li><a href=\"/en/restaurant-touch-cash-register\">Tactile checkout</a></li>\n            <li><a href=\"/en/kitchen-display-system\">KDS</a> (kitchen display system) for kitchen productivity</li>\n          </ul>\n          <p>The goal: to create a coherent system that streamlines the customer journey from order to production.</p>\n          <h3>-</h3>\n          <p>You want to equip your <a href=\"/en/commercial-catering/franchise\"><strong>franchise</strong></a> ? Call on an Innovorder expert and discover how to streamline the checkout process!</p>\n        ",
+  "right-head": "Bagelstein",
+  "bozzolo-cat": "Franchise",
+  "div-html": "\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/en/self-ordering-kiosk\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5975dd1a0229_Borne%20de%20commande.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Self Ordering Kiosk</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/en/kitchen-display-system\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc595abf1a0222_%C3%A9cran%20de%20production.webp\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Kitchen Display System</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/en/point-of-sales-restaurant\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc596eea1a0225_Portefeuille-2.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Cash register</div>\n                    </a></div>\n                ",
+  "image-thumb-3x-href": "/en/success-stories/italian-queen-innovorder",
+  "bg-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/686635782cbce5a064ffd740_Miniature.avif",
+  "bg-image-sizes": "(max-width: 767px) 100vw, 800px",
+  "bg-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/686635782cbce5a064ffd740_Miniature-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/686635782cbce5a064ffd740_Miniature.avif 800w",
+  "company-img-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/686636c1f8b070a9d9f40cce_logo%20noir.avif\")",
+  "link-block-9-href": "/en/success-stories/italian-queen-innovorder",
+  "title-cs": "How Italian Queen increased its sales by 15%.",
+  "company-name-cs": "Italian Queen",
+  "label-category-card": "Franchise",
+  "arrow-block-blog-href": "/en/success-stories/italian-queen-innovorder",
+  "image-thumb-3x-href-2": "/en/success-stories/how-burgouzz-went-from-a-dark-kitchen-to-3-physical-restaurants",
+  "bg-image-src-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/673ddf407484f43263a2cc63_Screenshot%202024-10-31%20at%2014.28.15%20(1).avif",
+  "bg-image-sizes-2": "100vw",
+  "bg-image-srcset-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/673ddf407484f43263a2cc63_Screenshot%202024-10-31%20at%2014.28.15%20(1)-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/673ddf407484f43263a2cc63_Screenshot%202024-10-31%20at%2014.28.15%20(1).avif 800w",
+  "company-img-logo-style-2": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/673db2f6126c0679353ad821_burgouzz%20logo.avif\")",
+  "link-block-9-href-2": "/en/success-stories/how-burgouzz-went-from-a-dark-kitchen-to-3-physical-restaurants",
+  "title-cs-2": "How Burgouzz went from a dark kitchen to 3 physical restaurants",
+  "company-name-cs-2": "Burgouzz",
+  "label-category-card-2": "Independent",
+  "arrow-block-blog-href-2": "/en/success-stories/how-burgouzz-went-from-a-dark-kitchen-to-3-physical-restaurants",
+  "image-thumb-3x-href-3": "/en/success-stories/boulangerie-tranche-innovorder",
+  "bg-image-src-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/68d298a3e9988d10d56c911c_Screenshot%202025-09-15%20at%2016.47.07.avif",
+  "bg-image-sizes-3": "(max-width: 479px) 100vw, (max-width: 991px) 95vw, (max-width: 1439px) 30vw, 403.3203125px",
+  "bg-image-srcset-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/68d298a3e9988d10d56c911c_Screenshot%202025-09-15%20at%2016.47.07-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/68d298a3e9988d10d56c911c_Screenshot%202025-09-15%20at%2016.47.07.avif 800w",
+  "company-img-logo-style-3": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3eaf409d73e1da421395_images.avif\")",
+  "link-block-9-href-3": "/en/success-stories/boulangerie-tranche-innovorder",
+  "title-cs-3": "How can you improve cash management in your bakery? The case of Tranché",
+  "company-name-cs-3": "Sliced",
+  "label-category-card-3": "Franchise",
+  "arrow-block-blog-href-3": "/en/success-stories/boulangerie-tranche-innovorder"
+ }
+}

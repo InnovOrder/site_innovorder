@@ -1,0 +1,99 @@
+{
+ "slug": "comment-se-reinvente-la-restauration-collective",
+ "seo": {
+  "title": "Comment se réinvente la restauration collective ?",
+  "description": "Pour survivre et rester pertinent pour ses convives, le marché de la restauration collective doit se réinventer.",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d272d28c786a79940b_63f501f3fcfc594c461a0004_featured-image-1.avif",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc01",
+   "data-wf-collection": "6493777d655aea5e6643cb6c",
+   "data-wf-item-slug": "comment-se-reinvente-la-restauration-collective"
+  },
+  "bodyClass": "body",
+  "bodyAttrs": {
+   "ph-category": "blog"
+  },
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"BlogPosting\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://www.innovorder.com/blog/comment-se-reinvente-la-restauration-collective\"\n  },\n  \"headline\": \"Comment se réinvente la restauration collective ?\",\n  \"description\": \"Pour survivre et rester pertinent pour ses convives, le marché de la restauration collective doit se réinventer.\",\n  \"image\": \"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d272d28c786a79940b_63f501f3fcfc594c461a0004_featured-image-1.avif\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Innovorder\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Innovorder\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"\n    },\n    \"aggregateRating\": {\n      \"@type\": \"AggregateRating\",\n      \"ratingValue\": \"4.9\",\n      \"reviewCount\": \"550\",\n      \"bestRating\": \"5\",\n      \"worstRating\": \"1\"\n      }\n  },\n  \"datePublished\": \"10 décembre 2021\",\n  \"dateModified\": \"\",\n  \"articleSection\": \"Les défis de la restauration collective\",\n  \"timeRequired\": \"3\"\n}\n</script>",
+  "field-script-2": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/blog/comment-se-reinvente-la-restauration-collective\",\"en\":\"https://www.innovorder.com/en/blog/how-to-reinvent-collective-catering\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/blog/comment-se-reinvente-la-restauration-collective\",\"originalPath\":\"/blog/comment-se-reinvente-la-restauration-collective\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/blog/comment-se-reinvente-la-restauration-collective",
+  "link-href-2": "https://www.innovorder.com/en/blog/how-to-reinvent-collective-catering",
+  "breadcrumb-text-href": "/categories/restauration-collective",
+  "breadcrumb-text": "Les défis de la restauration collective",
+  "breadcrumb-text-href-2": "/blog/comment-se-reinvente-la-restauration-collective",
+  "breadcrumb-text-2": "Comment se réinvente la restauration collective ?",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d272d28c786a79940b_63f501f3fcfc594c461a0004_featured-image-1.avif",
+  "current-post-image-alt": "",
+  "current-post-image-sizes": null,
+  "current-post-image-srcset": null,
+  "category-name-current-post": "Les défis de la restauration collective",
+  "read-time-txt-class": "read-time-txt",
+  "read-time-txt-html": "3",
+  "title-post": "Comment se réinvente la restauration collective ?",
+  "author-post-class": "author-post w-condition-invisible",
+  "author-post-html": "Innovorder",
+  "date-post-text": "08 April 2025",
+  "rt-blog-html": "\n          <p>Il y a quelques années, un salarié souhaitant se restaurer en entreprise avait plusieurs options: le fait maison ou l’achat à l’extérieur via tickets restaurant ou la cantine. Pas étonnant donc que ces dernières, avec leurs offres variées et extensives, étaient les reines du marché. </p>\n          <p>Depuis, l’arrivée de la Foodtech, l’évolution du télétravail et la crise de la Covid-19 ont créé de nombreux bouleversements sur ce secteur. Pour survivre, surmonter ces crises et rester pertinent pour ses convives, le marché de la restauration collective doit se réinventer. Innovation, diversification de ses gammes, flexibilité...les solutions pour générer de l’engouement sont heureusement nombreuses, et les différents acteurs du marché n’ont pas hésité à saisir les opportunités qu'offrent ces nouveaux challenges! </p>\n          <h2>L’évolution des habitudes de consommation, un premier défi</h2>\n          <h3>1. La concurrence de la Foodtech</h3>\n          <p>L’arrivée de nouveaux acteurs a présenté une première menace de taille pour le secteur. Deliveroo, Ubereats, Frichti...ces nouveaux concurrents permettent aux salariés, attirés par la diversité de l’offre, de commander de nouveaux types de repas à toute heure de la journée. Les convives apprécient leurs horaires plus flexibles, les prix attirants et les menus plus variés qu’en cantine classique. Seul bémol ? La nécessité d’attendre sa nourriture plusieurs minutes au moins, et l’incompatibilité de certains services avec les tickets restaurants. </p>\n          <h3>2. La crise de la COVID-19</h3>\n          <p>La crise de la Covid-19, et la modernisation des pratiques en entreprise en général, a également favorisé de nombreux changements dans les habitudes de consommation des salariés. Le télétravail est devenu bien plus courant, les horaires sont plus flexibles, et le type de restauration souhaitée fait écho à ces évolutions. </p>\n          <h3>3. Du bio, du bio, du bio! </h3>\n          <p>Le dernier changement des habitudes de consommation se trouve directement dans l’assiette. Comme pour tous les secteurs de l'alimentation, les consommateurs se tournent de plus en plus vers une consommation responsable. Bio, circuit court, pêche à la ligne, menus végétariens ou vegans.. Les exigences sur la qualité et la provenance des aliments consommés augmente. Pour rester pertinent, les acteurs de la restauration doivent suivre ce mouvement et adapter leurs offres et menus à ces nouvelles habitudes. En plus, c’est bon pour la planète! </p>\n          <h2>Adapter son offre, un enjeu essentiel </h2>\n          <p>Pour garder un avantage concurrentiel, la restauration collective doit donc s’adapter à ces nombreux changements d’habitudes de consommation et devenir plus polyvalente. Dans l’assiette, en proposant des menus plus éco-responsables et adaptés à toutes les restrictions alimentaires des convives, dans la salle, en permettant un flux adapté aux nouvelles mesures sanitaires et un tri des déchets et aussi en dehors du lieu-dit, en offrant des solutions adaptées à la flexibilité des salariés. </p>\n          <p>Le maître mot? Flexibilité. Flexibilité dans les horaires, les menus, l’endroit où les convives peuvent déguster… S’adapter aux nouvelles habitudes de consommation est primordiale à la survie de la restauration collective. </p>\n          <h2>Les nouvelles technologies permettant de gagner en flexibilité</h2>\n          <p>De nombreuses solutions sont disponibles pour les acteurs de la restauration collective souhaitant adapter leur offre à la situation actuelle des entreprises. Ils peuvent notamment :</p>\n          <ul role=\"list\">\n            <li>Faire livrer leurs repas aux convives chez eux pendant leur télétravail</li>\n            <li>Permettre aux employés de venir récupérer leur déjeuner à emporter</li>\n            <li>Permettre aux employés de payer à distance </li>\n            <li>Permettre aux employés de se restaurer peu importe l’heure de la journée</li>\n          </ul>\n          <p>Pour la <strong>livraison à domicile</strong>, les entreprises peuvent se renseigner sur les différents services de livraison rapides qui existent autour d’eux, ou décider de s’étendre à l’aide de “dark kitchens”. Les dark kitchens sont des concepts d’ateliers de cuisines, soit peu utilisés par des hôtels ou d’autres entreprises, soient créés de toutes pièces, pour permettre de délocaliser sa cuisine partout dans votre ville. Une solution idéale bien que onéreuse pour pouvoir livrer chaud et à temps tous vos convives directement chez eux. </p>\n          <p>Récupérer leur <strong>déjeuner sans forcément s’installer à table</strong>, est également une demande en hausse de la plupart des salariés qui préfèrent déjeuner chez eux ou directement à leur bureau pour un gain de temps. Containers en cartons, consignes, bocaux en verre...il existe de nombreuses solutions éco-responsables qui permettent aux convives d’apprécier votre service même à distance.</p>\n          <figure style=\"max-width:2080px\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\"><a href=\"/ebook/restauration-collective-comment-fluidifier-son-service\" target=\"_blank\" class=\"w-inline-block\">\n              <div><img alt src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/67dc3eb80352492d7773277d_Bannie%CC%80re%20Blog%20-%20%20Restauration%20collective.avif\" loading=\"lazy\"></div>\n            </a></figure>\n          <p>Les <strong>frigos connectés</strong> sont une option de plus en plus utilisée au sein des entreprises, et vous permettent une flexibilité toute novatrice. Il vous suffit de charger le frigo avec des conteneurs recyclables puis les convives l’ouvrent avec un badge, choisissent leur plat, paient directement sur le frigo puis rendent leur container après repas pour qu’il soit nettoyé et réutilisé. Une solution éco-responsable, pratique et rapide qui correspond en tous points aux nouvelles habitudes de consommation. </p>\n          <p>Enfin, les<strong> bornes de paiement à distance</strong> sont une aide technologique précieuse pour les services de restauration collective. Chez Innovorder, nous proposons une des solutions e-commerce les plus abouties du marché. Nos bornes de commandes en ligne vous permettent de:</p>\n          <ul role=\"list\">\n            <li>Développer la vente à emporter via du click&amp;collect</li>\n            <li>Développer la livraison avec le paiement à distance</li>\n            <li>Créer une option Drive, où vos convives peuvent payer puis venir récupérer leur repas</li>\n            <li>Vous constituer un fichier client et favoriser leur fidélisation</li>\n            <li>Automatiser les commandes, pour encore plus de flexibilité</li>\n          </ul>\n          <p>Une solution clé en main qui vous permet de gagner en flexibilité, de fidéliser vos convives et donc de surmonter avec aisance les nombreux défis auxquels fait face la <a href=\"/blog/restauration-collective-pertes-gestion\">restauration collective</a> aujourd’hui. </p>\n        ",
+  "div-class": null,
+  "right-head-class": "right-head interesting-art",
+  "div-role": "list",
+  "div-class-2": "w-dyn-items",
+  "div-role-2": "listitem",
+  "div-class-3": "w-dyn-item",
+  "div-html": "<a href=\"/blog/frigos-connectes-restauration-collective\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d5bb0ba574572aab60_63f501f3fcfc598c6e19ff39_frigo-connecte-restauration-collective-cantine-blog-innovorder-popchef-1.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Frigo connecté : l'innovation de la restauration collective</div>\n                  <div class=\"interesting-articles-category\">Les défis de la restauration collective</div>\n                </div>\n              </a>",
+  "div-role-3": "list",
+  "div-class-4": "w-dyn-items",
+  "div-role-4": "listitem",
+  "div-class-5": "w-dyn-item",
+  "div-html-2": "<a href=\"/blog/restauration-connectee-hopital\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01dd5b7e1fb210b95efd_63f501f3fcfc5935c01a0203_iStock-1432527544%2520(2).avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Le numérique au service de la restauration en hôpital</div>\n                  <div class=\"interesting-articles-category\">Les défis de la restauration collective</div>\n                </div>\n              </a>",
+  "div-role-5": "list",
+  "div-class-6": "w-dyn-items",
+  "div-role-6": "listitem",
+  "div-class-7": "w-dyn-item",
+  "div-html-3": "<a href=\"/blog/nouveaux-concurrents-restauration-collective\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d87377f430cdb761a1_63f501f3fcfc5990f51a01ac_concurrent-restauration-collective-blog-innovorder.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Qui sont les concurrents de la restauration collective ?</div>\n                  <div class=\"interesting-articles-category\">Les défis de la restauration collective</div>\n                </div>\n              </a>",
+  "slider-mobile-blog-class": "slider-mobile-blog w-slider",
+  "div-role-7": "list",
+  "div-class-8": "w-dyn-items",
+  "div-role-8": "listitem",
+  "div-class-9": "w-dyn-item",
+  "div-html-4": "<a href=\"/blog/frigos-connectes-restauration-collective\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d5bb0ba574572aab60_63f501f3fcfc598c6e19ff39_frigo-connecte-restauration-collective-cantine-blog-innovorder-popchef-1.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Frigo connecté : l'innovation de la restauration collective</div>\n                  <div class=\"interesting-articles-category\">Les défis de la restauration collective</div>\n                </div>\n              </a>",
+  "div-role-9": "list",
+  "div-class-10": "w-dyn-items",
+  "div-role-10": "listitem",
+  "div-class-11": "w-dyn-item",
+  "div-html-5": "<a href=\"/blog/restauration-connectee-hopital\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01dd5b7e1fb210b95efd_63f501f3fcfc5935c01a0203_iStock-1432527544%2520(2).avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Le numérique au service de la restauration en hôpital</div>\n                  <div class=\"interesting-articles-category\">Les défis de la restauration collective</div>\n                </div>\n              </a>",
+  "div-role-11": "list",
+  "div-class-12": "w-dyn-items",
+  "div-role-12": "listitem",
+  "div-class-13": "w-dyn-item",
+  "div-html-6": "<a href=\"/blog/nouveaux-concurrents-restauration-collective\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d87377f430cdb761a1_63f501f3fcfc5990f51a01ac_concurrent-restauration-collective-blog-innovorder.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Qui sont les concurrents de la restauration collective ?</div>\n                  <div class=\"interesting-articles-category\">Les défis de la restauration collective</div>\n                </div>\n              </a>",
+  "tail:field-script": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"BlogPosting\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://www.innovorder.com/blog/comment-se-reinvente-la-restauration-collective\"\n  },\n  \"headline\": \"Comment se réinvente la restauration collective ?\",\n  \"description\": \"Pour survivre et rester pertinent pour ses convives, le marché de la restauration collective doit se réinventer.\",\n  \"image\": \"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d272d28c786a79940b_63f501f3fcfc594c461a0004_featured-image-1.avif\",  \n  \"author\": {\n    \"@type\": \"\",\n    \"name\": \"Innovorder\"\n  },  \n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Innovorder\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"\n    }\n  },\n  \"datePublished\": \"10 décembre 2021\"\n}\n</script>"
+ }
+}

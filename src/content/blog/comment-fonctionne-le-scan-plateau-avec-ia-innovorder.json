@@ -1,0 +1,99 @@
+{
+ "slug": "comment-fonctionne-le-scan-plateau-avec-ia-innovorder",
+ "seo": {
+  "title": "Comment fonctionne IA Scan : le scan plateau avec intelligence artificielle",
+  "description": "Découvrez comment fonctionne le scan plateau avec intelligence artificielle le plus fluide du marché.",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/661e4f99352b09e857baf102_Scan%20IA.avif",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc01",
+   "data-wf-collection": "6493777d655aea5e6643cb6c",
+   "data-wf-item-slug": "comment-fonctionne-le-scan-plateau-avec-ia-innovorder"
+  },
+  "bodyClass": "body",
+  "bodyAttrs": {
+   "ph-category": "blog"
+  },
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"BlogPosting\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://www.innovorder.com/blog/comment-fonctionne-le-scan-plateau-avec-ia-innovorder\"\n  },\n  \"headline\": \"Comment fonctionne IA Scan : le scan plateau avec intelligence artificielle d&#39;Innovorder\",\n  \"description\": \"Découvrez comment fonctionne le scan plateau avec intelligence artificielle le plus fluide du marché.\",\n  \"image\": \"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/661e4f99352b09e857baf102_Scan%20IA.avif\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Chloé Thévenet\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Innovorder\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"\n    },\n    \"aggregateRating\": {\n      \"@type\": \"AggregateRating\",\n      \"ratingValue\": \"4.9\",\n      \"reviewCount\": \"550\",\n      \"bestRating\": \"5\",\n      \"worstRating\": \"1\"\n      }\n  },\n  \"datePublished\": \"9 février 2024\",\n  \"dateModified\": \"\",\n  \"articleSection\": \"Les défis de la restauration collective\",\n  \"timeRequired\": \"3\"\n}\n</script>",
+  "field-script-2": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/blog/comment-fonctionne-le-scan-plateau-avec-ia-innovorder\",\"en\":\"https://www.innovorder.com/en/blog/how-flatbed-scanning-works-with-ia-innovorder\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/blog/comment-fonctionne-le-scan-plateau-avec-ia-innovorder\",\"originalPath\":\"/blog/comment-fonctionne-le-scan-plateau-avec-ia-innovorder\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/blog/comment-fonctionne-le-scan-plateau-avec-ia-innovorder",
+  "link-href-2": "https://www.innovorder.com/en/blog/how-flatbed-scanning-works-with-ia-innovorder",
+  "breadcrumb-text-href": "/categories/restauration-collective",
+  "breadcrumb-text": "Les défis de la restauration collective",
+  "breadcrumb-text-href-2": "/blog/comment-fonctionne-le-scan-plateau-avec-ia-innovorder",
+  "breadcrumb-text-2": "Comment fonctionne IA Scan : le scan plateau avec intelligence artificielle d'Innovorder",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/661e4f99352b09e857baf102_Scan%20IA.avif",
+  "current-post-image-alt": "",
+  "current-post-image-sizes": "100vw",
+  "current-post-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/661e4f99352b09e857baf102_Scan%20IA-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/661e4f99352b09e857baf102_Scan%20IA-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/661e4f99352b09e857baf102_Scan%20IA.avif 1470w",
+  "category-name-current-post": "Les défis de la restauration collective",
+  "read-time-txt-class": "read-time-txt",
+  "read-time-txt-html": "3",
+  "title-post": "Comment fonctionne IA Scan : le scan plateau avec intelligence artificielle d'Innovorder",
+  "author-post-class": "author-post w-condition-invisible",
+  "author-post-html": "Chloé Thévenet",
+  "date-post-text": "19 August 2024",
+  "rt-blog-html": "\n          <p>À une époque où l'intelligence artificielle s'immisce partout dans notre vie quotidienne, le scan plateau avec IA se distingue comme une innovation révolutionnaire dans le secteur de la restauration collective. Mais comment fonctionne cette technologie exactement ?</p>\n          <h2>Présentation vidéo du fonctionnement du scan plateau avec IA d'Innovorder</h2>\n          <p>Innovorder pionnier de l'innovation vous présente sa dernière nouveauté : IA Scan. Cette technologie révolutionne la restauration collective en divisant le temps de passage par 3, soit une moyenne de 500 passages par heure.</p>\n          <p>Claire, Product Manager chez Innovorder, vous explique comment fonctionne IA Scan, le scan plateau avec intelligence artificielle le plus fluide du marché. </p>\n          <figure style=\"padding-bottom:56.206088992974244%\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-video\">\n            <div>\n              <iframe src=\"https://www.youtube.com/embed/rEI-U0L9Uzs\" title=\"Démonstration d'IA Scan, le scan plateau intelligent le plus fluide du marché | Innovorder\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>\n            </div>\n          </figure>\n          <p>‍</p>\n          <p>‍</p>\n          <h2>Qu'est-ce qu'un scan plateau avec intelligence artificielle ?</h2>\n          <p>Un <strong>scan plateau</strong> est un dispositif électronique conçu pour reconnaître automatiquement les articles présents sur le plateau des convives à l'aide d'un système de caméras intégré et d'un logiciel d'intelligence artificielle.&nbsp;</p>\n          <p>À l'aide de puissants algorithmes de reconnaissance d'images, il identifie chaque article, le compare à la base de données et calcule le coût total du plateau. L'intérêt de ce système réside dans sa précision et sa rapidité, qui transforment le processus traditionnel de passage en caisse en une expérience fluide et sans erreur.</p>\n          <p>‍</p>\n          <h2>Le fonctionnement&nbsp;d'IA&nbsp;Scan</h2>\n          <h3>Côté convive</h3>\n          <p>Pour vos convives, rien de plus simple : ils posent leur plateau sur le scan plateau et scanner leur badge.&nbsp;Il reçoivent ensuite leur ticket de caisse par mail en quelques secondes, avant d'aller déjeuner.</p>\n          <figure style=\"max-width:5394pxpx\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\">\n            <div><img loading=\"lazy\" alt=\"Scan plateau avec intelligence artificielle\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66ab398aaaba11c8c04a0cf4_65b274ce4f7d3a3a4167dee3_deligo-melodin-5735.avif\"></div>\n          </figure>\n          <h3>Côté opérateur</h3>\n          <p>Les produits du jour doivent être renseignés par les opérateur afin d'entraîner l'intelligence artificielle.&nbsp;En effet, comme toutes les IA,IA&nbsp;Scan doit apprendre à reconnaître les aliments et les contenants grâce à une série de photos avant de les mémoriser et de pouvoir les identifier automatiquement.&nbsp;Pour cette raison, les produits nécessitent d'être enregistrés par l'IA avant, pendant ou après le service.</p>\n          <p>‍</p>\n          <h2>Les 4 avantages d'IA Scan</h2>\n          <h3>Fluidité</h3>\n          <p>Le scan plateau avec IA réduit&nbsp;les temps de passage par 3, ce qui permet aux convives de profiter davantage de leur pause et d'attendre moins longtemps dans la file.</p>\n          <p>👉 Pour aller plus loin : Découvrez notre webinaire animé par des experts de la restauration collective<a href=\"/webinars/ia-au-service-de-la-restauration-collective\"> \"L'IA au service de la restauration collective\"</a><br></p>\n          <h3>Fiabilité</h3>\n          <p>Il possède l'intelligence artificielle la plus aboutie du marché qui a un taux de reconnaissance supérieur à 97%. Il reconnait les contenants, les contenus et poursuit l'encaissement de vos convives en mode offline même en cas de perte de réseau.</p>\n          <figure style=\"max-width:2080px\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\"><a href=\"/scan-plateau\" target=\"_blank\" class=\"w-inline-block\">\n              <div><img alt src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66c33e49a52d1cdc0208f04f_66c33e1571dc1a3f03750269_Bannie%25CC%2580re%2520blog%2520-%2520IA%2520Scan.avif\" loading=\"lazy\"></div>\n            </a></figure>\n          <h3>Rentabilité </h3>\n          <p>En fluidifiant l'encaissement, IA Scan permet d'augmenter de 10 à 15% la fréquentation des sites de restauration qu'il équipe.</p>\n          <p>👉 Pour aller plus loin : <a href=\"/blog/scan-plateau-avec-intelligence-artificielle\">Découvrez les 6 autres avantages du scan plateau avec intelligence artificielle</a></p>\n          <h3>Simplicité</h3>\n          <p>IA Scan simplifie le quotidien des opérationnels grâce à une application de suivi et de paramétrage pratique et ludique.&nbsp;De plus, les commandes passées par IA Scan remontent automatiquement dans le backoffice. </p>\n          <p>—</p>\n          <p>Vous souhaitez fluidifier l'encaissement et moderniser votre établissement ?&nbsp;Contactez un expert Innovorder pour une démo live d'IA Scan.</p>\n        ",
+  "div-class": null,
+  "right-head-class": "right-head interesting-art",
+  "div-role": "list",
+  "div-class-2": "w-dyn-items",
+  "div-role-2": "listitem",
+  "div-class-3": "w-dyn-item",
+  "div-html": "<a href=\"/blog/scan-plateau-avec-intelligence-artificielle\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64be97eee2ed083b1796f89b_645e59c481e52e63fc5763f4_6e4394_521ee8c08992414b82231378f94a700ef000.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Le scan plateau avec IA révolutionne la restauration collective</div>\n                  <div class=\"interesting-articles-category\">Les défis de la restauration collective</div>\n                </div>\n              </a>",
+  "div-role-3": "list",
+  "div-class-4": "w-dyn-items",
+  "div-role-4": "listitem",
+  "div-class-5": "w-dyn-item",
+  "div-html-2": "<a href=\"/blog/usage-ewallet-en-restauration-collective\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64be97ee5c3d42c0a9f6f4d9_646b6bedfa0465eaa452f1a2_Fid_solde.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Les différents usages du e-wallet en restauration collective</div>\n                  <div class=\"interesting-articles-category\">Les défis de la restauration collective</div>\n                </div>\n              </a>",
+  "div-role-5": "list",
+  "div-class-6": "w-dyn-items",
+  "div-role-6": "listitem",
+  "div-class-7": "w-dyn-item",
+  "div-html-3": "<a href=\"/blog/systeme-encaissement-restauration-collective\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/65280ee8f428491bb8d1504d_Capture%20d%E2%80%99e%CC%81cran%202021-09-21%20a%CC%80%2011.19.39.jpeg\" sizes=\"(max-width: 479px) 100vw, 262px\" srcset=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/65280ee8f428491bb8d1504d_Capture%20d%E2%80%99e%CC%81cran%202021-09-21%20a%CC%80%2011.19.39-p-500.jpeg 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/65280ee8f428491bb8d1504d_Capture%20d%E2%80%99e%CC%81cran%202021-09-21%20a%CC%80%2011.19.39.jpeg 800w\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Quel système d’encaissement pour la restauration collective ?</div>\n                  <div class=\"interesting-articles-category\">Les défis de la restauration collective</div>\n                </div>\n              </a>",
+  "slider-mobile-blog-class": "slider-mobile-blog w-slider",
+  "div-role-7": "list",
+  "div-class-8": "w-dyn-items",
+  "div-role-8": "listitem",
+  "div-class-9": "w-dyn-item",
+  "div-html-4": "<a href=\"/blog/scan-plateau-avec-intelligence-artificielle\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64be97eee2ed083b1796f89b_645e59c481e52e63fc5763f4_6e4394_521ee8c08992414b82231378f94a700ef000.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Le scan plateau avec IA révolutionne la restauration collective</div>\n                  <div class=\"interesting-articles-category\">Les défis de la restauration collective</div>\n                </div>\n              </a>",
+  "div-role-9": "list",
+  "div-class-10": "w-dyn-items",
+  "div-role-10": "listitem",
+  "div-class-11": "w-dyn-item",
+  "div-html-5": "<a href=\"/blog/usage-ewallet-en-restauration-collective\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64be97ee5c3d42c0a9f6f4d9_646b6bedfa0465eaa452f1a2_Fid_solde.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Les différents usages du e-wallet en restauration collective</div>\n                  <div class=\"interesting-articles-category\">Les défis de la restauration collective</div>\n                </div>\n              </a>",
+  "div-role-11": "list",
+  "div-class-12": "w-dyn-items",
+  "div-role-12": "listitem",
+  "div-class-13": "w-dyn-item",
+  "div-html-6": "<a href=\"/blog/systeme-encaissement-restauration-collective\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/65280ee8f428491bb8d1504d_Capture%20d%E2%80%99e%CC%81cran%202021-09-21%20a%CC%80%2011.19.39.jpeg\" sizes=\"(max-width: 479px) 100vw, 262px\" srcset=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/65280ee8f428491bb8d1504d_Capture%20d%E2%80%99e%CC%81cran%202021-09-21%20a%CC%80%2011.19.39-p-500.jpeg 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/65280ee8f428491bb8d1504d_Capture%20d%E2%80%99e%CC%81cran%202021-09-21%20a%CC%80%2011.19.39.jpeg 800w\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Quel système d’encaissement pour la restauration collective ?</div>\n                  <div class=\"interesting-articles-category\">Les défis de la restauration collective</div>\n                </div>\n              </a>",
+  "tail:field-script": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"BlogPosting\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://www.innovorder.com/blog/comment-fonctionne-le-scan-plateau-avec-ia-innovorder\"\n  },\n  \"headline\": \"Comment fonctionne IA Scan : le scan plateau avec intelligence artificielle d&#39;Innovorder\",\n  \"description\": \"Découvrez comment fonctionne le scan plateau avec intelligence artificielle le plus fluide du marché.\",\n  \"image\": \"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/661e4f99352b09e857baf102_Scan%20IA.avif\",  \n  \"author\": {\n    \"@type\": \"\",\n    \"name\": \"Chloé Thévenet\"\n  },  \n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Innovorder\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"\n    }\n  },\n  \"datePublished\": \"9 février 2024\"\n}\n</script>"
+ }
+}

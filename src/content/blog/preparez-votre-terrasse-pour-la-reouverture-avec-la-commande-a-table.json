@@ -1,0 +1,99 @@
+{
+ "slug": "preparez-votre-terrasse-pour-la-reouverture-avec-la-commande-a-table",
+ "seo": {
+  "title": "Réouverture des restaurant avec la commande à table",
+  "description": "Après un an de confinement, la réouverture des restaurants le 19 mai a enfin été annoncée ! La reprise, tant attendue par une population ...",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01da8cf9ec54ec5a918e_63f501f3fcfc59351f1a009b_61bf461da473ea7295d5e418_Untitled.avif",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc01",
+   "data-wf-collection": "6493777d655aea5e6643cb6c",
+   "data-wf-item-slug": "preparez-votre-terrasse-pour-la-reouverture-avec-la-commande-a-table"
+  },
+  "bodyClass": "body",
+  "bodyAttrs": {
+   "ph-category": "blog"
+  },
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"BlogPosting\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://www.innovorder.com/blog/preparez-votre-terrasse-pour-la-reouverture-avec-la-commande-a-table\"\n  },\n  \"headline\": \"Préparez votre terrasse pour la réouverture avec la commande à table\",\n  \"description\": \"Après un an de confinement, la réouverture des restaurants le 19 mai a enfin été annoncée ! La reprise, tant attendue par une population ...\",\n  \"image\": \"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01da8cf9ec54ec5a918e_63f501f3fcfc59351f1a009b_61bf461da473ea7295d5e418_Untitled.avif\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Sophie Lecomte\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Innovorder\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"\n    },\n    \"aggregateRating\": {\n      \"@type\": \"AggregateRating\",\n      \"ratingValue\": \"4.9\",\n      \"reviewCount\": \"550\",\n      \"bestRating\": \"5\",\n      \"worstRating\": \"1\"\n      }\n  },\n  \"datePublished\": \"17 mai 2021\",\n  \"dateModified\": \"\",\n  \"articleSection\": \"Ouvrir ou reprendre son restaurant\",\n  \"timeRequired\": \"3\"\n}\n</script>",
+  "field-script-2": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/blog/preparez-votre-terrasse-pour-la-reouverture-avec-la-commande-a-table\",\"en\":\"https://www.innovorder.com/en/blog/prepare-restaurant-reopening-with-order-at-table\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/blog/preparez-votre-terrasse-pour-la-reouverture-avec-la-commande-a-table\",\"originalPath\":\"/blog/preparez-votre-terrasse-pour-la-reouverture-avec-la-commande-a-table\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/blog/preparez-votre-terrasse-pour-la-reouverture-avec-la-commande-a-table",
+  "link-href-2": "https://www.innovorder.com/en/blog/prepare-restaurant-reopening-with-order-at-table",
+  "breadcrumb-text-href": "/categories/ouvrir-restaurant",
+  "breadcrumb-text": "Ouvrir ou reprendre son restaurant ",
+  "breadcrumb-text-href-2": "/blog/preparez-votre-terrasse-pour-la-reouverture-avec-la-commande-a-table",
+  "breadcrumb-text-2": "Préparez votre terrasse pour la réouverture avec la commande à table",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01da8cf9ec54ec5a918e_63f501f3fcfc59351f1a009b_61bf461da473ea7295d5e418_Untitled.avif",
+  "current-post-image-alt": "",
+  "current-post-image-sizes": null,
+  "current-post-image-srcset": null,
+  "category-name-current-post": "Ouvrir ou reprendre son restaurant ",
+  "read-time-txt-class": "read-time-txt",
+  "read-time-txt-html": "3",
+  "title-post": "Préparez votre terrasse pour la réouverture avec la commande à table",
+  "author-post-class": "author-post",
+  "author-post-html": "Sophie Lecomte",
+  "date-post-text": "05 December 2024",
+  "rt-blog-html": "\n          <p>Après un an de confinement, la réouverture des restaurants le 19 mai a enfin été annoncée !</p>\n          <p>La reprise, tant attendue par une population avide de liberté, se réalisera dans un premier temps par l'accueil des clients en terrasse... de quoi profiter des beaux jours qui arrivent.</p>\n          <p>Avec l'arrivée de cette clientèle qui n'attend qu'une chose : revenir consommer sur place, comment anticiper son retour, vous organiser au mieux et ne pas vous laisser surprendre ?</p>\n          <p>Le Click &amp; Collect et la livraison ayant été les modes de consommation les plus populaires depuis le début de la crise sanitaire, l'efficacité de la <a href=\"/blog/avantages-commande-en-ligne-restaurant\"><strong>commande en ligne</strong></a> n'est plus à prouver et ce n'est surtout pas le moment de la délaisser ! Capitalisez donc sur ce canal formidable pour répondre également de manière efficace à la prise de commande sur place !</p>\n          <h2>La commande en ligne, un bon moyen de reprendre votre activité sereinement.</h2>\n          <p>Un outil s'impose plus que jamais, nous ne vous le présentons plus... le <strong>QR code</strong> ! Bien connu du secteur, c'est ce qui vous permettra de reprendre en douceur et de vous organiser au mieux en cuisine.</p>\n          <p>On ne peut pas faire plus simple : créez un QR code unique redirigeant vers votre commande en ligne, imprimez-le et posez-le sur chacune de vos tables.</p>\n          <p>De nombreux outils en ligne le proposent gratuitement, ce qui vous donne l'embarras du choix : <a href=\"https://www.unitag.io/fr/qrcode\"><strong>unitag</strong></a>, <a href=\"https://www.qrcode-monkey.com/\"><strong>QRCode Monkey</strong></a>, <a href=\"https://fr.qr-code-generator.com/\"><strong>QR Code Generator</strong></a>, <a href=\"https://www.shopify.fr/outils/generateur-de-qr-code\"><strong>Générateur de QR Code Shopify</strong></a>, <a href=\"https://www.qrstuff.com/\"><strong>QR Stuff</strong></a>, etc.</p>\n          <h2>Vos clients sont autonomes</h2>\n          <p>Vos clients confortablement assis en terrasse pourront scanner ce flashcode grâce à leur smartphone et accèderont au catalogue que vous leur proposez en ligne.</p>\n          <p>Avec la <a target=\"_blank\" href=\"/commande-ligne\"><strong>plateforme de commande</strong></a> Innovorder, un menu entièrement personnalisé à votre image et facilement modifiable leur est mis à disposition. Ils n'ont plus qu'à le consulter et passer leur commande depuis leur mobile.</p>\n          <p>Grâce au Click &amp; Serve, il est même possible de demander le numéro de table à laquelle ils sont assis pour faciliter votre service !</p>\n          <figure class=\"w-richtext-align-center w-richtext-figure-type-image\">\n            <div><img loading=\"lazy\" alt=\"Commande en ligne innovorder\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5935201a0068_Untitled.avif\"></div>\n          </figure>\n          <h2>Un paiement automatisé et certain</h2>\n          <p>Fini les resto-baskets ! Avec la commande en ligne, permettez à vos clients de payer directement et simplement en ligne via leur smartphone.</p>\n          <p>Variez aussi les moyens de paiement pour leur faciliter la vie : proposez-leur à la fois de payer par carte bancaire (type Visa, MasterCard ou autre) et par carte titre-restaurant dématérialisé (Swile/Lunchr, RestoFlash, Apetiz, Chèque Déjeuner, ou encore Pass restaurant).</p>\n          <p>Aucune chance d'oubli avec ces nombreuses possibilités de paiement, proposées aisément !</p>\n          <h2>Augmentez votre ticket moyen sans effort</h2>\n          <p>Le parcours digitalisé de la <a target=\"_blank\" href=\"/commande-ligne/\"><strong>commande en ligne</strong></a> Innovorder vous permet de proposer des produits additionnels en fin de parcours à vos clients, et ce de manière très visuelle.</p>\n          <p>Vous prendrez bien un dessert ? Un petit café en plus pour prolonger votre bronzage en terrasse ? L'upsell devient un jeu d'enfant. Ce module vous permet d'accroître votre ticket moyen de <strong>25% en moyenne via ce canal.</strong></p>\n          <figure style=\"max-width:1040px\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\"><a href=\"/ebook/developper-son-fast-food-le-guide-ultime\" target=\"_blank\" class=\"w-inline-block\">\n              <div><img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66b0826e4af0660bd7890fc0_655f7cfe30ab93c8405b2c8b_Bannie%25CC%2580re%2520Blog%2520-%2520guide%2520ultime.avif\" loading=\"lazy\" alt></div>\n            </a></figure>\n          <h2>Organisez-vous comme un chef</h2>\n          <p>Une fois les commandes passées par vos clients de manière 100% digitalisée, celles-ci sont automatiquement distribuées là où bon vous semble. Vous pouvez soit les recevoir sur votre caisse Innovorder, automatiquement liée au plan de table :</p>\n          <figure class=\"w-richtext-align-center w-richtext-figure-type-image\">\n            <div><img loading=\"lazy\" alt=\"plan de table innovorder\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5943331a006a_Plan_de_table_Copy2x.avif\"></div>\n          </figure>\n          <p>N'hésitez plus, faites-vous accompagner dès aujourd'hui sur la mise en place de votre commande en ligne pour anticiper votre réouverture !<br></p>\n        ",
+  "div-class": "w-condition-invisible",
+  "right-head-class": "right-head interesting-art",
+  "div-role": "list",
+  "div-class-2": "w-dyn-items",
+  "div-role-2": "listitem",
+  "div-class-3": "w-dyn-item",
+  "div-html": "<a href=\"/blog/qr-code-restaurant\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc594e4e1a018d_-btKpaFSvIids_ZaAtV0BvggwflAstR9J2nwNp4P_9XZVMmYgY_6y5_KYngBocWQqQ86ESYcjcBx_JQW-jSw0yAsAPdBRsUPfVcB_XvtL5YMK24dO4V1fJrKHyD2eBwXScmdnzGf-rTDi-KygVnCmEHl2ckZXiFgPlX_Zrw6JZKwTZsKNNmzserbUhuV.avif\" sizes=\"(max-width: 479px) 100vw, 262px\" srcset=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc594e4e1a018d_-btKpaFSvIids_ZaAtV0BvggwflAstR9J2nwNp4P_9XZVMmYgY_6y5_KYngBocWQqQ86ESYcjcBx_JQW-jSw0yAsAPdBRsUPfVcB_XvtL5YMK24dO4V1fJrKHyD2eBwXScmdnzGf-rTDi-KygVnCmEHl2ckZXiFgPlX_Zrw6JZKwTZsKNNmzserbUhuV-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc594e4e1a018d_-btKpaFSvIids_ZaAtV0BvggwflAstR9J2nwNp4P_9XZVMmYgY_6y5_KYngBocWQqQ86ESYcjcBx_JQW-jSw0yAsAPdBRsUPfVcB_XvtL5YMK24dO4V1fJrKHyD2eBwXScmdnzGf-rTDi-KygVnCmEHl2ckZXiFgPlX_Zrw6JZKwTZsKNNmzserbUhuV.avif 1254w\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Pourquoi adopter le QR code dans son restaurant ?</div>\n                  <div class=\"interesting-articles-category\">Développer son activité</div>\n                </div>\n              </a>",
+  "div-role-3": "list",
+  "div-class-4": "w-dyn-items",
+  "div-role-4": "listitem",
+  "div-class-5": "w-dyn-item",
+  "div-html-2": "<a href=\"/blog/guide-click-and-collect-restaurant\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d66dad4c026308ce9d_63f501f3fcfc59e8c21a0152_Click%2520and%2520collect%2520dans%2520un%2520restaurant.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Click and Collect en restauration : le guide ultime</div>\n                  <div class=\"interesting-articles-category\">Développer son activité</div>\n                </div>\n              </a>",
+  "div-role-5": "list",
+  "div-class-6": "w-dyn-items",
+  "div-role-6": "listitem",
+  "div-class-7": "w-dyn-item",
+  "div-html-3": "<a href=\"/blog/bons-de-commande-en-restauration\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d0660bc4fa1e1598bc_63f501f3fcfc592a6a1a0140_KDS.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Bons de commande en restauration : papier ou numérique ?</div>\n                  <div class=\"interesting-articles-category\">Développer son activité</div>\n                </div>\n              </a>",
+  "slider-mobile-blog-class": "slider-mobile-blog w-slider",
+  "div-role-7": "list",
+  "div-class-8": "w-dyn-items",
+  "div-role-8": "listitem",
+  "div-class-9": "w-dyn-item",
+  "div-html-4": "<a href=\"/blog/qr-code-restaurant\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc594e4e1a018d_-btKpaFSvIids_ZaAtV0BvggwflAstR9J2nwNp4P_9XZVMmYgY_6y5_KYngBocWQqQ86ESYcjcBx_JQW-jSw0yAsAPdBRsUPfVcB_XvtL5YMK24dO4V1fJrKHyD2eBwXScmdnzGf-rTDi-KygVnCmEHl2ckZXiFgPlX_Zrw6JZKwTZsKNNmzserbUhuV.avif\" sizes=\"(max-width: 479px) 100vw, 262px\" srcset=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc594e4e1a018d_-btKpaFSvIids_ZaAtV0BvggwflAstR9J2nwNp4P_9XZVMmYgY_6y5_KYngBocWQqQ86ESYcjcBx_JQW-jSw0yAsAPdBRsUPfVcB_XvtL5YMK24dO4V1fJrKHyD2eBwXScmdnzGf-rTDi-KygVnCmEHl2ckZXiFgPlX_Zrw6JZKwTZsKNNmzserbUhuV-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc594e4e1a018d_-btKpaFSvIids_ZaAtV0BvggwflAstR9J2nwNp4P_9XZVMmYgY_6y5_KYngBocWQqQ86ESYcjcBx_JQW-jSw0yAsAPdBRsUPfVcB_XvtL5YMK24dO4V1fJrKHyD2eBwXScmdnzGf-rTDi-KygVnCmEHl2ckZXiFgPlX_Zrw6JZKwTZsKNNmzserbUhuV.avif 1254w\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Pourquoi adopter le QR code dans son restaurant ?</div>\n                  <div class=\"interesting-articles-category\">Développer son activité</div>\n                </div>\n              </a>",
+  "div-role-9": "list",
+  "div-class-10": "w-dyn-items",
+  "div-role-10": "listitem",
+  "div-class-11": "w-dyn-item",
+  "div-html-5": "<a href=\"/blog/guide-click-and-collect-restaurant\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d66dad4c026308ce9d_63f501f3fcfc59e8c21a0152_Click%2520and%2520collect%2520dans%2520un%2520restaurant.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Click and Collect en restauration : le guide ultime</div>\n                  <div class=\"interesting-articles-category\">Développer son activité</div>\n                </div>\n              </a>",
+  "div-role-11": "list",
+  "div-class-12": "w-dyn-items",
+  "div-role-12": "listitem",
+  "div-class-13": "w-dyn-item",
+  "div-html-6": "<a href=\"/blog/bons-de-commande-en-restauration\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d0660bc4fa1e1598bc_63f501f3fcfc592a6a1a0140_KDS.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Bons de commande en restauration : papier ou numérique ?</div>\n                  <div class=\"interesting-articles-category\">Développer son activité</div>\n                </div>\n              </a>",
+  "tail:field-script": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"BlogPosting\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://www.innovorder.com/blog/preparez-votre-terrasse-pour-la-reouverture-avec-la-commande-a-table\"\n  },\n  \"headline\": \"Préparez votre terrasse pour la réouverture avec la commande à table\",\n  \"description\": \"Après un an de confinement, la réouverture des restaurants le 19 mai a enfin été annoncée ! La reprise, tant attendue par une population ...\",\n  \"image\": \"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01da8cf9ec54ec5a918e_63f501f3fcfc59351f1a009b_61bf461da473ea7295d5e418_Untitled.avif\",  \n  \"author\": {\n    \"@type\": \"\",\n    \"name\": \"Sophie Lecomte\"\n  },  \n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Innovorder\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"\n    }\n  },\n  \"datePublished\": \"17 mai 2021\"\n}\n</script>"
+ }
+}

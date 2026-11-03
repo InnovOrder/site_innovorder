@@ -1,0 +1,87 @@
+{
+ "slug": "click-and-collect-success-story-le-comptoir-du-malt",
+ "seo": {
+  "title": "Success Story - Why Comptoir du Malt set up online ordering",
+  "description": "If there is one tool that has marked the restaurant industry in 2020, it is online ordering, which allows customers to offer Click & Collect.",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5961131a00d8_Comptoir%20du%20malt-image-1.avif",
+  "lang": "en",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc30",
+   "data-wf-collection": "6493777d655aea5e6643cb6a",
+   "data-wf-item-slug": "click-and-collect-success-story-le-comptoir-du-malt",
+   "data-wg-translated": "en"
+  },
+  "bodyClass": "body",
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/success-stories/click-and-collect-success-story-le-comptoir-du-malt\",\"en\":\"https://www.innovorder.com/en/success-stories/click-and-collect-success-story-le-comptoir-du-malt\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/success-stories/click-and-collect-success-story-le-comptoir-du-malt\",\"originalPath\":\"/success-stories/click-and-collect-success-story-le-comptoir-du-malt\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/success-stories/click-and-collect-success-story-le-comptoir-du-malt",
+  "link-href-2": "https://www.innovorder.com/en/success-stories/click-and-collect-success-story-le-comptoir-du-malt",
+  "title-post": "Why Comptoir du Malt set up the online ordering",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5961131a00d8_Comptoir%20du%20malt-image-1.avif",
+  "current-post-image-sizes": "100vw",
+  "current-post-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5961131a00d8_Comptoir%2520du%2520malt-image-1-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5961131a00d8_Comptoir%2520du%2520malt-image-1-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5961131a00d8_Comptoir%20du%20malt-image-1.avif 1017w",
+  "company-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5987561a0232_image%20(1).avif\")",
+  "title-post-2": "Why Comptoir du Malt set up the online ordering",
+  "rt-blog-html": "\n          <p>If there is one tool that has marked the <a href=\"/en/blog/restaurant-trends-2023\"><strong>the restaurant industry in 2020</strong></a> in 2020 and since the beginning of the year, it is the <a href=\"/en/blog/benefits-of-online-ordering-for-restaurants\"><strong>online ordering</strong></a>which allows to offer Click &amp; Collect to its customers.</p>\n          <p>One year after the 1st containment - and the trend is accelerating, more and more brands are betting on digitalization. Among them: <a href=\"https://www.lecomptoirdumalt.fr/\"><strong>Le Comptoir du Malt</strong></a>which we are proud to count among our customers. </p>\n          <p>The implementation of online ordering was a <strong>real success and the results were quickly achieved </strong>: we wanted to take stock with them to decipher and share with you their communication strategy and Click &amp; Collect activation! </p>\n          <blockquote><strong><em>Online ordering: we applied what Innovorder advised us.</em></strong></blockquote>\n          <p><strong>Antoine Nayet, general manager of Comptoir du Malt,</strong> \"the brewery chain specializing in generous brewery cuisine,\" took the time to answer our questions to give us the key factors in his online ordering success.<br><br>Explanations 👇</p>\n          <p>‍</p>\n          <h3>Communicating at multiple levels</h3>\n          <p>\"<em>There was a lot of digital upfront</em>.\" Comptoir du Malt has been very active <strong>on the web</strong> with a focus on Click &amp; Collect on its <a href=\"https://www.lecomptoirdumalt.fr/\"><strong>its website</strong></a>website, frequent relays on its <strong>social networks</strong> (<a href=\"https://www.facebook.com/pagenationalelecomptoirdumalt/\"><strong>Facebook</strong></a> &amp; <a href=\"https://www.instagram.com/lecomptoirdumalt/\"><strong>Instagram</strong></a>) through regular posts, contests and the activation of its customer database and loyalty program.</p>\n          <p>However, digital is not the only lever that has an impact on results.</p>\n          <blockquote><strong><em>There is a part of our clientele that we do not capture via digital: local marketing for each establishment is essential, based on more traditional approaches.</em></strong></blockquote>\n          <p>The brand has also defined a <strong>physical communication</strong> strategy with its customers by putting up signs on the storefronts and local marketing campaigns (for example, with the distribution of flyers in the neighborhoods around the restaurants).</p>\n          <p>‍</p>\n          <h3>Test to ramp up promotion and adoption of Online Ordering</h3>\n          <p>The Comptoir du Malt teams have chosen not to activate all the possible channels of communication and actions in one block.</p>\n          <p>Their approach? Adopt a wave-based strategy: <strong>\"test, harvest results and then optimize to increase the impact of each action.\"</strong></p>\n          <p>Let's take the example of Facebook advertising campaigns: the company chose to start with small, well-targeted budgets in order to evaluate their effectiveness and to be able to increase their impact in the long term based on the first results obtained.</p>\n          <p>‍</p>\n          <h3><strong>(Re)thinking the layout of the points of sale for current needs, but also in the medium term</strong></h3>\n          <p>We know: the<strong>layout of the point of sale is essential to the success of online ordering</strong>. Nothing is more frustrating for a customer than to have to wait for the collection of his Click &amp; Collect... in the same line as the customers who did not pre-order!</p>\n          <p>According to Antoine Nayet, <strong>managing the flow in each outlet</strong> is a real issue to anticipate for a serene reopening. Today, restaurants are organized for online ordering, but there is already a real challenge to prepare for the future. It will be crucial to succeed in <strong>reconciling take-away sales and traditional sit-down dining</strong>.</p>\n          <blockquote><strong><em>We want to keep this channel alive, and then have it coexist with tabletop dining.</em></strong></blockquote>\n          <p><strong> </strong></p>\n          <h3>Take advantage of additional sales options on the Innovorder online order</h3>\n          <p>Adapting your menu to take-out is one thing: increasing the average basket or taking care of your additional sales (<em>\"upsells\")</em> is another. In a context where, contrary to sit-down restaurants where the team can advise and direct customers, <strong>it is important to set up the online order directly</strong> to encourage each customer to add a dessert, a drink, a formula, a grocery product or a recipe book. </p>\n          <blockquote><strong><em>\"We have an additional sales strategy: that's one of the reasons we chose Innovorder. The other elements that made the difference were the modular nature of the tool, the easy management of dailies and breaks on site, the user-friendly aspect on the customer's side and the logical sequence of the process\".</em></strong></blockquote>\n          <p><strong>A big thank you and congratulations to Comptoir du Malt for its exceptional results</strong>, its optimal use of the Innovorder solution and for sharing its feedback with us.</p>\n          <p>-</p>\n          <p>🗓️ Would you like to take your business to the next level by offering Click &amp; Collect and delivery to your customers? <a href=\"/en/contact-us\" target=\"_blank\"><strong>Contact us now to schedule a demonstration!</strong></a><br></p>\n        ",
+  "right-head": "The Malt Counter",
+  "bozzolo-cat": "Franchise",
+  "div-html": "\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/en/online-ordering-for-restaurant\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59e0dd1a0228_Commande%20en%20ligne.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Online Ordering</div>\n                    </a></div>\n                ",
+  "image-thumb-3x-href": "/en/success-stories/ankka-grenoble-innovorder",
+  "bg-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc593f411a01b8_Alain%20Ankka%20Miniature.avif",
+  "bg-image-sizes": null,
+  "bg-image-srcset": null,
+  "company-img-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5980181a022d_Ankka_logo.avif\")",
+  "link-block-9-href": "/en/success-stories/ankka-grenoble-innovorder",
+  "title-cs": "How Ankka boosted its franchise in 5 steps",
+  "company-name-cs": "Ankka",
+  "label-category-card": "Franchise",
+  "arrow-block-blog-href": "/en/success-stories/ankka-grenoble-innovorder",
+  "image-thumb-3x-href-2": "/en/success-stories/ankka-presqu-ile-innovorder",
+  "bg-image-src-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59eebc1a019f_Portrait%20miniature.avif",
+  "bg-image-sizes-2": null,
+  "bg-image-srcset-2": null,
+  "company-img-logo-style-2": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5980181a022d_Ankka_logo.avif\")",
+  "link-block-9-href-2": "/en/success-stories/ankka-presqu-ile-innovorder",
+  "title-cs-2": "Why Ankka franchisee Anthony hired a delivery driver",
+  "company-name-cs-2": "Ankka",
+  "label-category-card-2": "Franchise",
+  "arrow-block-blog-href-2": "/en/success-stories/ankka-presqu-ile-innovorder",
+  "image-thumb-3x-href-3": "/en/success-stories/alfi-innovorder",
+  "bg-image-src-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc597ce91a020d_small%20alfi.avif",
+  "bg-image-sizes-3": "(max-width: 479px) 100vw, (max-width: 991px) 95vw, (max-width: 1439px) 30vw, 403.3203125px",
+  "bg-image-srcset-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc597ce91a020d_small%2520alfi-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc597ce91a020d_small%20alfi.avif 800w",
+  "company-img-logo-style-3": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59f5ea1a022b_Alfi.avif\")",
+  "link-block-9-href-3": "/en/success-stories/alfi-innovorder",
+  "title-cs-3": "How Alfi increased its average basket by 28%.",
+  "company-name-cs-3": "Alfi",
+  "label-category-card-3": "Independent",
+  "arrow-block-blog-href-3": "/en/success-stories/alfi-innovorder"
+ }
+}

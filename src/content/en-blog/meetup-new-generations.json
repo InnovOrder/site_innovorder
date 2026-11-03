@@ -1,0 +1,101 @@
+{
+ "slug": "meetup-new-generations",
+ "seo": {
+  "title": "The impact of foodservice codes on new generations",
+  "description": "Young consumers are looking for traceability. They like to have a very clear vision of what they are eating and real sourcing of ...",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d8f04b702a289d779d_63f501f3fcfc5938e41a004d_61bf093d04d3381606be94f7_dscf7275_720.avif",
+  "lang": "en",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc01",
+   "data-wf-collection": "6493777d655aea5e6643cb6c",
+   "data-wf-item-slug": "meetup-nouvelles-generations",
+   "data-wg-translated": "en"
+  },
+  "bodyClass": "body",
+  "bodyAttrs": {
+   "ph-category": "blog"
+  },
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.innovorder.com/en/blog/meetup-new-generations\"},\"headline\":\"Comment les nouvelles générations impactent-elles les codes de la restauration collective ?\",\"description\":\"Young consumers are looking for traceability. They like to have a very clear vision of what they are eating and real sourcing of ...\",\"image\":\"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d8f04b702a289d779d_63f501f3fcfc5938e41a004d_61bf093d04d3381606be94f7_dscf7275_720.avif\",\"author\":{\"@type\":\"Person\",\"name\":\"Sophie Lecomte\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Innovorder\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.9\",\"reviewCount\":\"550\",\"bestRating\":\"5\",\"worstRating\":\"1\"}},\"datePublished\":\"14 janvier 2020\",\"dateModified\":\"\",\"articleSection\":\"Tendances et actualités\",\"timeRequired\":\"1\"}</script>",
+  "field-script-2": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/blog/meetup-nouvelles-generations\",\"en\":\"https://www.innovorder.com/en/blog/meetup-new-generations\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/blog/meetup-nouvelles-generations\",\"originalPath\":\"/blog/meetup-nouvelles-generations\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/blog/meetup-nouvelles-generations",
+  "link-href-2": "https://www.innovorder.com/en/blog/meetup-new-generations",
+  "breadcrumb-text-href": "/en/categories/catering-trends",
+  "breadcrumb-text": "Trends and news",
+  "breadcrumb-text-href-2": "/en/blog/meetup-new-generations",
+  "breadcrumb-text-2": "How are the new generations impacting the codes of collective catering?",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d8f04b702a289d779d_63f501f3fcfc5938e41a004d_61bf093d04d3381606be94f7_dscf7275_720.avif",
+  "current-post-image-alt": "",
+  "current-post-image-sizes": null,
+  "current-post-image-srcset": null,
+  "category-name-current-post": "Trends and news",
+  "read-time-txt-class": "read-time-txt",
+  "read-time-txt-html": "1",
+  "title-post": "How are the new generations impacting the codes of collective catering?",
+  "author-post-class": "author-post",
+  "author-post-html": "Sophie Lecomte",
+  "date-post-text": "05 December 2024",
+  "rt-blog-html": "\n          <p>This Tuesday, January 14, we had the pleasure of organizing a<strong> meet-up</strong> in our offices<strong data-wg-splitted> dedicated to the impact of generations Y and Z on the catering industry</strong>.</p>\n          <p>Innovorder brought together <strong>Benoît Champion (Convivio), Thomas Jean (Ecla Campus), Cyril Dugué (Convergence Ing.) and Amaury Lefebure (</strong><a href=\"/en/blog/restaurateurs-of-tomorrow-with-amaury-lefebure-foodles\"><strong>Foodles</strong></a><strong>) around Xavier Guyard (Innovorder)</strong><strong>, experts in the </strong><a href=\"/en/blog/collective-catering-losses-waste-management\"><strong>foodservice</strong></a><strong> and new technologies</strong>, to decipher the behaviors of the famous <em>digital natives</em> and present solutions that meet their expectations.</p>\n          <p>Here are the points that you should not miss!</p>\n          <ul role=\"list\">\n            <li>The new generations call for new distribution tools, so that <strong>the student is an actor in his tray</strong> and <strong>an actor in what he will eat</strong>. We are in a <strong>responsible lunch</strong> approach. Whether it's a school canteen, a company canteen or a connected fridge, the plate must make sense for the health of the guest and for the planet. Players like Convivio must identify the impact of what is served, give preference to local producers...</li>\n            <li>Today there are two types of consumption: in the first case, the student <strong>enjoys</strong>rather high-calorie and energetic dishes, while a more feminine population will start to pay<strong> attention to</strong> what they consume.</li>\n            <li>Young consumers are looking for <strong>traceability</strong>. They like to have a very clear vision of what they are eating and a real <em>sourcing of</em> products. We are also observing a second phenomenon: the rise of the <strong>flexitarian or vegan</strong> diet. Restaurant concepts must also evolve to answer these questions and provide precise information on products, as well as an alternative offer (gluten-free, etc.).</li>\n            <li>Schedules and habits are changing. For young workers in particular, adjusting their working day to meal times makes less sense than before. A player like Foodles has noted an increase in the number of meals taken before noon or after 3pm. As for breakfast, it is increasingly taken in the company.</li>\n            <li>One of the particularities of <em>digital natives</em>, and especially of generation Z (which unlike Millenials, has always known digital tools), is to want to free themselves from constraints and <strong>get what they want when they want it</strong>, like with their smartphone.</li>\n            <li><strong> Pre-ordering</strong> and <a href=\"/en/blog/benefits-of-online-ordering-for-restaurants\"><strong>online ordering</strong></a> are on the rise. This allows you to control your schedule and avoid waiting in line at the canteen.</li>\n            <li>Today's food service industry must adapt to the way corporate life has evolved. For example, the rise of <strong>telecommuting</strong>, which is considered expected and normal by Generation Z and consists of doing one's workload when and where one wants, implies an <strong>ever-increasing flexibility of the catering industry</strong>.</li>\n            <li><strong>Digital technology is used for customer relations</strong> by anticipating their needs and listening to them, but it is also used to manage the<strong><em> supply chain</em></strong>It is also being used to manage the supply chain, optimize procurement and take a strong responsibility for <strong>waste</strong> management.</li>\n            <li>Generation Z <strong>is detached from brands</strong>. They are attached to a product at a given moment, but this implies constant communication to \"retain\" them.</li>\n          </ul>\n        ",
+  "div-class": "w-condition-invisible",
+  "right-head-class": "right-head interesting-art",
+  "div-role": "list",
+  "div-class-2": "w-dyn-items",
+  "div-role-2": "listitem",
+  "div-class-3": "w-dyn-item",
+  "div-html": "<a href=\"/en/blog/restaurant-trends-2023\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt=\"restaurant full\" loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01de5c84e8acd6111830_63f501f3fcfc594e0c1a01b6_iStock-1175050377.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">10 restaurant trends you need to know about in 2023</div>\n                  <div class=\"interesting-articles-category\">Trends and news</div>\n                </div>\n              </a>",
+  "div-role-3": "list",
+  "div-class-4": "w-dyn-items",
+  "div-role-4": "listitem",
+  "div-class-5": "w-dyn-item",
+  "div-html-2": "<a href=\"/en/blog/how-to-reinvent-collective-catering\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d272d28c786a79940b_63f501f3fcfc594c461a0004_featured-image-1.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">How is the catering industry reinventing itself?</div>\n                  <div class=\"interesting-articles-category\">The challenges of foodservice</div>\n                </div>\n              </a>",
+  "div-role-5": "list",
+  "div-class-6": "w-dyn-items",
+  "div-role-6": "listitem",
+  "div-class-7": "w-dyn-item",
+  "div-html-3": "<a href=\"/en/blog/new-competitors-collective-catering\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d87377f430cdb761a1_63f501f3fcfc5990f51a01ac_concurrent-restauration-collective-blog-innovorder.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Who are the competitors of the catering industry?</div>\n                  <div class=\"interesting-articles-category\">The challenges of foodservice</div>\n                </div>\n              </a>",
+  "slider-mobile-blog-class": "slider-mobile-blog w-slider",
+  "div-role-7": "list",
+  "div-class-8": "w-dyn-items",
+  "div-role-8": "listitem",
+  "div-class-9": "w-dyn-item",
+  "div-html-4": "<a href=\"/en/blog/restaurant-trends-2023\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt=\"restaurant full\" loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01de5c84e8acd6111830_63f501f3fcfc594e0c1a01b6_iStock-1175050377.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">10 restaurant trends you need to know about in 2023</div>\n                  <div class=\"interesting-articles-category\">Trends and news</div>\n                </div>\n              </a>",
+  "div-role-9": "list",
+  "div-class-10": "w-dyn-items",
+  "div-role-10": "listitem",
+  "div-class-11": "w-dyn-item",
+  "div-html-5": "<a href=\"/en/blog/how-to-reinvent-collective-catering\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d272d28c786a79940b_63f501f3fcfc594c461a0004_featured-image-1.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">How is the catering industry reinventing itself?</div>\n                  <div class=\"interesting-articles-category\">The challenges of foodservice</div>\n                </div>\n              </a>",
+  "div-role-11": "list",
+  "div-class-12": "w-dyn-items",
+  "div-role-12": "listitem",
+  "div-class-13": "w-dyn-item",
+  "div-html-6": "<a href=\"/en/blog/new-competitors-collective-catering\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d87377f430cdb761a1_63f501f3fcfc5990f51a01ac_concurrent-restauration-collective-blog-innovorder.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Who are the competitors of the catering industry?</div>\n                  <div class=\"interesting-articles-category\">The challenges of foodservice</div>\n                </div>\n              </a>",
+  "tail:field-script": "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.innovorder.com/en/blog/meetup-new-generations\"},\"headline\":\"Comment les nouvelles générations impactent-elles les codes de la restauration collective ?\",\"description\":\"Young consumers are looking for traceability. They like to have a very clear vision of what they are eating and real sourcing of ...\",\"image\":\"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d8f04b702a289d779d_63f501f3fcfc5938e41a004d_61bf093d04d3381606be94f7_dscf7275_720.avif\",\"author\":{\"@type\":\"\",\"name\":\"Sophie Lecomte\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Innovorder\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"}},\"datePublished\":\"14 janvier 2020\"}</script>"
+ }
+}

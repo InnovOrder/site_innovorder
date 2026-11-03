@@ -1,0 +1,85 @@
+{
+ "slug": "boulangerie-tranche-innovorder",
+ "seo": {
+  "title": "Success Story - Comment améliorer la gestion du cash dans sa boulangerie ? Le cas de Tranché",
+  "description": "Découvrez comment Tranché, la boulangerie artisanale en pleine expansion, a repris le contrôle sur 30 % de ses ventes en espèces grâce au monnayeur et à la caisse connectée Innovorder.",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/68d29891551c8d19d1fa5307_Screenshot%202025-09-15%20at%2016.47.07.avif",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc30",
+   "data-wf-collection": "6493777d655aea5e6643cb6a",
+   "data-wf-item-slug": "boulangerie-tranche-innovorder"
+  },
+  "bodyClass": "body",
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/success-stories/boulangerie-tranche-innovorder\",\"en\":\"https://www.innovorder.com/en/success-stories/boulangerie-tranche-innovorder\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/success-stories/boulangerie-tranche-innovorder\",\"originalPath\":\"/success-stories/boulangerie-tranche-innovorder\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/success-stories/boulangerie-tranche-innovorder",
+  "link-href-2": "https://www.innovorder.com/en/success-stories/boulangerie-tranche-innovorder",
+  "title-post": "Comment améliorer la gestion du cash dans sa boulangerie ? Le cas de Tranché",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/68d29891551c8d19d1fa5307_Screenshot%202025-09-15%20at%2016.47.07.avif",
+  "current-post-image-sizes": "100vw",
+  "current-post-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/68d29891551c8d19d1fa5307_Screenshot%202025-09-15%20at%2016.47.07-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/68d29891551c8d19d1fa5307_Screenshot%202025-09-15%20at%2016.47.07-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/68d29891551c8d19d1fa5307_Screenshot%202025-09-15%20at%2016.47.07-p-1080.avif 1080w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/68d29891551c8d19d1fa5307_Screenshot%202025-09-15%20at%2016.47.07.avif 1200w",
+  "company-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3eaf409d73e1da421395_images.avif\")",
+  "title-post-2": "Comment améliorer la gestion du cash dans sa boulangerie ? Le cas de Tranché",
+  "rt-blog-html": "\n          <figure style=\"padding-bottom:56.206088992974244%\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-video\">\n            <div>\n              <iframe src=\"https://www.youtube.com/embed/-jSicjESgOE\" title=\"20 à 30% des ventes en liquide : le vrai défi de la boulangerie Tranché\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>\n            </div>\n          </figure>\n          <p>‍</p>\n          <p>Marie et Augustin, fondateurs de Tranché, avaient une ambition simple : moderniser la boulangerie de quartier, sans jamais renier les méthodes artisanales. Un équilibre rare, mais indispensable pour conjuguer passion et performance.</p>\n          <blockquote>\"Tranché, c’est né de notre passion pour l’artisanat et notre volonté de bousculer un peu les codes de la boulangerie.\"</blockquote>\n          <p>Avec quatre boutiques et d'autres ouvertures en vue, ils ont fait un choix clé : s'appuyer sur la technologie pour piloter leur croissance.</p>\n          <h3>30% du chiffre d'affaires... en espèces</h3>\n          <p>Ce que beaucoup ignorent, c’est que dans une boulangerie, la carte bancaire ne règne pas en maître. Chez Tranché, entre 20 et 30% des ventes se font encore en liquide. Un cauchemar à gérer pour qui veut avoir une vision claire des marges.</p>\n          <blockquote>\"Le <a href=\"/monnayeur-automatique\">monnayeur</a> est devenu essentiel. Sans lui, c'est des erreurs, du temps perdu, et beaucoup d'incertitudes.\"</blockquote>\n          <h3>La technologie comme levier silencieux</h3>\n          <p>Marie et Augustin ne sont pas \"geeks\", mais ils savent que la clé pour durer passe par de bons outils. Leur <a href=\"/caisse-enregistreuse-tactile-restaurant\">caisse</a> ? Connectée à leur compta, RH, ERP. Leurs ventes ? Suivies en temps réel. Leurs marges ? Calculées, pilotées, corrigées.</p>\n          <p>En coulisses, c'est Innovorder qui structure cette gestion. Une solution intégrée, certes. Mais surtout un partenaire qui comprend les réalités du terrain.</p>\n          <h3>Grandir sans perdre le fil</h3>\n          <p>Ce que Tranché veut prouver, c'est qu'on peut être artisan exigeant et entrepreneur aguerri. Que la technologie, loin de déshumaniser, permet de passer plus de temps sur l'essentiel : le produit, l'équipe, le client.</p>\n          <p>\"Être artisan moderne, c’est ne pas avoir peur de se faire aider par la tech.\"</p>\n          <h3>—</h3>\n          <p>Vous souhaitez équiper votre <a href=\"/boulangerie\">boulangerie</a> ? Faites appel à un expert Innovorder et découvrez comment fluidifier le passage en caisse !</p>\n        ",
+  "right-head": "Tranché",
+  "bozzolo-cat": "Franchise",
+  "div-html": "\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/caisse-enregistreuse-tactile-restauration\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc596eea1a0225_Portefeuille-2.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Caisse enregistreuse</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/monnayeur-automatique\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59f3e01a0224_Monnayeur.webp\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Monnayeur automatique</div>\n                    </a></div>\n                ",
+  "image-thumb-3x-href": "/success-stories/comment-burgouzz-est-passe-dune-dark-kitchen-a-3-restaurants-physiques",
+  "bg-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/673ddf407484f43263a2cc63_Screenshot%202024-10-31%20at%2014.28.15%20(1).avif",
+  "bg-image-sizes": "(max-width: 767px) 100vw, 800px",
+  "bg-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/673ddf407484f43263a2cc63_Screenshot%202024-10-31%20at%2014.28.15%20(1)-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/673ddf407484f43263a2cc63_Screenshot%202024-10-31%20at%2014.28.15%20(1).avif 800w",
+  "company-img-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/673db2f6126c0679353ad821_burgouzz%20logo.avif\")",
+  "link-block-9-href": "/success-stories/comment-burgouzz-est-passe-dune-dark-kitchen-a-3-restaurants-physiques",
+  "title-cs": "Comment Burgouzz est passé d'une dark kitchen à 3 restaurants physiques",
+  "company-name-cs": "Burgouzz",
+  "label-category-card": "Indépendant",
+  "arrow-block-blog-href": "/success-stories/comment-burgouzz-est-passe-dune-dark-kitchen-a-3-restaurants-physiques",
+  "image-thumb-3x-href-2": "/success-stories/lexpress-avoriaz-innovorder",
+  "bg-image-src-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/67e6aaa07ed9ee4bcb78d640_IMG_3606%20(1).avif",
+  "bg-image-sizes-2": "100vw",
+  "bg-image-srcset-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/67e6aaa07ed9ee4bcb78d640_IMG_3606%20(1)-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/67e6aaa07ed9ee4bcb78d640_IMG_3606%20(1).avif 800w",
+  "company-img-logo-style-2": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/67e65fdf6927b77524b4011d_l'express%20avoriaz.avif\")",
+  "link-block-9-href-2": "/success-stories/lexpress-avoriaz-innovorder",
+  "title-cs-2": "Comment gérer les flux d'un fast-food au pied des pistes ?",
+  "company-name-cs-2": "L'Express Avoriaz",
+  "label-category-card-2": "Indépendant",
+  "arrow-block-blog-href-2": "/success-stories/lexpress-avoriaz-innovorder",
+  "image-thumb-3x-href-3": "/success-stories/becchi-innovorder",
+  "bg-image-src-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6699308af769ff68039ba835_Screenshot%202024-07-18%20at%2015.32.03.avif",
+  "bg-image-sizes-3": "(max-width: 479px) 100vw, (max-width: 991px) 95vw, (max-width: 1439px) 30vw, 403.3203125px",
+  "bg-image-srcset-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6699308af769ff68039ba835_Screenshot%202024-07-18%20at%2015.32.03-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6699308af769ff68039ba835_Screenshot%202024-07-18%20at%2015.32.03.avif 800w",
+  "company-img-logo-style-3": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6682a0d65f438e4a6e897c13_becchi.avif\")",
+  "link-block-9-href-3": "/success-stories/becchi-innovorder",
+  "title-cs-3": "Pourquoi le digital est indispensable en restauration rapide d'après Becchi",
+  "company-name-cs-3": "Becchi",
+  "label-category-card-3": "Indépendant",
+  "arrow-block-blog-href-3": "/success-stories/becchi-innovorder"
+ }
+}

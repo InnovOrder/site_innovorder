@@ -1,0 +1,337 @@
+---
+// Code tiers chargé dans le <head> de toutes les pages (consentement, GTM, Weglot…).
+// Généré depuis le site Webflow par scripts/migrate-webflow.mjs, puis maintenu dans ce dépôt.
+---
+<!-- OpenAI Ads Pixel -->
+<script is:inline>
+!function(w,d,s,u){
+  if(w.oaiq)return;
+  var q=function(){q.q.push(arguments)};
+  q.q=[];
+  w.oaiq=q;
+  var j=d.createElement(s);
+  j.async=1;
+  j.src=u;
+  var f=d.getElementsByTagName(s)[0];
+  f.parentNode.insertBefore(j,f);
+}(window,document,"script","https://bzrcdn.openai.com/sdk/oaiq.min.js");
+
+oaiq("consent", false);
+
+oaiq("init", {
+  pixelId: "TkwBUyypBXT1MmrgPJbpEh",
+  debug: true
+});
+</script>
+<!-- Relais consentement Axeptio -->
+<script is:inline>
+window._axcb = window._axcb || [];
+
+window._axcb.push(function (sdk) {
+
+  sdk.on("cookies:complete", function (choices) {
+
+    if (choices.openai_ads) {
+
+      oaiq("consent", true);
+
+      oaiq("measure", "page_viewed", {
+        type: "contents",
+        contents: [{
+          id: window.location.pathname,
+          name: document.title,
+          content_type: "page"
+        }]
+      });
+
+    } else {
+
+      oaiq("consent", false);
+
+    }
+
+  });
+
+});
+</script>
+<!-- Conversion : formulaires HubSpot -->
+<script is:inline>
+window.addEventListener("message", function (event) {
+
+  if (
+    event.data &&
+    event.data.type === "hsFormCallback" &&
+    event.data.eventName === "onFormSubmitted"
+  ) {
+
+    oaiq(
+      "measure",
+      "lead_created",
+      {
+        type: "customer_action"
+      },
+      {
+        event_id:
+          "lead_" +
+          Date.now() +
+          "_" +
+          Math.random().toString(36).slice(2, 8)
+      }
+    );
+
+  }
+
+});
+</script>
+<!-- Google Tag Manager -->
+<script is:inline>
+(function(w,d,s,l,i){
+
+  w[l]=w[l]||[];
+
+  w[l].push({
+    'gtm.start': new Date().getTime(),
+    event:'gtm.js'
+  });
+
+  var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),
+      dl=l!='dataLayer'?'&l='+l:'';
+
+  j.async=true;
+  j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+
+  f.parentNode.insertBefore(j,f);
+
+})(window,document,'script','dataLayer','GTM-WBS22CB');
+</script>
+<!-- End Google Tag Manager -->
+<!-- Facebook domain verification -->
+<meta name="facebook-domain-verification" content="trjjvvihjfj1gqabcbt41zf1uoenx6">
+<!-- Conservation et propagation du tracking vers /nous-contacter -->
+<script is:inline>
+(function () {
+
+  var TRACKING_PARAMS = [
+    "utm_source",
+    "utm_medium",
+    "utm_campaign",
+    "utm_content",
+    "utm_term",
+    "oppref"
+  ];
+
+
+  /*
+   * Enregistre dans sessionStorage
+   * les paramètres présents sur la landing page.
+   */
+  function saveTrackingParams() {
+
+    var params = new URLSearchParams(window.location.search);
+
+    TRACKING_PARAMS.forEach(function (key) {
+
+      var value = params.get(key);
+
+      if (value) {
+        sessionStorage.setItem(key, value);
+      }
+
+    });
+
+  }
+
+
+  /*
+   * Ajoute les paramètres mémorisés
+   * à une URL.
+   */
+  function addTrackingToUrl(url) {
+
+    TRACKING_PARAMS.forEach(function (key) {
+
+      var value = sessionStorage.getItem(key);
+
+      if (value && !url.searchParams.has(key)) {
+        url.searchParams.set(key, value);
+      }
+
+    });
+
+    return url;
+
+  }
+
+
+  /*
+   * Met à jour tous les liens vers
+   * /nous-contacter.
+   */
+  function updateContactLinks() {
+
+    var links = document.querySelectorAll("a[href]");
+
+    links.forEach(function (link) {
+
+      try {
+
+        var url = new URL(link.href, window.location.href);
+
+        var isInnovorder =
+          url.hostname === "www.innovorder.com" ||
+          url.hostname === "innovorder.com";
+
+        var isContactPage =
+          url.pathname.replace(/\/$/, "") === "/nous-contacter";
+
+        if (isInnovorder && isContactPage) {
+
+          url = addTrackingToUrl(url);
+
+          link.href = url.toString();
+
+        }
+
+      } catch (e) {
+        // Ignore les URLs non valides
+      }
+
+    });
+
+  }
+
+
+  /*
+   * Initialisation.
+   */
+  function initTrackingPropagation() {
+
+    /*
+     * 1. Sauvegarde les paramètres
+     * de la landing page.
+     */
+    saveTrackingParams();
+
+
+    /*
+     * 2. Met à jour les liens déjà présents.
+     */
+    updateContactLinks();
+
+
+    /*
+     * 3. Surveille les éléments ajoutés
+     * dynamiquement par Webflow.
+     */
+    var observer = new MutationObserver(function () {
+
+      updateContactLinks();
+
+    });
+
+    observer.observe(document.body, {
+      childList: true,
+      subtree: true
+    });
+
+
+    /*
+     * 4. Sécurité au moment exact du clic.
+     * Le tracking est ajouté juste avant
+     * la navigation vers /nous-contacter.
+     */
+    document.addEventListener(
+      "click",
+      function (event) {
+
+        var link = event.target.closest("a[href]");
+
+        if (!link) {
+          return;
+        }
+
+        try {
+
+          var url = new URL(link.href, window.location.href);
+
+          var isInnovorder =
+            url.hostname === "www.innovorder.com" ||
+            url.hostname === "innovorder.com";
+
+          var isContactPage =
+            url.pathname.replace(/\/$/, "") === "/nous-contacter";
+
+          if (isInnovorder && isContactPage) {
+
+            url = addTrackingToUrl(url);
+
+            link.href = url.toString();
+
+          }
+
+        } catch (e) {
+          // Ignore les URLs non valides
+        }
+
+      },
+      true
+    );
+
+  }
+
+
+  /*
+   * Attend que le DOM soit prêt.
+   */
+  if (document.readyState === "loading") {
+
+    document.addEventListener(
+      "DOMContentLoaded",
+      initTrackingPropagation
+    );
+
+  } else {
+
+    initTrackingPropagation();
+
+  }
+
+})();
+</script>
+<script type="text/javascript" src="https://cdn.weglot.com/weglot.min.js" is:inline>
+</script>
+<script is:inline>
+Weglot.initialize({
+  api_key: "wg_f3fc4f67531576b7919250c2c15f9d3f1",
+  hreflang_x_default: "en"
+});
+</script>
+<!-- Styles -->
+<style is:inline>
+
+@media screen and (max-width: 990px) {
+
+  .faq-col-tab._1st {
+    display: none !important;
+  }
+
+  .mobile-only-image {
+    display: block;
+    margin-top: 12px;
+    margin-bottom: 18px;
+  }
+
+}
+
+
+@media screen and (min-width: 991px) {
+
+  .mobile-only-image {
+    display: none !important;
+  }
+
+}
+
+</style>
+<script type="text/javascript" is:inline>window.__WEBFLOW_CURRENCY_SETTINGS = {"currencyCode":"USD","symbol":"$","decimal":".","fractionDigits":2,"group":",","template":"{{wf {\"path\":\"symbol\",\"type\":\"PlainText\"} }} {{wf {\"path\":\"amount\",\"type\":\"CommercePrice\"} }} {{wf {\"path\":\"currencyCode\",\"type\":\"PlainText\"} }}","hideDecimalForWholeNumbers":false};</script>

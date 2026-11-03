@@ -1,0 +1,303 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import NavbarEn from '@/components/NavbarEn.astro';
+import FooterEn from '@/components/FooterEn.astro';
+
+export async function getStaticPaths() {
+  const entries = await getCollection("en-integrations");
+  return entries.map((entry) => ({ params: { slug: entry.data.slug }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+// Champs variables de la page (texte, attributs, fragments HTML), issus du CMS Webflow.
+const d = entry.data.fields;
+---
+<BaseLayout {...entry.data.seo}>
+  <Fragment slot="head">
+    <!-- Weglot -->
+    <Fragment set:html={d["head:field-script"]} />
+    <link href={d["head:link-href"]} hreflang="fr" rel="alternate">
+    <link href={d["link-href-2"]} hreflang="en" rel="alternate">
+  </Fragment>
+  <div class="overflow-hidden"><div class="gtm-embed w-embed"></div><NavbarEn /><div class="section-hero-n integrations">
+      <div class="container-1280">
+        <div class="wrap-hero-integrations">
+          <div class="container-integrations-hero">
+            <h1 data-w-id="0023fc2a-089a-42ed-19b2-10cc487f3f34" style="opacity:0" class="title-00 kiosk is-white _0">{d["title-00"]}</h1>
+            <p class="text-17px expertise is-white _0">{d["text-17px"]}</p>
+            <div data-w-id="0023fc2a-089a-42ed-19b2-10cc487f3f3b" style="opacity:0" class="button-wrap"><a href="/en/contact-us" class="button-icon-hp3">Request a demo</a></div>
+          </div>
+          <div class="integration-inner-container"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/665dbee0de5abba7af8240e4_innovorder-logo.webp" loading="lazy" alt class="logo-integration-inner-hero"><img src={d["logo-integration-inner-hero-src"]} loading="lazy" alt={d["logo-integration-inner-hero-alt"]} class="logo-integration-inner-hero" sizes={d["logo-integration-inner-hero-sizes"]} srcset={d["logo-integration-inner-hero-srcset"]}></div>
+        </div>
+      </div>
+    </div><div class="section-20">
+      <div class="container-1280">
+        <div data-w-id="70d6b16e-8936-c446-c970-f0cc75bb6b74" style="opacity:0" class="_24-rt-gradient w-richtext">
+          <p><Fragment set:html={d["24-rt-gradient-html"]} /></p>
+        </div>
+      </div>
+    </div><div class="section-20 custom">
+      <div class="container-1280">
+        <div class="block-1x1 kiosk">
+          <div id="w-node-_672ce4d9-8f08-a370-53d7-82b1ddbb2320-0697d94c" class="bullets-kiosk-block">
+            <div class="title-left-side-wrapper expertise equipes">
+              <div class="border-gradient-div expertise"></div>
+              <div class="h2-logos-prix rt-integration w-richtext"><Fragment set:html={d["h2-logos-prix-html"]} /></div>
+            </div>
+            <div data-w-id="c853b7eb-433a-8d4c-1f51-cde632fcb8e8" style="opacity:0" class="rt-features-integration w-richtext">
+              <ul role="list"><Fragment set:html={d["rt-features-integration-html"]} /></ul>
+            </div>
+            <div class="buttons-wrap"><a href="/en/contact-us" class="button-icon-hp reverse-2">Request a demo</a><a href={d["button-icon-hp-href"]} class="button-icon-hp reverse">
+                <div id="w-node-_77b77414-b9e7-e0e5-4124-2b2a5107031a-0697d94c">{d["w-node-77b77414-b9e7-e0e5-4124-2b2a5107031a-0697d94c"]}</div>
+              </a></div>
+          </div>
+          <div id="w-node-_672ce4d9-8f08-a370-53d7-82b1ddbb233e-0697d94c" class="image-kiosk-block left"><img src={d["image-kiosk-src"]} loading="lazy" width="467" alt sizes={d["image-kiosk-sizes"]} srcset={d["image-kiosk-srcset"]} class="image-kiosk _100"></div>
+        </div>
+      </div>
+    </div><div class="slider-clients">
+      <div class="carousel-component">
+        <div class="carousel flex integration">
+          <h2 class="h2-logos-prix padding-kiosk"><span class="gradient-text">+ 3,000 restaurant owners</span> rely on Innovorder to boost their business<span class="gradient-text">.</span></h2>
+          <div style="-webkit-transform:translate3d(0%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="logo-carousel-wrap">
+            <ul role="list" class="logo-carousel">
+              <li class="logo-carousel-item">
+                <div class="collection-list-wrapper w-dyn-list">
+                  <div role="list" class="moving-content-clients w-dyn-items">
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/6144e950589804b7180974e6/6333538c353054d20089f727_compass.webp" loading="eager" alt class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59631b1a013e_amorino.avif" loading="eager" alt class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5903501a013f_chamas%20tacos.avif" loading="eager" alt class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5951d11a016e_1001%20repas_logo.avif" loading="eager" alt class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5903d21a0134_sodexo.avif" loading="eager" alt class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/6144e950589804b7180974e6/633353576d1a3742efead3f7_newrest.webp" loading="eager" alt class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc593d891a012f_ground%20control.avif" loading="eager" alt class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59b7701a012e_dupont.avif" loading="eager" alt class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/6144e950589804b7180974e6/63335387cbfe4b8e188dff32_convivio.webp" loading="eager" alt class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59cf671a013a_bagel%20corner.avif" loading="eager" alt class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5943e11a0137_popchef.avif" loading="eager" alt class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/649d68271c92b85a2ec990df_restalliance.avif" loading="eager" alt class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/649d685bfa9613aa95d0d5a6_api.avif" loading="eager" alt class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3e6f7602e73192de6eb4_apsys.avif" loading="eager" alt class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3e80d68c8583b0d419bf_boom%20boom.avif" loading="eager" alt sizes="(max-width: 479px) 100vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, (max-width: 1439px) 97vw, (max-width: 1919px) 98vw, 100vw" srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3e80d68c8583b0d419bf_boom%20boom-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3e80d68c8583b0d419bf_boom%20boom-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3e80d68c8583b0d419bf_boom%20boom-p-1080.avif 1080w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3e80d68c8583b0d419bf_boom%20boom-p-1600.avif 1600w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3e80d68c8583b0d419bf_boom%20boom-p-2000.avif 2000w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3e80d68c8583b0d419bf_boom%20boom.avif 2915w" class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3e8bf9a18c2c0970321f_easy%20sushi%201.avif" loading="eager" alt class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3ea2536090de032cf8ed_Ground%20countrol%20logo%201.avif" loading="eager" alt class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3eaf409d73e1da421395_images.avif" loading="eager" alt class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3eb814c520996907d253_italian%20queen.avif" loading="eager" alt class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3ec4d3c37c91e76748c3_kazdelerie.avif" loading="eager" alt class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3edec94c91b24f9b50be_logo_marine.avif" loading="eager" alt sizes="(max-width: 479px) 100vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, (max-width: 1439px) 97vw, (max-width: 1919px) 98vw, 100vw" srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3edec94c91b24f9b50be_logo_marine-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3edec94c91b24f9b50be_logo_marine.avif 1182w" class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3efbd71b349e54133b4e_logo-bchef.avif" loading="eager" alt sizes="(max-width: 479px) 100vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, (max-width: 1439px) 97vw, (max-width: 1919px) 98vw, 100vw" srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3efbd71b349e54133b4e_logo-bchef-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3efbd71b349e54133b4e_logo-bchef-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3efbd71b349e54133b4e_logo-bchef.avif 1080w" class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3f177602e73192dee606_LOGO-ROND-OMBRE.avif" loading="eager" alt sizes="(max-width: 479px) 100vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, (max-width: 1439px) 97vw, (max-width: 1919px) 98vw, 100vw" srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3f177602e73192dee606_LOGO-ROND-OMBRE-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3f177602e73192dee606_LOGO-ROND-OMBRE-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3f177602e73192dee606_LOGO-ROND-OMBRE-p-1080.avif 1080w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3f177602e73192dee606_LOGO-ROND-OMBRE-p-1600.avif 1600w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3f177602e73192dee606_LOGO-ROND-OMBRE.avif 1756w" class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3f35dbc6bcaf98c5943a_paris%20baguette.avif" loading="eager" alt class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3eec906bbc17bc05f31f_Logo-Bagelstein-NBO-512x474-1.avif" loading="eager" alt class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/68e2399669618cca626c4eef_idkO8Z2jH5_1759478907084.avif" loading="eager" alt class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e0b0d1bb72e5c05a88ce_arpege.png" loading="eager" alt sizes="(max-width: 479px) 100vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, (max-width: 1439px) 97vw, (max-width: 1919px) 98vw, 100vw" srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e0b0d1bb72e5c05a88ce_arpege-p-500.png 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e0b0d1bb72e5c05a88ce_arpege.png 656w" class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e0bcd137584f3b6048bc_midi.png" loading="eager" alt sizes="(max-width: 479px) 100vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, (max-width: 1439px) 97vw, (max-width: 1919px) 98vw, 100vw" srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e0bcd137584f3b6048bc_midi-p-500.png 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e0bcd137584f3b6048bc_midi.png 554w" class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e0cae9cadf5e5391dd3d_chateauform.png" loading="eager" alt sizes="(max-width: 479px) 100vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, (max-width: 1439px) 97vw, (max-width: 1919px) 98vw, 100vw" srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e0cae9cadf5e5391dd3d_chateauform-p-500.png 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e0cae9cadf5e5391dd3d_chateauform.png 580w" class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e0dcf86409d9ac8d8dc9_la%20croissanterie.png" loading="eager" alt sizes="(max-width: 479px) 100vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, (max-width: 1439px) 97vw, (max-width: 1919px) 98vw, 100vw" srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e0dcf86409d9ac8d8dc9_la%20croissanterie-p-500.png 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e0dcf86409d9ac8d8dc9_la%20croissanterie.png 576w" class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e10661ca36f366c939fe_paris%20baguette.png" loading="eager" alt sizes="(max-width: 479px) 100vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, (max-width: 1439px) 97vw, (max-width: 1919px) 98vw, 100vw" srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e10661ca36f366c939fe_paris%20baguette-p-500.png 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e10661ca36f366c939fe_paris%20baguette.png 588w" class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e129ea7a7097900676da_capfun.png" loading="eager" alt sizes="(max-width: 479px) 100vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, (max-width: 1439px) 97vw, (max-width: 1919px) 98vw, 100vw" srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e129ea7a7097900676da_capfun-p-500.png 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e129ea7a7097900676da_capfun.png 702w" class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e139276a18680eb0a07b_empreintes.png" loading="eager" alt sizes="(max-width: 479px) 100vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, (max-width: 1439px) 97vw, (max-width: 1919px) 98vw, 100vw" srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e139276a18680eb0a07b_empreintes-p-500.png 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e139276a18680eb0a07b_empreintes.png 696w" class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e148da8e7095cab41130_maison%20pradier.png" loading="eager" alt sizes="(max-width: 479px) 100vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, (max-width: 1439px) 97vw, (max-width: 1919px) 98vw, 100vw" srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e148da8e7095cab41130_maison%20pradier-p-500.png 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e148da8e7095cab41130_maison%20pradier.png 572w" class="image-logo"></div>
+                    </div>
+                    <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                      <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7df5529d39852fadfa768_elior%20logo.png" loading="eager" alt sizes="(max-width: 479px) 100vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, (max-width: 1439px) 97vw, (max-width: 1919px) 98vw, 100vw" srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7df5529d39852fadfa768_elior%20logo-p-500.png 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7df5529d39852fadfa768_elior%20logo-p-800.png 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7df5529d39852fadfa768_elior%20logo-p-1080.png 1080w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7df5529d39852fadfa768_elior%20logo.png 1585w" class="image-logo"></div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+            </ul>
+            <div class="logo-carousel-clone">
+              <ul role="list" class="logo-carousel">
+                <li class="logo-carousel-item">
+                  <div class="collection-list-wrapper w-dyn-list">
+                    <div role="list" class="moving-content-clients w-dyn-items">
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/6144e950589804b7180974e6/6333538c353054d20089f727_compass.webp" loading="lazy" alt class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59631b1a013e_amorino.avif" loading="lazy" alt class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5903501a013f_chamas%20tacos.avif" loading="lazy" alt class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5951d11a016e_1001%20repas_logo.avif" loading="lazy" alt class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5903d21a0134_sodexo.avif" loading="lazy" alt class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/6144e950589804b7180974e6/633353576d1a3742efead3f7_newrest.webp" loading="lazy" alt class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc593d891a012f_ground%20control.avif" loading="lazy" alt class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59b7701a012e_dupont.avif" loading="lazy" alt class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/6144e950589804b7180974e6/63335387cbfe4b8e188dff32_convivio.webp" loading="lazy" alt class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59cf671a013a_bagel%20corner.avif" loading="lazy" alt class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5943e11a0137_popchef.avif" loading="lazy" alt class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/649d68271c92b85a2ec990df_restalliance.avif" loading="lazy" alt class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/649d685bfa9613aa95d0d5a6_api.avif" loading="lazy" alt class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3e6f7602e73192de6eb4_apsys.avif" loading="lazy" alt class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3e80d68c8583b0d419bf_boom%20boom.avif" loading="lazy" alt sizes="(max-width: 479px) 100vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, (max-width: 1439px) 97vw, (max-width: 1919px) 98vw, 100vw" srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3e80d68c8583b0d419bf_boom%20boom-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3e80d68c8583b0d419bf_boom%20boom-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3e80d68c8583b0d419bf_boom%20boom-p-1080.avif 1080w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3e80d68c8583b0d419bf_boom%20boom-p-1600.avif 1600w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3e80d68c8583b0d419bf_boom%20boom-p-2000.avif 2000w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3e80d68c8583b0d419bf_boom%20boom.avif 2915w" class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3e8bf9a18c2c0970321f_easy%20sushi%201.avif" loading="lazy" alt class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3ea2536090de032cf8ed_Ground%20countrol%20logo%201.avif" loading="lazy" alt class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3eaf409d73e1da421395_images.avif" loading="lazy" alt class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3eb814c520996907d253_italian%20queen.avif" loading="lazy" alt class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3ec4d3c37c91e76748c3_kazdelerie.avif" loading="lazy" alt class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3edec94c91b24f9b50be_logo_marine.avif" loading="lazy" alt sizes="(max-width: 479px) 100vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, (max-width: 1439px) 97vw, (max-width: 1919px) 98vw, 100vw" srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3edec94c91b24f9b50be_logo_marine-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3edec94c91b24f9b50be_logo_marine.avif 1182w" class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3efbd71b349e54133b4e_logo-bchef.avif" loading="lazy" alt sizes="(max-width: 479px) 100vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, (max-width: 1439px) 97vw, (max-width: 1919px) 98vw, 100vw" srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3efbd71b349e54133b4e_logo-bchef-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3efbd71b349e54133b4e_logo-bchef-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3efbd71b349e54133b4e_logo-bchef.avif 1080w" class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3f177602e73192dee606_LOGO-ROND-OMBRE.avif" loading="lazy" alt sizes="(max-width: 479px) 100vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, (max-width: 1439px) 97vw, (max-width: 1919px) 98vw, 100vw" srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3f177602e73192dee606_LOGO-ROND-OMBRE-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3f177602e73192dee606_LOGO-ROND-OMBRE-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3f177602e73192dee606_LOGO-ROND-OMBRE-p-1080.avif 1080w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3f177602e73192dee606_LOGO-ROND-OMBRE-p-1600.avif 1600w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3f177602e73192dee606_LOGO-ROND-OMBRE.avif 1756w" class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3f35dbc6bcaf98c5943a_paris%20baguette.avif" loading="lazy" alt class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3eec906bbc17bc05f31f_Logo-Bagelstein-NBO-512x474-1.avif" loading="lazy" alt class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/68e2399669618cca626c4eef_idkO8Z2jH5_1759478907084.avif" loading="lazy" alt class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e0b0d1bb72e5c05a88ce_arpege.png" loading="lazy" alt sizes="(max-width: 479px) 100vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, (max-width: 1439px) 97vw, (max-width: 1919px) 98vw, 100vw" srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e0b0d1bb72e5c05a88ce_arpege-p-500.png 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e0b0d1bb72e5c05a88ce_arpege.png 656w" class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e0bcd137584f3b6048bc_midi.png" loading="lazy" alt sizes="(max-width: 479px) 100vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, (max-width: 1439px) 97vw, (max-width: 1919px) 98vw, 100vw" srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e0bcd137584f3b6048bc_midi-p-500.png 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e0bcd137584f3b6048bc_midi.png 554w" class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e0cae9cadf5e5391dd3d_chateauform.png" loading="lazy" alt sizes="(max-width: 479px) 100vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, (max-width: 1439px) 97vw, (max-width: 1919px) 98vw, 100vw" srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e0cae9cadf5e5391dd3d_chateauform-p-500.png 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e0cae9cadf5e5391dd3d_chateauform.png 580w" class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e0dcf86409d9ac8d8dc9_la%20croissanterie.png" loading="lazy" alt sizes="(max-width: 479px) 100vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, (max-width: 1439px) 97vw, (max-width: 1919px) 98vw, 100vw" srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e0dcf86409d9ac8d8dc9_la%20croissanterie-p-500.png 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e0dcf86409d9ac8d8dc9_la%20croissanterie.png 576w" class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e10661ca36f366c939fe_paris%20baguette.png" loading="lazy" alt sizes="(max-width: 479px) 100vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, (max-width: 1439px) 97vw, (max-width: 1919px) 98vw, 100vw" srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e10661ca36f366c939fe_paris%20baguette-p-500.png 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e10661ca36f366c939fe_paris%20baguette.png 588w" class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e129ea7a7097900676da_capfun.png" loading="lazy" alt sizes="(max-width: 479px) 100vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, (max-width: 1439px) 97vw, (max-width: 1919px) 98vw, 100vw" srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e129ea7a7097900676da_capfun-p-500.png 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e129ea7a7097900676da_capfun.png 702w" class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e139276a18680eb0a07b_empreintes.png" loading="lazy" alt sizes="(max-width: 479px) 100vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, (max-width: 1439px) 97vw, (max-width: 1919px) 98vw, 100vw" srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e139276a18680eb0a07b_empreintes-p-500.png 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e139276a18680eb0a07b_empreintes.png 696w" class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e148da8e7095cab41130_maison%20pradier.png" loading="lazy" alt sizes="(max-width: 479px) 100vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, (max-width: 1439px) 97vw, (max-width: 1919px) 98vw, 100vw" srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e148da8e7095cab41130_maison%20pradier-p-500.png 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7e148da8e7095cab41130_maison%20pradier.png 572w" class="image-logo"></div>
+                      </div>
+                      <div role="listitem" class="moving-card-clients-slide w-dyn-item">
+                        <div class="card-logo-image"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7df5529d39852fadfa768_elior%20logo.png" loading="lazy" alt sizes="(max-width: 479px) 100vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, (max-width: 1439px) 97vw, (max-width: 1919px) 98vw, 100vw" srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7df5529d39852fadfa768_elior%20logo-p-500.png 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7df5529d39852fadfa768_elior%20logo-p-800.png 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7df5529d39852fadfa768_elior%20logo-p-1080.png 1080w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6aa7df5529d39852fadfa768_elior%20logo.png 1585w" class="image-logo"></div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div><div class="section cta-kiosk">
+      <div data-w-id="0023fc2a-089a-42ed-19b2-10cc487f401c" style="opacity:0" class="middle-section-wrapper">
+        <div class="_40px-txt white">{d["40px-txt"]}</div>
+        <div class="cta-sub-kiosk">{d["cta-sub-kiosk"]}</div>
+        <a href="/en/contact-us" class="button-icon-hp3 w-inline-block">
+          <div>Request a demo</div>
+        </a>
+      </div>
+    </div><FooterEn /></div>
+</BaseLayout>

@@ -1,0 +1,99 @@
+{
+ "slug": "directive-dsp2-restauration",
+ "seo": {
+  "title": "La DSP2 et l'obligation de double-authentification",
+  "description": "La DSP2 rend notamment obligatoire l'authentification forte du client (Strong Customer Authentification, SCA) via la double authentification.",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d4b3f80a96e5d885a1_63f501f3fcfc5924dc1a001f_61befd5d93b7b065215066ae_dsp2-double-authentification-innovorder.avif",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc01",
+   "data-wf-collection": "6493777d655aea5e6643cb6c",
+   "data-wf-item-slug": "directive-dsp2-restauration"
+  },
+  "bodyClass": "body",
+  "bodyAttrs": {
+   "ph-category": "blog"
+  },
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"BlogPosting\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://www.innovorder.com/blog/directive-dsp2-restauration\"\n  },\n  \"headline\": \"La DSP2 et l’obligation de double-authentification\",\n  \"description\": \"La DSP2 rend notamment obligatoire l&#39;authentification forte du client (Strong Customer Authentification, SCA) via la double authentification.\",\n  \"image\": \"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d4b3f80a96e5d885a1_63f501f3fcfc5924dc1a001f_61befd5d93b7b065215066ae_dsp2-double-authentification-innovorder.avif\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Sophie Lecomte\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Innovorder\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"\n    },\n    \"aggregateRating\": {\n      \"@type\": \"AggregateRating\",\n      \"ratingValue\": \"4.9\",\n      \"reviewCount\": \"550\",\n      \"bestRating\": \"5\",\n      \"worstRating\": \"1\"\n      }\n  },\n  \"datePublished\": \"30 octobre 2019\",\n  \"dateModified\": \"\",\n  \"articleSection\": \"Tendances et actualités\",\n  \"timeRequired\": \"2\"\n}\n</script>",
+  "field-script-2": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/blog/directive-dsp2-restauration\",\"en\":\"https://www.innovorder.com/en/blog/psd2-compliance-for-restaurant-industry\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/blog/directive-dsp2-restauration\",\"originalPath\":\"/blog/directive-dsp2-restauration\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/blog/directive-dsp2-restauration",
+  "link-href-2": "https://www.innovorder.com/en/blog/psd2-compliance-for-restaurant-industry",
+  "breadcrumb-text-href": "/categories/tendances-restauration",
+  "breadcrumb-text": "Tendances et actualités",
+  "breadcrumb-text-href-2": "/blog/directive-dsp2-restauration",
+  "breadcrumb-text-2": "La DSP2 et l’obligation de double-authentification",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d4b3f80a96e5d885a1_63f501f3fcfc5924dc1a001f_61befd5d93b7b065215066ae_dsp2-double-authentification-innovorder.avif",
+  "current-post-image-alt": "",
+  "current-post-image-sizes": null,
+  "current-post-image-srcset": null,
+  "category-name-current-post": "Tendances et actualités",
+  "read-time-txt-class": "read-time-txt",
+  "read-time-txt-html": "2",
+  "title-post": "La DSP2 et l’obligation de double-authentification",
+  "author-post-class": "author-post",
+  "author-post-html": "Sophie Lecomte",
+  "date-post-text": "05 December 2024",
+  "rt-blog-html": "\n          <p>Le mois de septembre 2019, et plus précisément la date du 14, a été marqué par l’entrée en vigueur des normes techniques de la <strong>DSP2</strong>, la <a href=\"https://fr.wikipedia.org/wiki/Directive_sur_les_services_de_paiement\"><strong>deuxième directive sur les services de paiement</strong></a>. Elle rend notamment <strong>obligatoire l’authentification forte du client</strong> (Strong Customer Authentification, SCA) via la <strong>double authentification lors des paiements électroniques</strong> <strong>d’un montant de plus de 30 euros</strong>. Comme les e-commerçants, <strong>denombreux restaurateurs sont donc impactés </strong>par ces changements.</p>\n          <h2><strong>Ce que la DSP2 vise</strong></h2>\n          <p>La DSP2, avec cette obligation de SCA, vise à favoriser l’innovation et la concurrence, tout en <strong>renforçant la sécurité des consommateurs </strong>et en <strong>réduisant le taux de fraude côté payeur</strong>. Ses objectifs sont clairement arrêtés (voir à ce sujet l’<a href=\"https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32015L2366&amp;from=EL\"><strong>article 98 de la directive</strong></a>) :</p>\n          <p>« <em>a) Garantir un niveau de sécurité approprié pour les utilisateurs de services de paiement et les prestataires de services de paiement par l’adoption d’exigences efficaces et fondées sur les risques;</em></p>\n          <p><em>b) garantir la sécurité des fonds et des données à caractère personnel des utilisateurs de services de paiement;</em></p>\n          <p><em>c) garantir et maintenir une concurrence équitable entre l’ensemble des prestataires de services de paiement;</em></p>\n          <p><em>d) garantir la neutralité du modèle commercial et des technologies;</em></p>\n          <p><em>e) permettre le développement de moyens de paiement innovants, accessibles et faciles à utiliser.”</em></p>\n          <h2><strong>Les moyens d’authentification forte prévus par la directive</strong></h2>\n          <p>La SCA implique de s’authentifier <strong>via au moins 2 éléments</strong> parmi les suivants :</p>\n          <ul role=\"list\">\n            <li><strong>Ce que le client possède (smartphone, carte à puce, appareil connecté…);</strong></li>\n            <li><strong>Ce qu’il connaît</strong> (code PIN, mot de passe…)</li>\n            <li><strong>Ce qu’il est</strong>,<strong> ce qui le caractérise personnellement </strong>(reconnaissance vocale, empreinte digitale…)</li>\n          </ul>\n          <p>Avant cette directive, l’authentification forte était bien sûr recommandée; mais elle est désormais obligatoire pour les achats en ligne. Sans 2 des conditions précitées (“<em>two factors authentification</em>”), le client ne pourra pas effectuer son paiement en ligne. Notons que ces éléments doivent être indépendants l’une de l’autre. C’est à la <strong>banque émettrice</strong>, à savoir celle de l’acheteur, qu’il reviendra désormais de déclencher l’authentification forte sur la base de son analyse de risques.</p>\n          <h2><strong>Vers le protocole 3D Secure 2</strong></h2>\n          <p>La double authentification est donc au coeur du<strong> protocole 3D Secure 2.0</strong>, qui vient prendre la relève du 3D Secure tel qu’on le connaissait jusqu’alors – à savoir l’envoi d’un SMS pour confirmer un achat.</p>\n          <p>Cette évolution devrait pousser les acteurs du secteur du paiement à investir dans de nouvelles technologies biométriques. En effet, l’une des inquiétudes les plus prononcées des e-commerçants est la baisse du taux de conversion lors du shopping en ligne. L’expérience client risque en effet d’être moins fluide, tant que l’authentification n’est pas facilitée. Aujourd’hui, de bons exemples de double authentification déjà en place incluent par exemple Apple Pay.</p>\n          <h2><strong>Les dérogations à la double authentification</strong></h2>\n          <p>La DSP2 prévoit des exceptions :</p>\n          <ul role=\"list\">\n            <li><strong>Les paiements inférieurs à 30 euros</strong></li>\n          </ul>\n          <p>Il s’agit d’opérations d’un montant limité et pour lesquelles on estime que le risque est faible.</p>\n          <ul role=\"list\">\n            <li><strong>Les opérations récurrentes, paiements échelonnés et abonnements</strong></li>\n          </ul>\n          <p>Cela concerne moins les restaurateurs, mais la DSP2 permet aux <strong>opérations récurrentes d’un même montant </strong>de ne pas être soumises à l’authentification forte, et ce dès la 2nde opération.</p>\n          <ul role=\"list\">\n            <li><strong>Les transactions “MOTO”</strong></li>\n          </ul>\n          <p>Les transactions MOTO (<em>Mail Orders and Telephone Orders</em>), c’est-à-dire passées par e-mail ou par téléphone, sont exemptées, car elles ne sont pas considérées comme un paiement électronique.</p>\n          <ul role=\"list\">\n            <li><strong>Les listes blanches</strong></li>\n          </ul>\n          <p>Chaque client a la possibilité d’ajouter des “bénéficiaires de confiance” à une liste blanche. Cette dernière est conservée par la banque. Dans ce cas, l’authentification via 3D Secure n’est pas nécessaire.</p>\n          <ul role=\"list\">\n            <li><strong>Les paiements par carte professionnelle</strong></li>\n          </ul>\n          <p>Tout paiement effectué avec une carte d’affaires ne sera pas concerné par les exigences relatives à la SCA.</p>\n          <ul role=\"list\">\n            <li><strong>Les transactions inter-régionales</strong></li>\n          </ul>\n          <p>Si l’émetteur du paiement ou l’acquéreur de la carte n’est pas basé en Europe, la transaction est également exemptée de double authentification. Rien n’empêche cependant de décider de l’implémenter.</p>\n          <h2><strong>Quel impact pour les restaurateurs ?</strong></h2>\n          <p>Dès lors que vous acceptez des paiements en ligne (pour votre site de <a href=\"/blog/avantages-commande-en-ligne-restaurant\"><strong>commande en ligne</strong></a> ou le Click and collect par exemple), vous devez prendre en compte cette nouvelle législation.</p>\n          <p>Heureusement, des options adaptées à la DSP2 existent à l’heure actuelle. Par exemple, en passant via <a href=\"/\"><strong>la suite logicielle d’Innovorder</strong></a>, vous bénéficiez de l’authentification forte grâce à <strong>l’intégration de Stripe à la solution</strong>.</p>\n        ",
+  "div-class": "w-condition-invisible",
+  "right-head-class": "right-head interesting-art",
+  "div-role": "list",
+  "div-class-2": "w-dyn-items",
+  "div-role-2": "listitem",
+  "div-class-3": "w-dyn-item",
+  "div-html": "<a href=\"/blog/calendrier-marketing-de-la-restauration-2023\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d00f5672d1d6409ed1_63f501f3fcfc59846c1a0206_iStock-1307098713.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Calendrier marketing 2023 : les marronniers de la restauration</div>\n                  <div class=\"interesting-articles-category\">Tendances et actualités</div>\n                </div>\n              </a>",
+  "div-role-3": "list",
+  "div-class-4": "w-dyn-items",
+  "div-role-4": "listitem",
+  "div-class-5": "w-dyn-item",
+  "div-html-2": "<a href=\"/blog/publicite-facebook-instagram-restaurant\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01db8dc4be4399d7ec72_63f501f3fcfc5911a11a01ba_Restaurant%2520pub%2520Facebook%2520sur%2520smartphone%2520-%2520Miniature.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Comment faire de la pub sur Facebook pour son restaurant ?</div>\n                  <div class=\"interesting-articles-category\">Développer son activité</div>\n                </div>\n              </a>",
+  "div-role-5": "list",
+  "div-class-6": "w-dyn-items",
+  "div-role-6": "listitem",
+  "div-class-7": "w-dyn-item",
+  "div-html-3": "<a href=\"/blog/paiement-futur-restauration\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d98dc4be31d8d7ec6a_63f501f3fcfc59b7bf1a0053_61bf0cd5be763411cb9b05f4_paiement-futur-restauration-blog-innovorder.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Demain, comment paiera-t-on au restaurant ?</div>\n                  <div class=\"interesting-articles-category\">Tendances et actualités</div>\n                </div>\n              </a>",
+  "slider-mobile-blog-class": "slider-mobile-blog w-slider",
+  "div-role-7": "list",
+  "div-class-8": "w-dyn-items",
+  "div-role-8": "listitem",
+  "div-class-9": "w-dyn-item",
+  "div-html-4": "<a href=\"/blog/calendrier-marketing-de-la-restauration-2023\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d00f5672d1d6409ed1_63f501f3fcfc59846c1a0206_iStock-1307098713.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Calendrier marketing 2023 : les marronniers de la restauration</div>\n                  <div class=\"interesting-articles-category\">Tendances et actualités</div>\n                </div>\n              </a>",
+  "div-role-9": "list",
+  "div-class-10": "w-dyn-items",
+  "div-role-10": "listitem",
+  "div-class-11": "w-dyn-item",
+  "div-html-5": "<a href=\"/blog/publicite-facebook-instagram-restaurant\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01db8dc4be4399d7ec72_63f501f3fcfc5911a11a01ba_Restaurant%2520pub%2520Facebook%2520sur%2520smartphone%2520-%2520Miniature.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Comment faire de la pub sur Facebook pour son restaurant ?</div>\n                  <div class=\"interesting-articles-category\">Développer son activité</div>\n                </div>\n              </a>",
+  "div-role-11": "list",
+  "div-class-12": "w-dyn-items",
+  "div-role-12": "listitem",
+  "div-class-13": "w-dyn-item",
+  "div-html-6": "<a href=\"/blog/paiement-futur-restauration\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d98dc4be31d8d7ec6a_63f501f3fcfc59b7bf1a0053_61bf0cd5be763411cb9b05f4_paiement-futur-restauration-blog-innovorder.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Demain, comment paiera-t-on au restaurant ?</div>\n                  <div class=\"interesting-articles-category\">Tendances et actualités</div>\n                </div>\n              </a>",
+  "tail:field-script": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"BlogPosting\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://www.innovorder.com/blog/directive-dsp2-restauration\"\n  },\n  \"headline\": \"La DSP2 et l’obligation de double-authentification\",\n  \"description\": \"La DSP2 rend notamment obligatoire l&#39;authentification forte du client (Strong Customer Authentification, SCA) via la double authentification.\",\n  \"image\": \"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d4b3f80a96e5d885a1_63f501f3fcfc5924dc1a001f_61befd5d93b7b065215066ae_dsp2-double-authentification-innovorder.avif\",  \n  \"author\": {\n    \"@type\": \"\",\n    \"name\": \"Sophie Lecomte\"\n  },  \n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Innovorder\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"\n    }\n  },\n  \"datePublished\": \"30 octobre 2019\"\n}\n</script>"
+ }
+}

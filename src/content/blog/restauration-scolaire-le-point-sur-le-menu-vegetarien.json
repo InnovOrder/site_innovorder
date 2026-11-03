@@ -1,0 +1,99 @@
+{
+ "slug": "restauration-scolaire-le-point-sur-le-menu-vegetarien",
+ "seo": {
+  "title": "Menu végétarien scolaire : bilan 1 an après son lancement",
+  "description": "Un an de menus végétariens dans les écoles : résultats et perspectives. Découvrez les impacts et les évolutions.",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01dd918c642f055384c4_63f501f3fcfc5908b21a00a8_61bf739ec9edd6f5eb50f884_menu-vegetarien-cantine-scolaire-blog-innovorder.avif",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc01",
+   "data-wf-collection": "6493777d655aea5e6643cb6c",
+   "data-wf-item-slug": "restauration-scolaire-le-point-sur-le-menu-vegetarien"
+  },
+  "bodyClass": "body",
+  "bodyAttrs": {
+   "ph-category": "blog"
+  },
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"BlogPosting\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://www.innovorder.com/blog/restauration-scolaire-le-point-sur-le-menu-vegetarien\"\n  },\n  \"headline\": \"Restauration scolaire : le point sur le menu végétarien 1 an après son lancement\",\n  \"description\": \"Un an de menus végétariens dans les écoles : résultats et perspectives. Découvrez les impacts et les évolutions.\",\n  \"image\": \"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01dd918c642f055384c4_63f501f3fcfc5908b21a00a8_61bf739ec9edd6f5eb50f884_menu-vegetarien-cantine-scolaire-blog-innovorder.avif\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Sophie Lecomte\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Innovorder\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"\n    },\n    \"aggregateRating\": {\n      \"@type\": \"AggregateRating\",\n      \"ratingValue\": \"4.9\",\n      \"reviewCount\": \"550\",\n      \"bestRating\": \"5\",\n      \"worstRating\": \"1\"\n      }\n  },\n  \"datePublished\": \"6 octobre 2020\",\n  \"dateModified\": \"\",\n  \"articleSection\": \"Les défis de la restauration collective\",\n  \"timeRequired\": \"3\"\n}\n</script>",
+  "field-script-2": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/blog/restauration-scolaire-le-point-sur-le-menu-vegetarien\",\"en\":\"https://www.innovorder.com/en/blog/vegetarian-menu-options-school-lunch-catering\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/blog/restauration-scolaire-le-point-sur-le-menu-vegetarien\",\"originalPath\":\"/blog/restauration-scolaire-le-point-sur-le-menu-vegetarien\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/blog/restauration-scolaire-le-point-sur-le-menu-vegetarien",
+  "link-href-2": "https://www.innovorder.com/en/blog/vegetarian-menu-options-school-lunch-catering",
+  "breadcrumb-text-href": "/categories/restauration-collective",
+  "breadcrumb-text": "Les défis de la restauration collective",
+  "breadcrumb-text-href-2": "/blog/restauration-scolaire-le-point-sur-le-menu-vegetarien",
+  "breadcrumb-text-2": "Restauration scolaire : le point sur le menu végétarien 1 an après son lancement",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01dd918c642f055384c4_63f501f3fcfc5908b21a00a8_61bf739ec9edd6f5eb50f884_menu-vegetarien-cantine-scolaire-blog-innovorder.avif",
+  "current-post-image-alt": "",
+  "current-post-image-sizes": null,
+  "current-post-image-srcset": null,
+  "category-name-current-post": "Les défis de la restauration collective",
+  "read-time-txt-class": "read-time-txt",
+  "read-time-txt-html": "3",
+  "title-post": "Restauration scolaire : le point sur le menu végétarien 1 an après son lancement",
+  "author-post-class": "author-post w-condition-invisible",
+  "author-post-html": "Sophie Lecomte",
+  "date-post-text": "04 December 2024",
+  "rt-blog-html": "\n          <p><a href=\"https://agriculture.gouv.fr/egalim-tout-savoir-sur-la-loi-agriculture-et-alimentation\"><strong>Promulguée en 2018</strong></a>, la <strong>loi EGalim</strong> impose aux établissements scolaires publics et privés, de la maternelle au lycée, de proposer <strong>un menu végétarien au moins une fois</strong> par semaine aux élèves, et ce depuis le 1er novembre 2019.</p>\n          <h2><strong>Le menu végétarien : le cadre légal </strong></h2>\n          <p>« <em>Art. L. 230-5-6. : A titre expérimental, au plus tard un an après la promulgation de la loi n° 2018-938 du 30 octobre 2018 pour l'équilibre des relations commerciales dans le secteur agricole et alimentaire et une alimentation saine, durable et accessible à tous, pour une durée de deux ans, </em><strong><em>les gestionnaires, publics ou privés, des services de </em></strong><a href=\"/blog/restauration-collective-pertes-gestion\"><strong><em>restauration collective</em></strong></a><strong><em> scolaire sont tenus de proposer, au moins une fois par semaine, un menu végétarien. Ce menu peut être composé de protéines animales ou végétales</em></strong><em>.</em>\" (<a href=\"https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037547946/\"><strong><em>source</em></strong></a>)</p>\n          <p>Si la loi évoque bien de période \"expérimental(e)\", le menu végétarien est toutefois obligatoire pendant ce temps.</p>\n          <h2><strong>L'offre végétarienne à la cantine, mode d'emploi</strong></h2>\n          <p>Le menu végétarien peut être proposé plus d'une fois par semaine si l'établissement le souhaite. Il peut s'agir d'un menu unique ou d'une option alternative.</p>\n          <p>Végétarien ne signifie pas végétalien (vegan), puisque les protéines végétales peuvent être associées à des produits comme le lait, ses dérivés ou encore des oeufs. Seuls les plats ayant uniquement recours aux protéines végétales (céréales légumineuses, etc.) sont qualifiés de végétaliens.</p>\n          <p>Quelle que soit l'approche retenue, ce menu permet de contribuer à la <strong>promotion des protéines végétales en restauration collective</strong> (voir sur ce point le Programme national pour l'alimentation).</p>\n          <p>Plusieurs arguments ont été avancés pour promouvoir cette offre végétarienne à la cantine, parmi lesquels :</p>\n          <ul role=\"list\">\n            <li>La surconsommation : les enfants consomment entre 2 et 4 fois leurs besoins en protéines... au seul déjeuner !</li>\n            <li>La question environnementale : près de 80000 tonnes de viande sont servies chaque année aux élèves, ce qui constitue un enjeu écologique important;</li>\n            <li>Le dimension éducative et l'évolution des comportements alimentaires : la diversité dans l'assiette passe beaucoup par l'école, avec 12 millions d'élèves concernés et un secteur qui représente 3,5 milliards de repas par an;</li>\n            <li>La lutte anti-gaspillage : les repas végétariens seraient moins gaspillés (<a href=\"https://agriculture.gouv.fr/egalim-depuis-le-1er-novembre-2019-un-menu-vegetarien-par-semaine-dans-toutes-les-cantines-scolaires\"><strong>source</strong></a>)</li>\n          </ul>\n          <p><em>source : </em><a href=\"https://cdn.greenpeace.fr/site/uploads/2020/09/rapport_2020_cantines_a_la_loupe.pdf?_ga=2.233121182.1200614648.1601882820-401015766.1601882820\"><strong><em>Greenpeace</em></strong></a></p>\n          <h2><strong>Un an plus tard, où en est-on ?</strong></h2>\n          <p>Greenpeace vient de <a href=\"https://cdn.greenpeace.fr/site/uploads/2020/09/rapport_2020_cantines_a_la_loupe.pdf?_ga=2.233121182.1200614648.1601882820-401015766.1601882820\"><strong>diffuser une enquête précise</strong></a>, qui a trouvé un large écho dans la presse spécialisée comme dans celle plus \"grand public\".</p>\n          <p>On y trouve des chiffres et données particulièrement intéressants. Mais avant d'en présenter les plus marquants, voici déjà ce qu'il faut retenir :<strong> \"il y a du mieux!\"</strong></p>\n          <p><em>\"74% des écoliers et des écolières ont en effet l’occasion de manger végétarien chaque semaine\"</em> là où, il y a 2 ans encore, <em>\"69% des élèves scolarisés au primaire n’avaient d’autre choix que de manger de la viande tous les jours ou presque dans leur cantine\" </em>(contre 6% aujourd'hui)<em>.</em></p>\n          <p>Autre constat prometteur : <strong>la qualité des menus végétariens proposés s'est améliorée</strong>. <em>\"Auparavant une majorité d’omelettes était servie, on observe aujourd’hui une diversification des menus avec plus de la moitié d’entre eux qui sont composés de protéines végétales (dhal lentilles-coco, couscous végétarien…)\".</em></p>\n          <p>En résumé : d'un point de vue quantitatif et qualitatif, la France est sur la bonne voie en la matière.</p>\n          <p>En revanche, de <strong>fortes disparités</strong> apparaissent à la lecture des résultats de l'enquête. Vous pouvez consulter les données concernant votre région <a href=\"https://www.greenpeace.fr/aumenudescantines/\"><strong>ici</strong></a>. &nbsp;</p>\n          <p><strong>Ainsi</strong> <strong>: </strong></p>\n          <ul role=\"list\">\n            <li>Les petites villes (moins de 100 élèves en primaire) appliquent moins la loi : seules 53% d'entre elles le font, contre 81% des grandes villes ;</li>\n            <li>de même, les DOM-TOM observent moins les obligations de la loi EGalim</li>\n            <li>les collèges ne font pas figure de bons élèves, puisque moins des 2/3 des établissements joueraient le jeu, avec des menus relativement peu diversifiés</li>\n          </ul>\n          <p>Note à propos de l'étude : \"<em>5 387 menus végétariens d’écoles maternelles et élémentaires ont été passés au crible dans 2 820 villes au total. Ils concernent environ 3,8 millions d’écolier(ère)s. Les menus de 415 collèges et de 493 lycées ont été analysés. Cela représente près de 8 % des collèges et près de 20 % des lycées publics du pays</em>\"</p>\n          <p><strong>Découvrez toutes nos solutions pour la restauration avec l'équipe Innovorder.</strong></p>\n        ",
+  "div-class": null,
+  "right-head-class": "right-head interesting-art",
+  "div-role": "list",
+  "div-class-2": "w-dyn-items",
+  "div-role-2": "listitem",
+  "div-class-3": "w-dyn-item",
+  "div-html": "<a href=\"/blog/tendance-restauration-2023\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt=\"restaurant plein\" loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01de5c84e8acd6111830_63f501f3fcfc594e0c1a01b6_iStock-1175050377.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">10 tendances de la restauration à connaître absolument en 2023</div>\n                  <div class=\"interesting-articles-category\">Tendances et actualités</div>\n                </div>\n              </a>",
+  "div-role-3": "list",
+  "div-class-4": "w-dyn-items",
+  "div-role-4": "listitem",
+  "div-class-5": "w-dyn-item",
+  "div-html-2": "<a href=\"/blog/concept-restaurant\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d272d28c057b79940f_63f501f3fcfc59944b1a0218_small%2520concept.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">13 concepts de restaurant à découvrir en 2025</div>\n                  <div class=\"interesting-articles-category\">Ouvrir ou reprendre son restaurant</div>\n                </div>\n              </a>",
+  "div-role-5": "list",
+  "div-class-6": "w-dyn-items",
+  "div-role-6": "listitem",
+  "div-class-7": "w-dyn-item",
+  "div-html-3": "<a href=\"/blog/nouveaux-concurrents-restauration-collective\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d87377f430cdb761a1_63f501f3fcfc5990f51a01ac_concurrent-restauration-collective-blog-innovorder.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Qui sont les concurrents de la restauration collective ?</div>\n                  <div class=\"interesting-articles-category\">Les défis de la restauration collective</div>\n                </div>\n              </a>",
+  "slider-mobile-blog-class": "slider-mobile-blog w-slider",
+  "div-role-7": "list",
+  "div-class-8": "w-dyn-items",
+  "div-role-8": "listitem",
+  "div-class-9": "w-dyn-item",
+  "div-html-4": "<a href=\"/blog/tendance-restauration-2023\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt=\"restaurant plein\" loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01de5c84e8acd6111830_63f501f3fcfc594e0c1a01b6_iStock-1175050377.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">10 tendances de la restauration à connaître absolument en 2023</div>\n                  <div class=\"interesting-articles-category\">Tendances et actualités</div>\n                </div>\n              </a>",
+  "div-role-9": "list",
+  "div-class-10": "w-dyn-items",
+  "div-role-10": "listitem",
+  "div-class-11": "w-dyn-item",
+  "div-html-5": "<a href=\"/blog/concept-restaurant\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d272d28c057b79940f_63f501f3fcfc59944b1a0218_small%2520concept.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">13 concepts de restaurant à découvrir en 2025</div>\n                  <div class=\"interesting-articles-category\">Ouvrir ou reprendre son restaurant</div>\n                </div>\n              </a>",
+  "div-role-11": "list",
+  "div-class-12": "w-dyn-items",
+  "div-role-12": "listitem",
+  "div-class-13": "w-dyn-item",
+  "div-html-6": "<a href=\"/blog/nouveaux-concurrents-restauration-collective\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d87377f430cdb761a1_63f501f3fcfc5990f51a01ac_concurrent-restauration-collective-blog-innovorder.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Qui sont les concurrents de la restauration collective ?</div>\n                  <div class=\"interesting-articles-category\">Les défis de la restauration collective</div>\n                </div>\n              </a>",
+  "tail:field-script": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"BlogPosting\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://www.innovorder.com/blog/restauration-scolaire-le-point-sur-le-menu-vegetarien\"\n  },\n  \"headline\": \"Restauration scolaire : le point sur le menu végétarien 1 an après son lancement\",\n  \"description\": \"Un an de menus végétariens dans les écoles : résultats et perspectives. Découvrez les impacts et les évolutions.\",\n  \"image\": \"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01dd918c642f055384c4_63f501f3fcfc5908b21a00a8_61bf739ec9edd6f5eb50f884_menu-vegetarien-cantine-scolaire-blog-innovorder.avif\",  \n  \"author\": {\n    \"@type\": \"\",\n    \"name\": \"Sophie Lecomte\"\n  },  \n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Innovorder\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"\n    }\n  },\n  \"datePublished\": \"6 octobre 2020\"\n}\n</script>"
+ }
+}

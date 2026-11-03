@@ -1,0 +1,101 @@
+{
+ "slug": "restoration-offers-evolution-during-the-health-crisis",
+ "seo": {
+  "title": "Changes in foodservice offerings in the wake of the health crisis",
+  "description": "1st action: expand the delivery and click-and-collect range to include new types of products - Your cult sauces, jams and ice creams.",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d4627c9c005f8f735e_63f501f3fcfc590fc61a0018_61befdfa4334b8d493d3cb64_pere-fish-menu-deconfishment-innovorder-1.avif",
+  "lang": "en",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc01",
+   "data-wf-collection": "6493777d655aea5e6643cb6c",
+   "data-wf-item-slug": "evolution-offre-restauration-crise-sanitaire",
+   "data-wg-translated": "en"
+  },
+  "bodyClass": "body",
+  "bodyAttrs": {
+   "ph-category": "blog"
+  },
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.innovorder.com/en/blog/restoration-offers-evolution-during-the-health-crisis\"},\"headline\":\"L&#39;évolution des offres en restauration suite à la crise sanitaire : de nouveaux modèles destinés à durer ?\",\"description\":\"1st action: expand the delivery and click-and-collect range to include new types of products - Your cult sauces, jams and ice creams.\",\"image\":\"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d4627c9c005f8f735e_63f501f3fcfc590fc61a0018_61befdfa4334b8d493d3cb64_pere-fish-menu-deconfishment-innovorder-1.avif\",\"author\":{\"@type\":\"Person\",\"name\":\"Sophie Lecomte\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Innovorder\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.9\",\"reviewCount\":\"550\",\"bestRating\":\"5\",\"worstRating\":\"1\"}},\"datePublished\":\"20 août 2020\",\"dateModified\":\"\",\"articleSection\":\"Tendances et actualités\",\"timeRequired\":\"3\"}</script>",
+  "field-script-2": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/blog/evolution-offre-restauration-crise-sanitaire\",\"en\":\"https://www.innovorder.com/en/blog/restoration-offers-evolution-during-the-health-crisis\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/blog/evolution-offre-restauration-crise-sanitaire\",\"originalPath\":\"/blog/evolution-offre-restauration-crise-sanitaire\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/blog/evolution-offre-restauration-crise-sanitaire",
+  "link-href-2": "https://www.innovorder.com/en/blog/restoration-offers-evolution-during-the-health-crisis",
+  "breadcrumb-text-href": "/en/categories/catering-trends",
+  "breadcrumb-text": "Trends and news",
+  "breadcrumb-text-href-2": "/en/blog/restoration-offers-evolution-during-the-health-crisis",
+  "breadcrumb-text-2": "The evolution of restaurant offers following the health crisis: new models destined to last?",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d4627c9c005f8f735e_63f501f3fcfc590fc61a0018_61befdfa4334b8d493d3cb64_pere-fish-menu-deconfishment-innovorder-1.avif",
+  "current-post-image-alt": "",
+  "current-post-image-sizes": null,
+  "current-post-image-srcset": null,
+  "category-name-current-post": "Trends and news",
+  "read-time-txt-class": "read-time-txt",
+  "read-time-txt-html": "3",
+  "title-post": "The evolution of restaurant offers following the health crisis: new models destined to last?",
+  "author-post-class": "author-post",
+  "author-post-html": "Sophie Lecomte",
+  "date-post-text": "05 December 2024",
+  "rt-blog-html": "\n          <p>As soon as containment began, the first initiatives quickly emerged to allow different types of restaurants to maintain a minimum of activity, to create new stories with their customers, to save part of the stocks from loss, but also to maintain the link with their producers when possible.</p>\n          <h2>1st action: expand the range of delivery and click and collect products to new types of products</h2>\n          <p>From <strong>cooking kits to reproduce a signature recipe at home</strong>, to the arrival of new<strong> grocery </strong>items<strong data-wg-splitted> and by-products for delivery </strong>, to the <strong>direct sale to customers of producer baskets </strong>and<strong> gourmet picnic solutions to take away</strong>, restaurateurs have quickly taken the lead.</p>\n          <p>Franchises, great chefs (<a href=\"https://www.poulicheparis.com/\"><strong>Amandine Chaignot</strong></a> in her restaurant Pouliche), independents, small groups of establishments such as <a href=\"/en/success-stories/how-classico-argentino-increase-x4-the-number-of-customers-thanks-to-click-and-collect\"><strong>Clasico Argentino</strong></a>... the restaurant offer has often seen its business model evolve in the midst of the crisis, and today we can see that across different countries, these diversified offers tend to settle in permanently!</p>\n          <p><em>What new products to offer? </em></p>\n          <ul role=\"list\">\n            <li>Your favorite sauces, jams or ice creams in jars to share</li>\n            <li>Home-made preserves</li>\n            <li>Easy to make kitchen kits</li>\n            <li>Products directly from your producers</li>\n            <li>Some nice references in wines, beers, fruit juices</li>\n            <li>A recipe book from your chef...</li>\n          </ul>\n          <figure>\n            <div><img loading=\"lazy\" alt src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc598ec01a001e_commande-en-ligne-restaurants-exemple-epicerie-clasico-argentino-innovorder.avif\"></div>\n            <figcaption><em>Above, Clasico Argentino offers typical Argentine products in its </em><a href=\"/en/blog/benefits-of-online-ordering-for-restaurants\"><strong><em>online order</em></strong></a></figcaption>\n          </figure>\n          <h2>2nd action: take advantage of the crisis to rethink your usual menu </h2>\n          <p>If you read in English, don't miss this <a href=\"https://www.cnbc.com/2020/08/08/coronavirus-these-restaurant-chains-cut-menu-items-during-the-pandemic.html\"><strong>full article from CNBC</strong></a> article on the reactions of the big chains such as McDonald's, Taco Bell, KFC or Subway.</p>\n          <p>We translate the main points for you:</p>\n          <ul role=\"list\">\n            <li>McDonald's, Taco Bell, and Subway are among the chains that<strong> cut back </strong>during the peak of the pandemic;</li>\n            <li>Some references may make a comeback, but this crisis is also being used as an opportunity for chains to make lasting changes to their menus.</li>\n          </ul>\n          <p>In fact, beyond the reaction to the Covid 19 health crisis, we know that menus that are too long and complex can lose customers, slow down the work in the kitchen and lengthen queues... isn<strong> 't it time to get things right, finally? </strong></p>\n          <p>Père &amp; Fish still offers its reduced offer in Click and Collect (the<em>\"deconfishment</em>\"!), greedy, no? </p>\n          <figure>\n            <div><img loading=\"lazy\" alt src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc593e641a0019_pere-fish-menu-deconfishment-innovorder-2.avif\"></div>\n          </figure>\n          <h2>3rd action: think about your relationship (or even your dependence) on delivery </h2>\n          <p>The survival of many retailers has depended and will continue to depend on their ability to deliver to their customers, whether they are confined or not. </p>\n          <p>In this respect, a problem quickly arose and continues to handicap a majority of restaurateurs: being available for delivery often implies relying on a platform such as UberEats, Just Eat or Deliveroo, and therefore paying an often significant commission, but also adjusting one's menu to ensure that the offer keeps its quality until it arrives at the customer's table. No one will order cold fries and a limp burger twice!</p>\n          <p>How to adapt to take advantage of the opportunity presented by the explosion of new modes of ordering and consumption, without losing 30% of its feathers? </p>\n          <ul role=\"list\">\n            <li>By offering its own online order, directly and without intermediary</li>\n            <li>By developing a strong bond with its fans and customers</li>\n            <li>By connecting your restaurant to a dedicated delivery service (like Stuart for example)</li>\n          </ul>\n          <p>... but also by multiplying the points of sale: the time is more than ever for omnichannel, and we are only at the beginning!</p>\n          <p>Takeaway sales (click and collect or flash &amp; collect via QR Code), dedicated counters, careful packaging, direct promotional offers, customer file animation... more than ever, restaurateurs and entrepreneurs in the sector must evolve their business model towards an ability to diversify the products sold when necessary, while reworking their menu so that it is as relevant as it is likely to be ordered and consumed by different means. </p>\n          <p><em>The coming months will allow us to see how the market and the business models evolve. We will not fail to report on the most significant trends!</em></p>\n          <figure style=\"max-width:1040px\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\"><a href=\"/en/ebook/developper-son-fast-food-le-guide-ultime\" target=\"_blank\" class=\"w-inline-block\">\n              <div><img alt src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66b0e3d24a5e372d1a6ee0cd_655f7d9f44ef43bed9fe6995_Banni%25C3%25A8re%2520Blog%2520-%2520guide%2520ultime%2520(1).avif\" loading=\"lazy\"></div>\n            </a></figure>\n        ",
+  "div-class": "w-condition-invisible",
+  "right-head-class": "right-head interesting-art",
+  "div-role": "list",
+  "div-class-2": "w-dyn-items",
+  "div-role-2": "listitem",
+  "div-class-3": "w-dyn-item",
+  "div-html": "<a href=\"/en/blog/restaurant-subscription-service\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01cf50d2e9388ba2b809_63f501f3fcfc591ba61a0219_iStock-997678310.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Restaurant subscriptions: the future of the restaurant business?</div>\n                  <div class=\"interesting-articles-category\">Trends and news</div>\n                </div>\n              </a>",
+  "div-role-3": "list",
+  "div-class-4": "w-dyn-items",
+  "div-role-4": "listitem",
+  "div-class-5": "w-dyn-item",
+  "div-html-2": "<a href=\"/en/blog/guide-click-and-collect-restaurant\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d66dad4c026308ce9d_63f501f3fcfc59e8c21a0152_Click%2520and%2520collect%2520dans%2520un%2520restaurant.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Click and Collect in restaurants: the ultimate guide</div>\n                  <div class=\"interesting-articles-category\">Expanding your business</div>\n                </div>\n              </a>",
+  "div-role-5": "list",
+  "div-class-6": "w-dyn-items",
+  "div-role-6": "listitem",
+  "div-class-7": "w-dyn-item",
+  "div-html-3": "<a href=\"/en/blog/qr-codes-for-restaurants\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01db63919a8291cccaf8_63f501f3fcfc59c7861a018f_Scan%2520QR%2520Code%2520Miniature.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Why adopt the QR code in your restaurant?</div>\n                  <div class=\"interesting-articles-category\">Expanding your business</div>\n                </div>\n              </a>",
+  "slider-mobile-blog-class": "slider-mobile-blog w-slider",
+  "div-role-7": "list",
+  "div-class-8": "w-dyn-items",
+  "div-role-8": "listitem",
+  "div-class-9": "w-dyn-item",
+  "div-html-4": "<a href=\"/en/blog/restaurant-subscription-service\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01cf50d2e9388ba2b809_63f501f3fcfc591ba61a0219_iStock-997678310.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Restaurant subscriptions: the future of the restaurant business?</div>\n                  <div class=\"interesting-articles-category\">Trends and news</div>\n                </div>\n              </a>",
+  "div-role-9": "list",
+  "div-class-10": "w-dyn-items",
+  "div-role-10": "listitem",
+  "div-class-11": "w-dyn-item",
+  "div-html-5": "<a href=\"/en/blog/guide-click-and-collect-restaurant\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d66dad4c026308ce9d_63f501f3fcfc59e8c21a0152_Click%2520and%2520collect%2520dans%2520un%2520restaurant.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Click and Collect in restaurants: the ultimate guide</div>\n                  <div class=\"interesting-articles-category\">Expanding your business</div>\n                </div>\n              </a>",
+  "div-role-11": "list",
+  "div-class-12": "w-dyn-items",
+  "div-role-12": "listitem",
+  "div-class-13": "w-dyn-item",
+  "div-html-6": "<a href=\"/en/blog/qr-codes-for-restaurants\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01db63919a8291cccaf8_63f501f3fcfc59c7861a018f_Scan%2520QR%2520Code%2520Miniature.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Why adopt the QR code in your restaurant?</div>\n                  <div class=\"interesting-articles-category\">Expanding your business</div>\n                </div>\n              </a>",
+  "tail:field-script": "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.innovorder.com/en/blog/restoration-offers-evolution-during-the-health-crisis\"},\"headline\":\"L&#39;évolution des offres en restauration suite à la crise sanitaire : de nouveaux modèles destinés à durer ?\",\"description\":\"1st action: expand the delivery and click-and-collect range to include new types of products - Your cult sauces, jams and ice creams.\",\"image\":\"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d4627c9c005f8f735e_63f501f3fcfc590fc61a0018_61befdfa4334b8d493d3cb64_pere-fish-menu-deconfishment-innovorder-1.avif\",\"author\":{\"@type\":\"\",\"name\":\"Sophie Lecomte\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Innovorder\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"}},\"datePublished\":\"20 août 2020\"}</script>"
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "slug": "restaurant-couvre-feu-activite",
+ "seo": {
+  "title": "Couvre-feu à 21 heures : comment maintenir son restaurant ?",
+  "description": "L'annonce est tombée : dans les zones françaises les plus tendues sur le plan sanitaire, un couvre-feu est instauré de 21 heures à 6 h du matin.",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01db56f1ef37b825839a_63f501f3fcfc59737a1a00a5_61bf491f70c35e509d0a282f_covid-couvre-feu-restaurant-livraison-commande-en-ligne-innovorder.avif",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc01",
+   "data-wf-collection": "6493777d655aea5e6643cb6c",
+   "data-wf-item-slug": "restaurant-couvre-feu-activite"
+  },
+  "bodyClass": "body",
+  "bodyAttrs": {
+   "ph-category": "blog"
+  },
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"BlogPosting\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://www.innovorder.com/blog/restaurant-couvre-feu-activite\"\n  },\n  \"headline\": \"Couvre-feu à 21 heures : comment maintenir son activité en restauration ?\",\n  \"description\": \"L&#39;annonce est tombée : dans les zones françaises les plus tendues sur le plan sanitaire, un couvre-feu est instauré de 21 heures à 6 h du matin.\",\n  \"image\": \"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01db56f1ef37b825839a_63f501f3fcfc59737a1a00a5_61bf491f70c35e509d0a282f_covid-couvre-feu-restaurant-livraison-commande-en-ligne-innovorder.avif\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Sophie Lecomte\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Innovorder\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"\n    },\n    \"aggregateRating\": {\n      \"@type\": \"AggregateRating\",\n      \"ratingValue\": \"4.9\",\n      \"reviewCount\": \"550\",\n      \"bestRating\": \"5\",\n      \"worstRating\": \"1\"\n      }\n  },\n  \"datePublished\": \"December 2021\",\n  \"dateModified\": \"\",\n  \"articleSection\": \"Ouvrir ou reprendre son restaurant\",\n  \"timeRequired\": \"2\"\n}\n</script>",
+  "field-script-2": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/blog/restaurant-couvre-feu-activite\",\"en\":\"https://www.innovorder.com/en/blog/restaurant-curfews-and-impact-on-activity\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/blog/restaurant-couvre-feu-activite\",\"originalPath\":\"/blog/restaurant-couvre-feu-activite\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/blog/restaurant-couvre-feu-activite",
+  "link-href-2": "https://www.innovorder.com/en/blog/restaurant-curfews-and-impact-on-activity",
+  "breadcrumb-text-href": "/categories/ouvrir-restaurant",
+  "breadcrumb-text": "Ouvrir ou reprendre son restaurant ",
+  "breadcrumb-text-href-2": "/blog/restaurant-couvre-feu-activite",
+  "breadcrumb-text-2": "Couvre-feu à 21 heures : comment maintenir son activité en restauration ?",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01db56f1ef37b825839a_63f501f3fcfc59737a1a00a5_61bf491f70c35e509d0a282f_covid-couvre-feu-restaurant-livraison-commande-en-ligne-innovorder.avif",
+  "current-post-image-alt": "",
+  "current-post-image-sizes": null,
+  "current-post-image-srcset": null,
+  "category-name-current-post": "Ouvrir ou reprendre son restaurant ",
+  "read-time-txt-class": "read-time-txt",
+  "read-time-txt-html": "2",
+  "title-post": "Couvre-feu à 21 heures : comment maintenir son activité en restauration ?",
+  "author-post-class": "author-post",
+  "author-post-html": "Sophie Lecomte",
+  "date-post-text": "05 December 2024",
+  "rt-blog-html": "\n          <p>L'annonce est tombée : dans les zones françaises les plus tendues sur le plan sanitaire, un couvre-feu est instauré de 21 heures à 6 h du matin. Autant dire que pour les restaurateurs, déjà très malmenés par la crise du Covid-19, la période qui arrive s'annonce de nouveau mouvementée.</p>\n          <p>Si beaucoup peuvent être tentés par une fermeture pure et simple de leur établissement pendant les semaines à venir, il existe pourtant des options et actions afin de maintenir une activité.</p>\n          <h2>1er réflexe : activer sa commande en ligne</h2>\n          <p>On le sait maintenant : la livraison peut continuer pendant cette période dde couvre-feu. Proposer un service de commande en ligne est un bon moyen de maintenir le lien avec ses clients, de toucher de nouveaux prospects et surtout de garder une activité rentable malgré une fermeture précoce le soir.</p>\n          <p>Par \"activer\", on entend 2 choses :</p>\n          <ol role=\"list\">\n            <li><strong>Mettre en place une solution de commande en ligne</strong> si ce n'est pas encore fait;</li>\n            <li>La <strong>promouvoir au maximum</strong> pendant cette période, afin d'augmenter son adoption, la fréquence d'achat ainsi que le panier moyen;</li>\n          </ol>\n          <p>Ces actions seront d'autant plus intéressantes à terme qu'elles permettront de créer une habitude de consommation auprès des clients qui fréquentent déjà votre restaurant, ou ceux qui seront amenés à revenir chez vous ensuite !</p>\n          <p>Si vous n'avez pas de solution à ce jour, <a href=\"/nous-contacter\"><strong>contactez-nous dès maintenant</strong></a>. Nous ferons notre maximum pour que vous soyez opérationnel(le) le plus rapidement possible, et soutenir votre activité grâce à la commande en ligne la plus avancée du marché.</p>\n          <p>Pourquoi proposer de la commande en direct alors que Deliveroo ou encore Uber Eats peuvent le gérer pour vous ?</p>\n          <p>Tout simplement parce que vous <strong>éviterez de payer des commissions</strong> souvent lourdes sur chaque commande, et pourrez profiter de cette période pour enrichir votre fichier clients et la communauté qui vous suit. <strong>Quoi de mieux en effet qu'une relation sans intermédiaire</strong> ?</p>\n          <p>Cela étant dit, en fonction de votre marché, il peut être intéressant d'allier ces différents canaux pour toucher un public cible particulièrement large.</p>\n          <p>N'oubliez pas ensuite de :</p>\n          <ol role=\"list\">\n            <li>Promouvoir ce service sur vos comptes sociaux (Facebook, Instagram, Twitter)</li>\n            <li>Envoyer un email à vos abonnés et clients</li>\n            <li>Proposer une offre spéciale (boisson ou dessert offert(e) sur la première commande en direct par exemple)</li>\n            <li>Prévoir des affiches et flyers dans votre restaurant pour avertir vos clients qu'ils peuvent aussi retrouver vos saveurs à domicile, après 21 heures</li>\n          </ol>\n          <p>Nous avons réuni toutes les astuces pour booster la <a href=\"/blog/avantages-commande-en-ligne-restaurant\"><strong>commande en ligne</strong></a> : <a href=\"https://offers.innovorder.fr/ebook-comment-booster-sa-commande-en-ligne-0-1\"><strong>téléchargez dès maintenant notre livre blanc à ce sujet </strong></a>!</p>\n          <figure style=\"max-width:1040px\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\"><a href=\"/ebook/developper-son-fast-food-le-guide-ultime\" target=\"_blank\" class=\"w-inline-block\">\n              <div><img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66b38e9a29bc92b491818047_66a3596ac4ed8305a37942fe_666c313804b09f27d6becb92_Bannie%2525CC%252580re%252520Blog%252520-%252520guide%252520ultime.avif\" loading=\"lazy\" alt></div>\n            </a></figure>\n          <p> </p>\n          <h2>2e réflexe : diversifier ses horaires et son offre culinaire</h2>\n          <p>Tout le monde ne pourra pas dîner à 18h, c'est vrai.</p>\n          <p>Mais dans les semaines à venir, il va être important de proposer des menus du soir disponibles plus tôt que d'ordinaire, à savoir en début de soirée... et avec un timing annoncé dès la réservation !</p>\n          <p>Plusieurs enseignes et restaurants ont déjà commencé à proposer une offre adaptée au couvre-feu.</p>\n          <p>Les établissements Evok Hotels ont par exemple <a href=\"https://www.linkedin.com/posts/evo-h%C3%B4tels-collection_communiqu%C3%A9-de-presse-les-restaurants-all-activity-6722537278360608768-EpYs\"><strong>annoncé un concept \"all day dining &amp; early dinner\"</strong></a> très tôt après les annonces gouvernementales :</p>\n          <figure class=\"w-richtext-align-center w-richtext-figure-type-image\">\n            <div><img loading=\"lazy\" alt=\"Evok hotels restaurant couvre feu horaire\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59c80e1a00a4_Capture-d-e-cran-2020-10-16-a--15_23_57.avif\"></div>\n          </figure>\n          <p>Au-delà de la question des horaires, c'est aussi le moment de réfléchir à <strong>une offre plus adaptée à la consommation en journée</strong> :</p>\n          <ol role=\"list\">\n            <li>Etoffer l'offre de petit-déjeuner ;</li>\n            <li>Diversifier les possibilités de snacking en matinée, dans l'après-midi... ;</li>\n            <li>Créer des offres spécifiquement pensées pour les heures creuses, afin de travailler sur un maximum de créneaux ;</li>\n            <li>Et pourquoi pas développer une partie \"épicerie\" ou \"cave\" en fonction de l'identité de votre restaurant. Cette dernière pourra aussi être envisageable en livraison à domicile.</li>\n          </ol>\n          <p>Et pour renforcer la présence de consommateurs qui ont envie de sortir, mais pas forcément de dîner, <strong>les tapas, petits plats et offres de musique live</strong> peuvent faire la différence !</p>\n          <p>Enfin - et nous aurons l'occasion d'en reparler lors d'un meet-up dédié à ce sujet (<a href=\"https://app.livestorm.co/innovorder/meetup-online-dark-kitchen-nouvel-eldorado\"><strong>inscriptions ici</strong></a>), <strong>repenser son business model en le faisant évoluer vers une dark kitchen</strong>peut prendre tout son sens dans le contexte actuel.<br></p>\n        ",
+  "div-class": "w-condition-invisible",
+  "right-head-class": "right-head interesting-art",
+  "div-role": "list",
+  "div-class-2": "w-dyn-items",
+  "div-role-2": "listitem",
+  "div-class-3": "w-dyn-item",
+  "div-html": "<a href=\"/blog/guide-click-and-collect-restaurant\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d66dad4c026308ce9d_63f501f3fcfc59e8c21a0152_Click%2520and%2520collect%2520dans%2520un%2520restaurant.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Click and Collect en restauration : le guide ultime</div>\n                  <div class=\"interesting-articles-category\">Développer son activité</div>\n                </div>\n              </a>",
+  "div-role-3": "list",
+  "div-class-4": "w-dyn-items",
+  "div-role-4": "listitem",
+  "div-class-5": "w-dyn-item",
+  "div-html-2": "<a href=\"/blog/avantages-commande-en-ligne-restaurant\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01cf8e78c06fe2da1b78_63f501f3fcfc59e32619ffe6_61bc4f07dc9192e490320f3d_avantages-commande-en-ligne-restaurant.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Commande en ligne : 9 raisons de se passer des plateformes pour votre restaurant</div>\n                  <div class=\"interesting-articles-category\">Développer son activité</div>\n                </div>\n              </a>",
+  "div-role-5": "list",
+  "div-class-6": "w-dyn-items",
+  "div-role-6": "listitem",
+  "div-class-7": "w-dyn-item",
+  "div-html-3": "<a href=\"/blog/promouvoir-commande-en-ligne\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01daa40adb5318870f26_63f501f3fcfc5979d61a009e_61bf4790b6711360d8f193cc_commande-en-ligne-innovorder.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Comment promouvoir votre commande en ligne ?</div>\n                  <div class=\"interesting-articles-category\">Développer son activité</div>\n                </div>\n              </a>",
+  "slider-mobile-blog-class": "slider-mobile-blog w-slider",
+  "div-role-7": "list",
+  "div-class-8": "w-dyn-items",
+  "div-role-8": "listitem",
+  "div-class-9": "w-dyn-item",
+  "div-html-4": "<a href=\"/blog/guide-click-and-collect-restaurant\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d66dad4c026308ce9d_63f501f3fcfc59e8c21a0152_Click%2520and%2520collect%2520dans%2520un%2520restaurant.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Click and Collect en restauration : le guide ultime</div>\n                  <div class=\"interesting-articles-category\">Développer son activité</div>\n                </div>\n              </a>",
+  "div-role-9": "list",
+  "div-class-10": "w-dyn-items",
+  "div-role-10": "listitem",
+  "div-class-11": "w-dyn-item",
+  "div-html-5": "<a href=\"/blog/avantages-commande-en-ligne-restaurant\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01cf8e78c06fe2da1b78_63f501f3fcfc59e32619ffe6_61bc4f07dc9192e490320f3d_avantages-commande-en-ligne-restaurant.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Commande en ligne : 9 raisons de se passer des plateformes pour votre restaurant</div>\n                  <div class=\"interesting-articles-category\">Développer son activité</div>\n                </div>\n              </a>",
+  "div-role-11": "list",
+  "div-class-12": "w-dyn-items",
+  "div-role-12": "listitem",
+  "div-class-13": "w-dyn-item",
+  "div-html-6": "<a href=\"/blog/promouvoir-commande-en-ligne\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01daa40adb5318870f26_63f501f3fcfc5979d61a009e_61bf4790b6711360d8f193cc_commande-en-ligne-innovorder.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Comment promouvoir votre commande en ligne ?</div>\n                  <div class=\"interesting-articles-category\">Développer son activité</div>\n                </div>\n              </a>",
+  "tail:field-script": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"BlogPosting\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://www.innovorder.com/blog/restaurant-couvre-feu-activite\"\n  },\n  \"headline\": \"Couvre-feu à 21 heures : comment maintenir son activité en restauration ?\",\n  \"description\": \"L&#39;annonce est tombée : dans les zones françaises les plus tendues sur le plan sanitaire, un couvre-feu est instauré de 21 heures à 6 h du matin.\",\n  \"image\": \"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01db56f1ef37b825839a_63f501f3fcfc59737a1a00a5_61bf491f70c35e509d0a282f_covid-couvre-feu-restaurant-livraison-commande-en-ligne-innovorder.avif\",  \n  \"author\": {\n    \"@type\": \"\",\n    \"name\": \"Sophie Lecomte\"\n  },  \n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Innovorder\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"\n    }\n  },\n  \"datePublished\": \"December 2021\"\n}\n</script>"
+ }
+}

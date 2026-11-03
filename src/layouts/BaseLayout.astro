@@ -1,0 +1,103 @@
+---
+/**
+ * Layout commun à toutes les pages : balises SEO, styles Webflow et code global.
+ *
+ * Slots :
+ *  - default : contenu de la page ;
+ *  - head    : balises spécifiques à la page (JSON-LD, hreflang, scripts tiers…) ;
+ *  - scripts : scripts spécifiques chargés après jQuery / webflow.js.
+ */
+import GlobalHead from '@/components/site/GlobalHead.astro';
+import GlobalScripts from '@/components/site/GlobalScripts.astro';
+import { SITE_NAME, WEBFLOW_SITE_ID } from '@/consts';
+import site from '@/site.json';
+
+interface Props {
+  title: string;
+  description?: string;
+  /** Titre / description Open Graph s'ils diffèrent des valeurs SEO. */
+  ogTitle?: string;
+  ogDescription?: string;
+  ogImage?: string;
+  ogType?: string;
+  /** URL canonique ; par défaut l'URL de la page. */
+  canonical?: string;
+  noindex?: boolean;
+  lang?: string;
+  /** Attributs Webflow / Weglot de <html> (data-wf-page, data-wf-collection…) utilisés par webflow.js. */
+  htmlAttrs?: Record<string, string>;
+  bodyClass?: string;
+  bodyAttrs?: Record<string, string>;
+  /** jQuery + chunks webflow.js chargés par la page (Webflow découpe son runtime page par page). */
+  webflowScripts?: Record<string, string>[];
+}
+
+const {
+  title,
+  description,
+  ogTitle = title,
+  ogDescription = description,
+  ogImage,
+  ogType = 'website',
+  canonical,
+  noindex = false,
+  lang = 'fr',
+  htmlAttrs = {},
+  bodyClass,
+  bodyAttrs = {},
+  webflowScripts = [],
+} = Astro.props;
+
+// En build (format « file »), Astro.url.pathname vaut /prix.html : on revient à l'URL publique /prix.
+const pathname = Astro.url.pathname.replace(/(\/index)?\.html$/, '').replace(/\/$/, '') || '/';
+const canonicalUrl = new URL(canonical ?? pathname, Astro.site).href;
+const ogImageUrl = ogImage && new URL(ogImage, Astro.site).href;
+const locale = lang === 'en' ? 'en_US' : 'fr_FR';
+---
+
+<!doctype html>
+<html lang={lang} data-wf-site={WEBFLOW_SITE_ID} {...htmlAttrs}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    {description && <meta name="description" content={description} />}
+    <link rel="canonical" href={canonicalUrl} />
+    {noindex && <meta name="robots" content="noindex" />}
+
+    <meta property="og:type" content={ogType} />
+    <meta property="og:site_name" content={SITE_NAME} />
+    <meta property="og:locale" content={locale} />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:title" content={ogTitle} />
+    {ogDescription && <meta property="og:description" content={ogDescription} />}
+    {ogImageUrl && <meta property="og:image" content={ogImageUrl} />}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={ogTitle} />
+    {ogDescription && <meta name="twitter:description" content={ogDescription} />}
+    {ogImageUrl && <meta name="twitter:image" content={ogImageUrl} />}
+
+    {site.favicon && <link rel="icon" href={site.favicon} type="image/png" />}
+    {site.webclip && <link rel="apple-touch-icon" href={site.webclip} />}
+    <link rel="sitemap" href="/sitemap-index.xml" />
+
+    {site.stylesheets.map((href) => <link rel="stylesheet" href={href} />)}
+    <script is:inline>
+      !(function (o, c) {
+        var n = c.documentElement,
+          t = ' w-mod-';
+        ((n.className += t + 'js'),
+          ('ontouchstart' in o || (o.DocumentTouch && c instanceof DocumentTouch)) && (n.className += t + 'touch'));
+      })(window, document);
+    </script>
+
+    <GlobalHead />
+    <slot name="head" />
+  </head>
+  <body class={bodyClass} {...bodyAttrs}>
+    <slot />
+    {webflowScripts.map((attrs) => <script is:inline {...attrs}></script>)}
+    <GlobalScripts />
+    <slot name="scripts" />
+  </body>
+</html>

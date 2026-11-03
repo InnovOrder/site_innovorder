@@ -1,0 +1,101 @@
+{
+ "slug": "alim-confidence-health-gov-checks-food-sector",
+ "seo": {
+  "title": "Foodservice: everything you need to know about health controls",
+  "description": "Discover the best practices for effective sanitary control with Alim'Confiance.",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64be97d7e13ed833ce721935_6442a1376adf3e5be52fe003_iStock-1271320239.avif",
+  "lang": "en",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc01",
+   "data-wf-collection": "6493777d655aea5e6643cb6c",
+   "data-wf-item-slug": "alim-confiance-gouv-controle-sanitaire-restaurant",
+   "data-wg-translated": "en"
+  },
+  "bodyClass": "body",
+  "bodyAttrs": {
+   "ph-category": "blog"
+  },
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.innovorder.com/en/blog/alim-confidence-health-gov-checks-food-sector\"},\"headline\":\"Contrôle sanitaire dans son restaurant : tout ce qu&#39;il faut savoir\",\"description\":\"Discover the best practices for effective sanitary control with Alim&#039;Confiance.\",\"image\":\"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64be97d7e13ed833ce721935_6442a1376adf3e5be52fe003_iStock-1271320239.avif\",\"author\":{\"@type\":\"Person\",\"name\":\"Chloé Thévenet\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Innovorder\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.9\",\"reviewCount\":\"550\",\"bestRating\":\"5\",\"worstRating\":\"1\"}},\"datePublished\":\"18 avril 2023\",\"dateModified\":\"\",\"articleSection\":\"Ouvrir ou reprendre son restaurant\",\"timeRequired\":\"3\"}</script>",
+  "field-script-2": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/blog/alim-confiance-gouv-controle-sanitaire-restaurant\",\"en\":\"https://www.innovorder.com/en/blog/alim-confidence-health-gov-checks-food-sector\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/blog/alim-confiance-gouv-controle-sanitaire-restaurant\",\"originalPath\":\"/blog/alim-confiance-gouv-controle-sanitaire-restaurant\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/blog/alim-confiance-gouv-controle-sanitaire-restaurant",
+  "link-href-2": "https://www.innovorder.com/en/blog/alim-confidence-health-gov-checks-food-sector",
+  "breadcrumb-text-href": "/en/categories/opening-a-restaurant",
+  "breadcrumb-text": "Opening or taking over a restaurant ",
+  "breadcrumb-text-href-2": "/en/blog/alim-confidence-health-gov-checks-food-sector",
+  "breadcrumb-text-2": "Sanitary control in your restaurant: everything you need to know",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64be97d7e13ed833ce721935_6442a1376adf3e5be52fe003_iStock-1271320239.avif",
+  "current-post-image-alt": "",
+  "current-post-image-sizes": null,
+  "current-post-image-srcset": null,
+  "category-name-current-post": "Opening or taking over a restaurant ",
+  "read-time-txt-class": "read-time-txt",
+  "read-time-txt-html": "3",
+  "title-post": "Sanitary control in your restaurant: everything you need to know",
+  "author-post-class": "author-post",
+  "author-post-html": "Chloé Thévenet",
+  "date-post-text": "04 December 2024",
+  "rt-blog-html": "\n          <p>Do you know Alim'Confiance? Alim'Confiance is a website that provides information on the results of <strong>sanitary controls in restaurants</strong>, and more generally in food establishments.&nbsp;</p>\n          <p>Inspectors from the Departmental Directorate of Population Protection (DDPP) carry out inspections in establishments such as restaurants, butcheries, bakeries, supermarkets, caterers or collective catering establishments to <strong>check their level of hygiene</strong>.&nbsp;</p>\n          <h2><strong>The 4 levels of hygiene defined by Alim'Confiance</strong></h2>\n          <p>On <strong>Alim' Confiance</strong>, you can see the date of the last inspection carried out in each establishment, as well as the hygiene level established by the inspection. </p>\n          <p>This level of hygiene is graded on 4 different levels:</p>\n          <h3>1st level: very satisfactory</h3>\n          <p>If the plant is compliant or has minor non-conformities that do not concern the composition of the product. For example, a non-compliant hand-washing basin or a damaged garbage can lid.</p>\n          <h3>2nd level: satisfactory </h3>\n          <p>If the administration has issued a simple warning to the plant to improve its practices, but has not imposed any sanctions.</p>\n          <h3>3rd level: to be improved</h3>\n          <p>If the authorities have given the establishment formal notice to comply with health regulations within a certain timeframe, under penalty of sanction. A new inspection will be carried out to check that the corrective measures have been implemented.</p>\n          <h3>4th level:<strong> urgent correction</strong></h3>\n          <p>If the establishment can endanger consumer health. In this case, the authorities have issued a penalty such as closure of the establishment.</p>\n          <p>‍</p>\n          <h2><strong>Who does the health checks in restaurants? And how is this done?&nbsp;</strong></h2>\n          <p>In all establishments, food safety is monitored very closely by <strong>state officials</strong> before a restaurant opens.&nbsp;</p>\n          <p>Inspectors verify that all food hygiene requirements are met to ensure the quality and safety of each meal. Before serving the first customers, an initial visit is even scheduled to ensure that everything is in order.</p>\n          <p>During this visit, it is necessary to provide the required documents and to submit <strong>to</strong> <strong>food controls</strong> (either visual or laboratory), without prior notice, usually before the start of service. Here are the items that will be checked by the agents in your restaurant:</p>\n          <ul role=\"list\">\n            <li>The temperature register for refrigerators, freezers and refrigerated means of transport</li>\n            <li>Respect for the cold and hot chain (a few degrees of deviation from the regulations is tolerated)</li>\n            <li>Respecting expiration dates</li>\n            <li>The cleanliness of the premises and the staff</li>\n            <li>Tracking and traceability of foodstuffs (including suppliers)</li>\n            <li>Mandatory participation of a staff member in a training course on good hygiene practices in the kitchen (HACCP course)</li>\n            <li>The existence of a sanitary control plan</li>\n          </ul>\n          <p>And that's not all: your restaurant will also be subject to regular visits as part of a <strong>national action plan</strong>. These controls are unannounced, so always be prepared for them. The hygiene of your establishment must always be impeccable!</p>\n          <figure style=\"max-width:1040px\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\"><a href=\"/en/ebook/developper-son-fast-food-le-guide-ultime\" target=\"_blank\" class=\"w-inline-block\">\n              <div><img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66b38e9a29bc92b491818047_66a3596ac4ed8305a37942fe_666c313804b09f27d6becb92_Bannie%2525CC%252580re%252520Blog%252520-%252520guide%252520ultime.avif\" loading=\"lazy\" alt></div>\n            </a></figure>\n          <p>‍</p>\n          <h2><strong>Alim'Confiance: consult the results of controls on the Internet&nbsp;</strong></h2>\n          <p>Did you know that? All users can <strong>access</strong> the results of sanitary controls for <strong data-wg-splitted>free</strong> on the<a href=\"https://www.alim-confiance.gouv.fr/\"> Alim'Confiance</a> website!</p>\n          <p>For each establishment, the date of the last inspection and the level of hygiene established by the inspection are indicated on the platform. This means that you can easily check if an establishment complies with the sanitary standards before deciding to consume or buy food products from them. The controls are carried out throughout the <strong>food chain</strong>.</p>\n          <p>👉 Going further:<a href=\"/en/blog/standards-and-regulations-in-restauration\"> regulatory standards to know in the restaurant industry</a></p>\n          <p>‍</p>\n          <h2><strong>Hygiene obligations in the restaurant industry: HACCP</strong></h2>\n          <p><strong>‍HACCP</strong> (Hazard Analysis and Critical Control Point) is a food safety management system widely used in the restaurant industry. Its purpose is to ensure <strong>food safety</strong> and protect consumer health.</p>\n          <p>The basic principles of HACCP include:&nbsp;</p>\n          <ul role=\"list\">\n            <li>identification of potential food safety hazards,</li>\n            <li>establishing critical control points to prevent risks,</li>\n            <li>Establishing monitoring and analysis procedures to ensure that standards are met,</li>\n            <li>documentation of all steps in the process</li>\n            <li>training and awareness of employees in good food hygiene practices</li>\n            <li>the implementation of a traceability system to identify the origin of ingredients, proper handling and storage of food,&nbsp;</li>\n            <li>and the implementation of a regular cleaning and disinfection plan for facilities and equipment.</li>\n          </ul>\n          <p>By complying with restaurant hygiene rules and using <strong>the HACCP system</strong>, restaurants can guarantee the safety and quality of the food served to their customers, which is essential for their satisfaction and for the long-term success of the establishment.</p>\n          <p>👉 To go further:<a href=\"/en/blog/the-12-steps-to-develop-a-haccp-plan\"> the 12 steps of the HACCP method</a></p>\n        ",
+  "div-class": "w-condition-invisible",
+  "right-head-class": "right-head interesting-art",
+  "div-role": "list",
+  "div-class-2": "w-dyn-items",
+  "div-role-2": "listitem",
+  "div-class-3": "w-dyn-item",
+  "div-html": "<a href=\"/en/blog/restaurant-signs-rules-required\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64be97e36187686e97a37449_64087f3e3e8cc67f6602c231_iStock-1322352946.jpeg\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Mandatory signage in a restaurant: the rules to know</div>\n                  <div class=\"interesting-articles-category\">Opening or taking over a restaurant</div>\n                </div>\n              </a>",
+  "div-role-3": "list",
+  "div-class-4": "w-dyn-items",
+  "div-role-4": "listitem",
+  "div-class-5": "w-dyn-item",
+  "div-html-2": "<a href=\"/en/blog/standards-and-regulations-in-restauration\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64be97e7a68ac0030fa4c2b1_642d9e33e98a8e6ce7097800_iStock-869409168%2520small.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Regulatory standards to know in the restaurant industry</div>\n                  <div class=\"interesting-articles-category\">Opening or taking over a restaurant</div>\n                </div>\n              </a>",
+  "div-role-5": "list",
+  "div-class-6": "w-dyn-items",
+  "div-role-6": "listitem",
+  "div-class-7": "w-dyn-item",
+  "div-html-3": "<a href=\"/en/blog/the-12-steps-to-develop-a-haccp-plan\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64be97ed164ef534682564be_642fe22cbc51684e8858d06e_iStock-1393546530%2520small.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">The 12 steps of the HACCP method</div>\n                  <div class=\"interesting-articles-category\">The challenges of foodservice</div>\n                </div>\n              </a>",
+  "slider-mobile-blog-class": "slider-mobile-blog w-slider",
+  "div-role-7": "list",
+  "div-class-8": "w-dyn-items",
+  "div-role-8": "listitem",
+  "div-class-9": "w-dyn-item",
+  "div-html-4": "<a href=\"/en/blog/restaurant-signs-rules-required\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64be97e36187686e97a37449_64087f3e3e8cc67f6602c231_iStock-1322352946.jpeg\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Mandatory signage in a restaurant: the rules to know</div>\n                  <div class=\"interesting-articles-category\">Opening or taking over a restaurant</div>\n                </div>\n              </a>",
+  "div-role-9": "list",
+  "div-class-10": "w-dyn-items",
+  "div-role-10": "listitem",
+  "div-class-11": "w-dyn-item",
+  "div-html-5": "<a href=\"/en/blog/standards-and-regulations-in-restauration\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64be97e7a68ac0030fa4c2b1_642d9e33e98a8e6ce7097800_iStock-869409168%2520small.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Regulatory standards to know in the restaurant industry</div>\n                  <div class=\"interesting-articles-category\">Opening or taking over a restaurant</div>\n                </div>\n              </a>",
+  "div-role-11": "list",
+  "div-class-12": "w-dyn-items",
+  "div-role-12": "listitem",
+  "div-class-13": "w-dyn-item",
+  "div-html-6": "<a href=\"/en/blog/the-12-steps-to-develop-a-haccp-plan\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64be97ed164ef534682564be_642fe22cbc51684e8858d06e_iStock-1393546530%2520small.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">The 12 steps of the HACCP method</div>\n                  <div class=\"interesting-articles-category\">The challenges of foodservice</div>\n                </div>\n              </a>",
+  "tail:field-script": "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.innovorder.com/en/blog/alim-confidence-health-gov-checks-food-sector\"},\"headline\":\"Contrôle sanitaire dans son restaurant : tout ce qu&#39;il faut savoir\",\"description\":\"Discover the best practices for effective sanitary control with Alim&#039;Confiance.\",\"image\":\"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64be97d7e13ed833ce721939_6442a6267b4d36677fc97d86_iStock-1271320239.avif\",\"author\":{\"@type\":\"\",\"name\":\"Chloé Thévenet\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Innovorder\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"}},\"datePublished\":\"18 avril 2023\"}</script>"
+ }
+}

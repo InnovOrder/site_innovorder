@@ -1,0 +1,99 @@
+{
+ "slug": "cheque-numerique-digitalisation-restaurant-1500-euros",
+ "seo": {
+  "title": "Chèque numérique : 1500€ pour digitaliser votre restaurant",
+  "description": "En 2020, l'état lance un coup de pouce de 1500€ : le chèque numérique pour la digitalisation de votre restaurant !",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d04db7ce164d80a0f8_63f501f3fcfc59487c1a0011_61bef0c7c455c2c8d830f171_cheque-numerique-restauration-1500-euros-blog-innovorder.avif",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc01",
+   "data-wf-collection": "6493777d655aea5e6643cb6c",
+   "data-wf-item-slug": "cheque-numerique-digitalisation-restaurant-1500-euros"
+  },
+  "bodyClass": "body",
+  "bodyAttrs": {
+   "ph-category": "blog"
+  },
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"BlogPosting\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://www.innovorder.com/blog/cheque-numerique-digitalisation-restaurant-1500-euros\"\n  },\n  \"headline\": \"Chèque numérique : un coup de pouce de 1500€ pour la digitalisation de votre restaurant !\",\n  \"description\": \"En 2020, l&#39;état lance un coup de pouce de 1500€ : le chèque numérique pour la digitalisation de votre restaurant !\",\n  \"image\": \"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d04db7ce164d80a0f8_63f501f3fcfc59487c1a0011_61bef0c7c455c2c8d830f171_cheque-numerique-restauration-1500-euros-blog-innovorder.avif\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Sophie Lecomte\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Innovorder\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"\n    },\n    \"aggregateRating\": {\n      \"@type\": \"AggregateRating\",\n      \"ratingValue\": \"4.9\",\n      \"reviewCount\": \"550\",\n      \"bestRating\": \"5\",\n      \"worstRating\": \"1\"\n      }\n  },\n  \"datePublished\": \"6 novembre 2020\",\n  \"dateModified\": \"\",\n  \"articleSection\": \"Développer son activité\",\n  \"timeRequired\": \"2\"\n}\n</script>",
+  "field-script-2": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/blog/cheque-numerique-digitalisation-restaurant-1500-euros\",\"en\":\"https://www.innovorder.com/en/blog/1500-euros-aid-digital-check-to-help-restaurant-digitalization\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/blog/cheque-numerique-digitalisation-restaurant-1500-euros\",\"originalPath\":\"/blog/cheque-numerique-digitalisation-restaurant-1500-euros\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/blog/cheque-numerique-digitalisation-restaurant-1500-euros",
+  "link-href-2": "https://www.innovorder.com/en/blog/1500-euros-aid-digital-check-to-help-restaurant-digitalization",
+  "breadcrumb-text-href": "/categories/digitalisation-restauration",
+  "breadcrumb-text": "Développer son activité",
+  "breadcrumb-text-href-2": "/blog/cheque-numerique-digitalisation-restaurant-1500-euros",
+  "breadcrumb-text-2": "Chèque numérique : un coup de pouce de 1500€ pour la digitalisation de votre restaurant !",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d04db7ce164d80a0f8_63f501f3fcfc59487c1a0011_61bef0c7c455c2c8d830f171_cheque-numerique-restauration-1500-euros-blog-innovorder.avif",
+  "current-post-image-alt": "",
+  "current-post-image-sizes": null,
+  "current-post-image-srcset": null,
+  "category-name-current-post": "Développer son activité",
+  "read-time-txt-class": "read-time-txt",
+  "read-time-txt-html": "2",
+  "title-post": "Chèque numérique : un coup de pouce de 1500€ pour la digitalisation de votre restaurant !",
+  "author-post-class": "author-post",
+  "author-post-html": "Sophie Lecomte",
+  "date-post-text": "05 December 2024",
+  "rt-blog-html": "\n          <p>Le \"commerce connecté\" est plus que jamais d'actualité, qu'il s'agisse d'ailleurs du <a href=\"/blog/tendances-2021-restauration\">secteur de la restauration</a> que d'autres types d'établissements comme les fleuristes, les libraires, les épiceries... </p>\n          <p>Pour accompagner au mieux les commerçants et artisans indépendants employant moins de 10 salariés, la région Ile-de-France a justement mis en place un <strong>chèque numérique pouvant atteindre 1500 euros, afin d'améliorer leur présence et leurs ventes sur Internet</strong>. </p>\n          <h2><strong>Les 3 objectifs du chèque numérique :</strong></h2>\n          <p>1) Améliorer la gestion digitale ; </p>\n          <p>2) Développer le \"web to store\" (augmentation du flux en boutique grâce au marketing digital) ; </p>\n          <p>3) Booster les ventes grâce au e-commerce.</p>\n          <p>Si vous hésitiez jusque-là à investir dans le digital, c'est le moment de vous lancer ! <em>Click and collect, drive, marketplace,</em> solution de commande en ligne... cette aide peut vraiment vous aider à maintenir votre restaurant actif dans le contexte, et surtout à préparer l'avenir de manière sereine. </p>\n          <h2><strong>Quels projets pouvez-vous financer avec cette aide ?</strong></h2>\n          <p>Le montant de la subvention permet de soutenir deux catégories de dépenses (l'une ou l'autre). D'une part, ce que l'on estime être des dépenses de fonctionnement au sens où elles ne constituent pas des actifs mais des passifs : abonnements à des solutions digitales de gestion, comme le <strong>logiciel de caisse Innovorder, la </strong><a href=\"/blog/avantages-commande-en-ligne-restaurant\"><strong>commande en ligne</strong></a><strong> ou la solution de fidélité</strong> par exemple ! &nbsp;Il peut aussi s'agir d'investissements publicitaires sur le Web, de fidélisation, de dépenses pour le référencement (SEO), d'hébergement ou de nom de domaine... </p>\n          <p>D'autre part, vous pouvez demander cette subvention pour alléger vos dépenses d'investissement : achat de licences ou d'écrans, etc. </p>\n          <h2><strong>Etes-vous éligible au chèque numérique ?</strong></h2>\n          <p>Si vous remplissez les conditions suivantes, oui ! Il vous suffira alors de<a href=\"https://www.iledefrance.fr/cheque-numerique-pour-un-commerce-connecte\"><strong> suivre les démarches officielles</strong></a> pour en bénéficier. </p>\n          <figure>\n            <div><img loading=\"lazy\" alt src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59023b19ffee_Capture-d-e-cran-2020-11-06-a--09_56_13.avif\"></div>\n            <figcaption><em>(c) iledefrance.fr</em></figcaption>\n          </figure>\n          <h2><strong>Note importante : la somme que vous allez toucher dépend du montant de l'investissement </strong></h2>\n          <p>La subvention est calculée en fonction du montant HT. Par exemple, si vous dépensez entre 300 et 599€ HT, le montant du chèque sera de 150€.</p>\n          <p>Pour <strong>obtenir le maximum, à savoir 1500€, il vous faudra investir au minimum 3000€</strong>, ce qui implique de réfléchir à la stratégie de digitalisation que vous devez implémenter en priorité !</p>\n          <figure style=\"max-width:1040px\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\"><a href=\"/ebook/developper-son-fast-food-le-guide-ultime\" target=\"_blank\" class=\"w-inline-block\">\n              <div><img alt src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66b0e3d24a5e372d1a6ee0cd_655f7d9f44ef43bed9fe6995_Banni%25C3%25A8re%2520Blog%2520-%2520guide%2520ultime%2520(1).avif\" loading=\"lazy\"></div>\n            </a></figure>\n          <h2><strong>Le chèque numérique est-il compatible avec les solutions Innovorder ? </strong></h2>\n          <p>Tout à fait ! <a href=\"/nous-contacter\"><strong>Contactez nos experts</strong></a> pour en parler et voir très concrètement comment nos solutions peuvent vous aider à passer à la vitesse supérieure.</p>\n          <p>‍</p>\n        ",
+  "div-class": "w-condition-invisible",
+  "right-head-class": "right-head interesting-art",
+  "div-role": "list",
+  "div-class-2": "w-dyn-items",
+  "div-role-2": "listitem",
+  "div-class-3": "w-dyn-item",
+  "div-html": "<a href=\"/blog/tendance-restauration-2023\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt=\"restaurant plein\" loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01de5c84e8acd6111830_63f501f3fcfc594e0c1a01b6_iStock-1175050377.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">10 tendances de la restauration à connaître absolument en 2023</div>\n                  <div class=\"interesting-articles-category\">Tendances et actualités</div>\n                </div>\n              </a>",
+  "div-role-3": "list",
+  "div-class-4": "w-dyn-items",
+  "div-role-4": "listitem",
+  "div-class-5": "w-dyn-item",
+  "div-html-2": "<a href=\"/blog/concept-restaurant\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d272d28c057b79940f_63f501f3fcfc59944b1a0218_small%2520concept.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">13 concepts de restaurant à découvrir en 2025</div>\n                  <div class=\"interesting-articles-category\">Ouvrir ou reprendre son restaurant</div>\n                </div>\n              </a>",
+  "div-role-5": "list",
+  "div-class-6": "w-dyn-items",
+  "div-role-6": "listitem",
+  "div-class-7": "w-dyn-item",
+  "div-html-3": "<a href=\"/blog/abonnement-restaurant\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01cf50d2e9bfcba2b808_63f501f3fcfc5953ba1a021a_small%2520abo.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">L’abonnement au restaurant : le futur de la restauration ?</div>\n                  <div class=\"interesting-articles-category\">Tendances et actualités</div>\n                </div>\n              </a>",
+  "slider-mobile-blog-class": "slider-mobile-blog w-slider",
+  "div-role-7": "list",
+  "div-class-8": "w-dyn-items",
+  "div-role-8": "listitem",
+  "div-class-9": "w-dyn-item",
+  "div-html-4": "<a href=\"/blog/tendance-restauration-2023\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt=\"restaurant plein\" loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01de5c84e8acd6111830_63f501f3fcfc594e0c1a01b6_iStock-1175050377.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">10 tendances de la restauration à connaître absolument en 2023</div>\n                  <div class=\"interesting-articles-category\">Tendances et actualités</div>\n                </div>\n              </a>",
+  "div-role-9": "list",
+  "div-class-10": "w-dyn-items",
+  "div-role-10": "listitem",
+  "div-class-11": "w-dyn-item",
+  "div-html-5": "<a href=\"/blog/concept-restaurant\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d272d28c057b79940f_63f501f3fcfc59944b1a0218_small%2520concept.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">13 concepts de restaurant à découvrir en 2025</div>\n                  <div class=\"interesting-articles-category\">Ouvrir ou reprendre son restaurant</div>\n                </div>\n              </a>",
+  "div-role-11": "list",
+  "div-class-12": "w-dyn-items",
+  "div-role-12": "listitem",
+  "div-class-13": "w-dyn-item",
+  "div-html-6": "<a href=\"/blog/abonnement-restaurant\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01cf50d2e9bfcba2b808_63f501f3fcfc5953ba1a021a_small%2520abo.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">L’abonnement au restaurant : le futur de la restauration ?</div>\n                  <div class=\"interesting-articles-category\">Tendances et actualités</div>\n                </div>\n              </a>",
+  "tail:field-script": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"BlogPosting\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://www.innovorder.com/blog/cheque-numerique-digitalisation-restaurant-1500-euros\"\n  },\n  \"headline\": \"Chèque numérique : un coup de pouce de 1500€ pour la digitalisation de votre restaurant !\",\n  \"description\": \"En 2020, l&#39;état lance un coup de pouce de 1500€ : le chèque numérique pour la digitalisation de votre restaurant !\",\n  \"image\": \"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d04db7ce164d80a0f8_63f501f3fcfc59487c1a0011_61bef0c7c455c2c8d830f171_cheque-numerique-restauration-1500-euros-blog-innovorder.avif\",  \n  \"author\": {\n    \"@type\": \"\",\n    \"name\": \"Sophie Lecomte\"\n  },  \n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Innovorder\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"\n    }\n  },\n  \"datePublished\": \"6 novembre 2020\"\n}\n</script>"
+ }
+}

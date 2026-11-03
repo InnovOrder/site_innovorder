@@ -1,0 +1,85 @@
+{
+ "slug": "makai-innovorder",
+ "seo": {
+  "title": "Success Story - Pourquoi Makai a délégué la prise de commande",
+  "description": "Sara, co-fondatrice de Makai, nous explique pourquoi elle a délégué la prise de commande à une borne.",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66ab4979a25f4b26fbffc29a_Screenshot%202024-08-01%20at%2010.37.40.avif",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc30",
+   "data-wf-collection": "6493777d655aea5e6643cb6a",
+   "data-wf-item-slug": "makai-innovorder"
+  },
+  "bodyClass": "body",
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/success-stories/makai-innovorder\",\"en\":\"https://www.innovorder.com/en/success-stories/makai-innovorder\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/success-stories/makai-innovorder\",\"originalPath\":\"/success-stories/makai-innovorder\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/success-stories/makai-innovorder",
+  "link-href-2": "https://www.innovorder.com/en/success-stories/makai-innovorder",
+  "title-post": "Pourquoi Makai a délégué la prise de commande",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66ab4979a25f4b26fbffc29a_Screenshot%202024-08-01%20at%2010.37.40.avif",
+  "current-post-image-sizes": "100vw",
+  "current-post-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66ab4979a25f4b26fbffc29a_Screenshot%202024-08-01%20at%2010.37.40-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66ab4979a25f4b26fbffc29a_Screenshot%202024-08-01%20at%2010.37.40-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66ab4979a25f4b26fbffc29a_Screenshot%202024-08-01%20at%2010.37.40.avif 1554w",
+  "company-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66a0c5e95139b02261af47d2_logo_makai_terracota.avif\")",
+  "title-post-2": "Pourquoi Makai a délégué la prise de commande",
+  "rt-blog-html": "\n          <p>Makai, un nom qui évoque l'océan et le surf, est bien plus qu'un simple restaurant. Créé par deux amies passionnées, Sara et Flore, ce concept de restauration healthy mêle les saveurs des îles, la culture du surf et la cuisine hawaïenne, le tout dans une ambiance conviviale et gourmande.</p>\n          <p>Makai propose des poke bowls équilibrés et sains, mais également des boissons fraîches, des smoothies et un corner \"coffee\" avec des lattes, du matcha et du chaï. Cette diversité a rapidement séduit les clients, permettant à Makai de se développer rapidement avec un premier restaurant à Hossegor, puis un deuxième à Seignosse.</p>\n          <figure style=\"max-width:1240pxpx\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\">\n            <div><img loading=\"lazy\" alt src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66a910a99207b3a24422a931_66a24dace78ca0d06a4e2e24_Screenshot%25202024-07-25%2520at%252014.58.30.avif\"></div>\n          </figure>\n          <p>‍</p>\n          <h2><strong>Les challenges</strong></h2>\n          <p>Cependant, ce succès fulgurant n'est pas venu sans défis car ouvrir un restaurant représente un vrai challenge. Trouver des locaux adaptés, gérer les fournisseurs, créer des menus attractifs et constituer une équipe compétente ont été des étapes cruciales.</p>\n          <p>Au départ, Makai fonctionnait de manière classique avec uniquement une caisse enregistreuse. Cette méthode fonctionnait mais la prise de commande au comptoir entraînait une perte de temps considérable pour l'équipe : un véritable casse-tête à chaque service, pour Sara et son associée !</p>\n          <p>‍</p>\n          <h2><strong>La solution : déléguer la prise de commande</strong></h2>\n          <p>Pour continuer à offrir un service de qualité et rapide, Makai a décidé de digitaliser ses points de vente. L'introduction des bornes de commande a transformé leur manière de travailler.</p>\n          <blockquote>\"Digitaliser nos points de vente est surtout un moyen de gagner du temps sur nos prises de commandes. Qui dit temps gagné, dit clients satisfaits\", explique Sara.</blockquote>\n          <p>Les bornes de commande ont apporté de la valeur ajoutée en fluidifiant l'organisation et en rendant autonomes les clients sur la prise de commande.</p>\n          <blockquote>Les bornes libèrent nos employés, ils ne sont plus contraints de rester uniquement à la caisse.</blockquote>\n          <p>Grâce à l'installation des bornes de commande, elles ont constaté une amélioration significative de leur gestion des commandes, réduisant ainsi le besoin en personnel et offrant une meilleure expérience à leurs clients.</p>\n          <p>De plus, le back office intuitif et l'<strong>accès en temps réel</strong> à tous les paramètres des bornes permettent une gestion dynamique et adaptable des menus, crucial pour répondre aux besoins fluctuants de leur clientèle.</p>\n          <figure class=\"w-richtext-align-center w-richtext-figure-type-image\">\n            <div><img loading=\"lazy\" alt=\"Borne de commande chez Makai \" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66a910a99207b3a24422a909_66a24d6c8987543b9d242d2f_Screenshot%25202024-07-25%2520at%252015.04.12.avif\"></div>\n          </figure>\n          <p>‍</p>\n          <h2><strong>Pourquoi Innovorder ?</strong></h2>\n          <p>Le choix d'Innovorder s'est imposé comme une évidence pour Makai. En quête d'un partenaire unique capable de fournir une solution complète incluant caisse, borne et back office, elles ont trouvé en Innovorder le partenaire idéal.</p>\n          <p>Dès l'installation, l'accompagnement personnalisé d'Innovorder a joué un rôle déterminant dans la réussite de Makai. </p>\n          <blockquote>\"L'assistance dès le début a été remarquable. En cas de besoin, notre référent de compte ou le support sont toujours disponibles pour nous aider.\"</blockquote>\n          <p>Grâce à ce soutien réactif et à la fiabilité des équipements fournis par Innovorder, Makai a pu se concentrer pleinement sur son cœur de métier : ravir leurs clients avec des plats délicieux et sains, sans se soucier des aspects techniques de leur activité.</p>\n          <p>‍</p>\n          <h2><strong>Quels projets pour la suite ?</strong></h2>\n          <p>Grâce à Innovorder, Makai a non seulement amélioré l'efficacité de ses opérations mais a également pu se concentrer sur son développement futur. Avec des solutions digitales robustes, Sara et Flore réfléchissent à ouvrir de nouveaux établissements et à continuer à séduire une clientèle de plus en plus fidèle.</p>\n          <p>Pour les restaurateurs en quête d'optimisation et de croissance, l'exemple de Makai montre que l'innovation digitale, avec un partenaire de confiance comme Innovorder, peut faire toute la différence. Comme Sara et Flore, simplifiez vos opérations, améliorez l'expérience client et préparez-vous à surfer sur la vague du succès avec Innovorder !</p>\n          <p>_</p>\n          <p>Vous gérez un fast-food ou vous souhaitez vous lancer dans la restauration rapide ? Faites appel à un expert Innovorder et découvrez comment gagner du temps sur votre prise de commande. </p>\n        ",
+  "right-head": "Makai",
+  "bozzolo-cat": "Indépendant",
+  "div-html": "\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/borne-de-commande\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5975dd1a0229_Borne%20de%20commande.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Borne de commande</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/caisse-enregistreuse-tactile-restauration\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc596eea1a0225_Portefeuille-2.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Caisse enregistreuse</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/logiciel-caisse-restauration\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5943581a021e_Backoffice.webp\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Backoffice</div>\n                    </a></div>\n                ",
+  "image-thumb-3x-href": "/success-stories/foud-a-uniformise-son-reseau-de-franchise",
+  "bg-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66630a78b6caa73e7350278e_IMG_7582%20(1).avif",
+  "bg-image-sizes": "(max-width: 767px) 100vw, 800px",
+  "bg-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66630a78b6caa73e7350278e_IMG_7582%20(1)-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66630a78b6caa73e7350278e_IMG_7582%20(1).avif 800w",
+  "company-img-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/666309fdeb595124d5c829a0_logo%20NL_carre%CC%81_AL.avif\")",
+  "link-block-9-href": "/success-stories/foud-a-uniformise-son-reseau-de-franchise",
+  "title-cs": "Comment Foud a simplifié la gestion de sa franchise de 5 restaurants",
+  "company-name-cs": "Foud",
+  "label-category-card": "Franchise",
+  "arrow-block-blog-href": "/success-stories/foud-a-uniformise-son-reseau-de-franchise",
+  "image-thumb-3x-href-2": "/success-stories/becchi-innovorder",
+  "bg-image-src-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6699308af769ff68039ba835_Screenshot%202024-07-18%20at%2015.32.03.avif",
+  "bg-image-sizes-2": "100vw",
+  "bg-image-srcset-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6699308af769ff68039ba835_Screenshot%202024-07-18%20at%2015.32.03-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6699308af769ff68039ba835_Screenshot%202024-07-18%20at%2015.32.03.avif 800w",
+  "company-img-logo-style-2": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6682a0d65f438e4a6e897c13_becchi.avif\")",
+  "link-block-9-href-2": "/success-stories/becchi-innovorder",
+  "title-cs-2": "Pourquoi le digital est indispensable en restauration rapide d'après Becchi",
+  "company-name-cs-2": "Becchi",
+  "label-category-card-2": "Indépendant",
+  "arrow-block-blog-href-2": "/success-stories/becchi-innovorder",
+  "image-thumb-3x-href-3": "/success-stories/alfi-innovorder",
+  "bg-image-src-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc597ce91a020d_small%20alfi.avif",
+  "bg-image-sizes-3": "(max-width: 479px) 100vw, (max-width: 991px) 95vw, (max-width: 1439px) 30vw, 403.3203125px",
+  "bg-image-srcset-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc597ce91a020d_small%2520alfi-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc597ce91a020d_small%20alfi.avif 800w",
+  "company-img-logo-style-3": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59f5ea1a022b_Alfi.avif\")",
+  "link-block-9-href-3": "/success-stories/alfi-innovorder",
+  "title-cs-3": "Comment Alfi a augmenté son panier moyen de 28%",
+  "company-name-cs-3": "Alfi",
+  "label-category-card-3": "Indépendant",
+  "arrow-block-blog-href-3": "/success-stories/alfi-innovorder"
+ }
+}

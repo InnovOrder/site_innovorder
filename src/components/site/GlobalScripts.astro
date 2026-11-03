@@ -1,0 +1,58 @@
+---
+// Scripts chargés en fin de <body> sur toutes les pages (jQuery, Webflow, tracking…).
+// Généré depuis le site Webflow par scripts/migrate-webflow.mjs, puis maintenu dans ce dépôt.
+---
+<script is:inline>
+// on Weglot init
+Weglot.on('initialized', ()=>{
+	// get the current active language
+  const currentLang = Weglot.getCurrentLang();
+  // if the current active language link exists
+  if(document.querySelector('.wg-element-wrapper.sw3 [lang='+currentLang+']')){
+  	// click the link
+  	document.querySelector('.wg-element-wrapper.sw3 [lang='+currentLang+']').click();
+  }
+});
+
+// for each of the .wg-element-wrapper language links
+document.querySelectorAll('.wg-element-wrapper.sw3 [lang]').forEach((link)=>{
+	// add a click event listener
+	link.addEventListener('click', function(e){
+  	// prevent default
+		e.preventDefault();
+    // switch current active language after a setTimeout
+    setTimeout(()=>Weglot.switchTo(this.getAttribute('lang')),700);
+	});
+});
+</script>
+<script is:inline>
+
+const urlParams = new URLSearchParams(window.location.search);
+const utmParams = [
+  'utm_source',
+  'utm_medium',
+  'utm_campaign',
+  'utm_term',
+  'utm_content'
+];
+
+let paramValue, utmField;
+
+utmParams.forEach(function (param) {
+  paramValue = urlParams.get(param);
+  utmField = document.querySelector("input[name='"+param+"']");
+
+  if (paramValue && utmField) {
+    utmField.value = paramValue.trim();
+  }
+});
+</script>
+<!--🤙 JS: Slater.app/3368-->
+<script is:inline>let v="1.0";document.addEventListener("DOMContentLoaded", function() {function loadinnovorder(e){let t=document.createElement("script");t.setAttribute("src",e),t.setAttribute("type","module"),document.body.appendChild(t),t.addEventListener("load",()=>{console.log("Slater loaded Innovorder (Slater.app/3368) 🤙")}),t.addEventListener("error",e=>{console.log("Error loading file",e)})}let src=window.location.host.includes("webflow.io")?"https://slater.app/3368.js":"https://slater-app.s3.amazonaws.com/slater/3368.js?v="+v;loadinnovorder(src);})</script>
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+  <iframe defer src="https://www.googletagmanager.com/ns.html?id=GTM-WBS22CB" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+<script async type="module" src="https://interfaces.zapier.com/assets/web-components/zapier-interfaces/zapier-interfaces.esm.js" is:inline></script>
+<zapier-interfaces-chatbot-embed is-popup="true" chatbot-id="cmbz74zfi001hwu77qlf6d5f5"></zapier-interfaces-chatbot-embed>

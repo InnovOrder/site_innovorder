@@ -1,0 +1,85 @@
+{
+ "slug": "comment-burgouzz-est-passe-dune-dark-kitchen-a-3-restaurants-physiques",
+ "seo": {
+  "title": "Success Story - Comment Burgouzz est passé d'une dark kitchen à 3 restaurants physiques",
+  "description": "Théo et Thomas reviennent sur les solutions digitales qu'ils ont mises en place chez Burgouzz pour passer d'une dark kitchen à des restaurants physiques.",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/673db35e6409923a502d1444_Screenshot%202024-10-31%20at%2014.28.15%20(1).avif",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc30",
+   "data-wf-collection": "6493777d655aea5e6643cb6a",
+   "data-wf-item-slug": "comment-burgouzz-est-passe-dune-dark-kitchen-a-3-restaurants-physiques"
+  },
+  "bodyClass": "body",
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/success-stories/comment-burgouzz-est-passe-dune-dark-kitchen-a-3-restaurants-physiques\",\"en\":\"https://www.innovorder.com/en/success-stories/how-burgouzz-went-from-a-dark-kitchen-to-3-physical-restaurants\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/success-stories/comment-burgouzz-est-passe-dune-dark-kitchen-a-3-restaurants-physiques\",\"originalPath\":\"/success-stories/comment-burgouzz-est-passe-dune-dark-kitchen-a-3-restaurants-physiques\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/success-stories/comment-burgouzz-est-passe-dune-dark-kitchen-a-3-restaurants-physiques",
+  "link-href-2": "https://www.innovorder.com/en/success-stories/how-burgouzz-went-from-a-dark-kitchen-to-3-physical-restaurants",
+  "title-post": "Comment Burgouzz est passé d'une dark kitchen à 3 restaurants physiques",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/673db35e6409923a502d1444_Screenshot%202024-10-31%20at%2014.28.15%20(1).avif",
+  "current-post-image-sizes": "100vw",
+  "current-post-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/673db35e6409923a502d1444_Screenshot%202024-10-31%20at%2014.28.15%20(1)-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/673db35e6409923a502d1444_Screenshot%202024-10-31%20at%2014.28.15%20(1).avif 1200w",
+  "company-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/673db2f6126c0679353ad821_burgouzz%20logo.avif\")",
+  "title-post-2": "Comment Burgouzz est passé d'une dark kitchen à 3 restaurants physiques",
+  "rt-blog-html": "\n          <figure style=\"padding-bottom:56.206088992974244%\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-video\">\n            <div>\n              <iframe src=\"https://www.youtube.com/embed/etvTR-jA2Lg\" title=\"COMMENT PASSER D'UNE DARK KITCHEN À DES RESTAURANTS PHYSIQUES | Burgouzz x Innovorder\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>\n            </div>\n          </figure>\n          <p>Fondé par Valouzz, influenceur emblématique, <strong>Burgouzz</strong> est bien plus qu’une simple marque de smash burgers. D'abord lancée en dark kitchen, Burgouzz a rapidement conquis Paris et Montpellier avec deux restaurants physiques, et ambitionne maintenant de s’étendre à Rennes, puis à d’autres villes françaises.</p>\n          <p>Pour plaire à leur clientèle : la Gen Z, ils ont fait le choix du digital pour tous leurs shops. </p>\n          <h2>Des \"bornes à la Mcdo\"</h2>\n          <p>Pour séduire leur clientèle majoritairement jeune, Théo et Thomas, les gérants de Burgouzz, ont adopté une approche résolument digitale dans chacun de leurs établissements. Ils ont ainsi équipé leurs restaurants de <strong>bornes de commande modernes</strong>, à l’image des géants de la restauration rapide.</p>\n          <blockquote><em>« On est une marque jeune, créée par des jeunes, et une grande partie de notre clientèle est jeune. Il était donc évident pour nous d’opter pour des solutions digitales qui correspondent à leurs attentes. »</em></blockquote>\n          <p>Ces bornes ne se limitent pas à fluidifier les commandes. Elles incarnent également une vision ultra-moderne de la restauration rapide tout en <strong>renforçant l’image de marque jeune</strong> de Burgouzz.</p>\n          <figure class=\"w-richtext-align-center w-richtext-figure-type-image\">\n            <div><img alt src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/673de3d35d639510f0ef5492_673de3b5917cdc9ee87b74f3_Screenshot%25202024-11-20%2520at%252014.27.02.avif\" loading=\"lazy\"></div>\n          </figure>\n          <h2>Un maximum de données</h2>\n          <p>Au-delà de l’aspect esthétique et pratique, les bornes de commande jouent un rôle clé dans la stratégie de Burgouzz en collectant des données précieuses : <strong>plats les plus vendus, pics d’affluence, habitudes des clients, et bien plus encore.</strong></p>\n          <blockquote><em>« Grâce aux graphiques et aux données fournis par Innovorder, nous savons précisément quel restaurant fonctionne le mieux et pourquoi. Cela nous permet d’ajuster notre stratégie et d’affiner notre concept à chaque étape de notre développement. »</em> </blockquote>\n          <p>Ces insights stratégiques sont essentiels pour piloter l’expansion de Burgouzz avec une vision claire, permettant d’anticiper les besoins des futurs emplacements.</p>\n          <h3>—</h3>\n          <p>Vous êtes restaurateur ou souhaitez lancer votre restaurant ? Faites appel à un expert Innovorder et découvrez comment piloter facilement vos restaurants et booster votre activité !</p>\n        ",
+  "right-head": "Burgouzz",
+  "bozzolo-cat": "Indépendant",
+  "div-html": "\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/borne-de-commande\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5975dd1a0229_Borne%20de%20commande.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Borne de commande</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/caisse-enregistreuse-tactile-restauration\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc596eea1a0225_Portefeuille-2.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Caisse enregistreuse</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/io-analytics\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc591be41a021f_io-analytics.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>IO Analytics</div>\n                    </a></div>\n                ",
+  "image-thumb-3x-href": "/success-stories/nbk-innovorder",
+  "bg-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66a0ec326902f94e81f221a3_Screenshot%202024-07-24%20at%2011.29.22.avif",
+  "bg-image-sizes": "(max-width: 767px) 100vw, 800px",
+  "bg-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66a0ec326902f94e81f221a3_Screenshot%202024-07-24%20at%2011.29.22-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66a0ec326902f94e81f221a3_Screenshot%202024-07-24%20at%2011.29.22.avif 800w",
+  "company-img-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/668545bd3da9158c31a32b5f_visuel-insta-final.avif\")",
+  "link-block-9-href": "/success-stories/nbk-innovorder",
+  "title-cs": "Pourquoi NBK a choisi une solution 360 pour sa franchise",
+  "company-name-cs": "NBK",
+  "label-category-card": "Franchise",
+  "arrow-block-blog-href": "/success-stories/nbk-innovorder",
+  "image-thumb-3x-href-2": "/success-stories/becchi-innovorder",
+  "bg-image-src-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6699308af769ff68039ba835_Screenshot%202024-07-18%20at%2015.32.03.avif",
+  "bg-image-sizes-2": "100vw",
+  "bg-image-srcset-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6699308af769ff68039ba835_Screenshot%202024-07-18%20at%2015.32.03-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6699308af769ff68039ba835_Screenshot%202024-07-18%20at%2015.32.03.avif 800w",
+  "company-img-logo-style-2": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6682a0d65f438e4a6e897c13_becchi.avif\")",
+  "link-block-9-href-2": "/success-stories/becchi-innovorder",
+  "title-cs-2": "Pourquoi le digital est indispensable en restauration rapide d'après Becchi",
+  "company-name-cs-2": "Becchi",
+  "label-category-card-2": "Indépendant",
+  "arrow-block-blog-href-2": "/success-stories/becchi-innovorder",
+  "image-thumb-3x-href-3": "/success-stories/alfi-innovorder",
+  "bg-image-src-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc597ce91a020d_small%20alfi.avif",
+  "bg-image-sizes-3": "(max-width: 479px) 100vw, (max-width: 991px) 95vw, (max-width: 1439px) 30vw, 403.3203125px",
+  "bg-image-srcset-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc597ce91a020d_small%2520alfi-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc597ce91a020d_small%20alfi.avif 800w",
+  "company-img-logo-style-3": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59f5ea1a022b_Alfi.avif\")",
+  "link-block-9-href-3": "/success-stories/alfi-innovorder",
+  "title-cs-3": "Comment Alfi a augmenté son panier moyen de 28%",
+  "company-name-cs-3": "Alfi",
+  "label-category-card-3": "Indépendant",
+  "arrow-block-blog-href-3": "/success-stories/alfi-innovorder"
+ }
+}
