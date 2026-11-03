@@ -1,0 +1,101 @@
+{
+ "slug": "meetup-online-digital-restauration-lockdown",
+ "seo": {
+  "title": "Meetup Online: Digital as a solution?",
+  "description": "Digital was the \"survival kit\" for many restaurateurs during the lockdown. Many of you have readapted your offer ...",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d8648a637ae3fac3e8_63f501f2fcfc59607519fd66_61bf0a4c33669226db99ea75_maelbarth.avif",
+  "lang": "en",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc01",
+   "data-wf-collection": "6493777d655aea5e6643cb6c",
+   "data-wf-item-slug": "meetup-online-digital-restauration-confinement",
+   "data-wg-translated": "en"
+  },
+  "bodyClass": "body",
+  "bodyAttrs": {
+   "ph-category": "blog"
+  },
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.innovorder.com/en/blog/meetup-online-digital-restauration-lockdown\"},\"headline\":\"Meetup Online : le digital a été votre « kit de survie du confinement » : aujourd’hui, faut-il revenir en arrière ?\",\"description\":\"Digital was the \\\"survival kit\\\" for many restaurateurs during the lockdown. Many of you have readapted your offer ...\",\"image\":\"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d8648a637ae3fac3e8_63f501f2fcfc59607519fd66_61bf0a4c33669226db99ea75_maelbarth.avif\",\"author\":{\"@type\":\"Person\",\"name\":\"Innovorder\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Innovorder\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.9\",\"reviewCount\":\"550\",\"bestRating\":\"5\",\"worstRating\":\"1\"}},\"datePublished\":\"19 juin 2020\",\"dateModified\":\"\",\"articleSection\":\"Tendances et actualités\",\"timeRequired\":\"2\"}</script>",
+  "field-script-2": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/blog/meetup-online-digital-restauration-confinement\",\"en\":\"https://www.innovorder.com/en/blog/meetup-online-digital-restauration-lockdown\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/blog/meetup-online-digital-restauration-confinement\",\"originalPath\":\"/blog/meetup-online-digital-restauration-confinement\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/blog/meetup-online-digital-restauration-confinement",
+  "link-href-2": "https://www.innovorder.com/en/blog/meetup-online-digital-restauration-lockdown",
+  "breadcrumb-text-href": "/en/categories/catering-trends",
+  "breadcrumb-text": "Trends and news",
+  "breadcrumb-text-href-2": "/en/blog/meetup-online-digital-restauration-lockdown",
+  "breadcrumb-text-2": "Meetup Online: digital has been your \"containment survival kit\": now, should we go back?",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d8648a637ae3fac3e8_63f501f2fcfc59607519fd66_61bf0a4c33669226db99ea75_maelbarth.avif",
+  "current-post-image-alt": "",
+  "current-post-image-sizes": null,
+  "current-post-image-srcset": null,
+  "category-name-current-post": "Trends and news",
+  "read-time-txt-class": "read-time-txt",
+  "read-time-txt-html": "2",
+  "title-post": "Meetup Online: digital has been your \"containment survival kit\": now, should we go back?",
+  "author-post-class": "author-post",
+  "author-post-html": "Innovorder",
+  "date-post-text": "05 December 2024",
+  "rt-blog-html": "\n          <p>Digital has been the \"survival kit\" for many restaurateurs during containment.</p>\n          <p>Many of you have readapted your offer to relaunch your business despite the closure of the restaurants. </p>\n          <p>Today, the restaurants have reopened their doors...</p>\n          <p><strong>Should we keep these digital tools or make the (risky) choice to do without them? Is it the assurance of being well prepared if a new crisis occurs, or a gadget to be abandoned even if it means going backwards? </strong>If for many independents, chains and franchisees, the positive results are such that the question is not so clear-cut, many restaurant owners are still hesitating about the weight to give (or to abandon) to digital solutions. What<strong>better way to answer this question than to cross-reference the experiences and visions of various restaurant industry players?</strong></p>\n          <p>So we invited Mael Barth - CEO of JOUR, Matteo Zanoni - Sales Manager of Clasico Argentino and Romain Melloul - Managing Director of Innovorder to discuss this topic.</p>\n          <figure>\n            <div><img loading=\"lazy\" alt src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc596f3a1a002b_maelbarth-1.avif\"></div>\n          </figure>\n          <figure class=\"w-richtext-align-center w-richtext-figure-type-image\">\n            <div><img loading=\"lazy\" alt src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f2fcfc59677419fd7a_Matteo-Zanoni.avif\"></div>\n          </figure>\n          <figure class=\"w-richtext-align-center w-richtext-figure-type-image\">\n            <div><img loading=\"lazy\" alt src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5988881a002c_Romain-Melloul-Photo-1-3.avif\"></div>\n          </figure>\n          <p>Because of their different types of restaurants and their varied backgrounds, the opinion of our guest restaurateurs evolves between the need to \"preserve the experience and conviviality\" of the outlets and the growing need to diversify their offers with <strong>the \"mille-feuille\" theory</strong> (by Mael Barth)</p>\n          <p>So, how will digital make its way into the <a href=\"/en/blog/2021-restoration-trends\"><strong>restaurant industry and in the daily</strong></a> and in the daily habits of the French now that the bulk of the health crisis is behind us?</p>\n        ",
+  "div-class": "w-condition-invisible",
+  "right-head-class": "right-head interesting-art",
+  "div-role": "list",
+  "div-class-2": "w-dyn-items",
+  "div-role-2": "listitem",
+  "div-class-3": "w-dyn-item",
+  "div-html": "<a href=\"/en/blog/guide-click-and-collect-restaurant\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d66dad4c026308ce9d_63f501f3fcfc59e8c21a0152_Click%2520and%2520collect%2520dans%2520un%2520restaurant.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Click and Collect in restaurants: the ultimate guide</div>\n                  <div class=\"interesting-articles-category\">Expanding your business</div>\n                </div>\n              </a>",
+  "div-role-3": "list",
+  "div-class-4": "w-dyn-items",
+  "div-role-4": "listitem",
+  "div-class-5": "w-dyn-item",
+  "div-html-2": "<a href=\"/en/blog/qr-codes-for-restaurants\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01db63919a8291cccaf8_63f501f3fcfc59c7861a018f_Scan%2520QR%2520Code%2520Miniature.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Why adopt the QR code in your restaurant?</div>\n                  <div class=\"interesting-articles-category\">Expanding your business</div>\n                </div>\n              </a>",
+  "div-role-5": "list",
+  "div-class-6": "w-dyn-items",
+  "div-role-6": "listitem",
+  "div-class-7": "w-dyn-item",
+  "div-html-3": "<a href=\"/en/blog/benefits-of-online-ordering-for-restaurants\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01cf8e78c06fe2da1b78_63f501f3fcfc59e32619ffe6_61bc4f07dc9192e490320f3d_avantages-commande-en-ligne-restaurant.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Online ordering: 9 reasons to go platform-free for your restaurant</div>\n                  <div class=\"interesting-articles-category\">Expanding your business</div>\n                </div>\n              </a>",
+  "slider-mobile-blog-class": "slider-mobile-blog w-slider",
+  "div-role-7": "list",
+  "div-class-8": "w-dyn-items",
+  "div-role-8": "listitem",
+  "div-class-9": "w-dyn-item",
+  "div-html-4": "<a href=\"/en/blog/guide-click-and-collect-restaurant\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d66dad4c026308ce9d_63f501f3fcfc59e8c21a0152_Click%2520and%2520collect%2520dans%2520un%2520restaurant.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Click and Collect in restaurants: the ultimate guide</div>\n                  <div class=\"interesting-articles-category\">Expanding your business</div>\n                </div>\n              </a>",
+  "div-role-9": "list",
+  "div-class-10": "w-dyn-items",
+  "div-role-10": "listitem",
+  "div-class-11": "w-dyn-item",
+  "div-html-5": "<a href=\"/en/blog/qr-codes-for-restaurants\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01db63919a8291cccaf8_63f501f3fcfc59c7861a018f_Scan%2520QR%2520Code%2520Miniature.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Why adopt the QR code in your restaurant?</div>\n                  <div class=\"interesting-articles-category\">Expanding your business</div>\n                </div>\n              </a>",
+  "div-role-11": "list",
+  "div-class-12": "w-dyn-items",
+  "div-role-12": "listitem",
+  "div-class-13": "w-dyn-item",
+  "div-html-6": "<a href=\"/en/blog/benefits-of-online-ordering-for-restaurants\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01cf8e78c06fe2da1b78_63f501f3fcfc59e32619ffe6_61bc4f07dc9192e490320f3d_avantages-commande-en-ligne-restaurant.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Online ordering: 9 reasons to go platform-free for your restaurant</div>\n                  <div class=\"interesting-articles-category\">Expanding your business</div>\n                </div>\n              </a>",
+  "tail:field-script": "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.innovorder.com/en/blog/meetup-online-digital-restauration-lockdown\"},\"headline\":\"Meetup Online : le digital a été votre « kit de survie du confinement » : aujourd’hui, faut-il revenir en arrière ?\",\"description\":\"Digital was the \\\"survival kit\\\" for many restaurateurs during the lockdown. Many of you have readapted your offer ...\",\"image\":\"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d8648a637ae3fac3e8_63f501f2fcfc59607519fd66_61bf0a4c33669226db99ea75_maelbarth.avif\",\"author\":{\"@type\":\"\",\"name\":\"Innovorder\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Innovorder\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"}},\"datePublished\":\"19 juin 2020\"}</script>"
+ }
+}

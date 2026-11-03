@@ -1,0 +1,101 @@
+{
+ "slug": "restauration-trends-december-2020",
+ "seo": {
+  "title": "Innovorder watch: the week's restaurant trends",
+  "description": "What's new in commercial and institutional foodservice over the last few days? Discover our weekly watch. Paid vacations: the French government will pay ...",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01dea40adb678f870f44_63f501f3fcfc595a101a0063_actualites-restauration-secteur-france-covid-blog-innovorder.avif",
+  "lang": "en",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc01",
+   "data-wf-collection": "6493777d655aea5e6643cb6c",
+   "data-wf-item-slug": "veille-restauration-decembre-2020",
+   "data-wg-translated": "en"
+  },
+  "bodyClass": "body",
+  "bodyAttrs": {
+   "ph-category": "blog"
+  },
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.innovorder.com/en/blog/restauration-trends-december-2020\"},\"headline\":\"La veille Innovorder : les tendances restauration de la semaine\",\"description\":\"What&#039;s new in commercial and institutional foodservice over the last few days? Discover our weekly watch. Paid vacations: the French government will pay ...\",\"image\":\"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01dea40adb678f870f44_63f501f3fcfc595a101a0063_actualites-restauration-secteur-france-covid-blog-innovorder.avif\",\"author\":{\"@type\":\"Person\",\"name\":\"Sophie Lecomte\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Innovorder\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.9\",\"reviewCount\":\"550\",\"bestRating\":\"5\",\"worstRating\":\"1\"}},\"datePublished\":\"December 2021\",\"dateModified\":\"\",\"articleSection\":\"Tendances et actualités\",\"timeRequired\":\"3\"}</script>",
+  "field-script-2": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/blog/veille-restauration-decembre-2020\",\"en\":\"https://www.innovorder.com/en/blog/restauration-trends-december-2020\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/blog/veille-restauration-decembre-2020\",\"originalPath\":\"/blog/veille-restauration-decembre-2020\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/blog/veille-restauration-decembre-2020",
+  "link-href-2": "https://www.innovorder.com/en/blog/restauration-trends-december-2020",
+  "breadcrumb-text-href": "/en/categories/catering-trends",
+  "breadcrumb-text": "Trends and news",
+  "breadcrumb-text-href-2": "/en/blog/restauration-trends-december-2020",
+  "breadcrumb-text-2": "Innovorder watch: the week's restaurant trends",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01dea40adb678f870f44_63f501f3fcfc595a101a0063_actualites-restauration-secteur-france-covid-blog-innovorder.avif",
+  "current-post-image-alt": "",
+  "current-post-image-sizes": null,
+  "current-post-image-srcset": null,
+  "category-name-current-post": "Trends and news",
+  "read-time-txt-class": "read-time-txt",
+  "read-time-txt-html": "3",
+  "title-post": "Innovorder watch: the week's restaurant trends",
+  "author-post-class": "author-post",
+  "author-post-html": "Sophie Lecomte",
+  "date-post-text": "05 December 2024",
+  "rt-blog-html": "\n          <p>What's new these last few days in commercial and institutional catering? Discover our weekly watch.</p>\n          <h2><strong>Paid leave: the State will pay for 10 days of leave (under conditions)</strong></h2>\n          <p>An agreement has been reached between the professional organizations of the CHR, since an aid covering 10 days of paid vacations (maximum) will be paid from next month. Eligibility criteria must be met, however: a 90% drop in turnover during periods of health emergencies, or a minimum of 140 days of partial or total suspension of activity. These leaves must be taken in January 2021. More details <a target=\"_blank\" href=\"https://www.snacking.fr/actualites/tendances/5277-Une-victoire-pour-les-CHR-l-Etat-prendra-a-sa-charge-10-jours-de-conges-payes/\"><strong>on the snacking.fr website</strong></a></p>\n          <h2><strong>Home delivery boom: an acceleration of \"2 to 3 years\", according to Deliveroo's CEO</strong></h2>\n          <p>Will Shu's statement has been widely reported following a press conference held in early December, including <a target=\"_blank\" href=\"https://siecledigital.fr/2020/12/06/deliveroo-pandemie-livraison/\"><strong>in this article from SiecleDigital.fr. </strong></a></p>\n          <p>One of the things to keep in mind, however, goes beyond the \"how\" of consumption, as Deliveroo's CEO states that \"<em>the most impressive thing is to see </em><strong><em>how much the 'grocery' part of the business has grown on Deliveroo</em></strong><em> during the Covid-19 pandemic</em>.\" </p>\n          <p>Is it time to use your best products and recipe kits? <a href=\"https://blog.innovorder.fr/clasico-argentino-a-multipli%C3%A9-x4-son-nombre-de-clients-gr%C3%A2ce-au-click-collect-innovorder\"><strong>Some of our customers are already doing it</strong></a>. To be continued... in the meantime, if you are interested in the subject, <a target=\"_blank\" href=\"https://www.presse-citron.net/une-etude-critique-la-notation-des-restaurants-sur-yelp-et-google-maps/\"><strong>this video recorded at WebSummit 2020</strong></a> provides an update on Deliveroo's growth during the crisis and market predictions for 2021. </p>\n          <figure class=\"w-richtext-align-center w-richtext-figure-type-image\">\n            <div><img loading=\"lazy\" alt=\"Video ceo deliveroo websummit 2020\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc595e631a00e8_ceo-deliveroo-websummit-2020-video-marche-livraison-restauration-blog-innovorder.avif\"></div>\n          </figure>\n          <h2><strong>Curfew: suspension of Click &amp; Collect at 8pm? </strong></h2>\n          <p>This was one of the big questions posed by the deconfinement in bearings. Snacking.fr takes stock of the situation <a target=\"_blank\" href=\"https://www.snacking.fr/actualites/tendances/5300--Couvre-feu-Finis-le-click--collect-la-VAE-et-le-drive-apres-20-h-Suspens-pour-la-livraison-/\"><strong>in this article</strong></a> : </p>\n          <p><em>\"New blow of screw for the restoration which still kept the possibility of operating in click &amp; collect, takeaway or drive until 21 hours. The curfew is now increased to 20 hours, announced the Prime Minister this evening. We will have to wait for the application decree to confirm whether delivery remains authorized after that hour.\"</em></p>\n          <p><a target=\"_blank\" href=\"https://www.lefigaro.fr/societes/avec-le-couvre-feu-les-restaurants-ne-pourront-plus-vendre-de-plats-a-emporter-apres-20-heures-20201211\"><strong>Le Figaro states</strong></a><em> The confinement will be replaced by a curfew from 8 pm to 6 am. Despite this loosening, the reopening of restaurants is not on the agenda. The establishments will however be able to maintain their home deliveries of meals after 20 hours, says the Ministry of Economy and Finance to the Figaro this Friday. Takeaway sales and \"click and collect\", however, will be prohibited during the curfew.</em></p>\n          <h2><strong>Accelerate your digitalization or go out of business? </strong></h2>\n          <p>The question of the digital maturity of restaurant chains has been the subject of much (virtual) discussion. On this point, we recommend <a target=\"_blank\" href=\"https://www.qsrmagazine.com/technology/restaurants-battle-digital-supremacy-covid-rages\"><strong>this excellent article from QSR Magazine</strong></a>which deciphers point by point the<strong>\"battle for digital supremacy</strong>\" that is being played out before our eyes. The conclusion to draw, beyond the figures extracted from a study signed Incisiv? </p>\n          <p>You will have to invest or continue to develop your omnichannel and digitalized offer... at the risk of being left behind. Incisiv <a target=\"_blank\" href=\"https://www.incisiv.com/report-limited-service-restaurant-digital-maturity-benchmark-2020\"><strong>is betting on U</strong></a><strong>S</strong> figures, but it's a safe bet that Europe, including France, will not escape these trends. </p>\n          <figure class=\"w-richtext-align-center w-richtext-figure-type-image\">\n            <div><img loading=\"lazy\" alt=\"figures study incisiv catering covid digitalization blog innovorder\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5932be19fff1_chiffres%2520etude%2520incisiv%2520restauration%2520covid%2520digitalisation%2520blog%2520innovorder.avif\"></div>\n          </figure>\n          <p><em>Incisiv</em></p>\n          <h2><strong>Yelp, Google Maps, TripAdvisor... a study criticizes the rating of restaurants</strong></h2>\n          <p>You know better than anyone: reviews posted on the Internet can make or break an establishment's reputation (and therefore its traffic).</p>\n          <p>A <a target=\"_blank\" href=\"https://www.psagroup.org/static/publications/cscw2020-rating-camera-ready-Li-Hanlin.pdf\"><strong>recent study</strong></a> points out the variations between the notes left on these different platforms. The<em>\"researchers from </em><a target=\"_blank\" href=\"https://www.psagroup.org/static/publications/cscw2020-rating-camera-ready-Li-Hanlin.pdf\"><em>Northwestern University in Chicago</em></a><em> (...) noted that the same restaurant gets on average 0.7 more stars on Google Maps than on Yelp\"</em>.</p>\n          <p>You can read the<a target=\"_blank\" href=\"https://www.presse-citron.net/une-etude-critique-la-notation-des-restaurants-sur-yelp-et-google-maps/\"><strong>complete article of Presse Citron</strong></a> on this subject.</p>\n          <p><em>We'll meet again soon for an update on the hot news of the moment! Until then, </em><a target=\"_blank\" href=\"https://offers.innovorder.fr/newsletter-innovorder\"><strong><em>don't forget to subscribe to our newsletter,</em></strong></a><em> to receive a precise watch on commercial and collective catering.</em><br></p>\n        ",
+  "div-class": "w-condition-invisible",
+  "right-head-class": "right-head interesting-art",
+  "div-role": "list",
+  "div-class-2": "w-dyn-items",
+  "div-role-2": "listitem",
+  "div-class-3": "w-dyn-item",
+  "div-html": "<a href=\"/en/blog/restaurant-trends-2023\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt=\"restaurant full\" loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01de5c84e8acd6111830_63f501f3fcfc594e0c1a01b6_iStock-1175050377.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">10 restaurant trends you need to know about in 2023</div>\n                  <div class=\"interesting-articles-category\">Trends and news</div>\n                </div>\n              </a>",
+  "div-role-3": "list",
+  "div-class-4": "w-dyn-items",
+  "div-role-4": "listitem",
+  "div-class-5": "w-dyn-item",
+  "div-html-2": "<a href=\"/en/blog/restaurant-concepts\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d272d28c057b79940f_63f501f3fcfc59944b1a0218_small%2520concept.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">13 restaurant concepts to discover in 2025</div>\n                  <div class=\"interesting-articles-category\">Opening or taking over a restaurant</div>\n                </div>\n              </a>",
+  "div-role-5": "list",
+  "div-class-6": "w-dyn-items",
+  "div-role-6": "listitem",
+  "div-class-7": "w-dyn-item",
+  "div-html-3": "<a href=\"/en/blog/restaurant-subscription-service\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01cf50d2e9bfcba2b808_63f501f3fcfc5953ba1a021a_small%2520abo.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Restaurant subscriptions: the future of the restaurant business?</div>\n                  <div class=\"interesting-articles-category\">Trends and news</div>\n                </div>\n              </a>",
+  "slider-mobile-blog-class": "slider-mobile-blog w-slider",
+  "div-role-7": "list",
+  "div-class-8": "w-dyn-items",
+  "div-role-8": "listitem",
+  "div-class-9": "w-dyn-item",
+  "div-html-4": "<a href=\"/en/blog/restaurant-trends-2023\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt=\"restaurant full\" loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01de5c84e8acd6111830_63f501f3fcfc594e0c1a01b6_iStock-1175050377.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">10 restaurant trends you need to know about in 2023</div>\n                  <div class=\"interesting-articles-category\">Trends and news</div>\n                </div>\n              </a>",
+  "div-role-9": "list",
+  "div-class-10": "w-dyn-items",
+  "div-role-10": "listitem",
+  "div-class-11": "w-dyn-item",
+  "div-html-5": "<a href=\"/en/blog/restaurant-concepts\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d272d28c057b79940f_63f501f3fcfc59944b1a0218_small%2520concept.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">13 restaurant concepts to discover in 2025</div>\n                  <div class=\"interesting-articles-category\">Opening or taking over a restaurant</div>\n                </div>\n              </a>",
+  "div-role-11": "list",
+  "div-class-12": "w-dyn-items",
+  "div-role-12": "listitem",
+  "div-class-13": "w-dyn-item",
+  "div-html-6": "<a href=\"/en/blog/restaurant-subscription-service\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01cf50d2e9bfcba2b808_63f501f3fcfc5953ba1a021a_small%2520abo.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Restaurant subscriptions: the future of the restaurant business?</div>\n                  <div class=\"interesting-articles-category\">Trends and news</div>\n                </div>\n              </a>",
+  "tail:field-script": "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.innovorder.com/en/blog/restauration-trends-december-2020\"},\"headline\":\"La veille Innovorder : les tendances restauration de la semaine\",\"description\":\"What&#039;s new in commercial and institutional foodservice over the last few days? Discover our weekly watch. Paid vacations: the French government will pay ...\",\"image\":\"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01dea40adb678f870f44_63f501f3fcfc595a101a0063_actualites-restauration-secteur-france-covid-blog-innovorder.avif\",\"author\":{\"@type\":\"\",\"name\":\"Sophie Lecomte\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Innovorder\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"}},\"datePublished\":\"December 2021\"}</script>"
+ }
+}

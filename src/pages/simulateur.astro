@@ -1,0 +1,838 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+
+const seo = {
+  "title": "Simulateur de Rentabilité Restaurant & Fast-food - Innovorder",
+  "description": "Découvrez gratuitement combien vous pourriez gagner en équipant votre restaurant avec une borne de commande grâce à notre simulateur.",
+  "ogImage": "/assets/cdn.prod.website-files.com/6144e950589804576d0974b3/61471053c81f4bb5160985fd_imagebck-1%20-%20copiedds.jpeg",
+  "htmlAttrs": {
+    "data-wf-page": "64f10bb5b90aa9dde44275e4"
+  },
+  "bodyClass": "body-kiosk",
+  "webflowScripts": [
+    {
+      "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+      "type": "text/javascript",
+      "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+      "crossorigin": "anonymous"
+    },
+    {
+      "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+      "type": "text/javascript",
+      "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+      "crossorigin": "anonymous"
+    },
+    {
+      "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+      "type": "text/javascript",
+      "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+      "crossorigin": "anonymous"
+    },
+    {
+      "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+      "type": "text/javascript",
+      "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+      "crossorigin": "anonymous"
+    }
+  ]
+};
+---
+<BaseLayout {...seo}>
+  <Fragment slot="head">
+    <!-- Weglot -->
+    <script type="application/json" id="weglot-data" is:inline>{"allLanguageUrls":{"fr":"https://www.innovorder.com/simulateur","en":"https://www.innovorder.com/en/simulateur"},"originalCanonicalUrl":"https://www.innovorder.com/simulateur","originalPath":"/simulateur","settings":{"auto_switch":false,"auto_switch_fallback":null,"category":11,"custom_settings":{"button_style":{"with_name":true,"full_name":false,"is_dropdown":true,"with_flags":false,"flag_type":"rectangle_mat","custom_css":".country-selector {\r\n  visibility: hidden;\r\n}"},"switchers":[],"translate_search":false,"loading_bar":true,"hide_switcher":false,"wait_transition":true,"definitions":{}},"deleted_at":null,"dynamics":[],"excluded_blocks":[{"value":"wg-selector2-text-lang1","description":null},{"value":"wg-selector2-text-lang2","description":null},{"value":".wg-element-wrapper","description":null},{"value":".weglot-exclude","description":null},{"value":".date-post-text","description":null}],"excluded_paths":[{"excluded_languages":["en"],"language_button_displayed":false,"type":"CONTAIN","value":"/ressources/glossaire"}],"external_enabled":false,"host":"www.innovorder.com","is_dns_set":true,"is_https":true,"language_from":"fr","language_from_custom_flag":null,"language_from_custom_name":null,"languages":[{"connect_host_destination":null,"custom_code":null,"custom_flag":null,"custom_local_name":null,"custom_name":null,"enabled":true,"language_to":"en"}],"media_enabled":false,"page_views_enabled":false,"technology_id":13,"technology_name":"Webflow","translation_engine":3,"url_type":"SUBDIRECTORY","versions":{"translation":1785418213,"slugTranslation":1781253270}}}</script>
+    <style is:inline>
+
+    	.volume-marquee__collection-wrapper {
+        -webkit-animation: logoloop 90s linear infinite;
+        -moz-animation: logoloop 90s linear infinite;
+        -o-animation: logoloop 90s linear infinite;
+    	}
+
+    	.volume-marquee:hover .volume-marquee__collection-wrapper,
+      .volume-marquee:focus-within .volume-marquee__collection-wrapper {
+      	-webkit-animation-play-state: paused;
+        -moz-animation-play-state: paused;
+        -o-animation-play-state: paused;
+        animation-play-state: paused;
+      }
+
+      @media (prefers-reduced-motion) {
+        .volume-marquee__collection-wrapper {
+          -webkit-animation-play-state: paused;
+          -moz-animation-play-state: paused;
+          -o-animation-play-state: paused;
+          animation-play-state: paused;
+        }
+      }
+
+    	@-webkit-keyframes logoloop {
+        0% {
+          transform: translateX(0%);
+        }
+
+        100% {
+          transform: translateX(-100%);
+        }
+      }
+
+      @-moz-keyframes logoloop {
+        0% {
+          transform: translateX(0%);
+        }
+
+        100% {
+          transform: translateX(-100%);
+        }
+      }
+
+      @-o-keyframes logoloop {
+        0% {
+          transform: translateX(0%);
+        }
+
+        100% {
+          transform: translateX(-100%);
+        }
+      }
+
+      @keyframes logoloop {
+        0% {
+          transform: translateX(0%);
+        }
+
+        100% {
+          transform: translateX(-100%);
+        }
+      }
+
+    </style>
+    <link href="https://www.innovorder.com/simulateur" hreflang="fr" rel="alternate">
+    <link href="https://www.innovorder.com/en/simulateur" hreflang="en" rel="alternate">
+  </Fragment>
+  <div class="overflow-hidden">
+    <div class="gtm-embed w-embed"></div>
+    <div class="section-hero-n simulator">
+      <div class="container-1280">
+        <a href="/" class="link-logo-simulator w-inline-block"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg" loading="lazy" width="193" alt class="logo-simulator"></a>
+        <div class="simulateur-wrap-hero">
+          <div id="w-node-_385c522c-6a18-b2e9-026d-ec58d289342e-e44275e4" class="text-expertise-block-hero simulator">
+            <h1 data-w-id="385c522c-6a18-b2e9-026d-ec58d289342f" style="opacity:0" class="title-00 kiosk"><span class="gradient-text">Simulateur de rentabilité</span> pour votre restaurant, fast-food ou franchise</h1>
+            <div data-w-id="bab8965b-fa67-b2f0-8532-b37fec4fb17e" style="opacity:0" class="sub-txt-simulateur">Calculez la rentabilité de votre établissement de restauration rapide !</div>
+            <p class="text-17px expertise left-algn-mob">Découvrez gratuitement combien vous pourriez gagner de revenus supplémentaires en équipant votre restaurant avec les solutions digitales Innovorder :</p>
+            <ul data-w-id="f2a72037-9449-fe88-28dd-1a8f5f0abbb8" style="opacity:0" role="list">
+              <li class="list-item"><strong>borne de commande</strong></li>
+              <li class="list-item"><strong>écran de production</strong> (KDS)</li>
+              <li class="list-item"><strong>commande en ligne</strong> (livraison et click &amp; collect)</li>
+            </ul>
+          </div>
+          <div id="w-node-_385c522c-6a18-b2e9-026d-ec58d2893439-e44275e4" class="image-block-hero-expertise hide-mob"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/64f10e369eebe24d71dc9757_simulateur-hero.webp" loading="lazy" alt="La meilleure borne de commande pour les restaurants et fast-foods" class="image-hero-expertise simulator"></div>
+        </div>
+      </div>
+    </div>
+    <div class="section-20 simulator">
+      <div class="container-1280">
+        <div data-w-id="8127563a-09bc-a254-f0d2-f9a02ba48f9b" style="opacity:0" class="sub-txt-simulateur space"><strong>👇 Découvrez votre résultat en quelques secondes !</strong></div>
+        <div data-w-id="84213bcb-f386-7ec9-98c9-5a631f4fc35e" style="opacity:0" class="embed-calculator w-embed w-script">
+          <div class="calc-body">
+            <div class="calc">
+              <div class="calc-field-group">
+                <label>Combien de restaurants gérez-vous ?</label>
+                <input type="text" id="q2" class="calc-field">
+                <div class="error_mes q2-error">Valeur manquante</div>
+              </div>
+              <div class="calc-field-group">
+                <label>Combien de tickets réalisez-vous en moyenne par jour (par point de vente) ?</label>
+                <input type="text" id="q3" class="calc-field">
+                <div class="error_mes q3-error">Valeur manquante</div>
+              </div>
+              <div class="calc-field-group">
+                <label>Quel est montant du panier moyen dans votre établissement ?</label>
+                <div style="position: relative; width: fit-content;">
+                  <input type="text" id="q4" class="calc-field">
+                  <span class="calc-units-2">€ </span>
+              </div>
+                <div class="error_mes q4-error">Valeur manquante</div>
+              </div>
+              <div class="calc-field-group">
+                <label>Combien de jours par semaine votre établissement est-il ouvert ?</label>
+                <div class="calc-scale">
+                  <div class="calc-scale-step calc-scale-step-active">1</div>
+                  <div class="calc-scale-step">2</div>
+                  <div class="calc-scale-step">3</div>
+                  <div class="calc-scale-step">4</div>
+                  <div class="calc-scale-step">5</div>
+                  <div class="calc-scale-step">6</div>
+                  <div class="calc-scale-step">7</div>
+                </div>
+                <input type="text" id="q5" class="calc-field" value="1" style="display: none">
+                <div id="q5-slider" class="slider">
+
+              </div>
+              </div>
+            </div>
+            <div class="calc-result">
+              <div class="calc-h3">Résultats pour <span class="calc-h3-orange">votre restaurant.</span></div>
+              <div id="ordering-kiosk-results" class="calc-result-part">
+              <span id="kiosk-1" class="calc-result-value">+0,00€</span> de revenus mensuels supplémentaires en installant <b><span id="kiosk-2">X</span> borne<span class="calc-kiosk-s"></span> de commande</b> par point de vente<span class="calc-restaurant-s"></span>
+          </div>
+              <div id="online-ordering-results" class="calc-result-part">
+              <span id="online-1" class="calc-result-value">+0,00€</span> de revenus mensuels supplémentaires en servant <b><span id="online-2">X</span> nouveaux clients</b> grâce à la commande en ligne
+          </div>
+              <div id="kds-results" class="calc-result-part">
+              <span class="calc-result-value">+37%</span> de productivité gagnée en cuisine en installant <b><span id="kds-2">X</span> écran<span class="calc-kds-s"></span> de production (KDS)</b>
+          </div>
+              <input type="button" value="Être recontacté" onclick="location.href='#form';" class="calc-button">
+            </div>
+          </div>
+          <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous" is:inline></script>
+          <script src="https://code.jquery.com/ui/1.12.0/jquery-ui.js" integrity="sha256-0YPKAwZP7Mp3ALMRVB2i8GXeEndvCq3eSl/WsAl1Ryk=" crossorigin="anonymous" is:inline></script>
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui-touch-punch/0.2.3/jquery.ui.touch-punch.min.js" is:inline></script>
+          <script is:inline>
+  $("#q5-slider").slider({
+      animate: "slow",
+      range: "min",
+      value: 1,
+      max: 7,
+      min: 1,
+      slide: function (event, ui) {
+          $("#q5").val(ui.value);
+          $(".calc-scale-step").removeClass("calc-scale-step-active");
+          $(".calc-scale-step").eq(ui.value-1).addClass("calc-scale-step-active");
+          Calc();
+      }
+  });
+
+  $(document).ready(function (){
+      $("#ordering-kiosk-results").css("opacity", "0.2");
+      $("#online-ordering-results").css("opacity", "0.2");
+      $("#kds-results").css("opacity", "0.2");
+  })
+
+  $("#calc-button").on("click",  function (){
+      Calc();
+  });
+
+  function Calc(){
+      $(".error_mes").hide();
+      var error = 0;
+
+      $("#ordering-kiosk-results").css("opacity", "0.2");
+      $("#online-ordering-results").css("opacity", "0.2");
+      $("#kds-results").css("opacity", "0.2");
+
+      var Q2 = Convers($("#q2").val());
+      var Q3 = Convers($("#q3").val());
+      var Q4 = Convers($("#q4").val());
+      var Q5 = Convers($("#q5").val());
+
+      if(Q2=="" || Q2==0){
+          $(".q2-error").show();
+          error=1;
+      }
+      if(Q3=="" || Q3==0){
+          $(".q3-error").show();
+          error=1;
+      }
+      if(Q4=="" || Q4==0){
+          $(".q4-error").show();
+          error=1;
+      }
+
+      var kiosk = [];
+      var online = [];
+      var kds = [];
+
+      kiosk[0] = Q2 * Q3 * 1.05 * ((Q4*1.28) - Q4) * Q5 * 52/12;
+      kiosk[1] = Math.floor((Q3-70) / 80)+1;
+
+      online[0] = Q2 * (Q3 * 1.13 - Q3) * (Q4*1.43) * Q5 * 52/12;
+      online[1] = Math.ceil(Q2 * (Q3 * 1.13 - Q3));
+
+      kds[0] = 37;
+      kds[1] = Math.floor((Q3-70) / 80)+1;
+
+      if (kds[1]==0){kds[1]=1;}
+      if (kiosk[1]==0){kiosk[1]=1;}
+
+      if(error==0){
+          if(Q2>1){
+              $(".calc-restaurant-s").text("s");
+          }else{
+              $(".calc-restaurant-s").text("");
+          }
+
+          if(kiosk[1]>1){
+              $(".calc-kiosk-s").text("s");
+          }else {
+              $(".calc-kiosk-s").text("");
+          }
+
+          if(kds[1]>1){
+              $(".calc-kds-s").text("s");
+          }else {
+              $(".calc-kds-s").text("");
+          }
+          $("#kiosk-1").text("+"+kiosk[0].toFixed(2)+"€");
+          $("#kiosk-2").text(kiosk[1].toFixed(0));
+          $("#online-1").text("+"+online[0].toFixed(2)+"€");
+          $("#online-2").text(online[1].toFixed(0));
+          $("#kds-2").text(kds[1].toFixed(0));
+
+          if(Q3>70){
+              $("#kds-results").css("opacity", "1");
+              $("#ordering-kiosk-results").css("opacity", "1");
+          }else{
+              $("#kds-results").css("opacity", "0.2");
+              $("#ordering-kiosk-results").css("opacity", "0.2");
+
+              $("#kiosk-1").text("+0,00€");
+              $("#kiosk-2").text("0");
+              $("#kds-2").text("0");
+          }
+          $("#online-ordering-results").css("opacity", "1");
+      }else{
+          $("#online-ordering-results").css("opacity", "0.2");
+          $("#kds-results").css("opacity", "0.2");
+          $("#ordering-kiosk-results").css("opacity", "0.2");
+
+
+          $("#kiosk-1").text("+0,00€");
+          $("#kiosk-2").text("0");
+          $("#online-1").text("+0,00€");
+          $("#online-2").text("00");
+          $("#kds-2").text("0");
+      }
+  }
+
+
+
+  $(document).on("keyup", ".calc-field", function (){
+      var numcheck = $(this).val();
+      numcheck = numcheck.replace(/[^0-9\.]/g, '');
+      //numcheck = addCommas(numcheck);
+      $(this).val(numcheck);
+      Calc();
+  });
+
+  // add commas to amount
+  function addCommas(nStr) {
+      nStr += '';
+      var x = nStr.split('.');
+      var x1 = x[0];
+      var x2 = x.length > 1 ? '.' + x[1] : '';
+      var rgx = /(\d+)(\d{3})/;
+      while (rgx.test(x1)) {
+          x1 = x1.replace(rgx, '$1' + ',' + '$2');
+      }
+      formattedamount = x1 + x2
+      return formattedamount;
+  }
+
+  function Convers(e){
+      e = e.replace(/[^0-9\.]/g, '')*1;
+      return e;
+  }
+  </script>
+        </div>
+        <div class="stylesheet-calculator w-embed">
+          <link href="https://code.jquery.com/ui/1.13.1/themes/smoothness/jquery-ui.css" rel="stylesheet" type="text/css">
+          <style is:inline>
+  .calc-body{
+      display: flex;
+      /*flex-wrap: wrap;*/
+      color: #261A63;
+      font-family: Inter;
+      width: 100%;
+      margin: 0 auto;
+      max-width: 1600px;
+      margin: 0 auto;
+      padding: 30px;
+      box-sizing: border-box;
+  }
+
+  .calc{
+      font-family: Sofia pro,sans-serif;
+      font-size: 18px;
+      font-weight: 700;
+      line-height: 17px;
+      letter-spacing: 0em;
+      text-align: left;
+      width: 100%;
+      color: #261A63;
+      max-width: 632px;
+      margin-right: 90px;
+  }
+  .calc-result{
+      font-family: Sofia pro,sans-serif;
+      font-size: 18px;
+      font-weight: 400;
+      line-height: 28px;
+      letter-spacing: 0em;
+      text-align: left;
+      margin-top: 0px;
+      max-width: 688px;
+      width: 100%;
+      color: #261A63;
+      background-color: #F2FDF5;
+      padding: 40px;
+      border-radius: 32px;
+      box-sizing: border-box;
+      box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.08);
+  }
+  .calc-h3{
+      color: #261A63;
+      font-family: Sofia pro,sans-serif;
+      font-size: 32px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+  }
+  .calc-h3-orange{
+      background: linear-gradient(to right, #F4B573, #EC6273);
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+  }
+  .calc-note{
+      margin: 10px 0px;
+      font-style: italic;
+      color: #261A63;
+      font-size: 13px;
+  }
+  .calc-result-part{
+      margin-top: 20px;
+      /*display: none;*/
+  }
+
+  .calc-field-group {
+      display: flex;
+      flex-direction: column;
+
+  }
+
+  .calc-field{
+      border: 1px solid #FD6B6B;
+      border-radius: 8px;
+      padding: 8px, 16px, 8px, 16px;
+      width: 145px;
+      height: 40px;
+      box-sizing: border-box;
+      outline: none;
+      font-family: Sofia pro,sans-serif;
+      text-align: center;
+      font-weight: bold;
+      color: #FD6B6B;
+  }
+  .calc-field-group label{
+      margin: 20px 0px 15px 0px;
+  }
+
+  .calc-result-value{
+      color: #4ADE80;
+      font-size: 32px;
+      font-weight: 700;
+  }
+
+  .calc-button{
+      width: 145px;
+      min-height: 40px;
+      color: #fff;
+      text-align: center;
+      background-color: #FD6B6B;
+      border-radius: 8px;
+      justify-content: center;
+      align-items: center;
+      padding: 5px 25px;
+      font-family: Sofia pro,sans-serif;
+      font-size: 15px;
+      font-weight: 600;
+      line-height: 1;
+      transition: background-color .6s;
+      display: grid;
+      position: relative;
+      border: 0px;
+      margin-top: 20px;
+      cursor: pointer;
+  }
+  #calc-button:hover{
+      background-color: #db5d5d;
+  }
+
+  .error_mes{
+  		font-size: 10px; 
+  }
+
+  .ui-slider.ui-slider-horizontal {
+      background: #dbebf8;
+      height: 3px;
+      border: none;
+      width: 210px;
+      margin: 20px 5px 20px 5px;
+      padding: 0px;
+  }
+  .ui-slider .ui-slider-range {
+      background: #ff5570;
+      background: linear-gradient(90deg, #F4B573 50%, #EC6273 100%);
+      height: 3px;
+  }
+  .ui-slider .ui-slider-handle {
+      top: -6px;
+      cursor: pointer;
+      border-radius: 50%;
+      background: #EC6273;
+      /*background: linear-gradient(90deg, #F4B573 50%, #EC6273 100%);*/
+      border: 2px solid #EC6273;
+      width: 15px;
+      height: 15px;
+      outline: none;
+      font-family: Inter;
+  }
+
+  .error_mes{
+      color: red;
+      font-size: 12px;
+      font-style: italic;
+      display: none;
+  }
+
+  .calc-field-box {
+      display: flex;
+      width: 210px;
+  }
+
+  .calc-field-box .calc-field{
+      width: 100%;
+      border-radius: 0px 3px 3px 0px;
+  }
+
+  .calc-units {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border: 1px solid #e5e5e5;
+      padding: 2px 4px;
+      border-radius: 3px 0px 0px 3px;
+      color: gray;
+      margin-right: -1px;
+      background-color: #f3f3f3;
+  }
+
+  .calc-units-2{
+      position: absolute;
+      right: 12px;
+      top: 12px;
+      font-size: 20px;
+      opacity: 0.5;
+      color: #FD6B6B;
+  }
+  .calc-scale{
+      display: flex;
+      width: 216px;
+      justify-content: space-between;
+      margin-top: 20px;
+  }
+
+  .calc-scale-step{
+      font-size: 14px;
+      color: #bababa;
+  }
+  .calc-scale-step-active{
+      color: #EC6273;
+  }
+
+  #ordering-kiosk-results , #online-ordering-results, #kds-results{
+      opacity: 0.2;
+  }
+
+
+  @media (max-width: 700px) {
+      .calc-body{
+          flex-direction: column;
+          padding: 0px;
+      }
+      .calc{
+          margin: 10px;
+      }
+  }
+  </style>
+        </div>
+      </div>
+    </div>
+    <div class="section-20 no-pad-simulat">
+      <div class="container-1280">
+        <div data-w-id="385c522c-6a18-b2e9-026d-ec58d2893789" style="opacity:0" class="w-layout-grid faq-solutions simulateur">
+          <div id="w-node-_385c522c-6a18-b2e9-026d-ec58d289378a-e44275e4" data-w-id="385c522c-6a18-b2e9-026d-ec58d289378a" class="accordion-wrapper---solutions no-border">
+            <div class="accordion-trigger prix">
+              <h3 class="accordion-title---solutions simulator"><strong>Comment fonctionne notre simulateur de rentabilité ?</strong></h3>
+              <div class="arrow-faq gradient">
+                <div class="html-embed-3 gradient w-embed"><svg width="13" height="8" viewBox="0 0 13 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6.4997 2.8284L1.54996 7.7782L0.135742 6.364L6.4997 0L12.8637 6.364L11.4495 7.7782L6.4997 2.8284Z" fill="currentColor"/>
+  </svg></div>
+              </div>
+            </div>
+            <div style="height:0PX" class="accordion-content">
+              <div class="accordion-text---solutions">Le simulateur de rentabilité Innovorder vous permet d’obtenir une <strong>estimation la plus fidèle possible sur la valeur ajoutée de nos solutions</strong> pour votre restaurant.<br><br>Nos calculs se basent sur les <strong>données moyennes observées sur l’ensemble de nos clients.</strong> Ainsi, vous êtes sûr(e) d’obtenir des résultats les plus proches de la réalité pour votre activité.<br></div>
+              <div class="en-details-title">En détails :</div>
+              <div class="en-details-wrap">
+                <div id="w-node-_45ee9355-eca6-63a4-c67e-e1a80acfeec7-e44275e4" class="detail-inner-box">
+                  <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/64d4ec158094ed8c613fb80f_check.svg" loading="lazy" alt>
+                  <div>+28% d’augmentation du panier moyen grâce à la borne de commande</div>
+                </div>
+                <div id="w-node-_732b53f2-41fe-76db-2cf7-8b04a56f9049-e44275e4" class="detail-inner-box">
+                  <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/64d4ec158094ed8c613fb80f_check.svg" loading="lazy" alt>
+                  <div>+5% d’augmentation du volume de commandes grâce à la borne de commande</div>
+                </div>
+                <div id="w-node-_58cc00fd-2ae8-2379-a9d4-212d121304d3-e44275e4" class="detail-inner-box">
+                  <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/64d4ec158094ed8c613fb80f_check.svg" loading="lazy" alt>
+                  <div>+43% d’augmentation du panier moyen grâce à la commande en ligne</div>
+                </div>
+                <div id="w-node-c3ee1e23-86d7-1100-2e06-e2f38d8c5d7f-e44275e4" class="detail-inner-box">
+                  <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/64d4ec158094ed8c613fb80f_check.svg" loading="lazy" alt>
+                  <div>+13% d’augmentation du volume de commandes grâce à la commande en ligne</div>
+                </div>
+                <div id="w-node-b934bb05-b17c-3022-10c4-40935e73a7ad-e44275e4" class="detail-inner-box">
+                  <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/64d4ec158094ed8c613fb80f_check.svg" loading="lazy" width="20" alt>
+                  <div>+37% de productivité supplémentaire grâce à la synchronisation d’un ou plusieurs KDS à une solution de prise de commande (caisse, borne ou commande en ligne)</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div data-w-id="b2baf1bd-fa80-afaf-d098-f0fd30339c8e" style="opacity:0" class="gradient-bg">
+          <div id="form" ph-form="demo" class="form-simulator w-form">
+            <form id="wf-form-Simulator-Email-Form" name="wf-form-Simulator-Email-Form" data-name="Simulator Email Form" redirect="/merci" data-redirect="/merci" method="get" class="form-simulator-wrapper" data-wf-page-id="64f10bb5b90aa9dde44275e4" data-wf-element-id="2c1dd18c-bf1e-6d8d-af5e-d443761f9c02" data-turnstile-sitekey="0x4AAAAAAAQTptj2So4dx43e">
+              <div class="form-bar-top-simulator">
+                <div class="border-gradient-div simulator"></div>
+                <h2 class="title-form-simulator"><span class="gradient-text">Vous êtes intéressé par nos solutions ?</span></h2>
+              </div>
+              <div class="sub-txt-form">Laissez-nous vos coordonnées, un expert Innovorder vous recontactera dans les meilleurs délais.</div>
+              <div ph-form="interest" class="fields-wrap-simulator">
+                <select id="Votre-activit" name="Votre-activit" data-name="Votre activité" required class="form-field-simulator w-node-_4421f29d-25d8-c10c-02ca-bcd0a729d241-e44275e4 w-select">
+                  <option value="Votre activité">Votre activité</option>
+                  <option value="Indépendant">Indépendant</option>
+                  <option value="Franchise">Franchise</option>
+                  <option value="Food court">Food court</option>
+                  <option value="Dark kitchen">Dark kitchen</option>
+                  <option value="Restauration traditionnelle">Restauration traditionnelle</option>
+                  <option value="Société de restauration collective">Société de restauration collective</option>
+                  <option value="Restauration collective autogérée">Restauration collective autogérée</option>
+                </select>
+                <input class="form-field-simulator w-input" maxlength="256" name="Entreprise" data-name="Entreprise" placeholder="Entreprise " type="text" id="Entreprise" required>
+                <select id="Nombre-de-points-de-vente" name="Nombre-de-points-de-vente" data-name="Nombre de points de vente" required class="form-field-simulator w-node-c4804b8e-174b-58e3-6168-dbe91cfc5a2b-e44275e4 w-select">
+                  <option value="Nombre de points de vente ">Nombre de points de vente </option>
+                  <option value="1-3">1-3</option>
+                  <option value="4-10">4-10</option>
+                  <option value="+10">+10</option>
+                </select>
+                <input class="form-field-simulator w-input" maxlength="256" name="E-mail" data-name="E-mail" placeholder="E-mail " type="email" id="E-mail" required>
+                <input class="form-field-simulator w-input" maxlength="256" name="Pr-nom" data-name="Prénom" placeholder="Prénom " type="text" id="Pr-nom" required>
+                <input class="form-field-simulator w-input" maxlength="256" name="Nom" data-name="Nom" placeholder="Nom " type="text" id="Nom" required>
+                <input class="form-field-simulator w-input" maxlength="256" name="Num-ro-de-t-l-phone" data-name="Numéro de téléphone" placeholder="Numéro de téléphone " type="tel" id="Num-ro-de-t-l-phone" required>
+                <div class="html-embed-4 w-embed"><input type="hidden" class="utm_source" placeholder="utm_source" name="utm_source">
+  <input type="hidden" class="utm_medium" placeholder="utm_medium" name="utm_medium">
+  <input type="hidden" class="utm_campaign" placeholder="utm_campaign" name="utm_campaign"></div>
+              </div>
+              <input type="submit" data-wait="Please wait..." class="button-contact-simulator w-button" value="Être recontacté">
+            </form>
+            <div class="success-message-2 w-form-done">
+              <div>Merci!</div>
+            </div>
+            <div class="w-form-fail">
+              <div>Oops! Something went wrong while submitting the form.</div>
+            </div>
+          </div>
+          <div class="gradient-bg-block-simulator"></div>
+        </div>
+      </div>
+    </div>
+    <div class="section slider-kiosk-sect">
+      <div class="container-1280">
+        <div data-w-id="385c522c-6a18-b2e9-026d-ec58d28934d3" style="opacity:0" class="upper-slider-wrapper">
+          <h2 class="h2-logos-prix white">+3000 restaurants ambitieux nous font confiance</h2>
+        </div>
+        <div data-delay="4000" data-animation="slide" class="slider-kiosk w-slider" data-autoplay="false" data-easing="ease" style="opacity:0" data-hide-arrows="false" data-disable-swipe="false" data-w-id="385c522c-6a18-b2e9-026d-ec58d28934d6" data-autoplay-limit="0" data-nav-spacing="3" data-duration="500" data-infinite="true">
+          <div class="mask-kiosk w-slider-mask">
+            <div class="slide-kiosk w-slide">
+              <div class="kiosk-slide-block">
+                <div class="kiosk-block-upper">
+                  <div class="kiosk-img-name-wrap">
+                    <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/64d4d177c66726a7052549d6_albert.webp" loading="lazy" alt="Albert" class="slide-person-kiosk">
+                    <div class="person-txt-slide">
+                      <div class="name-slide-kiosk"><span class="gradient-text">Albert</span></div>
+                      <div class="subname-slide-kiosk">Fondateur d’Alfi</div>
+                    </div>
+                  </div>
+                  <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/64d4d18f912732bef35b6b23_deligo-melodin-5735%2033.webp" loading="lazy" alt="d’Alfi" class="icon-company-slide-kiosk">
+                </div>
+                <div class="quote-txt-slide-kiosk">“Grâce aux bornes, mon panier moyen est passé de 18€ à 23€.”</div>
+                <a href="/success-stories/alfi-innovorder" class="button-icon-hp-copy reverse-2 small">Découvrir son témoignage</a>
+              </div>
+            </div>
+            <div class="slide-kiosk w-slide">
+              <div class="kiosk-slide-block">
+                <div class="kiosk-block-upper">
+                  <div class="kiosk-img-name-wrap">
+                    <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/64f1bc44abe5e50b2e9dc581_anthony.webp" loading="lazy" alt="anthony" class="slide-person-kiosk">
+                    <div class="person-txt-slide">
+                      <div class="name-slide-kiosk"><span class="gradient-text">Anthony</span></div>
+                      <div class="subname-slide-kiosk">Franchisé Ankka à Grenoble</div>
+                    </div>
+                  </div>
+                  <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/64f1bc5ff979ce32ea19afa8_ankka.webp" loading="lazy" alt="ankka" class="icon-company-slide-kiosk">
+                </div>
+                <div class="quote-txt-slide-kiosk">“Avec Innovorder, je fais jusqu’à 500€/jour en livraison.”</div>
+                <a href="/success-stories/ankka-presqu-ile-innovorder" class="button-icon-hp-copy reverse-2 small">Découvrir son témoignage</a>
+              </div>
+            </div>
+            <div class="slide-kiosk w-slide">
+              <div class="kiosk-slide-block">
+                <div class="kiosk-block-upper">
+                  <div class="kiosk-img-name-wrap">
+                    <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/64d4d1b409406b071f0a447c_damien.webp" loading="lazy" alt="Damien" class="slide-person-kiosk">
+                    <div class="person-txt-slide">
+                      <div class="name-slide-kiosk"><span class="gradient-text">Damien</span></div>
+                      <div class="subname-slide-kiosk">Franchisé BCHEF à Vannes</div>
+                    </div>
+                  </div>
+                  <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/64d4d1d5cd542303677f2ba1_deligo-melodin-5735%2034.webp" loading="lazy" alt="BCHEF" class="icon-company-slide-kiosk">
+                </div>
+                <div class="quote-txt-slide-kiosk">“Je sers mes clients en moins de 6 minutes grâce aux écrans de production, même en rush.”</div>
+                <a href="/ebook/boostez-votre-restaurant-comme-bchef" class="button-icon-hp-copy reverse-2 small">Découvrir son témoignage</a>
+              </div>
+            </div>
+            <div class="slide-kiosk w-slide">
+              <div class="kiosk-slide-block">
+                <div class="kiosk-block-upper">
+                  <div class="kiosk-img-name-wrap">
+                    <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/64d4cf4b031dd0b1fa34fe42_jabrane.webp" loading="lazy" alt="jabrane" class="slide-person-kiosk">
+                    <div class="person-txt-slide">
+                      <div class="name-slide-kiosk"><span class="gradient-text">Jabrane</span></div>
+                      <div class="subname-slide-kiosk">Co-fondateur de Double XL</div>
+                    </div>
+                  </div>
+                  <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/64d4cfde41e14ef446dc6fc7_deligo-melodin-5735%2037.webp" loading="lazy" alt="double xl" class="icon-company-slide-kiosk">
+                </div>
+                <div class="quote-txt-slide-kiosk">“Avec mes bornes Innovorder, mon panier moyen a augmenté de +31%.”</div>
+                <a href="/success-stories/double-xl-innovorder" class="button-icon-hp-copy reverse-2 small">Découvrir son témoignage</a>
+              </div>
+            </div>
+            <div class="slide-kiosk w-slide">
+              <div class="kiosk-slide-block">
+                <div class="kiosk-block-upper">
+                  <div class="kiosk-img-name-wrap">
+                    <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/64f1bcfd72eb3ced2c9db120_Ellipse%2035.webp" loading="lazy" alt="Faizal" class="slide-person-kiosk">
+                    <div class="person-txt-slide">
+                      <div class="name-slide-kiosk"><span class="gradient-text">Faizal</span></div>
+                      <div class="subname-slide-kiosk">Fondateur de Chicken Village</div>
+                    </div>
+                  </div>
+                  <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/64f1bce3e36d896066f8147f_deligo-melodin-5735%2035.webp" loading="lazy" alt="chicken village" class="icon-company-slide-kiosk">
+                </div>
+                <div class="quote-txt-slide-kiosk">“Mes 3 écrans de production sont indispensables pour servir 300 clients/heure.”</div>
+                <a href="/success-stories/chicken-village-innovorder" class="button-icon-hp-copy reverse-2 small">Découvrir son témoignage</a>
+              </div>
+            </div>
+            <div class="slide-kiosk w-slide">
+              <div class="kiosk-slide-block">
+                <div class="kiosk-block-upper">
+                  <div class="kiosk-img-name-wrap">
+                    <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/64f1bd63e6b212d8af1a0424_stephanie.webp" loading="lazy" alt="stephanie" class="slide-person-kiosk">
+                    <div class="person-txt-slide">
+                      <div class="name-slide-kiosk"><span class="gradient-text">Stephanie</span></div>
+                      <div class="subname-slide-kiosk">Franchisé BCHEF à Chôlet</div>
+                    </div>
+                  </div>
+                  <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/64d4d1d5cd542303677f2ba1_deligo-melodin-5735%2034.webp" loading="lazy" alt="bchef" class="icon-company-slide-kiosk">
+                </div>
+                <div class="quote-txt-slide-kiosk">“Mon panier moyen est 2X plus élevé en livraison.”<br>‍</div>
+                <a href="/ebook/boostez-votre-restaurant-comme-bchef" class="button-icon-hp-copy reverse-2 small">Découvrir son témoignage</a>
+              </div>
+            </div>
+          </div>
+          <div class="left-arrow-6 w-slider-arrow-left">
+            <div class="w-icon-slider-left"></div>
+          </div>
+          <div class="right-arrow-6 w-slider-arrow-right">
+            <div class="icon-164 w-icon-slider-right"></div>
+          </div>
+          <div class="slide-nav-7 w-slider-nav w-shadow w-round"></div>
+        </div>
+      </div>
+    </div>
+    <section class="footer-simulator">
+      <div class="container-1280">
+        <div class="w-layout-grid footer-link-grid-wide simulator">
+          <div class="div-block-12 simulator">
+            <div class="div-block-13">
+              <a id="w-node-_78bb0859-951e-9dc3-268b-4852eacf060e-e44275e4" href="https://twitter.com/Innovorder" target="_blank" class="footer-link w-inline-block">
+                <div class="social-icon w-embed"><svg aria-hidden="true" role="img" width="1em" height="1em" fill="currentColor" viewBox="0 0 512 512"><path d="M512,97.248c-19.04,8.352-39.328,13.888-60.48,16.576c21.76-12.992,38.368-33.408,46.176-58.016 c-20.288,12.096-42.688,20.64-66.56,25.408C411.872,60.704,384.416,48,354.464,48c-58.112,0-104.896,47.168-104.896,104.992 c0,8.32,0.704,16.32,2.432,23.936c-87.264-4.256-164.48-46.08-216.352-109.792c-9.056,15.712-14.368,33.696-14.368,53.056 c0,36.352,18.72,68.576,46.624,87.232c-16.864-0.32-33.408-5.216-47.424-12.928c0,0.32,0,0.736,0,1.152 c0,51.008,36.384,93.376,84.096,103.136c-8.544,2.336-17.856,3.456-27.52,3.456c-6.72,0-13.504-0.384-19.872-1.792 c13.6,41.568,52.192,72.128,98.08,73.12c-35.712,27.936-81.056,44.768-130.144,44.768c-8.608,0-16.864-0.384-25.12-1.44 C46.496,446.88,101.6,464,161.024,464c193.152,0,298.752-160,298.752-298.688c0-4.64-0.16-9.12-0.384-13.568 C480.224,136.96,497.728,118.496,512,97.248z"/></svg></div>
+                <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59d1c119f9ac_iconmonstr-twitter-4.svg" alt="Twitter" loading="eager" class="social-icon footer-social-hidden-image">
+              </a>
+              <link rel="prerender" href="https://twitter.com/Innovorder">
+              <a id="w-node-_78bb0859-951e-9dc3-268b-4852eacf0611-e44275e4" href="https://www.instagram.com/innovorder/" target="_blank" class="footer-link w-inline-block">
+                <div class="social-icon w-embed"><svg aria-hidden="true" role="img" width="1em" height="1em" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Instagram icon</title><path d="M12 0C8.74 0 8.333.015 7.053.072 5.775.132 4.905.333 4.14.63c-.789.306-1.459.717-2.126 1.384S.935 3.35.63 4.14C.333 4.905.131 5.775.072 7.053.012 8.333 0 8.74 0 12s.015 3.667.072 4.947c.06 1.277.261 2.148.558 2.913.306.788.717 1.459 1.384 2.126.667.666 1.336 1.079 2.126 1.384.766.296 1.636.499 2.913.558C8.333 23.988 8.74 24 12 24s3.667-.015 4.947-.072c1.277-.06 2.148-.262 2.913-.558.788-.306 1.459-.718 2.126-1.384.666-.667 1.079-1.335 1.384-2.126.296-.765.499-1.636.558-2.913.06-1.28.072-1.687.072-4.947s-.015-3.667-.072-4.947c-.06-1.277-.262-2.149-.558-2.913-.306-.789-.718-1.459-1.384-2.126C21.319 1.347 20.651.935 19.86.63c-.765-.297-1.636-.499-2.913-.558C15.667.012 15.26 0 12 0zm0 2.16c3.203 0 3.585.016 4.85.071 1.17.055 1.805.249 2.227.415.562.217.96.477 1.382.896.419.42.679.819.896 1.381.164.422.36 1.057.413 2.227.057 1.266.07 1.646.07 4.85s-.015 3.585-.074 4.85c-.061 1.17-.256 1.805-.421 2.227-.224.562-.479.96-.899 1.382-.419.419-.824.679-1.38.896-.42.164-1.065.36-2.235.413-1.274.057-1.649.07-4.859.07-3.211 0-3.586-.015-4.859-.074-1.171-.061-1.816-.256-2.236-.421-.569-.224-.96-.479-1.379-.899-.421-.419-.69-.824-.9-1.38-.165-.42-.359-1.065-.42-2.235-.045-1.26-.061-1.649-.061-4.844 0-3.196.016-3.586.061-4.861.061-1.17.255-1.814.42-2.234.21-.57.479-.96.9-1.381.419-.419.81-.689 1.379-.898.42-.166 1.051-.361 2.221-.421 1.275-.045 1.65-.06 4.859-.06l.045.03zm0 3.678c-3.405 0-6.162 2.76-6.162 6.162 0 3.405 2.76 6.162 6.162 6.162 3.405 0 6.162-2.76 6.162-6.162 0-3.405-2.76-6.162-6.162-6.162zM12 16c-2.21 0-4-1.79-4-4s1.79-4 4-4 4 1.79 4 4-1.79 4-4 4zm7.846-10.405c0 .795-.646 1.44-1.44 1.44-.795 0-1.44-.646-1.44-1.44 0-.794.646-1.439 1.44-1.439.793-.001 1.44.645 1.44 1.439z"/></svg></div>
+                <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc596f4519f9a9_iconmonstr-instagram-14.svg" alt="Instagram" loading="eager" class="social-icon footer-social-hidden-image">
+              </a>
+              <link rel="prerender" href="https://www.instagram.com/innovorder/">
+              <a id="w-node-_78bb0859-951e-9dc3-268b-4852eacf0614-e44275e4" href="https://www.facebook.com/innovorder" target="_blank" class="footer-link w-inline-block">
+                <div class="social-icon w-embed"><svg aria-hidden="true" role="img" width="1em" height="1em" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Facebook icon</title><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg></div>
+              </a>
+              <link rel="prerender" href="https://www.facebook.com/innovorder">
+              <a id="w-node-_78bb0859-951e-9dc3-268b-4852eacf0616-e44275e4" href="https://www.linkedin.com/company/innovorder/" target="_blank" class="footer-link w-inline-block">
+                <div class="social-icon w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" fill="currentColor"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg></div>
+              </a>
+              <link rel="prerender" href="https://www.linkedin.com/company/innovorder/">
+            </div>
+            <div class="text-block-91 simulator-desktop">Fait avec amour à Paris ❤️</div>
+            <div class="text-block-91 simulator-mobile">© Copyright 2023 - Innovorder SAS</div>
+          </div>
+          <div class="footer-sub-wrap simulator">
+            <a href="/mentions-legales-et-cgv" class="footer-link w-inline-block">
+              <div class="text-block-58 simulator">CGV &amp; Mentions légales</div>
+              <div class="hover-line"></div>
+            </a>
+            <div class="text-block-92 simulator-desktop">© Copyright 2023 - Innovorder SAS</div>
+            <div class="spacer-simulator"></div>
+            <div class="text-block-91 simulator-mobile">Fait avec amour à Paris ❤️</div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+  <Fragment slot="scripts">
+    <script is:inline>
+
+    var lastIdx = -1;
+
+    $('.volume-marquee__collection-item').on('mouseover', function(){
+
+    	if(lastIdx == $(this).index())
+        return;
+    
+      lastIdx = $(this).index();
+
+    	let image = $(this).find('.volume-marquee__image')[0].src;
+      let volumeName = $(this).find('.volume-marquee__volume-name')[0].innerText;
+      let volumeNumber = $(this).find('.volume-marquee__volume-number')[0].innerText;
+      let backgroundColor = $(this).find('.volume-marquee__volume-color').first().css('backgroundColor');
+  
+      $('.volume-preview__image').first().fadeOut(100, function() {
+      	$(this).attr('src', image).fadeIn(100);
+      });
+    
+      $('.volume-preview__volume-name').first().fadeOut(100, function() {
+      	$(this).text(volumeName).fadeIn(100);
+      });
+    
+      $('.volume-preview__volume-number').first().fadeOut(100, function() {
+      	$(this).text(volumeNumber).fadeIn(100);
+      });
+  
+      $('.volume-preview__background').first().css('backgroundColor', backgroundColor);
+  
+    });
+
+    </script>
+  </Fragment>
+</BaseLayout>

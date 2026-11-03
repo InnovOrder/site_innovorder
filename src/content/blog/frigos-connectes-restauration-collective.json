@@ -1,0 +1,99 @@
+{
+ "slug": "frigos-connectes-restauration-collective",
+ "seo": {
+  "title": "Frigo connecté : l’innovation de la restauration collective",
+  "description": "En restauration collective, un frigo connecté présente de nombreux avantages pour les salariés et pour les entreprises. Découvrez lesquels !",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d5bb0ba574572aab60_63f501f3fcfc598c6e19ff39_frigo-connecte-restauration-collective-cantine-blog-innovorder-popchef-1.avif",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc01",
+   "data-wf-collection": "6493777d655aea5e6643cb6c",
+   "data-wf-item-slug": "frigos-connectes-restauration-collective"
+  },
+  "bodyClass": "body",
+  "bodyAttrs": {
+   "ph-category": "blog"
+  },
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"BlogPosting\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://www.innovorder.com/blog/frigos-connectes-restauration-collective\"\n  },\n  \"headline\": \"Frigo connecté : l&#39;innovation de la restauration collective\",\n  \"description\": \"En restauration collective, un frigo connecté présente de nombreux avantages pour les salariés et pour les entreprises. Découvrez lesquels !\",\n  \"image\": \"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d5bb0ba574572aab60_63f501f3fcfc598c6e19ff39_frigo-connecte-restauration-collective-cantine-blog-innovorder-popchef-1.avif\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Sophie Lecomte\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Innovorder\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"\n    },\n    \"aggregateRating\": {\n      \"@type\": \"AggregateRating\",\n      \"ratingValue\": \"4.9\",\n      \"reviewCount\": \"550\",\n      \"bestRating\": \"5\",\n      \"worstRating\": \"1\"\n      }\n  },\n  \"datePublished\": \"8 décembre 2020\",\n  \"dateModified\": \"28 août 2025\",\n  \"articleSection\": \"Les défis de la restauration collective\",\n  \"timeRequired\": \"3\"\n}\n</script>",
+  "field-script-2": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/blog/frigos-connectes-restauration-collective\",\"en\":\"https://www.innovorder.com/en/blog/connected-fridge-for-collective-catering\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/blog/frigos-connectes-restauration-collective\",\"originalPath\":\"/blog/frigos-connectes-restauration-collective\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/blog/frigos-connectes-restauration-collective",
+  "link-href-2": "https://www.innovorder.com/en/blog/connected-fridge-for-collective-catering",
+  "breadcrumb-text-href": "/categories/restauration-collective",
+  "breadcrumb-text": "Les défis de la restauration collective",
+  "breadcrumb-text-href-2": "/blog/frigos-connectes-restauration-collective",
+  "breadcrumb-text-2": "Frigo connecté : l'innovation de la restauration collective",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d5bb0ba574572aab60_63f501f3fcfc598c6e19ff39_frigo-connecte-restauration-collective-cantine-blog-innovorder-popchef-1.avif",
+  "current-post-image-alt": "",
+  "current-post-image-sizes": null,
+  "current-post-image-srcset": null,
+  "category-name-current-post": "Les défis de la restauration collective",
+  "read-time-txt-class": "read-time-txt",
+  "read-time-txt-html": "3",
+  "title-post": "Frigo connecté : l'innovation de la restauration collective",
+  "author-post-class": "author-post w-condition-invisible",
+  "author-post-html": "Sophie Lecomte",
+  "date-post-text": "26 June 2026",
+  "rt-blog-html": "\n          <h2>Comment proposer des offres culinaires innovantes en restauration collective ?</h2>\n          <p>S'adapter, innover, améliorer l'expérience convive et maîtriser ses coûts sont au cœur de la stratégie de tous les grands noms de la <a href=\"/expertises/restauration-collective-logiciel-caisse\">restauration collective</a> en France.</p>\n          <p>Et c'est particulièrement le cas en entreprise, où le télétravail a pris une ampleur sans précédent suite au Covid et s'est installé dans les habitudes de la plupart des salariés.</p>\n          <p>Les services de restauration doivent donc trouver des offres qui séduisent à la fois les employés qui viennent travailler au bureau et choisissent de déjeuner sur place, et des offres qui séduisent les salariés en home office et pourraient être tentés de revenir en présentiel.</p>\n          <p>&nbsp;</p>\n          <h2>De nouvelles offres culinaires en entreprise, flexibles et disponibles à toute heure</h2>\n          <p>Les initiatives innovantes se sont multipliées ces dernières années, comme chez <a href=\"https://www.elior.fr/presse/avec-elior-la-restauration-en-entreprise-se-reinvente\">Elior</a>.</p>\n          <p>Son dernier projet en date : La Petite Brigade. C'est une offre de restauration préparée dans un atelier culinaire dédié et livré directement sur site ou en <a href=\"/frigo-connecte\">frigo connecté</a>.</p>\n          <h3>Comment fonctionne un frigo connecté ?</h3>\n          <p>Les frigos connectés permettent de révolutionner la manière dont les convives consomment sur site. Accessibles en libre-service, ils offrent la possibilité d'accéder à tout moment à des repas gourmands, équilibrés et frais.</p>\n          <p>Chaque frigo propose une offre variée de références de sandwichs, de plats cuisinés, de salades ou encore de desserts, renouvelés régulièrement, en fonction de leur date de péremption.</p>\n          <p>Le convive, via son badge, peut déclencher l'ouverture du frigo, choisir son ou ses produit(s) et régler de manière dématérialisée. Pas besoin de carte de crédit ou d'espèces. La reconnaissance des plats consommés est effectuée via la technologie RFID intégrée aux emballages des produits.</p>\n          <p>&nbsp;</p>\n          <h2>Restauration collective : 6 raisons de s'équiper de frigos connectés</h2>\n          <h3>Les avantages des frigos connectés sont nombreux</h3>\n          <h4>1. Proposer une offre culinaire qualitative à coûts maîtrisés</h4>\n          <h4>2. Séduire les collaborateurs qui ne vont pas ou plus à la cantine</h4>\n          <h4>3. S'adapter à une demande toujours plus personnalisée (horaires, types de plats, etc.)</h4>\n          <h4>4. Exploiter de nouveaux espaces (salle de pause, couloir, hall, etc.)</h4>\n          <h4>5. Réduire les flux à l'heure de pointe au niveau des cafétérias ou selfs traditionnels</h4>\n          <h4>6. Limiter le gâchis alimentaire</h4>\n          <p>Aujourd'hui, plusieurs acteurs existent sur le marché.</p>\n          <p>Chez <a href=\"/\">Innovorder</a>, nous avons fait le choix de s'associer à <a href=\"https://openit-solutions.com/\">OpenIT Solutions</a>, <a href=\"https://popchef.com/\">Pop Chef</a> et <a href=\"https://manger.nu/notre-parcours-de-paiement/\">Manger Nu!</a></p>\n          <p>Ils repensent la cantine telle que nous la connaissions jusqu'alors, en proposant des espaces de vie flexibles, modulaires, et des frigos connectés réapprovisionnés quotidiennement en bons petits plats !</p>\n          <figure style=\"max-width:2080pxpx\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\"><a href=\"/nous-contacter\" target=\"_blank\">\n              <div><img alt src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6606e60b8c1b6edf91827be2_Bannie%CC%80re%20Blog%20-%20%20RCO.png\" loading=\"lazy\"></div>\n            </a></figure>\n          <p>&nbsp;</p>\n          <h2>Une gestion plus fluide, adaptée aux contraintes de la restauration collective</h2>\n          <p>Afin que ce système soit le plus efficace possible, tant pour le gestionnaire de site que pour les convives, il est fondamental que la manière de payer sa commande et de recharger son compte convive soit la plus fluide possible.</p>\n          <p>Pour répondre à cette problématique, il existe par exemple des solutions 100% dématérialisées, comme le <a href=\"/portefeuille-electronique\">portefeuille électronique</a> (ou e-wallet), rechargeable en ligne via son compte.</p>\n          <p>Dans ce cadre, nous permettons aux sites équipés de frigos connectés de proposer cette option à leurs convives, qui prend toujours en compte les subventions et admissions caractéristiques de chaque structure.</p>\n          <p>&nbsp;</p>\n          <h2>Comment améliorer l'expérience convive ?</h2>\n          <p>Un frigo connecté seul ne suffira pas à révolutionner une offre de restauration. D'autant qu'il existe de nombreuses innovations, calquées sur la restauration commerciale et sur les habitudes des consommateurs.<br><br>Par exemple, un système de pré-commande en Click &amp; Collect ou un <a href=\"/scan-plateau\">Scan Plateau</a> viendront renforcer l'attractivité de votre offre auprès des convives. Ces innovations permettent de diversifier les cas d'usage en profondeur tout en améliorant l'expérience client.</p>\n          <p>Vous souhaitez équiper votre site d'<a href=\"/frigo-connecte-entreprise\">un frigo connecté pour votre entreprise</a> ? Contactez un conseiller Innovorder qui saura répondre à toutes vos questions !</p>\n        ",
+  "div-class": null,
+  "right-head-class": "right-head interesting-art",
+  "div-role": "list",
+  "div-class-2": "w-dyn-items",
+  "div-role-2": "listitem",
+  "div-class-3": "w-dyn-item",
+  "div-html": "<a href=\"/blog/restauration-connectee-hopital\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01dd5b7e1f0a13b95efc_63f501f3fcfc5945b41a0200_iStock-1432527544.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Le numérique au service de la restauration en hôpital</div>\n                  <div class=\"interesting-articles-category\">Les défis de la restauration collective</div>\n                </div>\n              </a>",
+  "div-role-3": "list",
+  "div-class-4": "w-dyn-items",
+  "div-role-4": "listitem",
+  "div-class-5": "w-dyn-item",
+  "div-html-2": "<a href=\"/blog/qr-code-restaurant\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01db63919a8291cccaf8_63f501f3fcfc59c7861a018f_Scan%2520QR%2520Code%2520Miniature.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Pourquoi adopter le QR code dans son restaurant ?</div>\n                  <div class=\"interesting-articles-category\">Développer son activité</div>\n                </div>\n              </a>",
+  "div-role-5": "list",
+  "div-class-6": "w-dyn-items",
+  "div-role-6": "listitem",
+  "div-class-7": "w-dyn-item",
+  "div-html-3": "<a href=\"/blog/gerer-restaurant-entreprise\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d58dc4be04e1d7ec5f_63f501f3fcfc59f9451a01c5_Miniature%2520resto%2520entreprise.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">9 conseils pour mieux gérer son restaurant d’entreprise</div>\n                  <div class=\"interesting-articles-category\">Les défis de la restauration collective</div>\n                </div>\n              </a>",
+  "slider-mobile-blog-class": "slider-mobile-blog w-slider",
+  "div-role-7": "list",
+  "div-class-8": "w-dyn-items",
+  "div-role-8": "listitem",
+  "div-class-9": "w-dyn-item",
+  "div-html-4": "<a href=\"/blog/restauration-connectee-hopital\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01dd5b7e1f0a13b95efc_63f501f3fcfc5945b41a0200_iStock-1432527544.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Le numérique au service de la restauration en hôpital</div>\n                  <div class=\"interesting-articles-category\">Les défis de la restauration collective</div>\n                </div>\n              </a>",
+  "div-role-9": "list",
+  "div-class-10": "w-dyn-items",
+  "div-role-10": "listitem",
+  "div-class-11": "w-dyn-item",
+  "div-html-5": "<a href=\"/blog/qr-code-restaurant\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01db63919a8291cccaf8_63f501f3fcfc59c7861a018f_Scan%2520QR%2520Code%2520Miniature.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Pourquoi adopter le QR code dans son restaurant ?</div>\n                  <div class=\"interesting-articles-category\">Développer son activité</div>\n                </div>\n              </a>",
+  "div-role-11": "list",
+  "div-class-12": "w-dyn-items",
+  "div-role-12": "listitem",
+  "div-class-13": "w-dyn-item",
+  "div-html-6": "<a href=\"/blog/gerer-restaurant-entreprise\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d58dc4be04e1d7ec5f_63f501f3fcfc59f9451a01c5_Miniature%2520resto%2520entreprise.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">9 conseils pour mieux gérer son restaurant d’entreprise</div>\n                  <div class=\"interesting-articles-category\">Les défis de la restauration collective</div>\n                </div>\n              </a>",
+  "tail:field-script": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"BlogPosting\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://www.innovorder.com/blog/frigos-connectes-restauration-collective\"\n  },\n  \"headline\": \"Frigo connecté : l&#39;innovation de la restauration collective\",\n  \"description\": \"En restauration collective, un frigo connecté présente de nombreux avantages pour les salariés et pour les entreprises. Découvrez lesquels !\",\n  \"image\": \"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d5bb0ba574572aab60_63f501f3fcfc598c6e19ff39_frigo-connecte-restauration-collective-cantine-blog-innovorder-popchef-1.avif\",  \n  \"author\": {\n    \"@type\": \"\",\n    \"name\": \"Sophie Lecomte\"\n  },  \n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Innovorder\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"\n    }\n  },\n  \"datePublished\": \"8 décembre 2020\"\n}\n</script>"
+ }
+}

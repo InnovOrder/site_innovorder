@@ -1,0 +1,101 @@
+{
+ "slug": "psd2-compliance-for-restaurant-industry",
+ "seo": {
+  "title": "PSD2 and the double-authentication requirement",
+  "description": "In particular, PSD2 makes strong customer authentication (SCA) via dual authentication mandatory.",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d4b3f80a96e5d885a1_63f501f3fcfc5924dc1a001f_61befd5d93b7b065215066ae_dsp2-double-authentification-innovorder.avif",
+  "lang": "en",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc01",
+   "data-wf-collection": "6493777d655aea5e6643cb6c",
+   "data-wf-item-slug": "directive-dsp2-restauration",
+   "data-wg-translated": "en"
+  },
+  "bodyClass": "body",
+  "bodyAttrs": {
+   "ph-category": "blog"
+  },
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.innovorder.com/en/blog/psd2-compliance-for-restaurant-industry\"},\"headline\":\"La DSP2 et l’obligation de double-authentification\",\"description\":\"In particular, PSD2 makes strong customer authentication (SCA) via dual authentication mandatory.\",\"image\":\"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d4b3f80a96e5d885a1_63f501f3fcfc5924dc1a001f_61befd5d93b7b065215066ae_dsp2-double-authentification-innovorder.avif\",\"author\":{\"@type\":\"Person\",\"name\":\"Sophie Lecomte\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Innovorder\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.9\",\"reviewCount\":\"550\",\"bestRating\":\"5\",\"worstRating\":\"1\"}},\"datePublished\":\"30 octobre 2019\",\"dateModified\":\"\",\"articleSection\":\"Tendances et actualités\",\"timeRequired\":\"2\"}</script>",
+  "field-script-2": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/blog/directive-dsp2-restauration\",\"en\":\"https://www.innovorder.com/en/blog/psd2-compliance-for-restaurant-industry\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/blog/directive-dsp2-restauration\",\"originalPath\":\"/blog/directive-dsp2-restauration\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/blog/directive-dsp2-restauration",
+  "link-href-2": "https://www.innovorder.com/en/blog/psd2-compliance-for-restaurant-industry",
+  "breadcrumb-text-href": "/en/categories/catering-trends",
+  "breadcrumb-text": "Trends and news",
+  "breadcrumb-text-href-2": "/en/blog/psd2-compliance-for-restaurant-industry",
+  "breadcrumb-text-2": "PSD2 and the double authentication obligation",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d4b3f80a96e5d885a1_63f501f3fcfc5924dc1a001f_61befd5d93b7b065215066ae_dsp2-double-authentification-innovorder.avif",
+  "current-post-image-alt": "",
+  "current-post-image-sizes": null,
+  "current-post-image-srcset": null,
+  "category-name-current-post": "Trends and news",
+  "read-time-txt-class": "read-time-txt",
+  "read-time-txt-html": "2",
+  "title-post": "PSD2 and the double authentication obligation",
+  "author-post-class": "author-post",
+  "author-post-html": "Sophie Lecomte",
+  "date-post-text": "05 December 2024",
+  "rt-blog-html": "\n          <p>September 2019, and more specifically the date of the 14th, was marked by the entry into force of the technical standards of <strong>PSD2</strong>, the <a href=\"https://fr.wikipedia.org/wiki/Directive_sur_les_services_de_paiement\"><strong>second Payment Services Directive</strong></a>. In particular, it makes <strong>Strong Customer Authentication</strong> (SCA) via <strong>dual authentication</strong> <strong data-wg-splitted>mandatory</strong> <strong data-wg-splitted>for electronic payments</strong> <strong>over 30 euros</strong>. Like e-merchants, <strong>many restaurant owners are affected </strong>by these changes.</p>\n          <h2><strong>What PSD2 aims to do</strong></h2>\n          <p>The PSD2, with this SCA obligation, aims to promote innovation and competition, while <strong>reinforcing consumer security </strong>and <strong>reducing the rate of fraud on the payer side</strong>. Its objectives are clearly defined (see on this subject<a href=\"https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32015L2366&amp;from=EL\"><strong>article 98 of the directive</strong></a>) :</p>\n          <p>\" <em>(a) Ensure an appropriate level of security for payment service users and payment service providers through the adoption of effective, risk-based requirements</em>;</p>\n          <p><em>(b) ensure the security of funds and personal data of payment service users;</em></p>\n          <p><em>(c) ensure and maintain fair competition among all payment service providers;</em></p>\n          <p><em>(d) ensure business model and technology neutrality;</em></p>\n          <p><em>(e) enable the development of innovative, accessible, and easy-to-use payment methods.\"</em></p>\n          <h2><strong>The means of strong authentication provided by the directive</strong></h2>\n          <p>The SCA involves authenticating <strong>via at least 2</strong> of the following:</p>\n          <ul role=\"list\">\n            <li><strong>What the customer has (smartphone, smart card, connected device...);</strong></li>\n            <li><strong>What he knows</strong> (PIN code, password...)</li>\n            <li><strong>What it is</strong>,<strong> what characterizes it personally </strong>(voice recognition, fingerprint...)</li>\n          </ul>\n          <p>Before this directive, strong authentication was of course recommended, but it is now mandatory for online purchases. Without 2 of the above mentioned conditions (\"<em>two factors authentication</em>\"), the customer will not be able to make an online payment. Note that these elements must be independent of each other. The <strong>issuing bank</strong>, i.e. the buyer's bank, will be responsible for triggering the strong authentication based on its risk analysis.</p>\n          <h2><strong>Towards the 3D Secure 2 protocol</strong></h2>\n          <p>Dual authentication is at the heart of the<strong> 3D Secure 2.0 protocol</strong>, which replaces the 3D Secure protocol as we knew it before - sending an SMS to confirm a purchase.</p>\n          <p>This evolution should push payment industry players to invest in new biometric technologies. Indeed, one of the most pronounced concerns of e-retailers is the decrease of the conversion rate during online shopping. The customer experience may indeed be less fluid, as long as authentication is not facilitated. Today, good examples of dual authentication already in place include Apple Pay.</p>\n          <h2><strong>Exceptions to dual authentication</strong></h2>\n          <p>PSD2 provides for exceptions:</p>\n          <ul role=\"list\">\n            <li><strong>Payments under 30 euros</strong></li>\n          </ul>\n          <p>These are operations of limited amount and for which the risk is considered to be low.</p>\n          <ul role=\"list\">\n            <li><strong>Recurring transactions, instalments and subscriptions</strong></li>\n          </ul>\n          <p>This is less of a concern for restaurateurs, but PSD2 allows <strong>recurring transactions of the same amount </strong>to be exempt from strong authentication, starting with the 2nd transaction.</p>\n          <ul role=\"list\">\n            <li><strong>The \"MOTO\" transactions</strong></li>\n          </ul>\n          <p>MOTO<em>(Mail Orders and Telephone Orders</em>) transactions, i.e. those made by e-mail or telephone, are exempt, as they are not considered an electronic payment.</p>\n          <ul role=\"list\">\n            <li><strong>White lists</strong></li>\n          </ul>\n          <p>Each customer has the possibility to add \"trusted beneficiaries\" to a white list. This list is kept by the bank. In this case, authentication via 3D Secure is not necessary.</p>\n          <ul role=\"list\">\n            <li><strong>Payments by professional card</strong></li>\n          </ul>\n          <p>Any payment made with a business card will not be affected by the CAS requirements.</p>\n          <ul role=\"list\">\n            <li><strong>Inter-regional transactions</strong></li>\n          </ul>\n          <p>If the payment issuer or card acquirer is not based in Europe, the transaction is also exempt from dual authentication. However, there is nothing to prevent you from deciding to implement it.</p>\n          <h2><strong>What is the impact for restaurateurs?</strong></h2>\n          <p>As soon as you accept online payments (for your <a href=\"/en/blog/benefits-of-online-ordering-for-restaurants\"><strong>online ordering</strong></a> or Click and collect for example), you must take into account this new legislation.</p>\n          <p>Fortunately, there are currently options available for PSD2. For example, by using <a href=\"/en\"><strong>Innovorder's software suite</strong></a>software suite, you can benefit from strong authentication thanks to <strong>Stripe's integration with the solution</strong>.</p>\n        ",
+  "div-class": "w-condition-invisible",
+  "right-head-class": "right-head interesting-art",
+  "div-role": "list",
+  "div-class-2": "w-dyn-items",
+  "div-role-2": "listitem",
+  "div-class-3": "w-dyn-item",
+  "div-html": "<a href=\"/en/blog/the-restaurant-marketing-calendar-for-2023\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d00f5672d1d6409ed1_63f501f3fcfc59846c1a0206_iStock-1307098713.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">2023 marketing calendar: restaurant chestnuts</div>\n                  <div class=\"interesting-articles-category\">Trends and news</div>\n                </div>\n              </a>",
+  "div-role-3": "list",
+  "div-class-4": "w-dyn-items",
+  "div-role-4": "listitem",
+  "div-class-5": "w-dyn-item",
+  "div-html-2": "<a href=\"/en/blog/facebook-and-instagram-advertising-for-restaurants\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01db8dc4be4399d7ec72_63f501f3fcfc5911a11a01ba_Restaurant%2520pub%2520Facebook%2520sur%2520smartphone%2520-%2520Miniature.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">How to advertise on Facebook for your restaurant?</div>\n                  <div class=\"interesting-articles-category\">Expanding your business</div>\n                </div>\n              </a>",
+  "div-role-5": "list",
+  "div-class-6": "w-dyn-items",
+  "div-role-6": "listitem",
+  "div-class-7": "w-dyn-item",
+  "div-html-3": "<a href=\"/en/blog/the-future-of-restaurant-payment-methods\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d98dc4be31d8d7ec6a_63f501f3fcfc59b7bf1a0053_61bf0cd5be763411cb9b05f4_paiement-futur-restauration-blog-innovorder.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Tomorrow, how will we pay at the restaurant?</div>\n                  <div class=\"interesting-articles-category\">Trends and news</div>\n                </div>\n              </a>",
+  "slider-mobile-blog-class": "slider-mobile-blog w-slider",
+  "div-role-7": "list",
+  "div-class-8": "w-dyn-items",
+  "div-role-8": "listitem",
+  "div-class-9": "w-dyn-item",
+  "div-html-4": "<a href=\"/en/blog/the-restaurant-marketing-calendar-for-2023\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d00f5672d1d6409ed1_63f501f3fcfc59846c1a0206_iStock-1307098713.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">2023 marketing calendar: restaurant chestnuts</div>\n                  <div class=\"interesting-articles-category\">Trends and news</div>\n                </div>\n              </a>",
+  "div-role-9": "list",
+  "div-class-10": "w-dyn-items",
+  "div-role-10": "listitem",
+  "div-class-11": "w-dyn-item",
+  "div-html-5": "<a href=\"/en/blog/facebook-and-instagram-advertising-for-restaurants\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01db8dc4be4399d7ec72_63f501f3fcfc5911a11a01ba_Restaurant%2520pub%2520Facebook%2520sur%2520smartphone%2520-%2520Miniature.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">How to advertise on Facebook for your restaurant?</div>\n                  <div class=\"interesting-articles-category\">Expanding your business</div>\n                </div>\n              </a>",
+  "div-role-11": "list",
+  "div-class-12": "w-dyn-items",
+  "div-role-12": "listitem",
+  "div-class-13": "w-dyn-item",
+  "div-html-6": "<a href=\"/en/blog/the-future-of-restaurant-payment-methods\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d98dc4be31d8d7ec6a_63f501f3fcfc59b7bf1a0053_61bf0cd5be763411cb9b05f4_paiement-futur-restauration-blog-innovorder.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Tomorrow, how will we pay at the restaurant?</div>\n                  <div class=\"interesting-articles-category\">Trends and news</div>\n                </div>\n              </a>",
+  "tail:field-script": "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.innovorder.com/en/blog/psd2-compliance-for-restaurant-industry\"},\"headline\":\"La DSP2 et l’obligation de double-authentification\",\"description\":\"In particular, PSD2 makes strong customer authentication (SCA) via dual authentication mandatory.\",\"image\":\"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d4b3f80a96e5d885a1_63f501f3fcfc5924dc1a001f_61befd5d93b7b065215066ae_dsp2-double-authentification-innovorder.avif\",\"author\":{\"@type\":\"\",\"name\":\"Sophie Lecomte\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Innovorder\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"}},\"datePublished\":\"30 octobre 2019\"}</script>"
+ }
+}

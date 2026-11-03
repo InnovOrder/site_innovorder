@@ -1,0 +1,101 @@
+{
+ "slug": "contingency-management-restaurant",
+ "seo": {
+  "title": "Restaurant: anticipating and managing the unexpected",
+  "description": "Looking for a solid plan to anticipate your restaurant's contingencies: power cuts, sick employees...? Discover our complete guide to help you!",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64cba176dae4f2e5a07ce28a_iStock-1494548348.avif",
+  "lang": "en",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc01",
+   "data-wf-collection": "6493777d655aea5e6643cb6c",
+   "data-wf-item-slug": "gestion-des-imprevus-restaurant",
+   "data-wg-translated": "en"
+  },
+  "bodyClass": "body",
+  "bodyAttrs": {
+   "ph-category": "blog"
+  },
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.innovorder.com/en/blog/contingency-management-restaurant\"},\"headline\":\"Restaurant : anticiper et assurer une bonne gestion des imprévus\",\"description\":\"Looking for a solid plan to anticipate your restaurant's contingencies: power cuts, sick employees...? Discover our complete guide to help you!\",\"image\":\"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64cba176dae4f2e5a07ce28a_iStock-1494548348.avif\",\"author\":{\"@type\":\"Person\",\"name\":\"Chloé Thévenet\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Innovorder\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.9\",\"reviewCount\":\"550\",\"bestRating\":\"5\",\"worstRating\":\"1\"}},\"datePublished\":\"9 août 2023\",\"dateModified\":\"\",\"articleSection\":\"Ouvrir ou reprendre son restaurant\",\"timeRequired\":\"3\"}</script>",
+  "field-script-2": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/blog/gestion-des-imprevus-restaurant\",\"en\":\"https://www.innovorder.com/en/blog/contingency-management-restaurant\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/blog/gestion-des-imprevus-restaurant\",\"originalPath\":\"/blog/gestion-des-imprevus-restaurant\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/blog/gestion-des-imprevus-restaurant",
+  "link-href-2": "https://www.innovorder.com/en/blog/contingency-management-restaurant",
+  "breadcrumb-text-href": "/en/categories/opening-a-restaurant",
+  "breadcrumb-text": "Opening or taking over a restaurant ",
+  "breadcrumb-text-href-2": "/en/blog/contingency-management-restaurant",
+  "breadcrumb-text-2": "Restaurant: anticipating and managing the unexpected",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64cba176dae4f2e5a07ce28a_iStock-1494548348.avif",
+  "current-post-image-alt": "",
+  "current-post-image-sizes": "100vw",
+  "current-post-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64cba176dae4f2e5a07ce28a_iStock-1494548348-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64cba176dae4f2e5a07ce28a_iStock-1494548348.avif 1209w",
+  "category-name-current-post": "Opening or taking over a restaurant ",
+  "read-time-txt-class": "read-time-txt",
+  "read-time-txt-html": "3",
+  "title-post": "Restaurant: anticipating and managing the unexpected",
+  "author-post-class": "author-post",
+  "author-post-html": "Chloé Thévenet",
+  "date-post-text": "07 September 2023",
+  "rt-blog-html": "\n          <p>You already know! In the catering business, <strong>smooth management</strong> is essential to ensure that guests are fully satisfied. However, hazards such as internet or power cuts, or the unavailability of sick staff, can disrupt this harmony.&nbsp;</p>\n          <p>But rest assured, with careful planning and the right solutions, you can <strong>anticipate these situations</strong> and limit their negative impact. Whether you're a traditional, fast-food or catering establishment, in this comprehensive guide we explore modern, effective strategies for dealing with these hazards and ensuring the continuity of your business!</p>\n          <p>‍</p>\n          <h2>How can you anticipate and manage the unexpected in your restaurant? </h2>\n          <h3>1. Anticipate internet outages</h3>\n          <p>A <strong>stable internet connection</strong> has become absolutely essential these days, especially in the restaurant business. Just imagine the chaos if your Internet connection suddenly disappeared. Orders and reservations would be disrupted, electronic payments would be impossible - in short, the entire restaurant operation would be disrupted...</p>\n          <p>To avoid being caught unprepared, it's crucial to have back-up solutions in place. One trick is to have a 4G hotspot close at hand. That way, if your main Internet connection goes down, you can always rely on 4G to continue providing certain online services and avoid major glitches!</p>\n          <p>Remember to make <strong>regular back-ups</strong> of your crucial data on local servers. This way, even if the worst happens and your connection remains down for a while, essential information, such as current orders or reservations, will be safe. This will enable you to continue serving your guests to the best of your ability, even if you experience <strong>connection problems</strong>!</p>\n          <p>You can also invest in <a href=\"/en/point-of-sales-restaurant\">cash register software</a> that works offline. These have been specially designed to maintain cash register and management operations despite temporary disconnection from the Internet. Thanks to this software, your customers' payments can be recorded without depending on network availability, and basic functions such as order and stock management remain accessible.</p>\n          <figure style=\"max-width:2080pxpx\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\"><a target=\"_blank\" href=\"/en/simulateur\" class=\"w-inline-block\">\n              <div><img loading=\"lazy\" alt src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64f59f6ebe566b5a01df9740_Banni%C3%A8re%20Blog%20-%20Simulateur%20de%20rentabilit%C3%A9.png\"></div>\n            </a></figure>\n          <h3>2. Coping with power cuts</h3>\n          <p><strong>Power cuts</strong> are one of the most dreaded hazards for any restaurant! They can occur without warning and have a considerable impact on the smooth running of the establishment. From simple inconvenience to more serious consequences, power cuts affect several key aspects of the restaurant, such as lighting, kitchen equipment and even air conditioning.</p>\n          <p>The biggest impact for you, the restaurateur, is for <a href=\"/en/blog/restaurant-supplies\">the kitchen equipment</a> that depends on electricity to operate. When the power goes out, ovens, hobs, refrigerators and other vital appliances become unusable. This leads to delays in food preparation, or even a total inability to cook, which can result in financial losses and damage to the restaurant's reputation.</p>\n          <p><strong>Lighting</strong> also has an important impact. In a restaurant, lighting plays a vital role in creating a friendly, welcoming atmosphere. A sudden blackout can plunge the establishment into darkness, creating an environment not conducive to customer satisfaction.&nbsp;</p>\n          <p>So what are the solutions?</p>\n          <p>When it comes to <strong>perishable goods</strong>, such as fresh foods or frozen products, it's strategic to store them in self-contained freezers. These appliances are equipped with batteries or energy storage systems that enable them to maintain an adequate temperature for a certain period of time. This considerably reduces the risk of food spoilage, and avoids the need to throw away expensive products in the event of a lengthy power cut.</p>\n          <p>Next, it's essential that you have <strong>an emergency plan</strong> in place to immediately inform staff of the procedure to follow. Make sure your entire team is trained to act effectively in the event of an outage.&nbsp;</p>\n          <p>It's also important to invest in <strong>backup power sources</strong>, such as generators, which can help keep essential equipment running.&nbsp;</p>\n          <p>To reduce dependence on electricity, opt for gas or propane appliances, and keep flashlights and candles on hand to light up work areas. Also make sure that safety systems, such as fire detectors, run on battery power to keep you and <strong>your customers safe</strong>.&nbsp;</p>\n          <p>👉 To find out more: <a href=\"/en/blog/reduce-energy-costs-restaurant-owner\">How can you reduce your restaurant's energy consumption?</a><br></p>\n          <figure style=\"max-width:1270pxpx\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\">\n            <div><img loading=\"lazy\" alt=\"Restaurant power cut\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64cba0be0aedf9ee4334473a_iStock-1442152568.avif\"></div>\n          </figure>\n          <p>‍</p>\n          <h3>3. Manage absent staff</h3>\n          <p>The consequences of an <strong>employee's absence from your restaurant</strong> can be manifold, affecting service and the overall efficiency of your establishment.</p>\n          <p>First of all, an absent member of your team can lead to delays in service. Even more so if it's a <strong>key team member</strong>, as when an experienced chef or waiter is absent, it can be difficult to make up for their absence. This can lead to longer queues, late food or even ordering errors, all of which can annoy your customers and detract from their experience in your restaurant.</p>\n          <p>What's more, <strong>team morale</strong> can be affected if employees are absent on a regular basis. A reduced team or one faced with frequent absences may have a heavier workload, which can lead to more stress and lower productivity.</p>\n          <p>To ensure business continuity in the event of <strong>staff absences</strong>, a human resources management plan must be drawn up. Planning for replacements and additional resources can help fill the gaps left by absent staff.&nbsp;</p>\n          <p>Having a list of qualified replacement contacts, such as temps or temporary employees, will also be a great help in an emergency!</p>\n          <p>👉 Going further: <a href=\"/en/blog/management-absenteeism-catering\">How to reduce absenteeism in your restaurant?‍</a></p>\n          <p>&nbsp;-</p>\n          <p>Would you like to invest in cash register software that works even without an Internet connection? Contact an Innovorder expert!</p>\n        ",
+  "div-class": "w-condition-invisible",
+  "right-head-class": "right-head interesting-art",
+  "div-role": "list",
+  "div-class-2": "w-dyn-items",
+  "div-role-2": "listitem",
+  "div-class-3": "w-dyn-item",
+  "div-html": "<a href=\"/en/blog/organize-management-and-supply-restaurant\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64be97e85c3d42c0a9f6eb7a_649da4eb004c1a8bdf6483c4_iStock-1454047113%2520Large.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Restaurant: 5 tips for managing supplies</div>\n                  <div class=\"interesting-articles-category\">Opening or taking over a restaurant</div>\n                </div>\n              </a>",
+  "div-role-3": "list",
+  "div-class-4": "w-dyn-items",
+  "div-role-4": "listitem",
+  "div-class-5": "w-dyn-item",
+  "div-html-2": "<a href=\"/en/blog/management-of-planning-in-restauration\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64be97e6e47606e453cf0a84_644bd4275cc66b5b30604096_iStock-1077746444.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">7 steps to manage your staff's schedule in a restaurant</div>\n                  <div class=\"interesting-articles-category\">Opening or taking over a restaurant</div>\n                </div>\n              </a>",
+  "div-role-5": "list",
+  "div-class-6": "w-dyn-items",
+  "div-role-6": "listitem",
+  "div-class-7": "w-dyn-item",
+  "div-html-3": "<a href=\"/en/blog/reduce-energy-costs-restaurant-owner\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01da50d2e91d4ca2b87f_63f501f3fcfc594c511a01b1_Prix%2520energie%2520restaurant%2520miniature.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">How to reduce energy consumption in your restaurant?</div>\n                  <div class=\"interesting-articles-category\">Trends and news</div>\n                </div>\n              </a>",
+  "slider-mobile-blog-class": "slider-mobile-blog w-slider",
+  "div-role-7": "list",
+  "div-class-8": "w-dyn-items",
+  "div-role-8": "listitem",
+  "div-class-9": "w-dyn-item",
+  "div-html-4": "<a href=\"/en/blog/organize-management-and-supply-restaurant\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64be97e85c3d42c0a9f6eb7a_649da4eb004c1a8bdf6483c4_iStock-1454047113%2520Large.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Restaurant: 5 tips for managing supplies</div>\n                  <div class=\"interesting-articles-category\">Opening or taking over a restaurant</div>\n                </div>\n              </a>",
+  "div-role-9": "list",
+  "div-class-10": "w-dyn-items",
+  "div-role-10": "listitem",
+  "div-class-11": "w-dyn-item",
+  "div-html-5": "<a href=\"/en/blog/management-of-planning-in-restauration\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64be97e6e47606e453cf0a84_644bd4275cc66b5b30604096_iStock-1077746444.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">7 steps to manage your staff's schedule in a restaurant</div>\n                  <div class=\"interesting-articles-category\">Opening or taking over a restaurant</div>\n                </div>\n              </a>",
+  "div-role-11": "list",
+  "div-class-12": "w-dyn-items",
+  "div-role-12": "listitem",
+  "div-class-13": "w-dyn-item",
+  "div-html-6": "<a href=\"/en/blog/reduce-energy-costs-restaurant-owner\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01da50d2e91d4ca2b87f_63f501f3fcfc594c511a01b1_Prix%2520energie%2520restaurant%2520miniature.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">How to reduce energy consumption in your restaurant?</div>\n                  <div class=\"interesting-articles-category\">Trends and news</div>\n                </div>\n              </a>",
+  "tail:field-script": "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.innovorder.com/en/blog/contingency-management-restaurant\"},\"headline\":\"Restaurant : anticiper et assurer une bonne gestion des imprévus\",\"description\":\"Looking for a solid plan to anticipate your restaurant's contingencies: power cuts, sick employees...? Discover our complete guide to help you!\",\"image\":\"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64cba185c160b2b86ed87e72_iStock-1494548348.avif\",\"author\":{\"@type\":\"\",\"name\":\"Chloé Thévenet\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Innovorder\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"}},\"datePublished\":\"9 août 2023\"}</script>"
+ }
+}

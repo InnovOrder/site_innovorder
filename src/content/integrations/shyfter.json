@@ -1,0 +1,63 @@
+{
+ "slug": "shyfter",
+ "seo": {
+  "title": "Innovorder & Shyfter",
+  "description": "Shyfter est la référence en matière de gestion du personnel, offrant des solutions efficaces pour optimiser la planification, l’enregistrement des heures et le contrôle des coûts, tout en améliorant la productivité des employés.",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/68222e42af75c5db6db3f8bc_shyfter.avif",
+  "htmlAttrs": {
+   "data-wf-page": "665dbac1b2f38c490697d94c",
+   "data-wf-collection": "665dbac1b2f38c490697d93e",
+   "data-wf-item-slug": "shyfter"
+  },
+  "bodyAttrs": {
+   "data-w-id": "665dbac1b2f38c490697d952"
+  },
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/integrations/shyfter\",\"en\":\"https://www.innovorder.com/en/integrations/shyfter\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/integrations/shyfter\",\"originalPath\":\"/integrations/shyfter\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/integrations/shyfter",
+  "link-href-2": "https://www.innovorder.com/en/integrations/shyfter",
+  "title-00": "Innovorder & Shyfter",
+  "text-17px": "Shyfter est la référence en matière de gestion du personnel, offrant des solutions efficaces pour optimiser la planification, l’enregistrement des heures et le contrôle des coûts, tout en améliorant la productivité des employés.",
+  "logo-integration-inner-hero-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/68222e42af75c5db6db3f8bc_shyfter.avif",
+  "logo-integration-inner-hero-alt": "Shyfter",
+  "logo-integration-inner-hero-sizes": "100vw",
+  "logo-integration-inner-hero-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/68222e42af75c5db6db3f8bc_shyfter-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/68222e42af75c5db6db3f8bc_shyfter.avif 519w",
+  "24-rt-gradient-html": "<strong>Shyfter </strong>: Fini le casse-tête avec vos horaires !",
+  "h2-logos-prix-html": "\n              <h2>Simplifiez la gestion de vos équipes grâce à une solution tout-en-un.</h2>\n            ",
+  "rt-features-integration-html": "\n              <li>Automatisez vos plannings et pointages</li>\n              <li>Réduisez de 70% le temps de gestion RH</li>\n              <li>Simplifiez la gestion des contrats et documents</li>\n              <li>Restez conforme à la législation</li>\n              <li>Bénéficiez d’une gestion RH à moindre coût, sans compromis</li>\n            ",
+  "button-icon-hp-href": "https://shyfter.co/fr-fr",
+  "w-node-77b77414-b9e7-e0e5-4124-2b2a5107031a-0697d94c": "Découvrir Shyfter",
+  "image-kiosk-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/68222fc79a18d7b780a8a9c3_Capture%20d%E2%80%99e%CC%81cran%202025-05-12%20a%CC%80%2013.51.47%201.avif",
+  "image-kiosk-sizes": "(max-width: 479px) 100vw, 467px",
+  "image-kiosk-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/68222fc79a18d7b780a8a9c3_Capture%20d%E2%80%99e%CC%81cran%202025-05-12%20a%CC%80%2013.51.47%201-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/68222fc79a18d7b780a8a9c3_Capture%20d%E2%80%99e%CC%81cran%202025-05-12%20a%CC%80%2013.51.47%201-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/68222fc79a18d7b780a8a9c3_Capture%20d%E2%80%99e%CC%81cran%202025-05-12%20a%CC%80%2013.51.47%201-p-1080.avif 1080w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/68222fc79a18d7b780a8a9c3_Capture%20d%E2%80%99e%CC%81cran%202025-05-12%20a%CC%80%2013.51.47%201.avif 1180w",
+  "40px-txt": "Synchronisez Shyfter à Innovorder.",
+  "cta-sub-kiosk": "Dites adieu aux contraintes de gestion ! Avec Shyfter et Innovorder, optimisez vos plannings, boostez la productivité de vos équipes et offrez un service irréprochable à vos clients, le tout en un clin d'œil."
+ }
+}

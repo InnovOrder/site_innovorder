@@ -1,0 +1,72 @@
+{
+ "slug": "healthcare",
+ "seo": {
+  "title": "Contract catering | Modernize your healthcare facilities",
+  "description": "Digitalize your catering service with the complete Innovorder ecosystem. Suitable for GHTs, hospitals, clinics and retirement homes.",
+  "lang": "en",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc2c",
+   "data-wf-collection": "6493777d655aea5e6643cb62",
+   "data-wf-item-slug": "sante",
+   "data-wg-translated": "en"
+  },
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/restauration-collective/sante\",\"en\":\"https://www.innovorder.com/en/collective-catering/healthcare\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/restauration-collective/sante\",\"originalPath\":\"/restauration-collective/sante\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/restauration-collective/sante",
+  "link-href-2": "https://www.innovorder.com/en/collective-catering/healthcare",
+  "expertises-hero-text-html": "Innovorder for <strong>collective</strong> <strong>health care</strong> <strong data-wg-splitted>catering</strong>",
+  "text-17px-html": "\n            <p>Improve the organization of your hospital restaurant according to your resources and focus on your core business: patient management. </p>\n            <p>Trust a SaaS solution!</p>\n          ",
+  "image-hero-expertise-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59c43a1a01d7_sante%20hero11.avif",
+  "expertise-img-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5968f51a01e4_sante11.avif",
+  "expertise-img-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5968f51a01e4_sante11-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5968f51a01e4_sante11.avif 1000w",
+  "title50px": "CIOs: sleep tight",
+  "subtitle-hover-block-html": "\n            <p>Catering manager: optimize your organization</p>\n            <p>Thanks to our SaaS mode, we guarantee a 100% secure and easy-to-deploy solution.</p>\n            <p>Rely on state-of-the-art software, adapted to the IT architecture of your organization. </p>\n          ",
+  "title50px-2": "Catering manager: optimize your organization",
+  "subtitle-hover-block-html-2": "\n            <p>Put digital technology to work for you to make the checkout process in your restaurant more fluid. </p>\n            <p>Say goodbye to rushes by installing smart flatbed scans.</p>\n            <p>They will also allow you to reorganize your resources, by positioning your staff on value-added tasks.</p>\n          ",
+  "expertise-img-src-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc597b241a01db_sante22.avif",
+  "expertise-img-srcset-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc597b241a01db_sante22-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc597b241a01db_sante22.avif 1000w",
+  "expertise-img-src-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc595d681a01e5_sante33.avif",
+  "expertise-img-srcset-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc595d681a01e5_sante33-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc595d681a01e5_sante33.avif 1000w",
+  "title50px-3": "Purchasing manager: control your budget",
+  "subtitle-hover-block-html-3": "\n            <p>Regardless of your structure and resources, Innovorder supports all healthcare establishments (GHT, hospitals, retirement homes, EHPAD, clinics, etc.) with an offer adapted to your real needs.</p>\n          ",
+  "section-class": "section slider-kiosk-sect fidelite",
+  "slide-person-kiosk-alt": "Paul Rodrigues",
+  "slide-person-kiosk-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/652ef76fa2acc1aaa545c647_paul%20rodrigues.avif",
+  "slide-person-kiosk-class": "slide-person-kiosk",
+  "name-slide-kiosk-class": "name-slide-kiosk gradient",
+  "name-slide-kiosk-html": "Paul Rodrigues",
+  "subname-slide-kiosk-class": "subname-slide-kiosk",
+  "subname-slide-kiosk-html": "Chef de rang, Les Hespérides",
+  "icon-company-slide-kiosk-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/652ef77fbe6a12c446663a73_les%20hesperides.avif",
+  "icon-company-slide-kiosk-class": "icon-company-slide-kiosk",
+  "quote-txt-slide-kiosk-class": "quote-txt-slide-kiosk",
+  "quote-txt-slide-kiosk-html": "\"The Innovorder system is super simple and intuitive. Support is very responsive and efficient.\" "
+ }
+}

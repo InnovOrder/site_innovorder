@@ -1,0 +1,101 @@
+{
+ "slug": "how-to-open-a-restaurant",
+ "seo": {
+  "title": "How to open a restaurant: 7 key steps",
+  "description": "Would you like to open a restaurant? Discover the 7 key steps to make your project a reality and succeed in the restaurant business.",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/656f043df9eee08fece87880_iStock-1288079982.jpg",
+  "lang": "en",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc01",
+   "data-wf-collection": "6493777d655aea5e6643cb6c",
+   "data-wf-item-slug": "comment-ouvrir-un-restaurant",
+   "data-wg-translated": "en"
+  },
+  "bodyClass": "body",
+  "bodyAttrs": {
+   "ph-category": "blog"
+  },
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.innovorder.com/en/blog/how-to-open-a-restaurant\"},\"headline\":\"Comment ouvrir un restaurant ? Le guide complet\",\"description\":\"Would you like to open a restaurant? Discover the 7 key steps to make your project a reality and succeed in the restaurant business.\",\"image\":\"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/656f043df9eee08fece87880_iStock-1288079982.jpg\",\"author\":{\"@type\":\"Person\",\"name\":\"Chloé Thévenet\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Innovorder\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.9\",\"reviewCount\":\"550\",\"bestRating\":\"5\",\"worstRating\":\"1\"}},\"datePublished\":\"7 décembre 2023\",\"dateModified\":\"22 août 2025\",\"articleSection\":\"Ouvrir ou reprendre son restaurant\",\"timeRequired\":\"3\"}</script>",
+  "field-script-2": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/blog/comment-ouvrir-un-restaurant\",\"en\":\"https://www.innovorder.com/en/blog/how-to-open-a-restaurant\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/blog/comment-ouvrir-un-restaurant\",\"originalPath\":\"/blog/comment-ouvrir-un-restaurant\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/blog/comment-ouvrir-un-restaurant",
+  "link-href-2": "https://www.innovorder.com/en/blog/how-to-open-a-restaurant",
+  "breadcrumb-text-href": "/en/categories/opening-a-restaurant",
+  "breadcrumb-text": "Opening or taking over a restaurant ",
+  "breadcrumb-text-href-2": "/en/blog/how-to-open-a-restaurant",
+  "breadcrumb-text-2": "How to open a restaurant The complete guide",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/656f043df9eee08fece87880_iStock-1288079982.jpg",
+  "current-post-image-alt": "",
+  "current-post-image-sizes": "100vw",
+  "current-post-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/656f043df9eee08fece87880_iStock-1288079982-p-500.jpg 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/656f043df9eee08fece87880_iStock-1288079982-p-800.jpg 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/656f043df9eee08fece87880_iStock-1288079982-p-1080.jpg 1080w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/656f043df9eee08fece87880_iStock-1288079982.jpg 1254w",
+  "category-name-current-post": "Opening or taking over a restaurant ",
+  "read-time-txt-class": "read-time-txt",
+  "read-time-txt-html": "3",
+  "title-post": "How to open a restaurant The complete guide",
+  "author-post-class": "author-post",
+  "author-post-html": "Chloé Thévenet",
+  "date-post-text": "22 August 2025",
+  "rt-blog-html": "\n          <p>If you're planning to open a restaurant, it's essential to understand the key stages, associated costs, tax implications and recruitment process. In this article, we'll guide you through the entire process, highlighting the importance of each aspect to a successful restaurant opening.</p>\n          <p>‍</p>\n          <h2><strong>Step<sup>1</sup>: Initial planning </strong></h2>\n          <h3><strong>Evaluation of start-up costs</strong></h3>\n          <p>The first step is to assess the costs involved in opening your restaurant. This encompasses a wide range of expenses, including obtaining licenses, renting premises, purchasing kitchen equipment, and much more. It's essential to examine each item in detail to avoid financial surprises.</p>\n          <p><strong>💡 Why is this important?</strong> An accurate assessment of start-up costs will enable you to budget realistically and avoid finding yourself in a difficult financial situation from the outset.</p>\n          <p>‍</p>\n          <h2><strong>Step<sup>2</sup>: Drawing up a business plan</strong></h2>\n          <h3><strong>Budget forecast</strong></h3>\n          <p>Creating a solid <a href=\"/en/blog/restaurant-business-plan\">business plan</a> is a crucial step before opening your restaurant. At this stage, you need to draw up a detailed projected budget for your restaurant. This includes forecasting short- and long-term operating costs, as well as estimating potential revenues.</p>\n          <p><strong>💡 Why is it important?</strong> A projected budget will help you assess your restaurant's profitability and ensure you have the financial resources to run your business effectively.</p>\n          <figure style=\"max-width:2080pxpx\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\"><a target=\"_blank\" href=\"/en/ebook/open-a-fast-food-restaurant-in-8-months\" class=\"w-inline-block\">\n              <div><img loading=\"lazy\" alt src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/67dade352ca5ed6be11829d4_Bannie%CC%80re%20Blog%20-%20%20Ouvrir%20son%20fast-food.avif\"></div>\n            </a></figure>\n          <p>‍</p>\n          <h2><strong>Step<sup>3</sup>: Choosing a location</strong></h2>\n          <h3><strong>Impact on costs</strong></h3>\n          <p>The choice of location for your restaurant has a significant impact on the costs associated with its opening and ongoing operation. Some locations may be more expensive than others in terms of rent, taxes and charges.</p>\n          <p><strong>💡 Why is this important?</strong> Understanding the financial impact of location allows you to make an informed decision that fits your budget.</p>\n          <p>👉 To find out more: <a href=\"/en/blog/restaurant-premises\">How to find the perfect premises for your restaurant?</a><br></p>\n          <p>‍</p>\n          <h2><strong><sup>4th</sup> step: financing</strong></h2>\n          <h3><strong>Financing options</strong></h3>\n          <p>Once you've assessed the costs and worked out your budget, it's time to consider the financing options available. You can consider self-financing, bank loans or third-party investment. Each option has its advantages and disadvantages, and it's important to choose the one that best suits your financial situation.</p>\n          <p><strong>💡 Why is it important?</strong> Choosing the right financing can influence the viability of your restaurant and its future success.</p>\n          <p>👉 Further information: <a href=\"/en/blog/create-restaurant-financing\">How to finance your project?</a></p>\n          <figure style=\"max-width:1253pxpx\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\">\n            <div><img loading=\"lazy\" alt src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/67502a60324857faa320b75d_656f19f96ec5de282a23cc35_iStock-1150691598.avif\"></div>\n          </figure>\n          <p>‍</p>\n          <h2><strong>Step <sup>5</sup>: Financial management </strong></h2>\n          <h3><strong>Tracking expenses and revenues</strong></h3>\n          <p>Once your restaurant is open, financial management doesn't stop there. You need to set up ongoing financial tracking to monitor your expenses and revenues. Using accounting tools can make this task much easier.</p>\n          <h3><strong>Taxation</strong></h3>\n          <p>As a restaurant owner, you also need to be aware of the tax implications. Understanding how taxation affects your business is essential to staying compliant with tax laws and optimizing your financial situation.</p>\n          <p><strong>💡 Why is this important?</strong> Effective financial and tax management is crucial to the long-term health of your restaurant.</p>\n          <p>‍</p>\n          <h2><strong>Step <sup>6</sup>: Cost optimization</strong></h2>\n          <h3><strong>Cost reduction</strong></h3>\n          <p>Finally, to maintain your restaurant's profitability, you'll need to explore ways of reducing operational costs without compromising quality. This can include strategies such as negotiating with suppliers, managing staff effectively and reducing waste.</p>\n          <p><strong>💡 Why is this important?</strong> Cost optimization is key to maximizing your profit margins and ensuring the long-term viability of your restaurant.</p>\n          <p>‍</p>\n          <h2><strong>Step <sup>7</sup>: Employee recruitment</strong></h2>\n          <h3><strong>Recruitment plan</strong></h3>\n          <p>The recruitment process is a crucial step in building a competent team for your restaurant. Draw up a detailed recruitment plan, identifying the positions needed and the essential skills to look for in employees.</p>\n          <p>👉 To find out more: <a href=\"/en/blog/calculation-cost-labor-restaurant\">How to calculate labor costs in a restaurant?</a></p>\n          <h3><strong>Recruitment process</strong></h3>\n          <p>Set up an effective recruitment process, from candidate search to final selection. Learn how to conduct successful interviews and evaluate candidates objectively.</p>\n          <p><strong>💡 Why is this important?</strong> Recruiting a quality team is essential to providing exceptional service to your customers and ensuring the success of your restaurant.</p>\n          <p>-</p>\n          <p>Did you like this article? Please feel free to consult our <a href=\"/en/resources\"><strong>platform of resources </strong></a>to help you develop your business!</p>\n          <p>Innovorder is the leader in digital solutions for commercial and institutional foodservice. Our team supports restaurateurs in their digital transformation with an all-in-one solution (cash register, kiosk, online ordering, KDS).</p>\n        ",
+  "div-class": "w-condition-invisible",
+  "right-head-class": "right-head interesting-art",
+  "div-role": "list",
+  "div-class-2": "w-dyn-items",
+  "div-role-2": "listitem",
+  "div-class-3": "w-dyn-item",
+  "div-html": "<a href=\"/en/blog/the-13-mistakes-to-avoid-restaurant-opening\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64be97e7e13ed833ce72309d_64465900c838dd02eb9d2760_iStock-1048613544.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Opening a restaurant: 13 mistakes not to make</div>\n                  <div class=\"interesting-articles-category\">Opening or taking over a restaurant</div>\n                </div>\n              </a>",
+  "div-role-3": "list",
+  "div-class-4": "w-dyn-items",
+  "div-role-4": "listitem",
+  "div-class-5": "w-dyn-item",
+  "div-html-2": "<a href=\"/en/blog/restaurant-concepts\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d272d28c057b79940f_63f501f3fcfc59944b1a0218_small%2520concept.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">13 restaurant concepts to discover in 2025</div>\n                  <div class=\"interesting-articles-category\">Opening or taking over a restaurant</div>\n                </div>\n              </a>",
+  "div-role-5": "list",
+  "div-class-6": "w-dyn-items",
+  "div-role-6": "listitem",
+  "div-class-7": "w-dyn-item",
+  "div-html-3": "<a href=\"/en/blog/create-a-strong-brand-identity-restaurant\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64be97e4343c81261517b97a_64536d8df2b215408a172a2e_bao%2527s.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">How to create a brand identity for your restaurant?</div>\n                  <div class=\"interesting-articles-category\">Opening or taking over a restaurant</div>\n                </div>\n              </a>",
+  "slider-mobile-blog-class": "slider-mobile-blog w-slider",
+  "div-role-7": "list",
+  "div-class-8": "w-dyn-items",
+  "div-role-8": "listitem",
+  "div-class-9": "w-dyn-item",
+  "div-html-4": "<a href=\"/en/blog/the-13-mistakes-to-avoid-restaurant-opening\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64be97e7e13ed833ce72309d_64465900c838dd02eb9d2760_iStock-1048613544.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Opening a restaurant: 13 mistakes not to make</div>\n                  <div class=\"interesting-articles-category\">Opening or taking over a restaurant</div>\n                </div>\n              </a>",
+  "div-role-9": "list",
+  "div-class-10": "w-dyn-items",
+  "div-role-10": "listitem",
+  "div-class-11": "w-dyn-item",
+  "div-html-5": "<a href=\"/en/blog/restaurant-concepts\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d272d28c057b79940f_63f501f3fcfc59944b1a0218_small%2520concept.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">13 restaurant concepts to discover in 2025</div>\n                  <div class=\"interesting-articles-category\">Opening or taking over a restaurant</div>\n                </div>\n              </a>",
+  "div-role-11": "list",
+  "div-class-12": "w-dyn-items",
+  "div-role-12": "listitem",
+  "div-class-13": "w-dyn-item",
+  "div-html-6": "<a href=\"/en/blog/create-a-strong-brand-identity-restaurant\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64be97e4343c81261517b97a_64536d8df2b215408a172a2e_bao%2527s.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">How to create a brand identity for your restaurant?</div>\n                  <div class=\"interesting-articles-category\">Opening or taking over a restaurant</div>\n                </div>\n              </a>",
+  "tail:field-script": "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.innovorder.com/en/blog/how-to-open-a-restaurant\"},\"headline\":\"Comment ouvrir un restaurant ? Le guide complet\",\"description\":\"Would you like to open a restaurant? Discover the 7 key steps to make your project a reality and succeed in the restaurant business.\",\"image\":\"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/656f044af59c9f7d2efd4e4c_iStock-1288079982.jpg\",\"author\":{\"@type\":\"\",\"name\":\"Chloé Thévenet\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Innovorder\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"}},\"datePublished\":\"7 décembre 2023\"}</script>"
+ }
+}

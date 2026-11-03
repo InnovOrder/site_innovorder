@@ -1,0 +1,85 @@
+{
+ "slug": "lhistoire-de-moe-poke-x-innovorder",
+ "seo": {
+  "title": "Success Story - Moé Poké x Innovorder",
+  "description": "Dès l'ouverture de son premier point de vente, Moé Poké recherchait une solution digitale qui soit facilement duplicable. Son choix s'est porté sur un système de caisse intuitif et ouvert et une solution de commande en ligne correspondant à son ambition.",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f2fcfc59192819fde6_moe%20poke.avif",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc30",
+   "data-wf-collection": "6493777d655aea5e6643cb6a",
+   "data-wf-item-slug": "lhistoire-de-moe-poke-x-innovorder"
+  },
+  "bodyClass": "body",
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/success-stories/lhistoire-de-moe-poke-x-innovorder\",\"en\":\"https://www.innovorder.com/en/success-stories/history-of-moe-poke-x-innovorder\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/success-stories/lhistoire-de-moe-poke-x-innovorder\",\"originalPath\":\"/success-stories/lhistoire-de-moe-poke-x-innovorder\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/success-stories/lhistoire-de-moe-poke-x-innovorder",
+  "link-href-2": "https://www.innovorder.com/en/success-stories/history-of-moe-poke-x-innovorder",
+  "title-post": "Moé Poké x Innovorder",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f2fcfc59192819fde6_moe%20poke.avif",
+  "current-post-image-sizes": "100vw",
+  "current-post-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f2fcfc59192819fde6_place-6252-ndefv3bhepqzseovruo0-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f2fcfc59192819fde6_moe%20poke.avif 1000w",
+  "company-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5919321a023b_image%20(2).avif\")",
+  "title-post-2": "Moé Poké x Innovorder",
+  "rt-blog-html": "\n          <h3>01. Le contexte</h3>\n          <p><strong>Définition du besoin</strong></p>\n          <p>Dès l'ouverture de son premier point de vente, <strong>Moé Poké</strong> recherchait une <strong>solution digitale </strong>qui soit facilement <strong>duplicable</strong>. Son choix s'est porté sur un système de caisse <strong>intuitif </strong>et<strong> ouvert </strong>et une solution de <a href=\"/blog/avantages-commande-en-ligne-restaurant\"><strong>commande en ligne</strong></a> correspondant à son ambition.</p>\n          <h3>02. L'interview</h3>\n          <p><strong>Regardez la vidéo</strong></p>\n          <p>Alain et Antoine, cofondateurs de Moé Poké, présentent les bénéfices des solutions digitales d'Innovorder choisies : IO Caisse et IO Web.</p>\n          <p>Découvrez l'interview d'Alain &amp; Antoine, cofondateurs de l'enseigne spécialisée dans le Poké Bowl !</p>\n          <p>‍</p>\n          <figure style=\"padding-bottom:56.206088992974244%\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-video\">\n            <div>\n              <iframe src=\"https://www.youtube.com/embed/v4xssWQQcxE\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>\n            </div>\n          </figure>\n          <p>‍</p>\n          <h4>Quelles étaient leurs problématiques ?</h4>\n          <p>Moé Poké souhaitait un <strong>système de caisse connecté</strong> qui puisse facilement suivre les objectifs de croissance de l'entreprise.</p>\n          <h4>Pourquoi avoir choisi Innovorder ?</h4>\n          <p>Innovorder propose aux restaurateurs une <strong>suite logicielle \"plug and play\"</strong>. Elle se déploie facilement sur d'autres points de vente et se prend en main sans difficulté.</p>\n          <p>De plus, la caisse Innovorder est <strong>intuitive</strong>, <strong>souple</strong> et <strong>complète.</strong></p>\n          <figure style=\"max-width:1000pxpx\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\">\n            <div><img loading=\"lazy\" alt src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f2fcfc59192819fde6_moe%20poke.jpeg\"></div>\n          </figure>\n        ",
+  "right-head": "Moé Poké",
+  "bozzolo-cat": "Indépendant",
+  "div-html": "\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/caisse-enregistreuse-tactile-restauration\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc596eea1a0225_Portefeuille-2.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Caisse enregistreuse</div>\n                    </a></div>\n                ",
+  "image-thumb-3x-href": "/success-stories/alfi-innovorder",
+  "bg-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc597ce91a020d_small%20alfi.avif",
+  "bg-image-sizes": "(max-width: 767px) 100vw, 800px",
+  "bg-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc597ce91a020d_small%2520alfi-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc597ce91a020d_small%20alfi.avif 800w",
+  "company-img-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59f5ea1a022b_Alfi.avif\")",
+  "link-block-9-href": "/success-stories/alfi-innovorder",
+  "title-cs": "Comment Alfi a augmenté son panier moyen de 28%",
+  "company-name-cs": "Alfi",
+  "label-category-card": "Indépendant",
+  "arrow-block-blog-href": "/success-stories/alfi-innovorder",
+  "image-thumb-3x-href-2": "/success-stories/chicken-village-innovorder",
+  "bg-image-src-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc596c781a0169_Chicken%20Village.avif",
+  "bg-image-sizes-2": "100vw",
+  "bg-image-srcset-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc596c781a0169_Chicken%2520Village-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc596c781a0169_Chicken%2520Village-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc596c781a0169_Chicken%20Village.avif 1773w",
+  "company-img-logo-style-2": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59489f1a022f_Chicken%20village.png\")",
+  "link-block-9-href-2": "/success-stories/chicken-village-innovorder",
+  "title-cs-2": "Comment Chicken Village sert 200 clients par heure sans erreur",
+  "company-name-cs-2": "Chicken Village",
+  "label-category-card-2": "Indépendant",
+  "arrow-block-blog-href-2": "/success-stories/chicken-village-innovorder",
+  "image-thumb-3x-href-3": "/success-stories/bozzolo-innovorder",
+  "bg-image-src-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5978471a01fb_image%20(3).avif",
+  "bg-image-sizes-3": "(max-width: 479px) 100vw, (max-width: 991px) 95vw, (max-width: 1439px) 30vw, 403.3203125px",
+  "bg-image-srcset-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5978471a01fb_image%2520(3)-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5978471a01fb_image%2520(3)-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5978471a01fb_image%20(3).avif 1920w",
+  "company-img-logo-style-3": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59e60b1a022a_bozzolo-transparent-officiel.avif\")",
+  "link-block-9-href-3": "/success-stories/bozzolo-innovorder",
+  "title-cs-3": "Comment Bozzolo gère de gros volumes avec peu de personnel",
+  "company-name-cs-3": "Bozzolo",
+  "label-category-card-3": "Indépendant",
+  "arrow-block-blog-href-3": "/success-stories/bozzolo-innovorder"
+ }
+}

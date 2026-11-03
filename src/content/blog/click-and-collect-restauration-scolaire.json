@@ -1,0 +1,99 @@
+{
+ "slug": "click-and-collect-restauration-scolaire",
+ "seo": {
+  "title": "Le Click and Collect dans la restauration scolaire",
+  "description": "Le Click and Collect consiste à permettre au client de commander son repas en ligne, puis de venir le récupérer sur place à l'heure de son choix.",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d1914bbf59011cfe44_63f501f3fcfc59bd7d1a000d_61bef2a64334b87a90d3a135_girls-in-cafeteria-4R3ZF68.avif",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc01",
+   "data-wf-collection": "6493777d655aea5e6643cb6c",
+   "data-wf-item-slug": "click-and-collect-restauration-scolaire"
+  },
+  "bodyClass": "body",
+  "bodyAttrs": {
+   "ph-category": "blog"
+  },
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"BlogPosting\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://www.innovorder.com/blog/click-and-collect-restauration-scolaire\"\n  },\n  \"headline\": \"Le Click and Collect dans la restauration scolaire\",\n  \"description\": \"Le Click and Collect consiste à permettre au client de commander son repas en ligne, puis de venir le récupérer sur place à l&#39;heure de son choix.\",\n  \"image\": \"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d1914bbf59011cfe44_63f501f3fcfc59bd7d1a000d_61bef2a64334b87a90d3a135_girls-in-cafeteria-4R3ZF68.avif\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Sophie Lecomte\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Innovorder\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"\n    },\n    \"aggregateRating\": {\n      \"@type\": \"AggregateRating\",\n      \"ratingValue\": \"4.9\",\n      \"reviewCount\": \"550\",\n      \"bestRating\": \"5\",\n      \"worstRating\": \"1\"\n      }\n  },\n  \"datePublished\": \"19 novembre 2019\",\n  \"dateModified\": \"\",\n  \"articleSection\": \"Les défis de la restauration collective\",\n  \"timeRequired\": \"2\"\n}\n</script>",
+  "field-script-2": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/blog/click-and-collect-restauration-scolaire\",\"en\":\"https://www.innovorder.com/en/blog/click-and-collect-school-catering\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/blog/click-and-collect-restauration-scolaire\",\"originalPath\":\"/blog/click-and-collect-restauration-scolaire\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/blog/click-and-collect-restauration-scolaire",
+  "link-href-2": "https://www.innovorder.com/en/blog/click-and-collect-school-catering",
+  "breadcrumb-text-href": "/categories/restauration-collective",
+  "breadcrumb-text": "Les défis de la restauration collective",
+  "breadcrumb-text-href-2": "/blog/click-and-collect-restauration-scolaire",
+  "breadcrumb-text-2": "Le Click and Collect dans la restauration scolaire",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d1914bbf59011cfe44_63f501f3fcfc59bd7d1a000d_61bef2a64334b87a90d3a135_girls-in-cafeteria-4R3ZF68.avif",
+  "current-post-image-alt": "",
+  "current-post-image-sizes": null,
+  "current-post-image-srcset": null,
+  "category-name-current-post": "Les défis de la restauration collective",
+  "read-time-txt-class": "read-time-txt",
+  "read-time-txt-html": "2",
+  "title-post": "Le Click and Collect dans la restauration scolaire",
+  "author-post-class": "author-post w-condition-invisible",
+  "author-post-html": "Sophie Lecomte",
+  "date-post-text": "08 April 2025",
+  "rt-blog-html": "\n          <p>La <strong>restauration scolaire ou cantine prend elle aussi le virage du digital</strong>. Ses challenges sont nombreux : réduire le temps d’attente, optimiser la gestion en cuisine et au niveau de l’administration de l’établissement, proposer une offre variée adaptée à tous les régimes alimentaires, tout en limitant le gaspillage...</p>\n          <p>‍</p>\n          <p>Les acteurs de la <a href=\"/blog/restauration-collective-pertes-gestion\"><strong>restauration collective</strong></a> ont d’ores et déjà plusieurs solutions à leur disposition, dont <strong>la pré-commande, le scan du plateau, le remplacement des badges et cartes par la reconnaissance biométrique</strong>, etc.</p>\n          <p>L’une des approches qui se détache aujourd’hui est celle du <a href=\"https://www.ecommercemag.fr/Definitions-Glossaire/Click-and-collect-245298.htm\"><strong>Click and Collect</strong></a>, qui est loin d’être réservé à la restauration commerciale traditionnelle.</p>\n          <h2>Click and collect et restauration scolaire</h2>\n          <h3>Bénéfices pour la restauration collective scolaire :</h3>\n          <p>Le Click and Collect consiste à permettre au client de <strong>commander son repas</strong> en ligne, puis de venir <strong>le récupérer sur place à l’heure de son choix</strong>, en évitant ainsi de faire la queue.</p>\n          <p>Les bénéfices sont nombreux :</p>\n          <ul role=\"list\">\n            <li>Une réduction drastique (voire la suppression) du temps d’attente du client, l’étudiant ou l’élève dans ce cas;</li>\n            <li>La modernisation de l’image du restaurant ou cantine</li>\n            <li>Une meilleure expérience client;</li>\n            <li>L’anticipation des commandes et donc une meilleure gestion du planning restauration (gain de productivité);</li>\n            <li>L’optimisation de la gestion : en cuisine, l’équipe réceptionne les commandes et prépare les sachets en amont;</li>\n            <li>Plus de chiffre d’affaires;</li>\n            <li>Une différenciation avec la concurrence (établissements à l’extérieur du lycée ou de l’université par exemple);</li>\n            <li>La réduction du gaspillage alimentaire en ciblant mieux les commandes et les stocks tout en proposant des menus variés ;</li>\n            <li>Le recueil de données permettant à terme d’améliorer le service au maximum le fonctionnement du restaurant scolaire et de mieux comprendre ses clients;</li>\n          </ul>\n          <p>Surtout, cette solution répond parfaitement aux<strong> attentes du consommateur</strong> d’aujourd’hui, en particulier celles des <strong>Millenials</strong>. <strong>Ultra-connectés, en quête d’autonomie, impatients et exigeants</strong>, ils basculent aisément d’un appareil à un autre pour consulter, commander, se retrouver, partager… ce qu’ils veulent et quand ils en ont envie.</p>\n          <figure style=\"max-width:2080px\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\"><a href=\"/ebook/restauration-collective-comment-fluidifier-son-service\" target=\"_blank\" class=\"w-inline-block\">\n              <div><img alt src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/67dc3eb80352492d7773277d_Bannie%CC%80re%20Blog%20-%20%20Restauration%20collective.avif\" loading=\"lazy\"></div>\n            </a></figure>\n          <p>En quête d’un <strong>parcours rapide et fluide</strong>, tout en contrôlant leurs choix d’alimentation (healthy, végétariens, responsable, sans gluten ou encore “foodporn”), ils peuvent ainsi tout à fait se retrouver dans le Click and Collect.</p>\n          <p>La solution <a href=\"https://www.weekyconnect.com/\"><strong>Weeky Connect</strong></a> par exemple, développée par Innovorder et Elior, permet de voir quels produits sont disponibles et de pré-commander son repas directement depuis son smartphone. A l’heure dite, pas de file d’attente, mais<strong> un retrait direct qui permet de gagner du temps à l’heure de pointe</strong> du déjeuner…</p>\n          <figure style=\"padding-bottom:33.75%\" class=\"w-richtext-align-center w-richtext-figure-type-video\">\n            <div>\n              <iframe src=\"https://www.youtube.com/embed/02zcMAHbgfU\" frameborder=\"0\" allowfullscreen></iframe>\n            </div>\n          </figure>\n          <p> </p>\n          <p>Le Click and Collect peut être organisé via smartphone, mais aussi depuis un ordinateur, une tablette ou encore une <strong>borne dédiée</strong>.</p>\n          <p>Dans le cadre de la restauration scolaire, tout le monde y gagne : les élèves, bien sûr, mais aussi les équipes de restauration et l’administration.</p>\n          <p>Pour en savoir plus sur les solutions proposées par Innovorder, <a href=\"/\"><strong>consultez notre site officiel</strong></a>.</p>\n        ",
+  "div-class": null,
+  "right-head-class": "right-head interesting-art",
+  "div-role": "list",
+  "div-class-2": "w-dyn-items",
+  "div-role-2": "listitem",
+  "div-class-3": "w-dyn-item",
+  "div-html": "<a href=\"/blog/guide-click-and-collect-restaurant\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d66dad4c026308ce9d_63f501f3fcfc59e8c21a0152_Click%2520and%2520collect%2520dans%2520un%2520restaurant.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Click and Collect en restauration : le guide ultime</div>\n                  <div class=\"interesting-articles-category\">Développer son activité</div>\n                </div>\n              </a>",
+  "div-role-3": "list",
+  "div-class-4": "w-dyn-items",
+  "div-role-4": "listitem",
+  "div-class-5": "w-dyn-item",
+  "div-html-2": "<a href=\"/blog/frigos-connectes-restauration-collective\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d5bb0ba574572aab60_63f501f3fcfc598c6e19ff39_frigo-connecte-restauration-collective-cantine-blog-innovorder-popchef-1.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Frigo connecté : l'innovation de la restauration collective</div>\n                  <div class=\"interesting-articles-category\">Les défis de la restauration collective</div>\n                </div>\n              </a>",
+  "div-role-5": "list",
+  "div-class-6": "w-dyn-items",
+  "div-role-6": "listitem",
+  "div-class-7": "w-dyn-item",
+  "div-html-3": "<a href=\"/blog/meetup-nouvelles-generations\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d8f04b702a289d779d_63f501f3fcfc5938e41a004d_61bf093d04d3381606be94f7_dscf7275_720.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Comment les nouvelles générations impactent-elles les codes de la restauration collective ?</div>\n                  <div class=\"interesting-articles-category\">Tendances et actualités</div>\n                </div>\n              </a>",
+  "slider-mobile-blog-class": "slider-mobile-blog w-slider",
+  "div-role-7": "list",
+  "div-class-8": "w-dyn-items",
+  "div-role-8": "listitem",
+  "div-class-9": "w-dyn-item",
+  "div-html-4": "<a href=\"/blog/guide-click-and-collect-restaurant\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d66dad4c026308ce9d_63f501f3fcfc59e8c21a0152_Click%2520and%2520collect%2520dans%2520un%2520restaurant.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Click and Collect en restauration : le guide ultime</div>\n                  <div class=\"interesting-articles-category\">Développer son activité</div>\n                </div>\n              </a>",
+  "div-role-9": "list",
+  "div-class-10": "w-dyn-items",
+  "div-role-10": "listitem",
+  "div-class-11": "w-dyn-item",
+  "div-html-5": "<a href=\"/blog/frigos-connectes-restauration-collective\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d5bb0ba574572aab60_63f501f3fcfc598c6e19ff39_frigo-connecte-restauration-collective-cantine-blog-innovorder-popchef-1.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Frigo connecté : l'innovation de la restauration collective</div>\n                  <div class=\"interesting-articles-category\">Les défis de la restauration collective</div>\n                </div>\n              </a>",
+  "div-role-11": "list",
+  "div-class-12": "w-dyn-items",
+  "div-role-12": "listitem",
+  "div-class-13": "w-dyn-item",
+  "div-html-6": "<a href=\"/blog/meetup-nouvelles-generations\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d8f04b702a289d779d_63f501f3fcfc5938e41a004d_61bf093d04d3381606be94f7_dscf7275_720.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Comment les nouvelles générations impactent-elles les codes de la restauration collective ?</div>\n                  <div class=\"interesting-articles-category\">Tendances et actualités</div>\n                </div>\n              </a>",
+  "tail:field-script": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"BlogPosting\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://www.innovorder.com/blog/click-and-collect-restauration-scolaire\"\n  },\n  \"headline\": \"Le Click and Collect dans la restauration scolaire\",\n  \"description\": \"Le Click and Collect consiste à permettre au client de commander son repas en ligne, puis de venir le récupérer sur place à l&#39;heure de son choix.\",\n  \"image\": \"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d1914bbf59011cfe44_63f501f3fcfc59bd7d1a000d_61bef2a64334b87a90d3a135_girls-in-cafeteria-4R3ZF68.avif\",  \n  \"author\": {\n    \"@type\": \"\",\n    \"name\": \"Sophie Lecomte\"\n  },  \n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Innovorder\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"\n    }\n  },\n  \"datePublished\": \"19 novembre 2019\"\n}\n</script>"
+ }
+}

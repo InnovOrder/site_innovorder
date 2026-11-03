@@ -1,0 +1,85 @@
+{
+ "slug": "becchi-innovorder",
+ "seo": {
+  "title": "Success Story - Pourquoi le digital est indispensable en restauration rapide d'après Becchi",
+  "description": "Baptiste et Matthieu, les fondateurs de Becchi vous expliquent pourquoi ils ont fait le choix du digital pour leurs 2 restaurants.",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6699306e7d4b720b51114246_Screenshot%202024-07-18%20at%2015.32.03.avif",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc30",
+   "data-wf-collection": "6493777d655aea5e6643cb6a",
+   "data-wf-item-slug": "becchi-innovorder"
+  },
+  "bodyClass": "body",
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/success-stories/becchi-innovorder\",\"en\":\"https://www.innovorder.com/en/success-stories/becchi-innovorder\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/success-stories/becchi-innovorder\",\"originalPath\":\"/success-stories/becchi-innovorder\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/success-stories/becchi-innovorder",
+  "link-href-2": "https://www.innovorder.com/en/success-stories/becchi-innovorder",
+  "title-post": "Pourquoi le digital est indispensable en restauration rapide d'après Becchi",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6699306e7d4b720b51114246_Screenshot%202024-07-18%20at%2015.32.03.avif",
+  "current-post-image-sizes": "100vw",
+  "current-post-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6699306e7d4b720b51114246_Screenshot%202024-07-18%20at%2015.32.03-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6699306e7d4b720b51114246_Screenshot%202024-07-18%20at%2015.32.03.avif 1200w",
+  "company-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6682a0d65f438e4a6e897c13_becchi.avif\")",
+  "title-post-2": "Pourquoi le digital est indispensable en restauration rapide d'après Becchi",
+  "rt-blog-html": "\n          <figure style=\"padding-bottom:56.206088992974244%\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-video\">\n            <div>\n              <iframe src=\"https://www.youtube.com/embed/xJYHbPmvXMg\" title=\"5 RAISONS DE DIGITALISER SA PIZZERIA | Becchi x Innovorder\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>\n            </div>\n          </figure>\n          <p>Becchi, fondé par 2 frères, Baptiste et Matthieu, est un concept spécialisé dans la pinsa, une variante légère et digeste de la pizza. Avec deux restaurants situés à Nation et Madeleine, Becchi s'efforce de faire découvrir cette spécialité italienne unique au plus grand nombre. </p>\n          <p>Pour leur deuxième restaurant, situé dans un quartier de bureaux, Baptiste et Matthieu savaient qu'ils seraient confrontés à un enjeu de fluidité (beaucoup de clients sur une courte période). </p>\n          <h3>2 bornes pour accélérer la prise de commande</h3>\n          <p>Sur les conseils d'Adrien, expert Innovorder, ils installent 2 bornes de commande. La digitalisation des commandes a permis à Becchi de fluidifier tout le parcours et d'accélérer la prise de commande. </p>\n          <blockquote> \"Cela garantit que nos clients n'attendent pas longtemps et nous permet de servir plus de clients par minute.\"</blockquote>\n          <p>En plus, les équipes se libèrent du temps pour se concentrer sur la relation avec les clients ce qui améliore nettement l'expérience client. </p>\n          <h3>Une boîte à outils qui facilite le suivi</h3>\n          <p>Avec Innovorder, Becchi reçoit toutes les metrics issues des bornes et de la caisse vers le back office ce qui simplifie leurs opérations quotidiennes et leur permet de piloter facilement leurs points de vente. </p>\n          <blockquote>\"Nous avions besoin d'un partenaire capable de fournir une solution tout-en-un, et Innovorder s'est avéré être le bon choix. C’est vraiment une boîte à outils tout-en-un, nous n'avons pas à aller chercher des informations à droite ou à gauche, tout est centralisé.\" </blockquote>\n          <h3>—</h3>\n          <p>Vous êtes restaurateur ou souhaitez lancer votre restaurant ? Faites appel à un expert Innovorder et découvrez comment piloter facilement vos restaurants et booster votre activité !</p>\n        ",
+  "right-head": "Becchi",
+  "bozzolo-cat": "Indépendant",
+  "div-html": "\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/borne-de-commande\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5975dd1a0229_Borne%20de%20commande.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Borne de commande</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/caisse-enregistreuse-tactile-restauration\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc596eea1a0225_Portefeuille-2.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Caisse enregistreuse</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/logiciel-caisse-restauration\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5943581a021e_Backoffice.webp\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Backoffice</div>\n                    </a></div>\n                ",
+  "image-thumb-3x-href": "/success-stories/alfi-innovorder",
+  "bg-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc597ce91a020d_small%20alfi.avif",
+  "bg-image-sizes": "(max-width: 767px) 100vw, 800px",
+  "bg-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc597ce91a020d_small%2520alfi-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc597ce91a020d_small%20alfi.avif 800w",
+  "company-img-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59f5ea1a022b_Alfi.avif\")",
+  "link-block-9-href": "/success-stories/alfi-innovorder",
+  "title-cs": "Comment Alfi a augmenté son panier moyen de 28%",
+  "company-name-cs": "Alfi",
+  "label-category-card": "Indépendant",
+  "arrow-block-blog-href": "/success-stories/alfi-innovorder",
+  "image-thumb-3x-href-2": "/success-stories/smash-smash-innovorder",
+  "bg-image-src-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/649c259be1f6bc1fb09a9299_Screenshot%202023-06-26%20at%2010.50.22.avif",
+  "bg-image-sizes-2": null,
+  "bg-image-srcset-2": null,
+  "company-img-logo-style-2": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/649c254f2b64748805cc3463_logo%20smash%20smash.jpeg\")",
+  "link-block-9-href-2": "/success-stories/smash-smash-innovorder",
+  "title-cs-2": "Comment Smash Smash est devenu un as de la gestion grâce à Innovorder",
+  "company-name-cs-2": "Smash Smash",
+  "label-category-card-2": "Franchise",
+  "arrow-block-blog-href-2": "/success-stories/smash-smash-innovorder",
+  "image-thumb-3x-href-3": "/success-stories/what-the-foc-innovorder",
+  "bg-image-src-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/641d7373009f6bee85ec0d2c_WTFHD-15-thumbail%20redimensionnee.jpg",
+  "bg-image-sizes-3": "(max-width: 479px) 100vw, (max-width: 991px) 95vw, (max-width: 1439px) 30vw, 403.3203125px",
+  "bg-image-srcset-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/641d7373009f6bee85ec0d2c_WTFHD-15-thumbail%20redimensionnee-p-500.jpg 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/641d7373009f6bee85ec0d2c_WTFHD-15-thumbail%20redimensionnee-p-800.jpg 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/641d7373009f6bee85ec0d2c_WTFHD-15-thumbail%20redimensionnee-p-1080.jpg 1080w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/641d7373009f6bee85ec0d2c_WTFHD-15-thumbail%20redimensionnee-p-1600.jpg 1600w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/641d7373009f6bee85ec0d2c_WTFHD-15-thumbail%20redimensionnee-p-2000.jpg 2000w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/641d7373009f6bee85ec0d2c_WTFHD-15-thumbail%20redimensionnee-p-2600.jpg 2600w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/641d7373009f6bee85ec0d2c_WTFHD-15-thumbail%20redimensionnee-p-3200.jpg 3200w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/641d7373009f6bee85ec0d2c_WTFHD-15-thumbail%20redimensionnee.jpg 5481w",
+  "company-img-logo-style-3": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/641d738589b0aa024a1841bf_logo%20client%20(7).avif\")",
+  "link-block-9-href-3": "/success-stories/what-the-foc-innovorder",
+  "title-cs-3": "Comment What The Foc?! a scalé son business grâce au digital",
+  "company-name-cs-3": "What the Foc ?!",
+  "label-category-card-3": "Indépendant",
+  "arrow-block-blog-href-3": "/success-stories/what-the-foc-innovorder"
+ }
+}

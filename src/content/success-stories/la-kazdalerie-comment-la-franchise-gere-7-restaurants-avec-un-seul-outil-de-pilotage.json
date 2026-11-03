@@ -1,0 +1,85 @@
+{
+ "slug": "la-kazdalerie-comment-la-franchise-gere-7-restaurants-avec-un-seul-outil-de-pilotage",
+ "seo": {
+  "title": "Success Story - La Kazdalerie : comment la franchise gère 7 restaurants avec un seul outil de pilotage",
+  "description": "Dalil, co-fondateur de La Kazdalerie, explique comment Innovorder et Komia lui permettent de piloter 7 restaurants en franchise depuis un seul tableau de bord.",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69f0aaf5a051d25c88d62046_Screenshot%202026-04-24%20at%2016.36.55.avif",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc30",
+   "data-wf-collection": "6493777d655aea5e6643cb6a",
+   "data-wf-item-slug": "la-kazdalerie-comment-la-franchise-gere-7-restaurants-avec-un-seul-outil-de-pilotage"
+  },
+  "bodyClass": "body",
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/success-stories/la-kazdalerie-comment-la-franchise-gere-7-restaurants-avec-un-seul-outil-de-pilotage\",\"en\":\"https://www.innovorder.com/en/success-stories/la-kazdalerie-how-the-franchise-manages-7-restaurants-using-a-single-management-tool\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/success-stories/la-kazdalerie-comment-la-franchise-gere-7-restaurants-avec-un-seul-outil-de-pilotage\",\"originalPath\":\"/success-stories/la-kazdalerie-comment-la-franchise-gere-7-restaurants-avec-un-seul-outil-de-pilotage\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/success-stories/la-kazdalerie-comment-la-franchise-gere-7-restaurants-avec-un-seul-outil-de-pilotage",
+  "link-href-2": "https://www.innovorder.com/en/success-stories/la-kazdalerie-how-the-franchise-manages-7-restaurants-using-a-single-management-tool",
+  "title-post": "La Kazdalerie : comment la franchise gère 7 restaurants avec un seul outil de pilotage",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69f0aaf5a051d25c88d62046_Screenshot%202026-04-24%20at%2016.36.55.avif",
+  "current-post-image-sizes": "100vw",
+  "current-post-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69f0aaf5a051d25c88d62046_Screenshot%202026-04-24%20at%2016.36.55-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69f0aaf5a051d25c88d62046_Screenshot%202026-04-24%20at%2016.36.55-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69f0aaf5a051d25c88d62046_Screenshot%202026-04-24%20at%2016.36.55-p-1080.avif 1080w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69f0aaf5a051d25c88d62046_Screenshot%202026-04-24%20at%2016.36.55.avif 1200w",
+  "company-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69f0a426d990132f4c5214c0_Kazdalerie.jpeg\")",
+  "title-post-2": "La Kazdalerie : comment la franchise gère 7 restaurants avec un seul outil de pilotage",
+  "rt-blog-html": "\n          <figure style=\"padding-bottom:56.206088992974244%\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-video\">\n            <div>\n              <iframe src=\"https://www.youtube.com/embed/izTndzxN-SI\" title=\"PILOTER UNE FRANCHISE DE STREET FOOD EN PLEINE CROISSANCE | La Kazdalerie X Innovorder X Komia\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>\n            </div>\n          </figure>\n          <p>‍</p>\n          <h4>Une franchise de street food maghrébine propulsée par l'audience d'un influenceur</h4>\n          <p><a href=\"https://www.lakazdalerie.fr/\">La Kazdalerie</a>, c'est l'histoire de deux associés qui ont voulu mettre en lumière la cuisine de chez eux. Dalil, d'origine algérienne, et Zack Nani, d'origine marocaine (créateur de contenus incontournable sur le foot et la food) ont co-fondé un concept autour du msemen et du batbout, deux pains emblématiques de la street food maghrébine.</p>\n          <p>L'association avec Zack change tout dès le premier jour. Pas de rodage, pas de période de grâce : la communauté arrive immédiatement, les vidéos deviennent virales, et le restaurant doit être à la hauteur dès l'ouverture.</p>\n          <blockquote><em>\"Les gens viennent pour un créateur de contenus, mais ils reviennent pour le produit. Ça nous a obligés à être exigeants dès le premier jour.\"</em></blockquote>\n          <p>Derrière la visibilité, il y a une ambition structurée : franchiser, standardiser, et répondre à une demande qui dépasse largement les frontières d'un seul restaurant. </p>\n          <h4>Du comptoir à la borne : pourquoi le digital s'imposait</h4>\n          <p>Le tout premier restaurant de La Kazdalerie, rue du Faubourg-Saint-Denis à Paris, n'avait pas de borne de commande. Les clients passaient commande au comptoir, attendaient, et certains repartaient sans commander à cause de l'attente.</p>\n          <blockquote><em>\"Sans borne, pas de ventes additionnelles, pas de fluidité, et surtout un parcours client qui n'était pas digne de notre marque.\"</em></blockquote>\n          <p>En 3 à 4 mois, le constat s'impose : il faut un partenaire capable d'accompagner une franchise qui scale vite, avec une clientèle jeune, à l'aise avec le digital, et habituée à une expérience sans friction. C'est à ce moment-là qu'Innovorder entre dans l'équation.</p>\n          <p>La recherche d'un prestataire révèle rapidement un problème de fond : la plupart des acteurs du marché ne font pas tout. Borne, caisse, KDS, commande en ligne : ils voulaient trouver un interlocuteur unique capable de couvrir l'ensemble du système.</p>\n          <blockquote><em>\"On voulait un seul interlocuteur pour l'ensemble du système. </em><a href=\"/\"><em>Innovorder</em></a><em> s'est naturellement imposé.\"</em></blockquote>\n          <h4>Le déploiement Innovorder : un parcours client repensé de A à Z</h4>\n          <p>À Châtelet-Les-Halles, le dernier restaurant ouvert, le parcours est pensé dès l'entrée : </p>\n          <ul role=\"list\">\n            <li>Deux bornes accueillent les clients à l'arrivée. </li>\n            <li>Une personne en salle oriente ceux qui préfèrent commander au comptoir. </li>\n          </ul>\n          <p>Les formules, les desserts, les offres éphémères : tout est mis en avant de façon claire et intuitive.</p>\n          <p>Derrière, l'écosystème digital fait le lien entre la commande et la production. Dès que le client valide, la commande chaude part directement en cuisine, la commande froide (sauces, boissons, desserts) remonte à la caisse. Zéro validation manuelle, zéro friction entre la salle et la production.</p>\n          <blockquote><em>\"La digitalisation nous permet d'avoir une communication fluide entre le client qui commande et l'équipe en cuisine. C'est simple, mais ça change tout au quotidien.\"</em></blockquote>\n          <p>L'intégration couvre aussi les canaux de livraison : Uber Eats et Deliveroo sont connectés directement dans la caisse Innovorder, sans ressaisie. </p>\n          <h4>Komia : le deuxième niveau de pilotage</h4>\n          <p>Innovorder structure l'expérience client et centralise la prise de commande. Mais pour piloter un réseau franchise, il faut aller plus loin : food costs, masse salariale, stocks, hygiène, traçabilité. C'est le rôle de Komia et c'est la passerelle entre les deux outils qui fait toute la différence.</p>\n          <p>Aujourd'hui, Innovorder et <a href=\"/integrations/komia\">Komia</a> sont imposés à tous les nouveaux franchisés. Pas comme une contrainte, mais comme une évidence opérationnelle : un franchisé qui rejoint La Kazdalerie signe pour un projet global, et cet écosystème en fait partie intégrante.</p>\n          <p>Avant Komia, la gestion opérationnelle se faisait à la main. Les plannings sur Excel, les fiches techniques dans les têtes, les bons de livraison vérifiés ligne par ligne. Dans un réseau qui grossit vite, ce mode de fonctionnement atteint rapidement ses limites.</p>\n          <blockquote><em>\"Mon associé passait des heures à croiser les chiffres à la main. Aujourd'hui, Komia ressort automatiquement le chiffre d'affaires réalisé, la masse salariale engagée, le food cost et on n'a plus qu'à analyser.\"</em></blockquote>\n          <p>Concrètement, la connexion fonctionne ainsi : Innovorder reçoit les commandes et génère le chiffre d'affaires en temps réel. Komia récupère ces données et les croise avec les plannings, les fiches techniques et les stocks pour produire une vision complète de la rentabilité (par tranche horaire, par produit, par établissement).</p>\n          <blockquote><em>\"Dans la restauration d'aujourd'hui, aller chercher ces petits pourcentages de marge en plus peut paraître anodin. Mais à la fin d'une année, sur un bilan, ça représente une part vraiment significative du chiffre d'affaires.\"</em></blockquote>\n          <h4>Un accompagnement humain à la hauteur des ambitions</h4>\n          <p>La Kazdalerie ne parle pas d'Innovorder comme d'un simple prestataire technique. Ce qui revient dans chaque échange avec Dalil, c'est la dimension humaine de la relation.</p>\n          <p>Sévan, chargée de compte au quotidien. Mouad, sur le terrain pour les ouvertures et les formations. </p>\n          <p>Quand Châtelet a ouvert ses portes, avec la communauté de Zack Nani en file d'attente, les équipes Innovorder étaient sur place. Test complet des outils de commande, vérification des paramètrages, contrôle des flux de production. Rien laissé au hasard pour le jour J.</p>\n          <blockquote><em>\"Une réactivité dans la journée, ça change tout dans le rapport humain. C'est ça aussi, l'accompagnement qu'on cherche.\"</em></blockquote>\n          <p>-</p>\n          <p>Vous gérez plusieurs restaurants en franchise et cherchez un outil pour centraliser le pilotage de votre réseau ? Faites appel à un expert Innovorder et découvrez comment digitaliser votre réseau de A à Z.</p>\n        ",
+  "right-head": "La Kazdalerie",
+  "bozzolo-cat": "Franchise",
+  "div-html": "\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/borne-de-commande\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5975dd1a0229_Borne%20de%20commande.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Borne de commande</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/caisse-enregistreuse-tactile-restauration\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc596eea1a0225_Portefeuille-2.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Caisse enregistreuse</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/integrations\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc592e8e1a021c_Integration.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Intégrations</div>\n                    </a></div>\n                ",
+  "image-thumb-3x-href": "/success-stories/franchise-bagelstein-innovorder",
+  "bg-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69948635f5b57ba067b0ffd2_Screenshot%202026-02-09%20at%2010.51.40.avif",
+  "bg-image-sizes": "(max-width: 767px) 100vw, 800px",
+  "bg-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69948635f5b57ba067b0ffd2_Screenshot%202026-02-09%20at%2010.51.40-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69948635f5b57ba067b0ffd2_Screenshot%202026-02-09%20at%2010.51.40.avif 800w",
+  "company-img-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/682e3eec906bbc17bc05f31f_Logo-Bagelstein-NBO-512x474-1.avif\")",
+  "link-block-9-href": "/success-stories/franchise-bagelstein-innovorder",
+  "title-cs": "Bagelstein était contre les bornes… jusqu’à voir l’impact sur le panier moyen",
+  "company-name-cs": "Bagelstein",
+  "label-category-card": "Franchise",
+  "arrow-block-blog-href": "/success-stories/franchise-bagelstein-innovorder",
+  "image-thumb-3x-href-2": "/success-stories/italian-queen-innovorder",
+  "bg-image-src-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/686635782cbce5a064ffd740_Miniature.avif",
+  "bg-image-sizes-2": "100vw",
+  "bg-image-srcset-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/686635782cbce5a064ffd740_Miniature-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/686635782cbce5a064ffd740_Miniature.avif 800w",
+  "company-img-logo-style-2": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/686636c1f8b070a9d9f40cce_logo%20noir.avif\")",
+  "link-block-9-href-2": "/success-stories/italian-queen-innovorder",
+  "title-cs-2": "Comment Italian Queen a augmenté son CA de 15%",
+  "company-name-cs-2": "Italian Queen",
+  "label-category-card-2": "Franchise",
+  "arrow-block-blog-href-2": "/success-stories/italian-queen-innovorder",
+  "image-thumb-3x-href-3": "/success-stories/smash-smash-innovorder",
+  "bg-image-src-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/649c259be1f6bc1fb09a9299_Screenshot%202023-06-26%20at%2010.50.22.avif",
+  "bg-image-sizes-3": null,
+  "bg-image-srcset-3": null,
+  "company-img-logo-style-3": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/649c254f2b64748805cc3463_logo%20smash%20smash.jpeg\")",
+  "link-block-9-href-3": "/success-stories/smash-smash-innovorder",
+  "title-cs-3": "Comment Smash Smash est devenu un as de la gestion grâce à Innovorder",
+  "company-name-cs-3": "Smash Smash",
+  "label-category-card-3": "Franchise",
+  "arrow-block-blog-href-3": "/success-stories/smash-smash-innovorder"
+ }
+}

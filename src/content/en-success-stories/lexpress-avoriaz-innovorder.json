@@ -1,0 +1,87 @@
+{
+ "slug": "lexpress-avoriaz-innovorder",
+ "seo": {
+  "title": "Success Story - How do you manage the flow of a fast-food restaurant at the foot of the slopes?",
+  "description": "How do you manage 500 covers a day at an altitude of 1,800 meters? L'Express Avoriaz relies on efficiency in the kitchen and meticulous organization to meet the challenges of a fast-food restaurant in a ski resort.",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/67e6aa84e60ec3ec4cf0eb28_IMG_3606%20(1).avif",
+  "lang": "en",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc30",
+   "data-wf-collection": "6493777d655aea5e6643cb6a",
+   "data-wf-item-slug": "lexpress-avoriaz-innovorder",
+   "data-wg-translated": "en"
+  },
+  "bodyClass": "body",
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/success-stories/lexpress-avoriaz-innovorder\",\"en\":\"https://www.innovorder.com/en/success-stories/lexpress-avoriaz-innovorder\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/success-stories/lexpress-avoriaz-innovorder\",\"originalPath\":\"/success-stories/lexpress-avoriaz-innovorder\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/success-stories/lexpress-avoriaz-innovorder",
+  "link-href-2": "https://www.innovorder.com/en/success-stories/lexpress-avoriaz-innovorder",
+  "title-post": "How do you manage the flow of a fast-food restaurant at the foot of the slopes?",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/67e6aa84e60ec3ec4cf0eb28_IMG_3606%20(1).avif",
+  "current-post-image-sizes": "100vw",
+  "current-post-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/67e6aa84e60ec3ec4cf0eb28_IMG_3606%20(1)-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/67e6aa84e60ec3ec4cf0eb28_IMG_3606%20(1)-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/67e6aa84e60ec3ec4cf0eb28_IMG_3606%20(1)-p-1080.avif 1080w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/67e6aa84e60ec3ec4cf0eb28_IMG_3606%20(1).avif 1165w",
+  "company-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/67e65fdf6927b77524b4011d_l'express%20avoriaz.avif\")",
+  "title-post-2": "How do you manage the flow of a fast-food restaurant at the foot of the slopes?",
+  "rt-blog-html": "\n          <h2>A concept born in the heart of the Alps</h2>\n          <p>Originally from Morzine, <strong>Alex</strong>, founder of L'Express Avoriaz, grew up in a family of restaurateurs and hoteliers. After a brilliant career between Lausanne, Lyon and Paris, he decided to leave Parisian life to join the family business and take up a new challenge: <strong>launching a fast-food restaurant at 1800 meters altitude</strong>, right in the heart of Avoriaz.</p>\n          <p>The aim? To offer fast, high-quality catering at the foot of three chairlifts, in a resort popular with French and international customers.</p>\n          <blockquote><em>\"We thought of L'Express as a complement to our bistronomic restaurant just above, Chez Flo. The idea was to go fast, well, and independently.\"</em></blockquote>\n          <figure style=\"max-width:1144pxpx\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\">\n            <div><img loading=\"lazy\" alt src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/67e667973a120c867396c690_IMG_3603%20(1).avif\"></div>\n          </figure>\n          <h2>Managing intense flows... in an extreme context</h2>\n          <p>Ski resorts are synonymous with special constraints. And there are many of them:</p>\n          <ul role=\"list\">\n            <li><strong>Transporting goods</strong> at altitude</li>\n            <li><strong>Optimized deliveries</strong> ahead of the season</li>\n            <li><strong>Intense rushes</strong> in February and March, concentrated on lunch breaks</li>\n            <li><strong>A 500m² terrace</strong> to manage in all weathers</li>\n          </ul>\n          <blockquote><em>\"We discovered what it was like to scoot down empty beer kegs on snow...\"</em></blockquote>\n          <p>‍</p>\n          <h2>A digital solution for the field</h2>\n          <p>To meet these challenges, L'Express has opted for digitalization with Innovorder : </p>\n          <ul role=\"list\">\n            <li><strong>Multilingual ordering station</strong> for international customers (French, English, Spanish, German, etc.)</li>\n            <li><strong>Production screens (KDS)</strong> to streamline order picking</li>\n            <li><strong>Online ordering</strong> for time-poor ESF, ESI and EVO2 instructors</li>\n          </ul>\n          <blockquote><em>\"Without the production screens, we'd never have been able to keep up with the pace. That's what enabled us to keep our promise of speed.\"</em></blockquote>\n          <figure style=\"max-width:1167px\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\">\n            <div><img alt src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/67e667fdec8325a63a408ac8_IMG_3605%20(1).avif\" loading=\"lazy\"></div>\n          </figure>\n          <p>‍</p>\n          <h2>A promising first season</h2>\n          <p>The facility opened its doors in December 2024, and after four months of operation, the results are positive:</p>\n          <ul role=\"list\">\n            <li><strong>Rapid familiarization</strong> of teams with the tool</li>\n            <li><strong>Ultra-smooth</strong> operation thanks to terminals</li>\n            <li><strong>Good flow management</strong> in the kitchen </li>\n          </ul>\n          <p>‍</p>\n          <h2>What next?</h2>\n          <p>Alex announces: the next step is to <strong>structure the bar even further</strong>, integrate daily specials into the menu, and perhaps even move to <strong>table service</strong>.</p>\n          <h3>-</h3>\n          <p>Are you a restaurant owner or looking to launch your own restaurant? Call in an Innovorder expert and find out how to manage your restaurant's workflow and boost your business!</p>\n        ",
+  "right-head": "L'Express Avoriaz",
+  "bozzolo-cat": "Independent",
+  "div-html": "\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/en/self-ordering-kiosk\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5975dd1a0229_Borne%20de%20commande.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Self Ordering Kiosk</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/en/online-ordering-for-restaurant\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59e0dd1a0228_Commande%20en%20ligne.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Online Ordering</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/en/kitchen-display-system\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc595abf1a0222_%C3%A9cran%20de%20production.webp\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Kitchen Display System</div>\n                    </a></div>\n                ",
+  "image-thumb-3x-href": "/en/success-stories/alfi-innovorder",
+  "bg-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc597ce91a020d_small%20alfi.avif",
+  "bg-image-sizes": "(max-width: 767px) 100vw, 800px",
+  "bg-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc597ce91a020d_small%2520alfi-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc597ce91a020d_small%20alfi.avif 800w",
+  "company-img-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59f5ea1a022b_Alfi.avif\")",
+  "link-block-9-href": "/en/success-stories/alfi-innovorder",
+  "title-cs": "How Alfi increased its average basket by 28%.",
+  "company-name-cs": "Alfi",
+  "label-category-card": "Independent",
+  "arrow-block-blog-href": "/en/success-stories/alfi-innovorder",
+  "image-thumb-3x-href-2": "/en/success-stories/double-xl-innovorder",
+  "bg-image-src-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6493099a93d5da4454828680_Screenshot%202023-06-21%20at%2016.30.01.avif",
+  "bg-image-sizes-2": "100vw",
+  "bg-image-srcset-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6493099a93d5da4454828680_Screenshot%202023-06-21%20at%2016.30.01-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6493099a93d5da4454828680_Screenshot%202023-06-21%20at%2016.30.01.avif 1200w",
+  "company-img-logo-style-2": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64930a91f3847f4262f28455_logo%20double%20xl.avif\")",
+  "link-block-9-href-2": "/en/success-stories/double-xl-innovorder",
+  "title-cs-2": "How Jabrane increased his team's productivity by 30%.",
+  "company-name-cs-2": "Double XL",
+  "label-category-card-2": "Independent",
+  "arrow-block-blog-href-2": "/en/success-stories/double-xl-innovorder",
+  "image-thumb-3x-href-3": "/en/success-stories/becchi-innovorder",
+  "bg-image-src-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6699308af769ff68039ba835_Screenshot%202024-07-18%20at%2015.32.03.avif",
+  "bg-image-sizes-3": "(max-width: 479px) 100vw, (max-width: 991px) 95vw, (max-width: 1439px) 30vw, 403.3203125px",
+  "bg-image-srcset-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6699308af769ff68039ba835_Screenshot%202024-07-18%20at%2015.32.03-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6699308af769ff68039ba835_Screenshot%202024-07-18%20at%2015.32.03.avif 800w",
+  "company-img-logo-style-3": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6682a0d65f438e4a6e897c13_becchi.avif\")",
+  "link-block-9-href-3": "/en/success-stories/becchi-innovorder",
+  "title-cs-3": "Becchi on why digital is essential in fast food",
+  "company-name-cs-3": "Becchi",
+  "label-category-card-3": "Independent",
+  "arrow-block-blog-href-3": "/en/success-stories/becchi-innovorder"
+ }
+}

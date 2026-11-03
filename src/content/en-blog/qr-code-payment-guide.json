@@ -1,0 +1,101 @@
+{
+ "slug": "qr-code-payment-guide",
+ "seo": {
+  "title": "QR code payment: how does it work?",
+  "description": "Find out all about QR code payment for restaurants. How it works, its advantages and how to set it up.",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/65cb7fa7bc024be57dee5e20_iStock-1369508504.jpg",
+  "lang": "en",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc01",
+   "data-wf-collection": "6493777d655aea5e6643cb6c",
+   "data-wf-item-slug": "guide-paiements-qr-code",
+   "data-wg-translated": "en"
+  },
+  "bodyClass": "body",
+  "bodyAttrs": {
+   "ph-category": "blog"
+  },
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.innovorder.com/en/blog/qr-code-payment-guide\"},\"headline\":\"Le guide des paiements par QR code\",\"description\":\"Find out all about QR code payment for restaurants. How it works, its advantages and how to set it up.\",\"image\":\"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/65cb7fa7bc024be57dee5e20_iStock-1369508504.jpg\",\"author\":{\"@type\":\"Person\",\"name\":\"Chloé Thévenet\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Innovorder\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.9\",\"reviewCount\":\"550\",\"bestRating\":\"5\",\"worstRating\":\"1\"}},\"datePublished\":\"12 février 2024\",\"dateModified\":\"\",\"articleSection\":\"Développer son activité\",\"timeRequired\":\"4\"}</script>",
+  "field-script-2": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/blog/guide-paiements-qr-code\",\"en\":\"https://www.innovorder.com/en/blog/qr-code-payment-guide\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/blog/guide-paiements-qr-code\",\"originalPath\":\"/blog/guide-paiements-qr-code\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/blog/guide-paiements-qr-code",
+  "link-href-2": "https://www.innovorder.com/en/blog/qr-code-payment-guide",
+  "breadcrumb-text-href": "/en/categories/digital-transformation-restoration",
+  "breadcrumb-text": "Expanding your business",
+  "breadcrumb-text-href-2": "/en/blog/qr-code-payment-guide",
+  "breadcrumb-text-2": "QR code payment guide",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/65cb7fa7bc024be57dee5e20_iStock-1369508504.jpg",
+  "current-post-image-alt": "",
+  "current-post-image-sizes": "100vw",
+  "current-post-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/65cb7fa7bc024be57dee5e20_iStock-1369508504-p-500.jpg 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/65cb7fa7bc024be57dee5e20_iStock-1369508504-p-800.jpg 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/65cb7fa7bc024be57dee5e20_iStock-1369508504-p-1080.jpg 1080w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/65cb7fa7bc024be57dee5e20_iStock-1369508504.jpg 1254w",
+  "category-name-current-post": "Expanding your business",
+  "read-time-txt-class": "read-time-txt",
+  "read-time-txt-html": "4",
+  "title-post": "QR code payment guide",
+  "author-post-class": "author-post",
+  "author-post-html": "Chloé Thévenet",
+  "date-post-text": "04 December 2024",
+  "rt-blog-html": "\n          <p>In today's fast-paced digital age, restaurants need to adapt to offer the <strong>best possible customer experience</strong>. Digital payment by QR code represents this innovation, transforming every table into an autonomous ordering and payment point.&nbsp;</p>\n          <p>This change not only brings an attractive modernity to the establishment, but also significantly improves <strong>efficiency and the customer experience</strong>.</p>\n          <p>‍</p>\n          <h2>Payment by QR code</h2>\n          <h3>The evolution of digital payments</h3>\n          <p>Since the advent of credit cards, payment systems have come a long way. Now, with the rise of smartphones, digital payments are gaining ground. In the restaurant sector, this evolution takes the form of QR code payments.&nbsp;</p>\n          <p>This method not only follows the <strong>trend towards digitalization</strong>, but also responds to a growing demand for speed and ease in the dining experience.</p>\n          <p>👉 Going further: <a href=\"/en/blog/payment-at-table-restaurant\">everything you need to know about paying at the table in your restaurant</a></p>\n          <p>‍</p>\n          <h2>How QR code payment works</h2>\n          <p>The principle is simple: a <strong>unique QR code</strong> is assigned to each table. When guests scan this code with their smartphone, they are redirected to an interactive menu where they can place their order.&nbsp;</p>\n          <p>Once the order has been finalized, payment can also be made via the same system. This method eliminates the need for physical interaction to place an order or pay, making the process much faster and smoother.</p>\n          <p>👉 Find <a href=\"/en/blog/qr-codes-for-restaurants\">out why you should use QR codes in your restaurant</a></p>\n          <h3>Payment processes from the customer's and restaurant's point of view</h3>\n          <p>For the guest, this system offers unrivalled convenience: no need to wait for the waiter to place an order or ask for the bill!</p>\n          <p>Everything is done at the customer's pace, increasing their autonomy and satisfaction. </p>\n          <p>For the restaurant, this means <strong>fewer ordering errors</strong>, better management of waiter time and faster table rotation.&nbsp;</p>\n          <p>What's more, the integration of this system with the KDS (Kitchen Display System) ensures <strong>perfect synchronization</strong> between order-taking and kitchen preparation.</p>\n          <figure style=\"max-width:1397px\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\">\n            <div><img alt=\"Payment via QR code\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/675028db016d572bd3723fb8_65cb8100b73b4a5eb6894b4a_iStock-1420389263.avif\" loading=\"lazy\"></div>\n          </figure>\n          <p>‍</p>\n          <h2>3 benefits of QR code payment for restaurants</h2>\n          <h3>1. Operational efficiency</h3>\n          <p><strong>Payment by QR code</strong> radically transforms the operational efficiency of restaurants. With dematerialized order management, errors are reduced and service speed is increased. This not only enables more customers to be served during peak hours, but also ensures a consistent, reliable user experience.&nbsp;</p>\n          <p>Your waiters can concentrate on greeting and serving customers, rather than taking and paying for orders, optimizing staff allocation and customer satisfaction.</p>\n          <p>👉For more: <a href=\"/en/blog/client-experience-restaurant\">discover how to improve the customer experience in your restaurant</a></p>\n          <h3>2. Improved customer experience</h3>\n          <p>The use of QR codes for ordering and payment greatly enhances the customer experience.&nbsp;</p>\n          <p>Diners appreciate the <strong>convenience and speed</strong>, allowing them to order at their own pace without waiting for a waiter.</p>\n          <h3>3. Transaction security</h3>\n          <p><strong>QR code transactions</strong> offer a high level of security. Data is encrypted and transmitted securely, ensuring the protection of customers' personal and banking information.&nbsp;</p>\n          <p>‍</p>\n          <h2>Future prospects for QR code payments in the foodservice sector</h2>\n          <p>The future of QR code payments in the foodservice industry looks bright. With ongoing technological advances and increasing consumer acceptance, this payment method is likely to become even more <strong>widespread and innovative</strong>.&nbsp;</p>\n          <p>Restaurants adopting this technology today are <strong>pioneering an era of modern, efficient catering</strong>.</p>\n          <p>👉 To find out more: <a href=\"/en/blog/restaurant-trends-2023\">10 must-know restaurant trends</a></p>\n          <p>‍</p>\n          <h2>How do you set up a QR code payment system in your restaurant? </h2>\n          <p>It's so simple!</p>\n          <p>You choose a tabletop ordering and payment solution like Innovorder's, which will take care of configuring and synchronizing the solution.</p>\n          <figure style=\"max-width:2080px\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\"><a href=\"/en/ebook/commande-a-table-via-qr-code-le-guide-ultime\" target=\"_blank\" class=\"w-inline-block\">\n              <div><img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66c34dfe13f8683cc0bd61f5_65ae7380feebb66f6d479517_Bannie%25CC%2580re%2520Blog%2520-%2520%2520click%2520%2526%2520serve.avif\" loading=\"lazy\" alt></div>\n            </a></figure>\n          <p><a href=\"/en/order-at-table-system\">Innovorder Click &amp;</a> Serve not only enables <strong>table orders</strong> to be placed via a simple QR code scan, but also integrates seamlessly with the restaurant's cash register system. In this way, it facilitates order management from the kitchen to the table, ensuring greater efficiency and guest satisfaction.</p>\n          <p>Once you've chosen a service provider, you can have your QR codes printed and displayed on your tables!</p>\n          <p>-</p>\n          <p>Would you like to install a QR code ordering and payment solution for your restaurant to expand your business and boost productivity? Contact a restaurant expert today!</p>\n        ",
+  "div-class": "w-condition-invisible",
+  "right-head-class": "right-head interesting-art",
+  "div-role": "list",
+  "div-class-2": "w-dyn-items",
+  "div-role-2": "listitem",
+  "div-class-3": "w-dyn-item",
+  "div-html": "<a href=\"/en/blog/create-digital-menu-qr-code-restaurant\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/65a8f2fd1fa1d3ee6ebe4d4f_iStock-1909644100.jpg\" sizes=\"(max-width: 479px) 100vw, 262px\" srcset=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/65a8f2fd1fa1d3ee6ebe4d4f_iStock-1909644100-p-500.jpg 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/65a8f2fd1fa1d3ee6ebe4d4f_iStock-1909644100-p-800.jpg 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/65a8f2fd1fa1d3ee6ebe4d4f_iStock-1909644100-p-1080.jpg 1080w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/65a8f2fd1fa1d3ee6ebe4d4f_iStock-1909644100.jpg 1254w\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Why create a digital QR code menu for your restaurant?</div>\n                  <div class=\"interesting-articles-category\">Expanding your business</div>\n                </div>\n              </a>",
+  "div-role-3": "list",
+  "div-class-4": "w-dyn-items",
+  "div-role-4": "listitem",
+  "div-class-5": "w-dyn-item",
+  "div-html-2": "<a href=\"/en/blog/qr-codes-for-restaurants\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01db63919a8291cccaf8_63f501f3fcfc59c7861a018f_Scan%2520QR%2520Code%2520Miniature.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Why adopt the QR code in your restaurant?</div>\n                  <div class=\"interesting-articles-category\">Expanding your business</div>\n                </div>\n              </a>",
+  "div-role-5": "list",
+  "div-class-6": "w-dyn-items",
+  "div-role-6": "listitem",
+  "div-class-7": "w-dyn-item",
+  "div-html-3": "<a href=\"/en/blog/payment-at-table-restaurant\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/65843df01dee59cb5a6204cb_iStock-1414744533.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Everything you need to know about paying at the table in your restaurant</div>\n                  <div class=\"interesting-articles-category\">Expanding your business</div>\n                </div>\n              </a>",
+  "slider-mobile-blog-class": "slider-mobile-blog w-slider",
+  "div-role-7": "list",
+  "div-class-8": "w-dyn-items",
+  "div-role-8": "listitem",
+  "div-class-9": "w-dyn-item",
+  "div-html-4": "<a href=\"/en/blog/create-digital-menu-qr-code-restaurant\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/65a8f2fd1fa1d3ee6ebe4d4f_iStock-1909644100.jpg\" sizes=\"(max-width: 479px) 100vw, 262px\" srcset=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/65a8f2fd1fa1d3ee6ebe4d4f_iStock-1909644100-p-500.jpg 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/65a8f2fd1fa1d3ee6ebe4d4f_iStock-1909644100-p-800.jpg 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/65a8f2fd1fa1d3ee6ebe4d4f_iStock-1909644100-p-1080.jpg 1080w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/65a8f2fd1fa1d3ee6ebe4d4f_iStock-1909644100.jpg 1254w\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Why create a digital QR code menu for your restaurant?</div>\n                  <div class=\"interesting-articles-category\">Expanding your business</div>\n                </div>\n              </a>",
+  "div-role-9": "list",
+  "div-class-10": "w-dyn-items",
+  "div-role-10": "listitem",
+  "div-class-11": "w-dyn-item",
+  "div-html-5": "<a href=\"/en/blog/qr-codes-for-restaurants\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01db63919a8291cccaf8_63f501f3fcfc59c7861a018f_Scan%2520QR%2520Code%2520Miniature.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Why adopt the QR code in your restaurant?</div>\n                  <div class=\"interesting-articles-category\">Expanding your business</div>\n                </div>\n              </a>",
+  "div-role-11": "list",
+  "div-class-12": "w-dyn-items",
+  "div-role-12": "listitem",
+  "div-class-13": "w-dyn-item",
+  "div-html-6": "<a href=\"/en/blog/payment-at-table-restaurant\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/65843df01dee59cb5a6204cb_iStock-1414744533.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Everything you need to know about paying at the table in your restaurant</div>\n                  <div class=\"interesting-articles-category\">Expanding your business</div>\n                </div>\n              </a>",
+  "tail:field-script": "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.innovorder.com/en/blog/qr-code-payment-guide\"},\"headline\":\"Le guide des paiements par QR code\",\"description\":\"Find out all about QR code payment for restaurants. How it works, its advantages and how to set it up.\",\"image\":\"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/65cb7fb5a815757a9b9fa9ed_iStock-1369508504.jpg\",\"author\":{\"@type\":\"\",\"name\":\"Chloé Thévenet\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Innovorder\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"}},\"datePublished\":\"12 février 2024\"}</script>"
+ }
+}

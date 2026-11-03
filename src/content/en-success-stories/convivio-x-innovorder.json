@@ -1,0 +1,87 @@
+{
+ "slug": "convivio-x-innovorder",
+ "seo": {
+  "title": "Success Story - Convivio x Innovorder",
+  "description": "Convivio is the leading independent family-owned restaurant group in the western third of France. The group is recognized for its ability to adapt to customer requirements and for the strong reactivity of its field teams. For more than 35 years, the values are defended with pride, in the plate but also in the relations woven with all its stakeholders.",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f2fcfc5920f919fe80_convivio.avif",
+  "lang": "en",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc30",
+   "data-wf-collection": "6493777d655aea5e6643cb6a",
+   "data-wf-item-slug": "convivio-x-innovorder",
+   "data-wg-translated": "en"
+  },
+  "bodyClass": "body",
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/success-stories/convivio-x-innovorder\",\"en\":\"https://www.innovorder.com/en/success-stories/convivio-x-innovorder\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/success-stories/convivio-x-innovorder\",\"originalPath\":\"/success-stories/convivio-x-innovorder\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/success-stories/convivio-x-innovorder",
+  "link-href-2": "https://www.innovorder.com/en/success-stories/convivio-x-innovorder",
+  "title-post": "Convivio x Innovorder",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f2fcfc5920f919fe80_convivio.avif",
+  "current-post-image-sizes": "100vw",
+  "current-post-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f2fcfc5920f919fe80_UseCase_Convivio2-e1562774879188-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f2fcfc5920f919fe80_UseCase_Convivio2-e1562774879188-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f2fcfc5920f919fe80_UseCase_Convivio2-e1562774879188-p-1080.avif 1080w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f2fcfc5920f919fe80_UseCase_Convivio2-e1562774879188-p-1600.avif 1600w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f2fcfc5920f919fe80_convivio.avif 2953w",
+  "company-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5981011a0237_convivio.avif\")",
+  "title-post-2": "Convivio x Innovorder",
+  "rt-blog-html": "\n          <h3>01. The context</h3>\n          <p><strong>Definition of the need</strong></p>\n          <p>Convivio is the leading independent family-owned restaurant group in the western third of France. The group is recognized for its ability to adapt to customer requirements and for the strong reactivity of its field teams. For more than 35 years, the values are defended with pride, in the plate but also in the relations woven with all its stakeholders.</p>\n          <p>Today, it is developing around <strong>authentic and responsible values, such as cooking, proximity and conviviality</strong>. One of its particularities is its ambition to <strong>develop a spirit of partnership with its customers</strong>.</p>\n          <p>Faced with increased competition in this <a href=\"/en/blog/restaurant-trends-2023\"><strong>catering sector</strong></a>In response to increasing competition in the catering sector, the company opted for an <strong>innovative offer to renew its contract with a secondary school</strong> in Yvelines. This vision has been realized with the opening of a 3.0 cafeteria built on a global solution including payment,<a href=\"/en/blog/guide-self-ordering-kiosk-fast-food-restaurant\"> <strong>order terminal</strong></a>click and collect<strong>,</strong> and smartphone payment.</p>\n          <p><br></p>\n          <h3>02. Their main issue</h3>\n          <p><strong>Strategic dimension</strong></p>\n          <p><strong>Find collaborators and partners who are actors of this digital transformation</strong></p>\n          <p>The group is constantly looking for HR resources to develop its offer and remain at the forefront of innovation. Convivio encourages its employees to constantly evolve by offering them <strong>internal training</strong> to participate in the company's performance.</p>\n          <p>If Convivio relies on the satisfaction of its employees to develop, it also seeks to satisfy its customers by integrating a <strong>high degree of digital</strong> in its offer. Such a system relies on tools that guarantee a <strong>close relationship</strong>. In this context, Innovorder has emerged as a valuable partner for the digital transformation of catering outlets.</p>\n          <p>‍</p>\n          <h3>03. Give priority to the human dimension</h3>\n          <p><strong>Thinking about digital transformation</strong></p>\n          <p>Convivio and Innovorder agree on the<strong>importance of the human</strong> element in their professional relationship. Both wish to develop a spirit of partnership by making <strong>trust</strong> the pillar of this collaboration.</p>\n          <p>To develop a customized solution with high added value for Convivio, Innovorder relies on the<strong>agility of its teams</strong>. It designs digital solutions with great adaptability, which is made possible by their <strong>attentiveness</strong>, their <strong>proximity</strong> and their <strong>responsiveness</strong>.</p>\n          <p>\"Innovorder is a global solution that meets the multiple and specific expectations of its customers, and which, I believe, knows how to challenge itself to evolve its solutions\" - <strong>Hugues Maeyaert, General Manager of Convivio's On-site &amp; Event Catering</strong>.</p>\n          <figure style=\"max-width:1178pxpx\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\">\n            <div><img loading=\"lazy\" alt src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f2fcfc59616819fe4c_UseCase_Convivio4-e1562774602849.jpeg\"></div>\n          </figure>\n          <h4><strong>What were the issues and challenges of Convivio?</strong></h4>\n          <p>Convivio had to face a <strong>technical challenge</strong>. The school in Yvelines was equipped with an accounting software to which Convivio had to adapt to avoid double entries. The desired system, including ordering terminals for the guests and production monitoring tools in the kitchen, required a <em>front office/back office</em> package that could be coupled with the school's technical catalog.</p>\n          <p><br></p>\n          <h4><strong>Why did you choose Innovorder?</strong></h4>\n          <p>For <a href=\"https://www.convivio.fr/\" target=\"_blank\">Convivio</a>, Innovorder's global offer was a <strong>differentiating factor in the tender</strong>. Its <strong>modularity</strong>, <strong>customization</strong> and <strong>speed of deployment</strong> were key factors that were highly appreciated.</p>\n          <p>But it is especially<strong>Innovorder's ability to counter the solutions developed by historical software editors</strong> that seduced Convivio. Indeed, the groups of <a href=\"/en/blog/collective-catering-losses-waste-management\"><strong>catering groups</strong></a> feel more and more \"trapped\" by the major cash register players. That's why they like the <strong>ability</strong> of growing startups to <strong data-wg-splitted>renew themselves</strong>!</p>\n          <p>Proof of Convivio's satisfaction: the group continues to call on Innovorder for its tenders, especially when it is considering an innovative digital offering.</p>\n          <p>\"We are now satisfied with the solution we have developed, not only in terms of responsiveness but also in terms of support\" - <strong>Hugues Maeyaert, Managing Director of Convivio's On-site &amp; Event Catering</strong>.</p>\n          <p>‍</p>\n          <figure style=\"max-width:1466pxpx\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\">\n            <div><img loading=\"lazy\" alt src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc594c7f19ffa4_UseCase_Convivio3-e1562774654877.jpeg\"></div>\n          </figure>\n          <p>‍</p>\n        ",
+  "right-head": "Convivio",
+  "bozzolo-cat": "Collective catering",
+  "div-html": "\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/en/point-of-sales-restaurant\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc596eea1a0225_Portefeuille-2.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Cash register</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/en/self-ordering-kiosk\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5975dd1a0229_Borne%20de%20commande.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Self Ordering Kiosk</div>\n                    </a></div>\n                ",
+  "image-thumb-3x-href": "/en/success-stories/11h59-innovorder",
+  "bg-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5937cc1a01f2_iStock-1407282999.avif",
+  "bg-image-sizes": "(max-width: 767px) 100vw, 800px",
+  "bg-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5937cc1a01f2_iStock-1407282999-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5937cc1a01f2_iStock-1407282999.avif 1254w",
+  "company-img-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5989d21a022c_image.avif\")",
+  "link-block-9-href": "/en/success-stories/11h59-innovorder",
+  "title-cs": "Why 11H59 chooses Innovorder to respond to its calls for tender",
+  "company-name-cs": "11H59",
+  "label-category-card": "Collective catering",
+  "arrow-block-blog-href": "/en/success-stories/11h59-innovorder",
+  "image-thumb-3x-href-2": "/en/success-stories/elior-x-innovorder",
+  "bg-image-src-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f2fcfc59cb0119fef2_Elior.avif",
+  "bg-image-sizes-2": "100vw",
+  "bg-image-srcset-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f2fcfc59cb0119fef2_weeky-connect-mobile-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f2fcfc59cb0119fef2_Elior.avif 800w",
+  "company-img-logo-style-2": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc591c481a0238_elior%20logo.avif\")",
+  "link-block-9-href-2": "/en/success-stories/elior-x-innovorder",
+  "title-cs-2": "Elior x Innovorder",
+  "company-name-cs-2": "Elior",
+  "label-category-card-2": "Collective catering",
+  "arrow-block-blog-href-2": "/en/success-stories/elior-x-innovorder",
+  "image-thumb-3x-href-3": "/en/success-stories/saintconde-x-innovorder",
+  "bg-image-src-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59b22619ff4f_saint%20conde.avif",
+  "bg-image-sizes-3": "(max-width: 479px) 100vw, (max-width: 991px) 95vw, (max-width: 1439px) 30vw, 403.3203125px",
+  "bg-image-srcset-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59b22619ff4f_valeurs_saint_conde_traiteur-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59b22619ff4f_saint%20conde.avif 1000w",
+  "company-img-logo-style-3": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59ceb21a0239_saint%20conde.avif\")",
+  "link-block-9-href-3": "/en/success-stories/saintconde-x-innovorder",
+  "title-cs-3": "Saint Condé x Innovorder ",
+  "company-name-cs-3": "Saint Condé",
+  "label-category-card-3": "Collective catering",
+  "arrow-block-blog-href-3": "/en/success-stories/saintconde-x-innovorder"
+ }
+}

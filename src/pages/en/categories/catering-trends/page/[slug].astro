@@ -1,0 +1,1926 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import NavbarEn from '@/components/NavbarEn.astro';
+import FooterEn from '@/components/FooterEn.astro';
+
+export async function getStaticPaths() {
+  const entries = await getCollection("en-categories-catering-trends-page");
+  return entries.map((entry) => ({ params: { slug: entry.data.slug }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+// Champs variables de la page (texte, attributs, fragments HTML), issus du CMS Webflow.
+const d = entry.data.fields;
+---
+<BaseLayout {...entry.data.seo}>
+  <Fragment slot="head">
+    <!-- Weglot -->
+    <Fragment set:html={d["head:field-script"]} />
+    <!-- [Attributes by Finsweet] CMS Filter -->
+    <script async src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-cmsfilter@1/cmsfilter.js" is:inline></script>
+    <!-- [Attributes by Finsweet] CMS Sort -->
+    <script async src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-cmssort@1/cmssort.js" is:inline></script>
+    <!-- [Attributes by Finsweet] CMS Load -->
+    <script async src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-cmsload@1/cmsload.js" is:inline></script>
+    <style is:inline>
+    /* Kill the blink/flickering */
+    .grid-featured, .featured-blog-text-wrap, {
+        -webkit-backface-visibility: hidden;
+        -webkit-transform: translateZ(0) scale(1.0, 1.0);
+        transform: translateZ(0);
+    }
+    </style>
+    <link href={d["head:link-href"]} hreflang="fr" rel="alternate">
+    <link href={d["link-href-2"]} hreflang="en" rel="alternate">
+  </Fragment>
+  <div class="gtm-embed w-embed"></div>
+  <div data-animation="default" class="navbar-fix-2 w-nav" data-easing2="ease" data-easing="ease" data-collapse="medium" data-w-id="4a99b083-0ad0-61ac-2513-827a15531d30" role="banner" data-no-scroll="1" data-duration="400">
+    <div class="topbar-ebook">
+      <div class="top-banner-wrapper">
+        <div class="top-cta-banner-text">🤖 The Future of the Restaurant Industry in 2030: 25 Experts and Executives Share Their Vision.</div>
+        <a href="/en/ebook/restauration-2030-le-guide-pour-comprendre-anticiper-et-piloter-son-reseau?utm_medium=website&amp;utm_source=bandeau_homepage&amp;utm_campaign=restauration_2030_juin" target="_blank" class="button-white-top-banner-2 w-inline-block">
+          <div id="w-node-_4a99b083-0ad0-61ac-2513-827a15531d38-15531d30" class="text-inner-button-banner-2"><span>👉 Download our white paper</span></div>
+        </a>
+      </div>
+    </div>
+    <div class="navbar-container">
+      <a href="/en" ph-button_name="navigation" class="brand w-nav-brand"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg" width="268" alt loading="lazy" class="logo-navbar desktop"></a>
+      <div class="navbar-functions-center">
+        <nav role="navigation" class="nav-menu-center-2 w-nav-menu">
+          <div class="gtm-embed w-embed"></div>
+          <div class="w-layout-grid nav-menu-wrapper-2">
+            <div class="w-layout-grid nav-grid-no-gap space">
+              <div class="nav-dropdown-wrapper-2">
+                <div data-hover="true" data-delay="0" class="nav-dropdown-2 w-dropdown">
+                  <div class="dropdown-toggle-nav-2 w-dropdown-toggle">
+                    <div class="dropdown-title">Solutions</div>
+                  </div>
+                  <nav class="dropdown-list-nav-2 w-dropdown-list">
+                    <div class="w-layout-grid nav-product-grid-2 _5">
+                      <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c93090eec-15531d30" class="w-layout-grid nav-v-grid-2-column">
+                        <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c93090eed-15531d30" class="column-nav-inner-wrap solutions">
+                          <div class="column-nav">
+                            <div class="title-nav">Order taking</div>
+                            <div class="gradient-spacer menu"></div>
+                          </div>
+                          <a href="/en/self-ordering-kiosk" class="nav-link-with-icon prise-hover w-inline-block">
+                            <div class="icon-link-nav">
+                              <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59266619fe08_Borne%20de%20commande.webp" loading="lazy" width="26" alt class="icon-navigation">
+                              <div>
+                                <div class="nav-menu-title">Self Ordering Kiosk</div>
+                                <div class="nav-menu-text-2">Simplify the ordering process</div>
+                              </div>
+                            </div>
+                          </a>
+                          <a href="/en/pad-de-commande" class="nav-link-with-icon prise-hover w-inline-block">
+                            <div class="icon-link-nav">
+                              <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6ab668266294f087c3ce0ac4_f154054e1c067182a33787f6b0149d05_Pad%20de%20Commande.avif" loading="lazy" width="26" alt class="icon-navigation">
+                              <div>
+                                <div class="title-label-wrap">
+                                  <div class="nav-menu-title">Control Pad</div>
+                                  <div class="new-label _1">
+                                    <div>New</div>
+                                  </div>
+                                </div>
+                                <div class="nav-menu-text-2">Place your order right at your table</div>
+                              </div>
+                            </div>
+                          </a>
+                          <a href="/en/online-ordering-for-restaurant" class="nav-link-with-icon prise-hover w-inline-block">
+                            <div class="icon-link-nav">
+                              <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59fd6419fe0f_Commande%20en%20ligne.webp" loading="lazy" width="26" alt class="icon-navigation">
+                              <div>
+                                <div class="nav-menu-title">Online Ordering</div>
+                                <div class="nav-menu-text-2">Increase your order volume<br></div>
+                              </div>
+                            </div>
+                          </a>
+                          <a href="/en/tray-scan" class="nav-link-with-icon prise-hover relative w-inline-block">
+                            <div class="icon-link-nav relative">
+                              <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59280e19fe15_Scan%20plateau.webp" loading="lazy" width="26" alt class="icon-navigation">
+                              <div>
+                                <div class="title-label-wrap">
+                                  <div class="nav-menu-title">Tray Scan IA</div>
+                                </div>
+                                <div class="nav-menu-text-2">Eliminate lines</div>
+                              </div>
+                            </div>
+                          </a>
+                          <a href="/en/order-at-table-system" class="nav-link-with-icon prise-hover relative w-inline-block">
+                            <div class="icon-link-nav relative">
+                              <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f3fcfc597cd819ffae_Commande%20%C3%A0%20table.webp" loading="lazy" width="26" sizes="100vw" alt srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f3fcfc597cd819ffae_Commande%2520%25C3%25A0%2520table-p-500.png 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f3fcfc597cd819ffae_Commande%20%C3%A0%20table.webp 1250w" class="icon-navigation">
+                              <div>
+                                <div class="title-label-wrap">
+                                  <div class="nav-menu-title"><strong>Order at the table</strong></div>
+                                </div>
+                                <div class="nav-menu-text-2">Increase productivity</div>
+                              </div>
+                            </div>
+                          </a>
+                          <a href="/en/connected-fridges" class="nav-link-with-icon prise-hover w-inline-block">
+                            <div class="icon-link-nav">
+                              <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5919fc19fdf7_Frigo%20connect%C3%A9.webp" loading="lazy" width="26" alt class="icon-navigation">
+                              <div>
+                                <div class="nav-menu-title">Connected fridge</div>
+                                <div class="nav-menu-text-2">Offer a catering service 7 days a week, 24 hours a day</div>
+                              </div>
+                            </div>
+                          </a>
+                          <a href="/en/innovorder-foodcourt" class="nav-link-with-icon prise-hover w-inline-block">
+                            <div class="icon-link-nav relative">
+                              <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/65bfcb6a02bd16dc44950608_065e8cdf795b125138eaf4af5f5b33a1_Frigo%20connecte%CC%81.avif" loading="lazy" width="26" alt class="icon-navigation">
+                              <div>
+                                <div class="nav-menu-title">Innovorder Foodcourt</div>
+                                <div class="nav-menu-text-2">Reinvent the customer experience</div>
+                              </div>
+                            </div>
+                          </a>
+                        </div>
+                      </div>
+                      <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c93090f23-15531d30" class="w-layout-grid nav-v-grid-2-column">
+                        <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c93090f24-15531d30" class="column-nav-inner-wrap solutions">
+                          <div class="column-nav">
+                            <div class="title-nav">Collection</div>
+                            <div class="gradient-spacer menu"></div>
+                          </div>
+                          <a href="/en/restaurant-touch-cash-register" class="nav-link-with-icon encaissement-hover w-inline-block">
+                            <div class="icon-link-nav">
+                              <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5984c219fe07_Portefeuille-2.webp" loading="lazy" width="26" alt class="icon-navigation">
+                              <div>
+                                <div class="nav-menu-title">Cash register</div>
+                                <div class="nav-menu-text-2">Control your business at your fingertips<br></div>
+                              </div>
+                            </div>
+                          </a>
+                          <a href="/en/automated-cash-recycling-system" class="nav-link-with-icon encaissement-hover w-inline-block">
+                            <div class="icon-link-nav">
+                              <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc595d7d19fe0b_Monnayeur.webp" loading="lazy" width="26" alt class="icon-navigation">
+                              <div>
+                                <div class="nav-menu-title">Automatic coin acceptor</div>
+                                <div class="nav-menu-text-2">Save time on cash payments</div>
+                              </div>
+                            </div>
+                          </a>
+                          <a href="/en/e-wallet" class="nav-link-with-icon encaissement-hover w-inline-block">
+                            <div class="icon-link-nav">
+                              <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5993cd19fe9d_Portefeuille%20%C3%A9lectronique.webp" loading="lazy" width="26" alt="E-wallet" class="icon-navigation">
+                              <div>
+                                <div class="nav-menu-title">E-wallet</div>
+                                <div class="nav-menu-text-2">Modernize the use of the guest badge</div>
+                              </div>
+                            </div>
+                          </a>
+                          <a href="/en/io-pay" class="nav-link-with-icon encaissement-hover w-inline-block">
+                            <div class="icon-link-nav relative">
+                              <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f3fcfc59536319ffaf_IOpay.webp" loading="lazy" width="26" alt="io pay" class="icon-navigation">
+                              <div>
+                                <div class="title-label-wrap">
+                                  <div class="nav-menu-title bold">Innovorder Pay</div>
+                                  <div class="new-label _1">
+                                    <div>New</div>
+                                  </div>
+                                </div>
+                                <div class="nav-menu-text-2">Payment made easy</div>
+                              </div>
+                            </div>
+                          </a>
+                          <a href="/en/tpe-restaurant" class="nav-link-with-icon encaissement-hover w-inline-block">
+                            <div class="icon-link-nav relative">
+                              <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/692ed70609f8edf0b0d2ff0b_Icons_NFC%201.avif" loading="lazy" width="26" alt="very small enterprise" class="icon-navigation">
+                              <div>
+                                <div class="title-label-wrap">
+                                  <div class="nav-menu-title bold">very small enterprise</div>
+                                </div>
+                                <div class="nav-menu-text-2">Collect payments quickly and without errors</div>
+                              </div>
+                            </div>
+                          </a>
+                        </div>
+                      </div>
+                      <div id="w-node-_1247b359-1103-5983-40cb-a96f89520ee1-15531d30" class="right-grids-col">
+                        <div class="w-layout-grid nav-v-grid-2-column">
+                          <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c93090f4f-15531d30" class="column-nav-inner-wrap solutions">
+                            <div class="column-nav">
+                              <div class="title-nav">Preparation</div>
+                              <div class="gradient-spacer menu"></div>
+                            </div>
+                            <a href="/en/kitchen-display-system" class="nav-link-with-icon preparation-hover w-inline-block">
+                              <div class="icon-link-nav">
+                                <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59591219fe0d_%C3%A9cran%20de%20production.webp" loading="lazy" width="26" alt class="icon-navigation">
+                                <div>
+                                  <div class="nav-menu-title">Kitchen Display System</div>
+                                  <div class="nav-menu-text-2">Boost your productivity in the kitchen</div>
+                                </div>
+                              </div>
+                            </a>
+                            <a href="/en/order-display-system" class="nav-link-with-icon preparation-hover w-inline-block">
+                              <div class="icon-link-nav">
+                                <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f3fcfc593cae19ff43_ecran-client.png" loading="lazy" width="26" alt class="icon-navigation">
+                                <div>
+                                  <div class="nav-menu-title">Client screen</div>
+                                  <div class="nav-menu-text-2">Communicate with your customers and delivery people</div>
+                                </div>
+                              </div>
+                            </a>
+                            <a href="/en/reception" class="nav-link-with-icon preparation-hover w-inline-block">
+                              <div class="icon-link-nav">
+                                <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f3fcfc593a8019ff44_reception.png" loading="lazy" width="26" alt class="icon-navigation small">
+                                <div>
+                                  <div class="nav-menu-title">Reception</div>
+                                  <div class="nav-menu-text-2">Optimize your order management</div>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                        <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c93090f6c-15531d30" class="w-layout-grid nav-v-grid-2-column">
+                          <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c93090f6d-15531d30" class="column-nav-inner-wrap solutions">
+                            <div class="column-nav">
+                              <div class="title-nav">Steering</div>
+                              <div class="gradient-spacer menu"></div>
+                            </div>
+                            <a href="/en/logiciel-pilotage" class="nav-link-with-icon pilotage-hover w-inline-block">
+                              <div class="icon-link-nav">
+                                <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6a0de1817623b3bbf4de78ad_ic4.avif" loading="lazy" width="26" alt class="icon-navigation">
+                                <div>
+                                  <div class="nav-menu-title">Atlas</div>
+                                  <div class="nav-menu-text-2">Turn Your Data into Decisions</div>
+                                </div>
+                              </div>
+                            </a>
+                            <a href="/en/io-analytics" class="nav-link-with-icon pilotage-hover w-inline-block">
+                              <div class="icon-link-nav">
+                                <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/65bfca2614cbc515b25b7b48_Picto%20Lecteur%20Badge.avif" loading="lazy" width="26" alt class="icon-navigation">
+                                <div>
+                                  <div class="nav-menu-title">IO Analytics</div>
+                                  <div class="nav-menu-text-2">Increase your performance tenfold</div>
+                                </div>
+                              </div>
+                            </a>
+                            <a href="/en/restaurant-pos-software" class="nav-link-with-icon pilotage-hover w-inline-block">
+                              <div class="icon-link-nav">
+                                <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5921d219fe4e_Backoffice.webp" loading="lazy" width="26" alt class="icon-navigation">
+                                <div>
+                                  <div class="nav-menu-title">Back Office</div>
+                                  <div class="nav-menu-text-2">Easily set up your points of sale</div>
+                                </div>
+                              </div>
+                            </a>
+                            <a href="/en/loyalty-program-restaurant" class="nav-link-with-icon pilotage-hover w-inline-block">
+                              <div class="icon-link-nav">
+                                <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc595c5019fe54_Programme%20de%20fidelit%C3%A9.webp" loading="lazy" width="26" alt class="icon-navigation">
+                                <div>
+                                  <div class="nav-menu-title">Loyalty Program</div>
+                                  <div class="nav-menu-text-2">Keep your customers coming back</div>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                        <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c93090f8a-15531d30" class="w-layout-grid nav-v-grid-2-column">
+                          <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c93090f8b-15531d30" class="column-nav-inner-wrap solutions">
+                            <div class="column-nav">
+                              <div class="title-nav">Ecosystem</div>
+                              <div class="gradient-spacer menu"></div>
+                            </div>
+                            <a href="/en/integrations" class="nav-link-with-icon ecosysteme-hover w-inline-block">
+                              <div class="icon-link-nav">
+                                <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc593ed619fe55_Integration.webp" loading="lazy" width="26" alt class="icon-navigation">
+                                <div>
+                                  <div class="nav-menu-title">Integrations</div>
+                                  <div class="nav-menu-text-2">Connect your favorite solutions</div>
+                                </div>
+                              </div>
+                            </a>
+                            <a href="https://developers.innovorder.fr/" target="_blank" class="nav-link-with-icon ecosysteme-hover w-inline-block">
+                              <div class="icon-link-nav">
+                                <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc593b5e19fe53_developper%20API.webp" loading="lazy" width="26" alt class="icon-navigation">
+                                <div>
+                                  <div class="nav-menu-title">Developer API</div>
+                                  <div class="nav-menu-text-2">Create custom solutions</div>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                        <div id="w-node-bddfa5ab-bcc5-729e-d6fe-7b77fce058b4-15531d30" class="new-solution-pop-up">
+                          <a href="#" id="w-node-_7160510d-567f-fc4f-1b7b-5bf3f55c6228-15531d30" class="w-inline-block w-lightbox">
+                            <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/67717dad31f20da28d8b70d2_63346942300af91169c24171_Chicken%20Village%201.avif" loading="lazy" alt class="img-lightbox">
+                            <script type="application/json" class="w-json" is:inline>{
+    "items": [
+      {
+        "url": "https://www.youtube.com/watch?v=tssrOmPg_fQ&pp=ygUKaW5ub3ZvcmRlcg%3D%3D",
+        "originalUrl": "https://www.youtube.com/watch?v=tssrOmPg_fQ&pp=ygUKaW5ub3ZvcmRlcg%3D%3D",
+        "width": 940,
+        "height": 528,
+        "thumbnailUrl": "https://i.ytimg.com/vi/tssrOmPg_fQ/hqdefault.jpg",
+        "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FtssrOmPg_fQ%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtssrOmPg_fQ&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FtssrOmPg_fQ%2Fhqdefault.jpg&type=text%2Fhtml&schema=youtube\" width=\"940\" height=\"528\" scrolling=\"no\" title=\"YouTube embed\" frameborder=\"0\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"></iframe>",
+        "type": "video"
+      }
+    ],
+    "group": ""
+  }</script>
+                          </a>
+                          <div id="w-node-_8efeb25a-f915-7c25-f2d0-13b2a0b1265d-15531d30" class="col-new-solution-nav">
+                            <div class="text-solutions-wrap">
+                              <div class="text-20px"><strong>Discover our new 2nd generation flatbed scanner!</strong></div>
+                              <div>Transform your guests' experience with integrated payment from IA Scan.</div>
+                            </div>
+                            <a href="#" class="w-inline-block w-lightbox">
+                              <div class="button-lightbox">
+                                <div>Watch the video</div>
+                              </div>
+                              <script type="application/json" class="w-json" is:inline>{
+    "items": [
+      {
+        "url": "https://www.youtube.com/watch?v=tssrOmPg_fQ&pp=ygUKaW5ub3ZvcmRlcg%3D%3D",
+        "originalUrl": "https://www.youtube.com/watch?v=tssrOmPg_fQ&pp=ygUKaW5ub3ZvcmRlcg%3D%3D",
+        "width": 940,
+        "height": 528,
+        "thumbnailUrl": "https://i.ytimg.com/vi/tssrOmPg_fQ/hqdefault.jpg",
+        "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FtssrOmPg_fQ%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtssrOmPg_fQ&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FtssrOmPg_fQ%2Fhqdefault.jpg&type=text%2Fhtml&schema=youtube\" width=\"940\" height=\"528\" scrolling=\"no\" title=\"YouTube embed\" frameborder=\"0\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"></iframe>",
+        "type": "video"
+      }
+    ],
+    "group": ""
+  }</script>
+                            </a>
+                          </div>
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6418df12650d9714a7e8f9ad_new%20img.svg" loading="lazy" id="w-node-d4fda6b4-3db5-73b0-2d27-38372a7ab137-15531d30" alt class="new-label-solution">
+                        </div>
+                      </div>
+                    </div>
+                  </nav>
+                </div>
+              </div>
+              <div class="nav-dropdown-wrapper-2">
+                <div data-hover="true" data-delay="0" class="nav-dropdown-2 w-dropdown">
+                  <div class="dropdown-toggle-nav-2 w-dropdown-toggle">
+                    <div class="dropdown-title">Expertise</div>
+                  </div>
+                  <nav class="dropdown-list-nav-small-2 w-dropdown-list">
+                    <div class="expertises-navbar-grid">
+                      <div id="w-node-aa656673-4e6d-f708-e5ba-6807f13ce5a5-15531d30" class="block-1-ex-upper">
+                        <div class="nav-title-arrow"><a href="/en/collective-catering" class="link-nav">Collective catering</a><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6457afdea27d219b01a4dfe1_arrow-nav.png" loading="lazy" alt class="img-arrow-nav"></div>
+                        <div class="sub-nav-ex">Modernize your guest flows and simplify the management of your establishment.</div>
+                        <div class="gradient-spacer-nav"></div>
+                      </div>
+                      <div class="spacer-grid"></div>
+                      <div id="w-node-_0f43510f-c4c4-4d60-2566-a95d08876b04-15531d30" class="block-1-ex-upper">
+                        <div class="nav-title-arrow"><a href="/en/commercial-catering" class="link-nav">Commercial catering</a><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6457afdea27d219b01a4dfe1_arrow-nav.png" loading="lazy" alt class="img-arrow-nav"></div>
+                        <div class="sub-nav-ex">Boost your average basket, streamline your organization and build customer loyalty.</div>
+                        <div class="gradient-spacer-nav"></div>
+                      </div>
+                      <div class="spacer-grid"></div>
+                      <div id="w-node-d120f632-a309-5393-e30f-2021aec224f4-15531d30" class="block-1-ex-upper">
+                        <div class="nav-title-arrow">
+                          <div class="link-nav no-hov"><strong>Speciality</strong></div>
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6457afdea27d219b01a4dfe1_arrow-nav.png" loading="lazy" alt class="img-arrow-nav">
+                        </div>
+                        <div class="sub-nav-ex">Equip your point of sale with a tailor-made ecosystem, adapted to the specific needs of your business.</div>
+                        <div class="gradient-spacer-nav"></div>
+                      </div>
+                      <a id="w-node-_03b7b6c2-69d4-9142-94eb-67ce3204819c-15531d30" href="/en/collective-catering/healthcare" class="exp-inner-block collective-hov w-inline-block">
+                        <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5951ef19fef3_Sant%C3%A9.webp" loading="lazy" alt class="icon-navigation exp">
+                        <div>Health</div>
+                      </a>
+                      <a id="w-node-c8b3112d-8ab6-0950-2efc-da3916b60cc0-15531d30" href="/en/collective-catering/enterprise" class="exp-inner-block collective-hov w-inline-block">
+                        <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59bbdc19fef4_Entreprise.webp" loading="lazy" alt class="icon-navigation exp">
+                        <div>Company</div>
+                      </a>
+                      <div class="spacer-grid"></div>
+                      <a href="/en/commercial-catering/fast-food" class="exp-inner-block commerciale-hov w-inline-block">
+                        <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59e04d19fef6_Ind%C3%A9pendant.webp" loading="lazy" alt class="icon-navigation exp">
+                        <div>Fast food</div>
+                      </a>
+                      <a id="w-node-_889a5a6a-bda6-20c1-e24e-51597232e6b3-15531d30" href="/en/commercial-catering/food-court" class="exp-inner-block commerciale-hov w-inline-block">
+                        <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc593b1919fef7_Food%20Court.webp" loading="lazy" alt class="icon-navigation exp">
+                        <div>Food court</div>
+                      </a>
+                      <div class="spacer-grid"></div>
+                      <a id="w-node-_0cca9382-d50d-4fbd-f158-2fb539c6e52d-15531d30" href="/en/burger" class="exp-inner-block specialite-hov w-inline-block">
+                        <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/66cce82555a7785ee0abdf21_burger.avif" loading="lazy" alt class="icon-navigation exp">
+                        <div>Burger</div>
+                      </a>
+                      <a id="w-node-_4a240acc-216e-389e-27da-31c43e05f2c2-15531d30" href="/en/pizza" class="exp-inner-block specialite-hov w-inline-block">
+                        <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/66cce82507dc7509ff60acd3_pizza.avif" loading="lazy" alt class="icon-navigation exp">
+                        <div>Pizza</div>
+                      </a>
+                      <a id="w-node-d7752374-55d1-0a55-407a-0d4a77f62ea0-15531d30" href="/en/collective-catering/school" class="exp-inner-block collective-hov w-inline-block">
+                        <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5909e119fef5_Enseignement.webp" loading="lazy" alt class="icon-navigation exp">
+                        <div>Teaching</div>
+                      </a>
+                      <a id="w-node-_78636bf4-7bdb-4ad5-1108-180d722578e8-15531d30" href="/en/collective-catering/administration" class="exp-inner-block collective-hov w-inline-block">
+                        <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59046519fefb_Administration.webp" loading="lazy" alt class="icon-navigation exp">
+                        <div>Administration</div>
+                      </a>
+                      <div class="spacer-grid"></div>
+                      <a id="w-node-_6c7552c2-044d-c038-f984-ea0a12d368fb-15531d30" href="/en/commercial-catering/franchise" class="exp-inner-block commerciale-hov w-inline-block">
+                        <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59832f19fefa_Franchise.webp" loading="lazy" alt class="icon-navigation exp">
+                        <div>Franchise</div>
+                      </a>
+                      <a id="w-node-_84178b62-3f7c-6104-5fbc-7906c225202f-15531d30" href="/en/commercial-catering/dark-kitchen" class="exp-inner-block commerciale-hov w-inline-block">
+                        <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59b14519fef8_Dark%20Kitchen.webp" loading="lazy" alt class="icon-navigation exp">
+                        <div>Dark kitchen</div>
+                      </a>
+                      <div class="spacer-grid"></div>
+                      <a id="w-node-_8a10afe5-1f21-e096-7223-25d662a50afd-15531d30" href="/en/kebab" class="exp-inner-block specialite-hov w-inline-block">
+                        <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/66cce8253fcd6f165e232af1_kebab.avif" loading="lazy" alt class="icon-navigation exp">
+                        <div>Kebab</div>
+                      </a>
+                      <a id="w-node-ac5a0e04-890b-6703-1601-b38c4ad0186f-15531d30" href="/en/sandwich-shop" class="exp-inner-block specialite-hov w-inline-block">
+                        <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/66cce82531802d2f9c28a652_sandwicherie.avif" loading="lazy" alt class="icon-navigation exp">
+                        <div>Sandwich shop</div>
+                      </a>
+                      <div class="spacer-grid"></div>
+                      <a id="w-node-_67e0697b-ea4d-2429-dc93-47517380b36b-15531d30" href="/en/commercial-catering/bowling" class="exp-inner-block specialite-hov w-inline-block">
+                        <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/68849a705a22d0de5eccfdc4_BOWLING.avif" loading="lazy" alt class="icon-navigation exp">
+                        <div>Bowling</div>
+                      </a>
+                      <a id="w-node-f23bba0b-b18d-806a-14fa-d4882686fedd-15531d30" href="/en/commercial-catering/leisure-park" class="exp-inner-block specialite-hov w-inline-block">
+                        <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/68849a6d6dec5df6f836a659_ESPACE%20DE%20LOISIR.avif" loading="lazy" alt class="icon-navigation exp">
+                        <div>Leisure area</div>
+                      </a>
+                      <div class="spacer-grid"></div>
+                      <a id="w-node-_146552e5-c16d-a46c-ba4a-0a664f628ff5-15531d30" href="/en/tacos" class="exp-inner-block specialite-hov w-inline-block">
+                        <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/66cce82552c6f3d520c4e731_tacos.avif" loading="lazy" alt class="icon-navigation exp">
+                        <div>Tacos</div>
+                      </a>
+                      <a id="w-node-_29ff2d6f-f5cb-e091-5854-5458f2ee9ba9-15531d30" href="/en/salad-bar" class="exp-inner-block specialite-hov w-inline-block">
+                        <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/66cce825b0c58a4f5886b704_salade.avif" loading="lazy" alt class="icon-navigation exp">
+                        <div>Salad bar</div>
+                      </a>
+                      <div class="spacer-grid"></div>
+                      <a id="w-node-a9c9ae20-1c90-4b99-83d5-e9420c7183cd-15531d30" href="/en/ice-cream-shop" class="exp-inner-block specialite-hov w-inline-block">
+                        <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/66cce82594e850308d07c7cc_glacier.avif" loading="lazy" alt class="icon-navigation exp">
+                        <div><strong>Glacier</strong></div>
+                      </a>
+                      <a id="w-node-_7b8da83d-7cf2-7f54-8543-d6aee64cbab5-15531d30" href="/en/commercial-catering/amusement-parks" class="exp-inner-block specialite-hov w-inline-block">
+                        <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/68849a6d6e8226dcdd0aa7a6_PARC%20D'ATTRACTION.avif" loading="lazy" alt class="icon-navigation exp">
+                        <div>Amusement park</div>
+                      </a>
+                      <a id="w-node-f816c230-e1e0-a1eb-6059-5883600433a5-15531d30" href="/en/commercial-catering/camping" class="exp-inner-block specialite-hov w-inline-block">
+                        <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/68849a6e5c3bbaacad5dc651_CAMPING.avif" loading="lazy" alt class="icon-navigation exp">
+                        <div>Campsite</div>
+                      </a>
+                      <div class="spacer-grid"></div>
+                      <a id="w-node-_43152c71-43b2-2f4c-1742-810acb6a75da-15531d30" href="/en/bakery" class="exp-inner-block specialite-hov w-inline-block">
+                        <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/66cce82592b1fed4f753df0b_Boulangeri.avif" loading="lazy" alt class="icon-navigation exp">
+                        <div>Bakery</div>
+                      </a>
+                      <div class="spacer-grid"></div>
+                      <a id="w-node-d7bc54d1-458e-3c37-0fdf-8900800416e0-15531d30" href="/en/poke" class="exp-inner-block specialite-hov w-inline-block">
+                        <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/66cce82531802d2f9c28a65c_poke.avif" loading="lazy" alt class="icon-navigation exp">
+                        <div>Poké</div>
+                      </a>
+                      <div class="spacer-grid"></div>
+                      <a id="w-node-_2b507d87-2aed-2016-49be-775f21482715-15531d30" href="/en/bagel" class="exp-inner-block specialite-hov w-inline-block">
+                        <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/66cce825ebd368b7ef7582ac_bael.avif" loading="lazy" alt class="icon-navigation exp">
+                        <div>Bagel</div>
+                      </a>
+                      <a id="w-node-_4084b094-d615-162c-8840-7def640ebc71-15531d30" href="/en/our-catering-food-service-clients" class="exp-inner-block clients-references w-inline-block">
+                        <div class="icon-navigation-wrapper"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/692ed7fbe242aadb6735f1b7_Icons_Coeur%202.avif" loading="lazy" alt class="icon-navigation exp"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6930217d709da9d7a7001536_Icons_Coeur%204.png" loading="lazy" alt class="icon-navigation exp abs-v2"></div>
+                        <div>Our client references</div>
+                      </a>
+                      <a id="w-node-da608da4-b480-8830-c283-16a1013520c3-15531d30" href="/en/our-restaurant-clients" class="exp-inner-block clients-references v2 w-inline-block">
+                        <div class="icon-navigation-wrapper"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/692ed7fbe242aadb6735f1b7_Icons_Coeur%202.avif" loading="lazy" alt class="icon-navigation exp"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6930217d709da9d7a7001536_Icons_Coeur%204.png" loading="lazy" alt class="icon-navigation exp abs-v2"></div>
+                        <div>Our client references</div>
+                      </a>
+                      <a id="w-node-_5f5b5310-5640-7f87-b7e1-c4dd6cba8466-15531d30" href="/en/personalized-support" class="accompagne-link w-inline-block">
+                        <div>Have a project?<br>Innovorder supports you every step of the way.<br>Find out how.</div>
+                        <div class="arrow-embed-accompagne-link w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+    <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/>
+  </svg></div>
+                      </a>
+                    </div>
+                  </nav>
+                </div>
+              </div>
+              <div class="nav-dropdown-wrapper-2 center-nav">
+                <a href="/en/price" class="w-inline-block">
+                  <div class="text-block-38">Price</div>
+                </a>
+                <link rel="prerender" href="/en/price">
+              </div>
+              <div class="nav-dropdown-wrapper-2">
+                <div data-hover="true" data-delay="0" class="nav-dropdown-2 navbar-entreprise w-dropdown">
+                  <div class="dropdown-toggle-nav-2 navbar-entreprise w-dropdown-toggle">
+                    <div class="text-block-42">Company</div>
+                  </div>
+                  <nav class="dropdown-list-nav-2 navbar-entreprise w-dropdown-list">
+                    <div class="w-layout-grid nav-product-grid-2 nav-v-grid-2 entreprise"><a href="/en/our-vision" class="nav-link-with-icon prise-hover no-space w-inline-block">
+                        <div class="icon-link-nav entreprise v2">
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/648dcae3052fafd80a76543f_Picto%20euro.avif" loading="lazy" width="26" alt class="icon-navigation">
+                          <div>
+                            <div class="nav-menu-title">Who are we?</div>
+                            <div class="nav-menu-text-2">The human being above all</div>
+                          </div>
+                        </div>
+                      </a><a href="/en/ia-is-at-the-heart-of-innovorder-vision" class="nav-link-with-icon prise-hover no-space w-inline-block">
+                        <div class="icon-link-nav entreprise">
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/68e928ed7881ae09b408add6_Icons_Ampoule%201.avif" loading="lazy" width="26" alt class="icon-navigation">
+                          <div>
+                            <div class="nav-menu-title">Innovorder and AI</div>
+                            <div class="nav-menu-text-2">AI at the heart of our vision</div>
+                          </div>
+                        </div>
+                      </a><a href="/en/media" class="nav-link-with-icon prise-hover no-space w-inline-block">
+                        <div class="icon-link-nav entreprise">
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/649e9d68e4a96ea598d6006c_Picto%20presse%201.avif" loading="lazy" width="26" alt class="icon-navigation">
+                          <div>
+                            <div class="nav-menu-title">Press area</div>
+                            <div class="nav-menu-text-2">All our news</div>
+                          </div>
+                        </div>
+                      </a><a href="https://careers.innovorder.com/" class="nav-link-with-icon encaissement-hover no-space w-inline-block">
+                        <div class="icon-link-nav entreprise">
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/65bfca960a2749f520aad110_Picto%20Lecteur%20Badge.avif" loading="lazy" width="26" alt class="icon-navigation">
+                          <div>
+                            <div class="nav-menu-title">Join us</div>
+                            <div class="nav-menu-text-2">Join a passionate team</div>
+                          </div>
+                        </div>
+                      </a><a href="/en/contact-us" class="nav-link-with-icon preparation-hover no-space w-inline-block">
+                        <div class="icon-link-nav entreprise">
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6457c31711999f05f2899415_nous-contacted.png" loading="lazy" width="26" alt class="icon-navigation">
+                          <div>
+                            <div class="nav-menu-title">Contact us</div>
+                            <div class="nav-menu-text-2">Innovorder supports you</div>
+                          </div>
+                        </div>
+                      </a></div>
+                  </nav>
+                </div>
+              </div>
+              <div class="nav-dropdown-wrapper-2">
+                <div data-hover="true" data-delay="0" class="nav-dropdown-2 navbar-entreprise w-dropdown">
+                  <div class="dropdown-toggle-nav-2 navbar-entreprise w-dropdown-toggle"><a href="/en/resources" class="w-inline-block">
+                      <div class="navbar-link">Resources</div>
+                    </a></div>
+                  <nav class="dropdown-list-nav-2 navbar-entreprise w-dropdown-list">
+                    <div class="w-layout-grid nav-product-grid-2 ressources-grid">
+                      <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c9309100b-15531d30" class="ressources-nav-l">
+                        <div><strong>Innovorder launches its resource platform!</strong></div>
+                        <div class="ressources-nav-txt">Get all the information you need to start, manage and develop your restaurant!</div>
+                        <div class="nav-title-arrow space"><a href="/en/resources" class="w-inline-block">
+                            <div class="link-nav"><strong>Access all resources</strong></div>
+                          </a><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6457afdea27d219b01a4dfe1_arrow-nav.png" loading="lazy" alt class="img-arrow-nav"></div>
+                        <div class="gradient-spacer menu ressources"></div>
+                        <div class="grid-inner-ressources"><a href="/en/blog" class="nav-link-with-icon blog-hover w-inline-block">
+                            <div class="icon-link-nav">
+                              <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc597f2119fe66_les%20guides-icon.webp" loading="lazy" width="26" alt class="icon-navigation">
+                              <div>
+                                <div class="nav-menu-title"><strong>Blog</strong></div>
+                                <div class="nav-menu-text-2">Find our best tips for managing your establishment</div>
+                              </div>
+                            </div>
+                          </a><a href="/en/resources/ebook" class="nav-link-with-icon livres-hover w-inline-block">
+                            <div class="icon-link-nav">
+                              <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/641cace739119c2a21804963_liver%20blanc%20-%20icon.png" loading="lazy" width="26" alt class="icon-navigation">
+                              <div>
+                                <div class="nav-menu-title"><strong>White papers</strong></div>
+                                <div class="nav-menu-text-2">Download our guides and white papers to boost your business</div>
+                              </div>
+                            </div>
+                          </a><a href="/en/success-stories" class="nav-link-with-icon success-stories w-inline-block">
+                            <div class="icon-link-nav">
+                              <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6496cdd7d19cdbecbb7e1a78_success-stories.webp" loading="lazy" width="26" alt class="icon-navigation">
+                              <div>
+                                <div class="nav-menu-title"><strong>Success Stories</strong></div>
+                                <div class="nav-menu-text-2">Get inspired by the testimonials of ambitious restaurateurs</div>
+                              </div>
+                            </div>
+                          </a><a href="https://podcast.ausha.co/innovorder" class="nav-link-with-icon podcasts-hover w-inline-block">
+                            <div class="icon-link-nav">
+                              <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59bb8a19fe6e_conseil-icon.webp" loading="lazy" width="26" alt class="icon-navigation">
+                              <div>
+                                <div class="nav-menu-title"><strong>Podcasts</strong></div>
+                                <div class="nav-menu-text-2">Listen to inspiring stories from restaurant professionals</div>
+                              </div>
+                            </div>
+                          </a><a href="/en/simulateur" class="nav-link-with-icon simulator-hover w-inline-block">
+                            <div class="icon-link-nav">
+                              <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/64f1c7ebb7bd18d4e0c4db66_simulateur.webp" loading="lazy" width="26" alt class="icon-navigation">
+                              <div>
+                                <div class="nav-menu-title"><strong>Profitability simulator</strong></div>
+                                <div class="nav-menu-text-2">Calculate the profitability of Innovorder solutions for your restaurant</div>
+                              </div>
+                            </div>
+                            <div class="new-label white">
+                              <div>New</div>
+                            </div>
+                          </a><a href="/en/comparative" class="nav-link-with-icon comparer-hover w-inline-block">
+                            <div class="icon-link-nav">
+                              <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6496ce214c1b19e55cc1684c_Picto%20comparateur%201.webp" loading="lazy" width="26" alt class="icon-navigation">
+                              <div>
+                                <div class="nav-menu-title"><strong>Compare Innovorder</strong></div>
+                                <div class="nav-menu-text-2">Discover why Innovorder is the right solution for your restaurant</div>
+                              </div>
+                            </div>
+                          </a><a href="/en/resources/webinars" class="nav-link-with-icon webinaries-hover w-inline-block">
+                            <div class="icon-link-nav">
+                              <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/641cad0b29da2fb95ca951e9_webinaires%20icon.png" loading="lazy" width="26" alt class="icon-navigation">
+                              <div>
+                                <div class="nav-menu-title"><strong>Webinars</strong></div>
+                                <div class="nav-menu-text-2">View the conferences organized by Innovorder</div>
+                              </div>
+                            </div>
+                          </a><a href="/en/faq" class="nav-link-with-icon faq-hover w-inline-block">
+                            <div class="icon-link-nav">
+                              <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59497c19fe5b_tendances-icon.webp" loading="lazy" width="26" alt class="icon-navigation">
+                              <div>
+                                <div class="nav-menu-title"><strong>Help Center/ FAQ</strong></div>
+                                <div class="nav-menu-text-2">Find all the answers to your questions</div>
+                              </div>
+                            </div>
+                          </a><a href="/ressources/glossaire" class="nav-link-with-icon glossaire-hover w-inline-block">
+                            <div class="icon-link-nav">
+                              <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/641cacf77e86cd994a19b3c4_glossaire-icon.png" loading="lazy" width="26" alt class="icon-navigation">
+                              <div>
+                                <div class="nav-menu-title"><strong>Glossary</strong></div>
+                                <div class="nav-menu-text-2">Become an expert on the digital transformation of the restaurant industry</div>
+                              </div>
+                            </div>
+                          </a></div>
+                      </div>
+                      <a href="/en/ebook/restauration-2030-le-guide-pour-comprendre-anticiper-et-piloter-son-reseau" class="block-quote-success bchef w-inline-block">
+                        <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6a3d35758cdfb95b7600cf78_ebook.avif" loading="lazy" width="202" sizes="100vw" alt srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6a3d35758cdfb95b7600cf78_ebook-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6a3d35758cdfb95b7600cf78_ebook-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6a3d35758cdfb95b7600cf78_ebook.avif 864w" class="image-19">
+                        <div class="bchef-txt-nav">Foodservice 2030: Understanding, Anticipating, and Managing Your Network.</div>
+                        <div class="livres-blancs-nav">
+                          <div>White papers<span class="innov-pink">.</span></div>
+                          <div class="underline-content-type-grad"></div>
+                        </div>
+                        <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6418df12650d9714a7e8f9ad_new%20img.svg" loading="lazy" width="67" alt class="new-svg">
+                      </a>
+                    </div>
+                  </nav>
+                </div>
+              </div>
+            </div>
+            <div class="btns-wrap-nav"><a ph-button_name="mainCTA" href="/en/connection" class="button-icon-navbar _40px fr w-inline-block">
+                <div>Talk to an expert</div>
+              </a></div>
+            <a ph-button_name="mainCTA" href="/en/contact-us" class="button-icon-navbar _40px w-inline-block">
+              <div>Talk to an expert</div>
+            </a>
+            <link rel="prerender" href="/en/contact-us">
+          </div>
+          <div class="w-layout-grid mobile-menu">
+            <div class="w-layout-grid nav-grid-no-gap">
+              <div class="mobile-navigation-main">
+                <div data-w-id="7f17fd5a-2482-ebfb-f802-128c9309107d" class="dropdown-mobile solutions">
+                  <div class="main-title-nav">Solutions</div>
+                </div>
+                <div data-w-id="7f17fd5a-2482-ebfb-f802-128c93091080" class="dropdown-mobile expertites-1">
+                  <div class="main-title-nav">Expertise</div>
+                </div>
+                <a href="/en/price" class="link-block-10 w-inline-block">
+                  <div class="dropdown-mobile">
+                    <div class="main-title-nav">Price</div>
+                  </div>
+                </a>
+                <div data-w-id="7f17fd5a-2482-ebfb-f802-128c93091087" class="dropdown-mobile entreprise-1">
+                  <div class="main-title-nav">Company</div>
+                </div>
+                <div data-w-id="7f17fd5a-2482-ebfb-f802-128c9309108a" class="dropdown-mobile ressources-1">
+                  <div class="main-title-nav">Resources</div>
+                </div>
+              </div>
+              <div class="bottom-menu-mobile main">
+                <div class="menu-button-wrapper"><a href="/en/contact-us" class="button-icon-navbar w-inline-block">
+                    <div class="text-block-32">Talk to an expert</div>
+                  </a><a ph-button_name="mainCTA" href="https://meetings.hubspot.com/david-marn" target="_blank" class="button-icon-navbar _40px fr w-inline-block">
+                    <div>Make an appointment</div>
+                  </a></div>
+              </div>
+            </div>
+            <div class="w-layout-grid grid-inner-link solutions">
+              <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c9309109d-15531d30" class="w-layout-grid nav-v-grid-2-column">
+                <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c9309109e-15531d30" class="column-nav-inner-wrap">
+                  <div class="upper-column-nav">
+                    <div class="go-back-block">
+                      <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59d61d19fe05_icon.webp" loading="lazy" width="31" data-w-id="7f17fd5a-2482-ebfb-f802-128c930910a1" alt class="icon-back solution-1">
+                      <div class="main-title-nav">Solutions</div>
+                    </div>
+                    <div class="gradient-spacer main-title"></div>
+                  </div>
+                  <div class="column-nav">
+                    <div class="title-nav">Order taking</div>
+                    <div class="gradient-spacer menu"></div>
+                  </div>
+                  <a href="/en/self-ordering-kiosk" class="nav-link-with-icon prise-hover w-inline-block">
+                    <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59266619fe08_Borne%20de%20commande.webp" loading="lazy" width="26" alt class="icon-navigation">
+                    <div class="nav-menu-title">Self Ordering Kiosk</div>
+                  </a>
+                  <a href="/en/pad-de-commande" class="nav-link-with-icon prise-hover w-inline-block">
+                    <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6ab668266294f087c3ce0ac4_f154054e1c067182a33787f6b0149d05_Pad%20de%20Commande.avif" loading="lazy" width="26" alt class="icon-navigation">
+                    <div class="nav-menu-title">Control Pad</div>
+                    <div class="new-label mobile _1">
+                      <div>New</div>
+                    </div>
+                  </a>
+                  <a href="/en/tray-scan" class="nav-link-with-icon relative prise-hover w-inline-block">
+                    <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59280e19fe15_Scan%20plateau.webp" loading="lazy" width="26" alt class="icon-navigation">
+                    <div class="nav-menu-title">AI tray scan</div>
+                  </a>
+                  <a href="/en/online-ordering-for-restaurant" class="nav-link-with-icon prise-hover w-inline-block">
+                    <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59fd6419fe0f_Commande%20en%20ligne.webp" loading="lazy" width="26" alt class="icon-navigation">
+                    <div class="nav-menu-title">Online Ordering</div>
+                  </a>
+                  <a href="/en/order-at-table-system" class="nav-link-with-icon relative prise-hover w-inline-block">
+                    <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f3fcfc597cd819ffae_Commande%20%C3%A0%20table.webp" loading="lazy" width="26" sizes="(max-width: 991px) 100vw, (max-width: 1279px) 26px, (max-width: 1439px) 2vw, (max-width: 1919px) 26px, 1vw" alt srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f3fcfc597cd819ffae_Commande%2520%25C3%25A0%2520table-p-500.png 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f3fcfc597cd819ffae_Commande%20%C3%A0%20table.webp 1250w" class="icon-navigation">
+                    <div class="nav-menu-title"><strong>Click &amp; Serve</strong></div>
+                  </a>
+                  <a href="/en/connected-fridges" class="nav-link-with-icon prise-hover w-inline-block">
+                    <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5919fc19fdf7_Frigo%20connect%C3%A9.webp" loading="lazy" width="26" alt class="icon-navigation">
+                    <div class="nav-menu-title">Connected fridge</div>
+                  </a>
+                  <a href="/en/innovorder-foodcourt" class="nav-link-with-icon prise-hover relative w-inline-block">
+                    <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/65bfcb6a02bd16dc44950608_065e8cdf795b125138eaf4af5f5b33a1_Frigo%20connecte%CC%81.avif" loading="lazy" width="26" alt class="icon-navigation">
+                    <div class="rel-court">
+                      <div class="nav-menu-title">Innovorder Foodcourt</div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c930910c4-15531d30" class="w-layout-grid nav-v-grid-2-column">
+                <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c930910c5-15531d30" class="column-nav-inner-wrap">
+                  <div class="column-nav">
+                    <div class="title-nav">Collection</div>
+                    <div class="gradient-spacer menu"></div>
+                  </div>
+                  <a href="/en/restaurant-touch-cash-register" class="nav-link-with-icon encaissement-hover w-inline-block">
+                    <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5984c219fe07_Portefeuille-2.webp" loading="lazy" width="26" alt class="icon-navigation">
+                    <div class="nav-menu-title">Cash register</div>
+                  </a>
+                  <a href="/en/automated-cash-recycling-system" class="nav-link-with-icon encaissement-hover w-inline-block">
+                    <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc595d7d19fe0b_Monnayeur.webp" loading="lazy" width="26" alt class="icon-navigation">
+                    <div class="nav-menu-title">Automatic coin acceptor</div>
+                  </a>
+                  <a href="/en/e-wallet" class="nav-link-with-icon encaissement-hover w-inline-block">
+                    <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59572f19fe16_Portefeuille%20elec.webp" loading="lazy" width="26" alt class="icon-navigation">
+                    <div class="nav-menu-title">E-wallet</div>
+                  </a>
+                  <a href="/en/io-pay" class="nav-link-with-icon relative encaissement-hover w-inline-block">
+                    <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f3fcfc59536319ffaf_IOpay.webp" loading="lazy" width="26" alt class="icon-navigation">
+                    <div class="nav-menu-title bold">IO Pay</div>
+                    <div class="new-label mobile _1">
+                      <div>New</div>
+                    </div>
+                  </a>
+                  <a href="/en/tpe-restaurant" class="nav-link-with-icon relative encaissement-hover w-inline-block">
+                    <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/692ed70609f8edf0b0d2ff0b_Icons_NFC%201.avif" loading="lazy" width="26" alt class="icon-navigation">
+                    <div class="nav-menu-title bold">very small enterprise</div>
+                  </a>
+                </div>
+              </div>
+              <div class="w-layout-grid nav-v-grid-2-column">
+                <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c930910de-15531d30" class="column-nav-inner-wrap">
+                  <div class="column-nav">
+                    <div class="title-nav">Preparation</div>
+                    <div class="gradient-spacer menu"></div>
+                  </div>
+                  <a href="/en/kitchen-display-system" class="nav-link-with-icon preparation-hover w-inline-block">
+                    <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59591219fe0d_%C3%A9cran%20de%20production.webp" loading="lazy" width="26" alt class="icon-navigation">
+                    <div class="nav-menu-title">Kitchen Display System</div>
+                  </a>
+                  <a href="/en/order-display-system" class="nav-link-with-icon preparation-hover w-inline-block">
+                    <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f3fcfc593cae19ff43_ecran-client.png" loading="lazy" width="26" alt class="icon-navigation">
+                    <div class="nav-menu-title"><strong>Client screen</strong></div>
+                  </a>
+                  <a href="/en/reception" class="nav-link-with-icon preparation-hover w-inline-block">
+                    <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f3fcfc593a8019ff44_reception.png" loading="lazy" width="26" alt class="icon-navigation">
+                    <div class="nav-menu-title"><strong>Reception</strong></div>
+                  </a>
+                  <div class="column-nav">
+                    <div class="title-nav">Steering</div>
+                    <div class="gradient-spacer menu"></div>
+                  </div>
+                  <a href="/en/restaurant-pos-software" class="nav-link-with-icon pilotage-hover w-inline-block">
+                    <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5921d219fe4e_Backoffice.webp" loading="lazy" width="26" alt class="icon-navigation">
+                    <div class="nav-menu-title">Back Office</div>
+                  </a>
+                  <a href="/en/loyalty-program-restaurant" class="nav-link-with-icon pilotage-hover w-inline-block">
+                    <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc595c5019fe54_Programme%20de%20fidelit%C3%A9.webp" loading="lazy" width="26" alt class="icon-navigation">
+                    <div class="nav-menu-title">Loyalty Program</div>
+                  </a>
+                  <a href="/en/io-analytics" class="nav-link-with-icon pilotage-hover w-inline-block">
+                    <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/65bfca2614cbc515b25b7b48_Picto%20Lecteur%20Badge.avif" loading="lazy" width="26" alt class="icon-navigation">
+                    <div class="nav-menu-title"><strong>IO Analytics</strong></div>
+                  </a>
+                </div>
+              </div>
+              <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c93091102-15531d30" class="w-layout-grid nav-v-grid-2-column">
+                <div class="new-solution-pop-up">
+                  <a href="#" id="w-node-_7d266de7-46e3-3e64-0ae1-8d4c6e3407d8-15531d30" class="w-inline-block w-lightbox">
+                    <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/67717dad31f20da28d8b70d2_63346942300af91169c24171_Chicken%20Village%201.avif" loading="lazy" alt class="img-lightbox">
+                    <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6418df12650d9714a7e8f9ad_new%20img.svg" loading="lazy" alt class="new-label-solution">
+                    <script type="application/json" class="w-json" is:inline>{
+    "items": [
+      {
+        "url": "https://www.youtube.com/watch?v=tssrOmPg_fQ&pp=ygUKaW5ub3ZvcmRlcg%3D%3D",
+        "originalUrl": "https://www.youtube.com/watch?v=tssrOmPg_fQ&pp=ygUKaW5ub3ZvcmRlcg%3D%3D",
+        "width": 940,
+        "height": 528,
+        "thumbnailUrl": "https://i.ytimg.com/vi/tssrOmPg_fQ/hqdefault.jpg",
+        "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FtssrOmPg_fQ%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtssrOmPg_fQ&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FtssrOmPg_fQ%2Fhqdefault.jpg&type=text%2Fhtml&schema=youtube\" width=\"940\" height=\"528\" scrolling=\"no\" title=\"YouTube embed\" frameborder=\"0\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"></iframe>",
+        "type": "video"
+      }
+    ],
+    "group": ""
+  }</script>
+                  </a>
+                  <div id="w-node-_7d266de7-46e3-3e64-0ae1-8d4c6e3407da-15531d30" class="col-new-solution-nav">
+                    <div class="text-solutions-wrap">
+                      <div class="text-20px is-left"><strong>Discover our new 2nd generation flatbed scanner!</strong></div>
+                      <div>Transform your guests' experience with integrated payment from IA Scan.</div>
+                    </div>
+                    <a href="#" class="w-inline-block w-lightbox">
+                      <div class="button-lightbox">
+                        <div>Watch the video</div>
+                      </div>
+                      <script type="application/json" class="w-json" is:inline>{
+    "items": [
+      {
+        "url": "https://www.youtube.com/watch?v=tssrOmPg_fQ&pp=ygUKaW5ub3ZvcmRlcg%3D%3D",
+        "originalUrl": "https://www.youtube.com/watch?v=tssrOmPg_fQ&pp=ygUKaW5ub3ZvcmRlcg%3D%3D",
+        "width": 940,
+        "height": 528,
+        "thumbnailUrl": "https://i.ytimg.com/vi/tssrOmPg_fQ/hqdefault.jpg",
+        "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FtssrOmPg_fQ%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtssrOmPg_fQ&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FtssrOmPg_fQ%2Fhqdefault.jpg&type=text%2Fhtml&schema=youtube\" width=\"940\" height=\"528\" scrolling=\"no\" title=\"YouTube embed\" frameborder=\"0\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"></iframe>",
+        "type": "video"
+      }
+    ],
+    "group": ""
+  }</script>
+                    </a>
+                  </div>
+                </div>
+                <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c93091103-15531d30" class="column-nav-inner-wrap">
+                  <div class="column-nav">
+                    <div class="title-nav">Ecosystem</div>
+                    <div class="gradient-spacer menu"></div>
+                  </div>
+                  <a href="/en/integrations" class="nav-link-with-icon ecosysteme-hover w-inline-block">
+                    <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc593ed619fe55_Integration.webp" loading="lazy" width="26" alt class="icon-navigation">
+                    <div class="nav-menu-title">Integrations</div>
+                  </a>
+                  <a href="https://developers.innovorder.fr/" target="_blank" class="nav-link-with-icon ecosysteme-hover w-inline-block">
+                    <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc593b5e19fe53_developper%20API.webp" loading="lazy" width="26" alt class="icon-navigation">
+                    <div class="nav-menu-title">Developer API</div>
+                  </a>
+                </div>
+              </div>
+              <div class="bottom-menu-mobile">
+                <div class="menu-button-wrapper"><a href="/en/contact-us" class="button-icon-navbar w-inline-block">
+                    <div class="text-block-32">Talk to an expert</div>
+                  </a></div>
+                <div class="phone---lang-wrap"><a href="tel:+33186954983" class="dropdown-toggle-nav-2 phone-mobile w-inline-block">
+                    <div class="nous-contacter-wrapper">
+                      <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59315519fc7b_phone-icon.svg" alt="contact" class="social-icon">
+                      <div class="phone-contact-wrapper">
+                        <div class="nous-contacter-text">Contact us </div>
+                        <div class="nous-contacter-number"><span class="gradient-text">+33 1 86 95 49 83</span></div>
+                      </div>
+                    </div>
+                  </a></div>
+              </div>
+            </div>
+            <div class="w-layout-grid grid-inner-link expertises">
+              <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c93091120-15531d30" class="w-layout-grid nav-v-grid-2-column">
+                <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c93091121-15531d30" class="column-nav-inner-wrap">
+                  <div class="upper-column-nav">
+                    <div class="go-back-block">
+                      <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59d61d19fe05_icon.webp" loading="lazy" width="31" data-w-id="7f17fd5a-2482-ebfb-f802-128c93091124" alt class="icon-back expertises-1">
+                      <div class="main-title-nav">Expertise</div>
+                    </div>
+                    <div class="gradient-spacer main-title"></div>
+                  </div>
+                  <div class="expertises-grid">
+                    <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c93091129-15531d30" class="block-1-ex">
+                      <div class="block-1-ex-upper">
+                        <div class="nav-title-arrow"><a href="/en/collective-catering" class="link-nav">Collective catering</a><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6457afdea27d219b01a4dfe1_arrow-nav.png" loading="lazy" alt class="img-arrow-nav"></div>
+                        <div class="sub-nav-ex">Modernize your guest flows and simplify the management of your establishment.</div>
+                        <div class="gradient-spacer-nav"></div>
+                        <div class="gradient-spacer menu-mob"></div>
+                      </div>
+                      <div class="block-1-ex-low-grid"><a href="/en/collective-catering/healthcare" class="exp-inner-block collective-hov w-inline-block">
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5951ef19fef3_Sant%C3%A9.webp" loading="lazy" alt class="icon-navigation exp">
+                          <div>Health</div>
+                        </a><a href="/en/collective-catering/enterprise" class="exp-inner-block collective-hov w-inline-block">
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59bbdc19fef4_Entreprise.webp" loading="lazy" alt class="icon-navigation exp">
+                          <div>Company</div>
+                        </a><a href="/en/collective-catering/school" class="exp-inner-block collective-hov w-inline-block">
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5909e119fef5_Enseignement.webp" loading="lazy" alt class="icon-navigation exp">
+                          <div>Teaching</div>
+                        </a><a href="/en/collective-catering/administration" class="exp-inner-block collective-hov w-inline-block">
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59046519fefb_Administration.webp" loading="lazy" alt class="icon-navigation exp">
+                          <div>Administration</div>
+                        </a><a id="w-node-b6b9296a-bcc5-5944-adf8-07eed974d5ad-15531d30" href="/en/our-catering-food-service-clients" class="exp-inner-block clients-references w-inline-block">
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/692ed7fbe242aadb6735f1b7_Icons_Coeur%202.avif" loading="lazy" alt class="icon-navigation exp">
+                          <div>Our client references</div>
+                        </a></div>
+                      <a href="/en/personalized-support" class="accompagne-link w-inline-block">
+                        <div>Have a project?<br>Innovorder supports you every step of the way.<br>Find out how.</div>
+                        <div class="arrow-embed-accompagne-link w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+    <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/>
+  </svg></div>
+                      </a>
+                    </div>
+                    <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c93091144-15531d30" class="block-1-ex">
+                      <div class="block-1-ex-upper">
+                        <div class="nav-title-arrow"><a href="/en/commercial-catering" class="link-nav">Commercial catering</a><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6457afdea27d219b01a4dfe1_arrow-nav.png" loading="lazy" alt class="img-arrow-nav"></div>
+                        <div class="sub-nav-ex">Boost your average basket, streamline your organization and build customer loyalty.</div>
+                        <div class="gradient-spacer-nav"></div>
+                        <div class="gradient-spacer menu-mob"></div>
+                      </div>
+                      <div class="block-1-ex-low-grid"><a href="/en/commercial-catering/independant" class="exp-inner-block commerciale-hov w-inline-block">
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59e04d19fef6_Ind%C3%A9pendant.webp" loading="lazy" alt class="icon-navigation exp">
+                          <div>Fast food</div>
+                        </a><a href="/en/commercial-catering/food-court" class="exp-inner-block commerciale-hov w-inline-block">
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc593b1919fef7_Food%20Court.webp" loading="lazy" alt class="icon-navigation exp">
+                          <div>Food court</div>
+                        </a><a href="/en/commercial-catering/franchise" class="exp-inner-block commerciale-hov w-inline-block">
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59832f19fefa_Franchise.webp" loading="lazy" alt class="icon-navigation exp">
+                          <div>Franchise</div>
+                        </a><a href="/en/commercial-catering/dark-kitchen" class="exp-inner-block commerciale-hov w-inline-block">
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59b14519fef8_Dark%20Kitchen.webp" loading="lazy" alt class="icon-navigation exp">
+                          <div>Dark kitchen</div>
+                        </a><a href="/en/commercial-catering/camping" class="exp-inner-block commerciale-hov w-inline-block">
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/68849a705a22d0de5eccfdc4_BOWLING.avif" loading="lazy" alt class="icon-navigation exp">
+                          <div>Bowling</div>
+                        </a><a href="/en/commercial-catering/leisure-park" class="exp-inner-block commerciale-hov w-inline-block">
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/68849a6d6dec5df6f836a659_ESPACE%20DE%20LOISIR.avif" loading="lazy" alt class="icon-navigation exp">
+                          <div>Leisure area</div>
+                        </a><a href="/en/commercial-catering/amusement-parks" class="exp-inner-block commerciale-hov w-inline-block">
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/68849a6d6e8226dcdd0aa7a6_PARC%20D'ATTRACTION.avif" loading="lazy" alt class="icon-navigation exp">
+                          <div>Amusement park</div>
+                        </a><a href="/en/commercial-catering/camping" class="exp-inner-block commerciale-hov w-inline-block">
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/68849a6e5c3bbaacad5dc651_CAMPING.avif" loading="lazy" alt class="icon-navigation exp">
+                          <div>Campsite</div>
+                        </a><a id="w-node-_4a47e560-0659-dd0b-bb6d-d5c3e2494de0-15531d30" href="/en/our-restaurant-clients" class="exp-inner-block clients-references v2 w-inline-block">
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/692ed7fbe242aadb6735f1b7_Icons_Coeur%202.avif" loading="lazy" alt class="icon-navigation exp">
+                          <div>Our client references</div>
+                        </a></div>
+                    </div>
+                    <div class="block-1-ex">
+                      <div class="block-1-ex-upper">
+                        <div class="nav-title-arrow">
+                          <div class="link-nav no-hov"><strong>Speciality</strong></div>
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6457afdea27d219b01a4dfe1_arrow-nav.png" loading="lazy" alt class="img-arrow-nav">
+                        </div>
+                        <div class="sub-nav-ex">Equip your point of sale with a tailor-made ecosystem, adapted to the specific needs of your business.</div>
+                        <div class="gradient-spacer-nav"></div>
+                        <div class="gradient-spacer menu-mob"></div>
+                      </div>
+                      <div class="block-1-ex-low-grid"><a href="/en/burger" class="exp-inner-block specialite-hov w-inline-block">
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/66cce82555a7785ee0abdf21_burger.avif" loading="lazy" alt class="icon-navigation exp">
+                          <div>Burger</div>
+                        </a><a href="/en/pizza" class="exp-inner-block specialite-hov w-inline-block">
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/66cce82507dc7509ff60acd3_pizza.avif" loading="lazy" alt class="icon-navigation exp">
+                          <div>Pizza</div>
+                        </a><a href="/en/kebab" class="exp-inner-block specialite-hov w-inline-block">
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/66cce8253fcd6f165e232af1_kebab.avif" loading="lazy" alt class="icon-navigation exp">
+                          <div>Kebab</div>
+                        </a><a href="/en/sandwich-shop" class="exp-inner-block specialite-hov w-inline-block">
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/66cce82531802d2f9c28a652_sandwicherie.avif" loading="lazy" alt class="icon-navigation exp">
+                          <div>Sandwich shop</div>
+                        </a><a href="/en/tacos" class="exp-inner-block specialite-hov w-inline-block">
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/66cce82552c6f3d520c4e731_tacos.avif" loading="lazy" alt class="icon-navigation exp">
+                          <div>Tacos</div>
+                        </a><a href="/en/salad-bar" class="exp-inner-block specialite-hov w-inline-block">
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/66cce825b0c58a4f5886b704_salade.avif" loading="lazy" alt class="icon-navigation exp">
+                          <div>Salad bar</div>
+                        </a><a href="/en/bagel" class="exp-inner-block specialite-hov w-inline-block">
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/66cce825ebd368b7ef7582ac_bael.avif" loading="lazy" alt class="icon-navigation exp">
+                          <div>Bagel</div>
+                        </a><a href="/en/poke" class="exp-inner-block specialite-hov w-inline-block">
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/66cce82531802d2f9c28a65c_poke.avif" loading="lazy" alt class="icon-navigation exp">
+                          <div>Poké</div>
+                        </a><a href="/en/ice-cream-shop" class="exp-inner-block specialite-hov w-inline-block">
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/66cce82594e850308d07c7cc_glacier.avif" loading="lazy" alt class="icon-navigation exp">
+                          <div>Glacier</div>
+                        </a><a href="/en/bakery" class="exp-inner-block specialite-hov w-inline-block">
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/66cce82592b1fed4f753df0b_Boulangeri.avif" loading="lazy" alt class="icon-navigation exp">
+                          <div>Bakery</div>
+                        </a></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="bottom-menu-mobile">
+                <div class="menu-button-wrapper"><a href="/en/contact-us" class="button-icon-navbar w-inline-block">
+                    <div class="text-block-32">Talk to an expert</div>
+                  </a></div>
+                <div class="phone---lang-wrap"><a href="tel:+33186954983" class="dropdown-toggle-nav-2 phone-mobile w-inline-block">
+                    <div class="nous-contacter-wrapper">
+                      <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59315519fc7b_phone-icon.svg" alt="contact" class="social-icon">
+                      <div class="phone-contact-wrapper">
+                        <div class="nous-contacter-text">Contact us </div>
+                        <div class="nous-contacter-number"><span class="gradient-text">+33 1 86 95 49 83</span></div>
+                      </div>
+                    </div>
+                  </a></div>
+              </div>
+            </div>
+            <div class="w-layout-grid grid-inner-link success-stories">
+              <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c93091173-15531d30" class="w-layout-grid nav-v-grid-2-column">
+                <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c93091174-15531d30" class="column-nav-inner-wrap">
+                  <div class="upper-column-nav">
+                    <div class="go-back-block">
+                      <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59d61d19fe05_icon.webp" loading="lazy" width="31" data-w-id="7f17fd5a-2482-ebfb-f802-128c93091177" alt class="icon-back">
+                      <div class="main-title-nav">Success stories</div>
+                    </div>
+                    <div class="gradient-spacer main-title"></div>
+                  </div>
+                  <div class="grid-success-stories">
+                    <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c9309117c-15531d30" class="w-dyn-list">
+                      <div role="list" class="grid-success-stories-1-nav w-dyn-items">
+                        <div role="listitem" class="w-dyn-item"><a href="/en/success-stories/comment-trefle-restauration-reinvente-la-restauration-dentreprise-avec-innovorder" class="success-story-block-nav _3 w-inline-block">
+                            <img loading="lazy" alt src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6a43c7bcd858838ebe401ba4_Screenshot%202026-06-30%20at%2015.39.23.png" sizes="100vw" srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6a43c7bcd858838ebe401ba4_Screenshot%202026-06-30%20at%2015.39.23-p-500.png 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6a43c7bcd858838ebe401ba4_Screenshot%202026-06-30%20at%2015.39.23-p-800.png 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6a43c7bcd858838ebe401ba4_Screenshot%202026-06-30%20at%2015.39.23-p-1080.png 1080w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6a43c7bcd858838ebe401ba4_Screenshot%202026-06-30%20at%2015.39.23.png 1200w" class="success-story-nav-img">
+                            <div class="success-story-r">
+                              <div class="success-story-r-tit">How Trèfle Restauration Is Reinventing Corporate Catering with Innovorder</div>
+                              <div class="success-story-cat-txt">Collective catering</div>
+                            </div>
+                          </a></div>
+                        <div role="listitem" class="w-dyn-item"><a href="/en/success-stories/restauration-camping-comment-capfun-absorbe-6-000-clients-jour" class="success-story-block-nav _3 w-inline-block">
+                            <img loading="lazy" alt src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6a43881ac6ef3b58d047fa60_capfun.png" sizes="100vw" srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6a43881ac6ef3b58d047fa60_capfun-p-500.png 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6a43881ac6ef3b58d047fa60_capfun-p-800.png 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6a43881ac6ef3b58d047fa60_capfun-p-1080.png 1080w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6a43881ac6ef3b58d047fa60_capfun.png 1200w" class="success-story-nav-img">
+                            <div class="success-story-r">
+                              <div class="success-story-r-tit">Campground Food Service: How Capfun Serves 6,000 Customers a Day</div>
+                              <div class="success-story-cat-txt">Campsite</div>
+                            </div>
+                          </a></div>
+                        <div role="listitem" class="w-dyn-item"><a href="/en/success-stories/la-kazdalerie-how-the-franchise-manages-7-restaurants-using-a-single-management-tool" class="success-story-block-nav _3 w-inline-block">
+                            <img loading="lazy" alt src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69f0aaf5a051d25c88d62046_Screenshot%202026-04-24%20at%2016.36.55.avif" sizes="100vw" srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69f0aaf5a051d25c88d62046_Screenshot%202026-04-24%20at%2016.36.55-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69f0aaf5a051d25c88d62046_Screenshot%202026-04-24%20at%2016.36.55-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69f0aaf5a051d25c88d62046_Screenshot%202026-04-24%20at%2016.36.55-p-1080.avif 1080w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69f0aaf5a051d25c88d62046_Screenshot%202026-04-24%20at%2016.36.55.avif 1200w" class="success-story-nav-img">
+                            <div class="success-story-r">
+                              <div class="success-story-r-tit">La Kazdalerie: How the franchise manages 7 restaurants using a single management tool</div>
+                              <div class="success-story-cat-txt">Franchise</div>
+                            </div>
+                          </a></div>
+                      </div>
+                    </div>
+                    <a id="w-node-_7f17fd5a-2482-ebfb-f802-128c93091187-15531d30" href="/en/success-stories" class="see-more-btn mobile navbar w-inline-block">
+                      <div class="see-more-txt">See all</div>
+                      <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59c54e19fe51_Arrow.png" loading="lazy" width="16" alt class="arrow-img">
+                    </a>
+                    <a href="/en/success-stories/what-the-foc-innovorder" class="block-quote-success w-inline-block">
+                      <div class="quote-success-top">
+                        <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6457bd5df1b6f66c6db35f48_image-quote.png" loading="lazy" alt="nils edelman" class="img-quote-success">
+                        <div class="quote-txt-wrap">
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59ba1619fe52_quote-marks.webp" loading="lazy" alt class="quote-mark-success">
+                          <div class="quote-text-success">Innovorder meets our scalability challenge: go fast, process a large volume of orders and create several points of sale.</div>
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59ba1619fe52_quote-marks.webp" loading="lazy" alt class="quote-mark-success _2">
+                        </div>
+                      </div>
+                      <div class="quote-success-bottom">
+                        <div class="person-quote-success"><strong>Nils Edelman,</strong><br>Co-founder of What The Foc ?!</div>
+                        <div class="gradient-spacer menu"></div>
+                        <div class="nav-title-arrow space">
+                          <div class="link-nav"><strong>Read the testimony</strong></div>
+                          <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6457afdea27d219b01a4dfe1_arrow-nav.png" loading="lazy" alt class="img-arrow-nav">
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="bottom-menu-mobile">
+                <div class="menu-button-wrapper"><a href="/en/contact-us" class="button-icon-navbar w-inline-block">
+                    <div class="text-block-32">Talk to an expert</div>
+                  </a></div>
+                <div class="phone---lang-wrap"><a href="tel:+33186954983" class="dropdown-toggle-nav-2 phone-mobile w-inline-block">
+                    <div class="nous-contacter-wrapper">
+                      <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59315519fc7b_phone-icon.svg" alt="contact" class="social-icon">
+                      <div class="phone-contact-wrapper">
+                        <div class="nous-contacter-text">Contact us </div>
+                        <div class="nous-contacter-number"><span class="gradient-text">+33 1 86 95 49 83</span></div>
+                      </div>
+                    </div>
+                  </a></div>
+              </div>
+            </div>
+            <div class="w-layout-grid grid-inner-link entreprisee">
+              <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c930911af-15531d30" class="w-layout-grid nav-v-grid-2-column">
+                <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c930911b0-15531d30" class="column-nav-inner-wrap">
+                  <div class="upper-column-nav">
+                    <div class="go-back-block">
+                      <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59d61d19fe05_icon.webp" loading="lazy" width="31" data-w-id="7f17fd5a-2482-ebfb-f802-128c930911b3" alt class="icon-back entreprise-1">
+                      <div class="main-title-nav">Company</div>
+                    </div>
+                    <div class="gradient-spacer main-title"></div>
+                  </div>
+                  <div class="w-layout-grid nav-product-grid-2 nav-v-grid-2 entreprise"><a href="/en/our-vision" class="nav-link-with-icon prise-hover no-space mob w-inline-block">
+                      <div class="icon-link-nav entreprise">
+                        <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6457c2ee5b3209613614bd97_nous.png" loading="lazy" width="26" alt class="icon-navigation">
+                        <div>
+                          <div class="nav-menu-title entreprise">Who are we?</div>
+                          <div class="nav-menu-text-2">The human being above all</div>
+                        </div>
+                      </div>
+                    </a><a href="/en/ia-is-at-the-heart-of-innovorder-vision" class="nav-link-with-icon prise-hover no-space mob w-inline-block">
+                      <div class="icon-link-nav entreprise">
+                        <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/68e928ed7881ae09b408add6_Icons_Ampoule%201.avif" loading="lazy" width="26" alt class="icon-navigation">
+                        <div>
+                          <div class="nav-menu-title entreprise">Innovorder and AI</div>
+                          <div class="nav-menu-text-2">AI at the heart of our vision</div>
+                        </div>
+                      </div>
+                    </a><a href="/en/our-vision" class="nav-link-with-icon prise-hover no-space w-inline-block">
+                      <div class="icon-link-nav entreprise">
+                        <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/649e9d68e4a96ea598d6006c_Picto%20presse%201.avif" loading="lazy" width="26" alt class="icon-navigation">
+                        <div>
+                          <div class="nav-menu-title left">Press area</div>
+                          <div class="nav-menu-text-2">All our news</div>
+                        </div>
+                      </div>
+                    </a><a href="https://careers.innovorder.com/" class="nav-link-with-icon encaissement-hover no-space mob w-inline-block">
+                      <div class="icon-link-nav entreprise">
+                        <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/65033082e0626d76684c23a2_Picto%20euro.webp" loading="lazy" width="26" alt class="icon-navigation">
+                        <div>
+                          <div class="nav-menu-title entreprise">Join us</div>
+                          <div class="nav-menu-text-2">Join a passionate team</div>
+                        </div>
+                      </div>
+                    </a><a href="/en/contact-us" class="nav-link-with-icon preparation-hover no-space mob w-inline-block">
+                      <div class="icon-link-nav entreprise">
+                        <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6457c31711999f05f2899415_nous-contacted.png" loading="lazy" width="26" alt class="icon-navigation">
+                        <div>
+                          <div class="nav-menu-title entreprise">Contact us</div>
+                          <div class="nav-menu-text-2">Innovorder supports you</div>
+                        </div>
+                      </div>
+                    </a></div>
+                </div>
+              </div>
+              <div class="bottom-menu-mobile">
+                <div class="menu-button-wrapper"><a href="/en/contact-us" class="button-icon-navbar w-inline-block">
+                    <div class="text-block-32">Talk to an expert</div>
+                  </a></div>
+                <div class="phone---lang-wrap"><a href="tel:+33186954983" class="dropdown-toggle-nav-2 phone-mobile w-inline-block">
+                    <div class="nous-contacter-wrapper">
+                      <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59315519fc7b_phone-icon.svg" alt="contact" class="social-icon">
+                      <div class="phone-contact-wrapper">
+                        <div class="nous-contacter-text">Contact us </div>
+                        <div class="nous-contacter-number"><span class="gradient-text">+33 1 86 95 49 83</span></div>
+                      </div>
+                    </div>
+                  </a></div>
+              </div>
+            </div>
+            <div class="w-layout-grid grid-inner-link blog">
+              <div class="w-layout-grid nav-v-grid-2-column">
+                <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c930911e1-15531d30" class="column-nav-inner-wrap">
+                  <div class="upper-column-nav">
+                    <div class="go-back-block"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59d61d19fe05_icon.webp" loading="lazy" width="31" data-w-id="7f17fd5a-2482-ebfb-f802-128c930911e4" alt class="icon-back ressources"><a href="/en/resources" class="main-title-nav _2">Resources</a></div>
+                    <div class="gradient-spacer main-title"></div>
+                  </div>
+                  <div class="w-layout-grid nav-product-grid-2 ressources-grid">
+                    <div id="w-node-_7f17fd5a-2482-ebfb-f802-128c930911e9-15531d30" class="ressources-nav-l">
+                      <div><strong>Innovorder launches its resource platform!</strong></div>
+                      <div class="ressources-nav-txt">Get all the information you need to start, manage and develop your restaurant!</div>
+                      <div class="nav-title-arrow space"><a href="/en/resources" class="w-inline-block">
+                          <div class="link-nav"><strong>Access all resources</strong></div>
+                        </a><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6457afdea27d219b01a4dfe1_arrow-nav.png" loading="lazy" alt class="img-arrow-nav"></div>
+                      <div class="gradient-spacer menu ressources"></div>
+                      <div class="grid-inner-ressources"><a href="/en/blog" class="nav-link-with-icon blog-hover w-inline-block">
+                          <div class="icon-link-nav">
+                            <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc597f2119fe66_les%20guides-icon.webp" loading="lazy" width="26" alt class="icon-navigation">
+                            <div>
+                              <div class="nav-menu-title"><strong>Blog</strong></div>
+                              <div class="nav-menu-text-2">Find our best tips for managing your establishment</div>
+                            </div>
+                          </div>
+                        </a><a href="/en/simulateur" class="nav-link-with-icon simulator-hover w-inline-block">
+                          <div class="icon-link-nav">
+                            <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/64f1c7ebb7bd18d4e0c4db66_simulateur.webp" loading="lazy" width="26" alt class="icon-navigation">
+                            <div>
+                              <div class="nav-menu-title"><strong>Profitability simulator</strong></div>
+                              <div class="nav-menu-text-2">Calculate the profitability of Innovorder solutions for your restaurant</div>
+                            </div>
+                          </div>
+                          <div class="new-label white">
+                            <div>New</div>
+                          </div>
+                        </a><a href="/en/resources/ebook" class="nav-link-with-icon livres-hover w-inline-block">
+                          <div class="icon-link-nav">
+                            <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/641cace739119c2a21804963_liver%20blanc%20-%20icon.png" loading="lazy" width="26" alt class="icon-navigation">
+                            <div>
+                              <div class="nav-menu-title"><strong>White papers</strong></div>
+                              <div class="nav-menu-text-2">Download our guides and white papers to boost your business</div>
+                            </div>
+                          </div>
+                        </a><a href="/en/resources/webinars" class="nav-link-with-icon webinaries-hover w-inline-block">
+                          <div class="icon-link-nav">
+                            <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/641cad0b29da2fb95ca951e9_webinaires%20icon.png" loading="lazy" width="26" alt class="icon-navigation">
+                            <div>
+                              <div class="nav-menu-title"><strong>Webinars</strong></div>
+                              <div class="nav-menu-text-2">View the conferences organized by Innovorder</div>
+                            </div>
+                          </div>
+                        </a><a href="https://podcast.ausha.co/innovorder" class="nav-link-with-icon podcasts-hover w-inline-block">
+                          <div class="icon-link-nav">
+                            <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59bb8a19fe6e_conseil-icon.webp" loading="lazy" width="26" alt class="icon-navigation">
+                            <div>
+                              <div class="nav-menu-title"><strong>Podcasts</strong></div>
+                              <div class="nav-menu-text-2">Listen to inspiring stories from restaurant professionals</div>
+                            </div>
+                          </div>
+                        </a><a href="/en/success-stories" class="nav-link-with-icon success-stories w-inline-block">
+                          <div class="icon-link-nav">
+                            <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6496cdd7d19cdbecbb7e1a78_success-stories.webp" loading="lazy" width="26" alt class="icon-navigation">
+                            <div>
+                              <div class="nav-menu-title"><strong>Success Stories</strong></div>
+                              <div class="nav-menu-text-2">Get inspired by the testimonials of ambitious restaurateurs</div>
+                            </div>
+                          </div>
+                        </a><a href="/en/comparative" class="nav-link-with-icon comparer-hover w-inline-block">
+                          <div class="icon-link-nav">
+                            <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6496ce214c1b19e55cc1684c_Picto%20comparateur%201.webp" loading="lazy" width="26" alt class="icon-navigation">
+                            <div>
+                              <div class="nav-menu-title"><strong>Compare Innovorder</strong></div>
+                              <div class="nav-menu-text-2">Discover why Innovorder is the right solution for your restaurant</div>
+                            </div>
+                          </div>
+                        </a><a href="/ressources/glossaire" class="nav-link-with-icon glossaire-hover w-inline-block">
+                          <div class="icon-link-nav">
+                            <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/641cacf77e86cd994a19b3c4_glossaire-icon.png" loading="lazy" width="26" alt class="icon-navigation">
+                            <div>
+                              <div class="nav-menu-title"><strong>Glossary</strong></div>
+                              <div class="nav-menu-text-2">Become an expert on the digital transformation of the restaurant industry</div>
+                            </div>
+                          </div>
+                        </a><a href="/en/faq" class="nav-link-with-icon faq-hover w-inline-block">
+                          <div class="icon-link-nav">
+                            <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59497c19fe5b_tendances-icon.webp" loading="lazy" width="26" alt class="icon-navigation">
+                            <div>
+                              <div class="nav-menu-title"><strong>Help Center/ FAQ</strong></div>
+                              <div class="nav-menu-text-2">Find all the answers to your questions</div>
+                            </div>
+                          </div>
+                        </a></div>
+                    </div>
+                    <a href="/en/ebook/restauration-2030-le-guide-pour-comprendre-anticiper-et-piloter-son-reseau" class="block-quote-success bchef w-inline-block">
+                      <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6a3d35758cdfb95b7600cf78_ebook.avif" loading="lazy" width="120" sizes="(max-width: 991px) 100vw, (max-width: 1439px) 79px, 5vw" alt srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6a3d35758cdfb95b7600cf78_ebook-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6a3d35758cdfb95b7600cf78_ebook-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6a3d35758cdfb95b7600cf78_ebook.avif 864w" class="image-20">
+                      <div class="bchef-txt-nav">Foodservice 2030: Understanding, Anticipating, and Managing Your Network.</div>
+                      <div class="livres-blancs-nav">
+                        <div>White papers<span class="innov-pink">.</span></div>
+                        <div class="underline-content-type-grad"></div>
+                      </div>
+                      <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/6418df12650d9714a7e8f9ad_new%20img.svg" loading="lazy" width="73" alt class="new-svg v2">
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="bottom-menu-mobile">
+                <div class="menu-button-wrapper"><a href="/en/contact-us" class="button-icon-navbar w-inline-block">
+                    <div class="text-block-32">Talk to an expert</div>
+                  </a></div>
+                <div class="phone---lang-wrap"><a href="tel:+33186954983" class="dropdown-toggle-nav-2 phone-mobile w-inline-block">
+                    <div class="nous-contacter-wrapper">
+                      <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59315519fc7b_phone-icon.svg" alt="contact" class="social-icon">
+                      <div class="phone-contact-wrapper">
+                        <div class="nous-contacter-text">Contact us </div>
+                        <div class="nous-contacter-number"><span class="gradient-text">+33 1 86 95 49 83</span></div>
+                      </div>
+                    </div>
+                  </a></div>
+              </div>
+            </div>
+          </div>
+        </nav>
+      </div>
+      <div class="wg-element-wrapper sw3" data-wg-notranslate><a lang="en" data-w-id="7f17fd5a-2482-ebfb-f802-128c9309125c" href="#" class="wg-selector-2 s1 w-inline-block">
+          <div class="wg-selector-2-fill f1c"></div>
+          <div class="wg-selector2-text-lang1">EN</div>
+        </a><a lang="fr" data-w-id="7f17fd5a-2482-ebfb-f802-128c93091260" href="#" class="wg-selector-2 s2 w-inline-block">
+          <div class="wg-selector-2-fill f2"></div>
+          <div class="wg-selector2-text-lang2">FR</div>
+        </a></div>
+      <div class="hamburger-menu w-nav-button">
+        <div class="burger-button-wrapper">
+          <div class="burger-line-top"></div>
+          <div class="burger-line-middle"></div>
+          <div class="burger-line-bottom"></div>
+        </div>
+      </div>
+    </div>
+    <div class="superbuttoncode_don-t-delete w-embed">
+      <style is:inline>
+  [ph-button-mode="2"] {
+  	--button--hover-text: #261a63;
+    --button--hover-border: #ff5570;
+    --button--hover-background: #ff5570;
+   	--button--text: #261a63;
+    --button--border: #ff5570;
+    --button--background: #fff3ef;
+  	--button--arrow-border: #261a63;
+  }
+
+  [ph-button-size="s"] {
+  	--button--padding-horizontal: 1.5rem;
+    --button--padding-vertical: 0.75rem;
+  }
+  [ph-button-size="xs"] {
+  	--button--padding-horizontal: 1rem;
+    --button--padding-vertical: 0.5rem;
+  }
+  [ph-button-size="l"] {
+  	--button--padding-horizontal: 2rem;
+    --button--padding-vertical: 1rem;
+  }
+
+  [ph-button-style="arrow"] {
+  	--button--radius: 50vw;
+    --button--padding-horizontal: 0.2rem;
+    --button--padding-vertical: 0.2rem;
+    fill: linear-gradient(153deg, #FB9F6D 13.05%, #FE5661 83.33%)!important;
+  	--button--arrow-border: transparent;
+  }
+  [ph-button-style="arrow"] .ph-button-text {
+  	display: none;
+  }
+  </style>
+    </div>
+  </div>
+  <div class="section-hero-n">
+    <div class="container-1280">
+      <h1 class="heading-blog">The <span class="gradient-text">restaurateurs</span> of the future<span class="gradient-text">.</span></h1>
+      <div class="gradient-spacer blog"></div>
+      <h2 class="sub-head-blog">The blog of the commercial and collective catering</h2>
+      <div class="categories-1-wrap"><a href="/en/categories/digital-transformation-restoration" class="category-block w-inline-block">
+          <div class="category-name">Expanding your business</div>
+        </a><a href="/en/categories/opening-a-restaurant" class="category-block w-inline-block">
+          <div class="category-name">Opening or taking over a restaurant</div>
+        </a><a href="/en/categories/catering-trends" class="category-block last w-inline-block">
+          <div class="category-name">Trends and news</div>
+        </a><a href="/en/categories/collective-catering" class="category-block w-inline-block">
+          <div class="category-name">The challenges of foodservice</div>
+        </a></div>
+      <div data-hover="false" data-delay="0" class="dropdown w-dropdown">
+        <div class="dropdown-filter-blog w-dropdown-toggle">
+          <div class="w-icon-dropdown-toggle"></div>
+          <div>Category</div>
+        </div>
+        <nav class="dropdown-list-category-blog w-dropdown-list">
+          <div class="w-dyn-list">
+            <div role="list" class="w-dyn-items">
+              <div role="listitem" class="w-dyn-item"><a href="/en/categories/catering-trends" class="category-block w-inline-block">
+                  <div class="category-name">Trends and news</div>
+                </a></div>
+              <div role="listitem" class="w-dyn-item"><a href="/en/categories/collective-catering" class="category-block w-inline-block">
+                  <div class="category-name">The challenges of foodservice</div>
+                </a></div>
+              <div role="listitem" class="w-dyn-item"><a href="/en/categories/digital-transformation-restoration" class="category-block w-inline-block">
+                  <div class="category-name">Expanding your business</div>
+                </a></div>
+              <div role="listitem" class="w-dyn-item"><a href="/en/categories/opening-a-restaurant" class="category-block w-inline-block">
+                  <div class="category-name">Opening or taking over a restaurant </div>
+                </a></div>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </div>
+  </div>
+  <div class="section-featured">
+    <div class="container-1280">
+      <h3 class="heading-featured">Front page article</h3>
+      <div id="w-node-a431a7ee-c680-d432-ba9f-b481257686d6-6643cc04" class="collection-item-featured">
+        <a data-w-id="345611a1-cae6-12ce-77ac-414e1faa1158" href="/en/blog/13-food-service-trade-shows-not-to-be-missed-in-2026" class="featured-link w-inline-block"></a>
+        <div class="grid-featured">
+          <div id="w-node-_345611a1-cae6-12ce-77ac-414e1faa115a-6643cc04" class="featured-blog-image-div"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/68dfc529bfd85644a4d4b597_65771fbaefa20a86ffe6d9d6_iStock-1029366584.avif" loading="lazy" alt class="featured-blog-image"></div>
+          <div id="w-node-_345611a1-cae6-12ce-77ac-414e1faa115c-6643cc04" class="featured-blog-text-wrap">
+            <h3 class="post-name-featured">13 trade fairs not to be missed in 2026</h3>
+            <div class="category-name-featured">Trends and news</div>
+            <div class="featured-summary">Discover 13 not-to-be-missed catering trade shows in 2026 to anticipate trends, boost your projects and expand your professional network.</div>
+            <div class="footer-wrap-featured">
+              <div class="read-time-block">
+                <div class="read-time-txt">4</div>
+                <div class="read-time-txt min">min</div>
+                <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc597b5819ff10_readtime.png" loading="lazy" alt class="icon-read-time">
+              </div>
+              <div class="arrow-block-blog featured"><img alt="Self Ordering Kiosk" loading="eager" src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59d61d19fe05_icon.webp" class="image-arrow-blog"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section-most-recent">
+    <div class="container-1280">
+      <div class="filter-form w-form">
+        <div fs-cmsload-element="scroll-anchor" class="scroll-anchor"></div>
+        <form id="wf-form-filter" name="email-form" data-name="Email Form" method="get" fs-cmsfilter-element="filters" class="filter-form" data-wf-page-id="6493777d655aea5e6643cc04" data-wf-element-id="c31d6237-7d1b-0e3c-9eeb-35307f3787e3" data-turnstile-sitekey="0x4AAAAAAAQTptj2So4dx43e">
+          <input class="filtering-bar w-input" maxlength="256" name="field-2" fs-cmsfilter-field="name, category" data-name="Field 2" placeholder="Search for an article" type="text" id="field-2" required>
+          <h3 class="recent-posts">Latest articles published</h3>
+          <div class="most-recent-collection-wrapper w-dyn-list">
+            <div fs-cmsfilter-showquery="true" fs-cmssort-element="list" fs-cmsfilter-element="list" fs-cmsload-element="list" fs-cmsload-mode="pagination" role="list" class="most-recent-collection-list w-dyn-items"><Fragment set:html={d["most-recent-collection-list-html"]} /></div>
+            <div role="navigation" aria-label="List" class="w-pagination-wrapper pagination-blog-n"><Fragment set:html={d["pagination-blog-n-html"]} /></div>
+          </div>
+        </form>
+        <div class="w-form-done"></div>
+        <div class="w-form-fail"></div>
+      </div>
+    </div>
+  </div>
+  <div class="section-most-read">
+    <div class="container-1280">
+      <h3 class="recent-posts">3 most read articles</h3>
+      <div class="most-recent-posts-wrap"><a data-w-id="ec491bda-1212-23f7-8d9e-6cf9041961c5" href="/en/blog/13-food-service-trade-shows-not-to-be-missed-in-2026" class="most-recent-div w-inline-block">
+          <div class="most-recent-img-div"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/68dfc529bfd85644a4d4b597_65771fbaefa20a86ffe6d9d6_iStock-1029366584.avif" loading="lazy" alt class="most-recent-img"></div>
+          <div class="bottom-recent-post white">
+            <h4 class="blog-post-title">13 trade fairs not to be missed in 2026</h4>
+            <div class="category-name-recent">Trends and news</div>
+            <div class="date-readtime-wrap">
+              <div class="date-recent-post">September 8, 2025</div>
+              <div class="read-time-block">
+                <div class="read-time-txt">4</div>
+                <div class="read-time-txt min">min</div>
+                <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc597b5819ff10_readtime.png" loading="lazy" alt class="icon-read-time">
+              </div>
+            </div>
+            <div class="arrow-block-blog recent"><img alt="Self Ordering Kiosk" loading="eager" src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59d61d19fe05_icon.webp" class="image-arrow-blog"></div>
+          </div>
+        </a><a data-w-id="18ac4af1-de01-dc7c-3a2d-de5434e17a8a" href="/en/blog/2026-restaurant-marketing-calendar" class="most-recent-div w-inline-block">
+          <div class="most-recent-img-div"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/68dfbe3ac1ed2019c72cae88_calendrier.avif" loading="lazy" alt sizes="100vw" srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/68dfbe3ac1ed2019c72cae88_calendrier-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/68dfbe3ac1ed2019c72cae88_calendrier.avif 800w" class="most-recent-img"></div>
+          <div class="bottom-recent-post white">
+            <h4 class="blog-post-title">2026 marketing calendar: restaurant chestnuts</h4>
+            <div class="category-name-recent">Trends and news </div>
+            <div class="date-readtime-wrap">
+              <div class="date-recent-post">September 4, 2025</div>
+              <div class="read-time-block">
+                <div class="read-time-txt">3</div>
+                <div class="read-time-txt min">min</div>
+                <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc597b5819ff10_readtime.png" loading="lazy" alt class="icon-read-time">
+              </div>
+            </div>
+            <div class="arrow-block-blog recent"><img alt="Self Ordering Kiosk" loading="eager" src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59d61d19fe05_icon.webp" class="image-arrow-blog"></div>
+          </div>
+        </a><a data-w-id="aac0b071-31ad-b516-eb9a-7ce19fa75021" href="/en/blog/ai-catering-changes" class="most-recent-div w-inline-block">
+          <div class="most-recent-img-div"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/67c1cd56d6896f9733f00526_IA%20restauration.avif" loading="lazy" alt sizes="100vw" srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/67c1cd56d6896f9733f00526_IA%20restauration-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/67c1cd56d6896f9733f00526_IA%20restauration.avif 800w" class="most-recent-img"></div>
+          <div class="bottom-recent-post white">
+            <h4 class="blog-post-title">AI in the restaurant industry: what changes can we expect by 2026?</h4>
+            <div class="category-name-recent">Trends and news</div>
+            <div class="date-readtime-wrap">
+              <div class="date-recent-post">February 24, 2025</div>
+              <div class="read-time-block">
+                <div class="read-time-txt">3</div>
+                <div class="read-time-txt min">min</div>
+                <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc597b5819ff10_readtime.png" loading="lazy" alt class="icon-read-time">
+              </div>
+            </div>
+            <div class="arrow-block-blog recent"><img alt="Self Ordering Kiosk" loading="eager" src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59d61d19fe05_icon.webp" class="image-arrow-blog"></div>
+          </div>
+        </a></div>
+      <div data-delay="4000" data-animation="slide" class="slider-mobile-blog w-slider" data-autoplay="false" data-easing="ease" data-hide-arrows="false" data-disable-swipe="false" data-autoplay-limit="0" data-nav-spacing="3" data-duration="500" data-infinite="true">
+        <div class="mask-mobile-blog w-slider-mask">
+          <div class="slide-mobile-blog _2 w-slide"><a data-w-id="afdf3488-69e0-e066-972f-b1f39db75c86" href="/en/blog/13-food-service-trade-shows-not-to-be-missed-in-2026" class="most-recent-div w-inline-block">
+              <div class="most-recent-img-div"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/68dfc529bfd85644a4d4b597_65771fbaefa20a86ffe6d9d6_iStock-1029366584.avif" loading="lazy" alt class="most-recent-img"></div>
+              <div class="bottom-recent-post white">
+                <h4 class="blog-post-title">13 trade fairs not to be missed in 2026</h4>
+                <div class="category-name-recent">Trends and news</div>
+                <div class="date-readtime-wrap">
+                  <div class="date-recent-post">September 8, 2025</div>
+                  <div class="read-time-block">
+                    <div class="read-time-txt">4</div>
+                    <div class="read-time-txt min">min</div>
+                    <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc597b5819ff10_readtime.png" loading="lazy" alt class="icon-read-time">
+                  </div>
+                </div>
+                <div class="arrow-block-blog recent"><img alt="Self Ordering Kiosk" loading="eager" src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59d61d19fe05_icon.webp" class="image-arrow-blog"></div>
+              </div>
+            </a></div>
+          <div class="slide-mobile-blog _2 w-slide"><a data-w-id="8d872c45-5948-ebe5-54a0-3f8f53547c31" href="/en/blog/2026-restaurant-marketing-calendar" class="most-recent-div w-inline-block">
+              <div class="most-recent-img-div"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/68dfbe3ac1ed2019c72cae88_calendrier.avif" loading="lazy" alt sizes="100vw" srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/68dfbe3ac1ed2019c72cae88_calendrier-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/68dfbe3ac1ed2019c72cae88_calendrier.avif 800w" class="most-recent-img"></div>
+              <div class="bottom-recent-post white">
+                <h4 class="blog-post-title">2026 marketing calendar: restaurant chestnuts</h4>
+                <div class="category-name-recent">Trends and news </div>
+                <div class="date-readtime-wrap">
+                  <div class="date-recent-post">September 4, 2025</div>
+                  <div class="read-time-block">
+                    <div class="read-time-txt">3</div>
+                    <div class="read-time-txt min">min</div>
+                    <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc597b5819ff10_readtime.png" loading="lazy" alt class="icon-read-time">
+                  </div>
+                </div>
+                <div class="arrow-block-blog recent"><img alt="Self Ordering Kiosk" loading="eager" src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59d61d19fe05_icon.webp" class="image-arrow-blog"></div>
+              </div>
+            </a></div>
+          <div class="slide-mobile-blog _2 w-slide"><a data-w-id="b8cb3526-dc0b-18f9-2191-3a759e6d5e89" href="/en/blog/ai-catering-changes" class="most-recent-div w-inline-block">
+              <div class="most-recent-img-div"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/67c1cd56d6896f9733f00526_IA%20restauration.avif" loading="lazy" alt sizes="100vw" srcset="/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/67c1cd56d6896f9733f00526_IA%20restauration-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/67c1cd56d6896f9733f00526_IA%20restauration.avif 800w" class="most-recent-img"></div>
+              <div class="bottom-recent-post white">
+                <h4 class="blog-post-title">AI in the restaurant industry: what changes can we expect by 2026?</h4>
+                <div class="category-name-recent">Trends and news</div>
+                <div class="date-readtime-wrap">
+                  <div class="date-recent-post">February 24, 2025</div>
+                  <div class="read-time-block">
+                    <div class="read-time-txt">3</div>
+                    <div class="read-time-txt min">min</div>
+                    <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc597b5819ff10_readtime.png" loading="lazy" alt class="icon-read-time">
+                  </div>
+                </div>
+                <div class="arrow-block-blog recent"><img alt="Self Ordering Kiosk" loading="eager" src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59d61d19fe05_icon.webp" class="image-arrow-blog"></div>
+              </div>
+            </a></div>
+        </div>
+        <div class="left-arrow-blog w-slider-arrow-left">
+          <div class="left-arrow _1 w-icon-slider-left"></div>
+        </div>
+        <div class="right-arrow-blog w-slider-arrow-right">
+          <div class="right-arrow w-icon-slider-right"></div>
+        </div>
+        <div class="slide-nav-blog w-slider-nav w-slider-nav-invert w-round"></div>
+      </div>
+    </div>
+  </div>
+  <div class="section blog">
+    <div class="container-1280">
+      <div class="newsletter">All the news on the sector &amp; its innovations in one click.</div>
+      <div class="sub-head-newsletter">Subscribe to our newsletter.</div>
+      <div ph-form="newsletter" class="form-newsletter-blog w-form">
+        <form id="wf-form-Newsletter---Composant" name="wf-form-Newsletter---Composant" data-name="Newsletter - Composant" method="get" class="form-newsletter-homepage" data-wf-page-id="6493777d655aea5e6643cc04" data-wf-element-id="b62d08b2-f600-e42a-8b99-c582800b52cd" data-turnstile-sitekey="0x4AAAAAAAQTptj2So4dx43e">
+          <input class="text-input-blog mail-icon w-input" maxlength="256" name="Email" data-name="Email" placeholder="E-mail address" type="email" id="Email-3" required>
+          <input type="submit" data-wait="Please wait..." class="submit-button w-button" value>
+          <div class="newsletter_js w-embed w-script">
+            <script is:inline>
+  document.addEventListener("DOMContentLoaded", function () {
+    var fields = document.querySelectorAll("input.page_source");
+    if (!fields.length) return;
+
+    function fillSource() {
+      fields.forEach(function (field) {
+        field.value = window.location.href;
+      });
+    }
+
+    fillSource();
+
+    document.addEventListener("submit", fillSource, true);
+  });
+  </script>
+          </div>
+          <div class="newsletter_inputs w-embed"><input type="hidden" class="utm_source" placeholder="utm_source" name="utm_source">
+  <input type="hidden" class="utm_medium" placeholder="utm_medium" name="utm_medium">
+  <input type="hidden" class="utm_campaign" placeholder="utm_campaign" name="utm_campaign">
+  <input type="hidden" class="page_source" placeholder="page_source" name="page_source"></div>
+        </form>
+        <div class="success w-form-done">
+          <div>Thank you for your interest! Your request has been received!</div>
+        </div>
+        <div class="error w-form-fail">
+          <div>Oops, there was an error sending the form.</div>
+        </div>
+      </div>
+      <div class="sub-newsletter-blog">Join our Product &amp; Marketing newsletter, we will send you relevant news every month.</div>
+    </div>
+  </div>
+  <footer class="footer">
+    <div class="div-block-6">
+      <a href="/en" class="footer-logo w-inline-block"><img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg" alt="Innovorder logo" loading="lazy" class="footer-branding"></a>
+      <p class="footer-lead">Leader in innovative solutions for the restaurant industry of tomorrow.</p>
+    </div>
+    <div class="w-layout-grid footer-grid container foot">
+      <div id="w-node-d1af630f-6d31-7a6c-5904-a5b8022d3429-0bdc507b" class="footer-content-wrapper">
+        <div class="footer-section-title red">Solutions</div>
+        <div class="w-layout-grid footer-link-grid">
+          <a id="w-node-_9830f694-44c8-117f-08a5-b981381a8c3a-0bdc507b" href="/en/self-ordering-kiosk" class="footer-link w-inline-block">
+            <div>Self Ordering Kiosk</div>
+            <div class="hover-line"></div>
+          </a>
+          <link rel="prerender" href="/en/self-ordering-kiosk">
+          <a id="w-node-bdfdb127-706a-f060-80cd-da195a064950-0bdc507b" href="/en/pad-de-commande" class="footer-link w-inline-block">
+            <div>Control Pad</div>
+            <div class="hover-line"></div>
+          </a>
+          <link rel="prerender" href="/en/pad-de-commande">
+          <a id="w-node-_2a6ccbab-265f-eb52-1937-82c60430a822-0bdc507b" href="/en/online-ordering-for-restaurant" class="footer-link w-inline-block">
+            <div>Online Ordering</div>
+            <div class="hover-line"></div>
+          </a>
+          <link rel="prerender" href="/en/online-ordering-for-restaurant">
+          <a id="w-node-fd92dfec-4793-db85-93d5-44194abd50fd-0bdc507b" href="/en/tray-scan" class="footer-link w-inline-block">
+            <div>IA Scan</div>
+            <div class="hover-line"></div>
+          </a>
+          <link rel="prerender" href="/en/tray-scan">
+          <a id="w-node-_3cf4ba53-6cfa-9878-04c2-ed373fa81f98-0bdc507b" href="/en/order-at-table-system" class="footer-link w-inline-block">
+            <div>Order at the table</div>
+            <div class="hover-line"></div>
+          </a>
+          <link rel="prerender" href="/en/order-at-table-system">
+          <a id="w-node-_0feaa18e-ca61-2ba4-62a2-43e8f02bb96d-0bdc507b" href="/en/connected-fridges" class="footer-link w-inline-block">
+            <div>Connected fridge</div>
+            <div class="hover-line"></div>
+          </a>
+          <link rel="prerender" href="/en/connected-fridges">
+          <a id="w-node-_722f4a2e-2a3e-64cf-56db-7fb10dc7d478-0bdc507b" href="/en/innovorder-foodcourt" class="footer-link w-inline-block">
+            <div>Innovorder Foodcourt</div>
+            <div class="hover-line"></div>
+          </a>
+          <link rel="prerender" href="/en/innovorder-foodcourt">
+          <a id="w-node-_0dee5978-e8fc-fa73-e6e0-7578959fd79d-0bdc507b" href="/en/restaurant-touch-cash-register" class="footer-link w-inline-block">
+            <div>Cash register</div>
+            <div class="hover-line"></div>
+          </a>
+          <link rel="prerender" href="/en/restaurant-touch-cash-register">
+          <a id="w-node-_4d00a94d-c7c5-15f2-a55c-608e93387c46-0bdc507b" href="/en/automated-cash-recycling-system" class="footer-link w-inline-block">
+            <div>Automatic coin acceptor</div>
+            <div class="hover-line"></div>
+          </a>
+          <link rel="prerender" href="/en/automated-cash-recycling-system">
+          <a id="w-node-_31e57bff-cb0f-1a49-8c77-6beb1dad3198-0bdc507b" href="/en/e-wallet" class="footer-link w-inline-block">
+            <div>E-wallet</div>
+            <div class="hover-line"></div>
+          </a>
+          <link rel="prerender" href="/en/e-wallet">
+          <a id="w-node-_4fed9b69-dc42-f72b-7537-1573d4c5473a-0bdc507b" href="/en/tpe-restaurant" class="footer-link w-inline-block">
+            <div>very small enterprise </div>
+            <div class="hover-line"></div>
+          </a>
+          <link rel="prerender" href="/en/tpe-restaurant">
+          <a id="w-node-b14b48b0-2b0b-bee8-9437-ec0dd6407843-0bdc507b" href="/en/io-pay" class="footer-link w-inline-block">
+            <div>Innovorder Pay</div>
+            <div class="hover-line"></div>
+          </a>
+          <a id="w-node-_99d71376-62ae-5fe9-d5be-9e88c254594a-0bdc507b" href="/en/kitchen-display-system" class="footer-link w-inline-block">
+            <div>Kitchen Display System</div>
+            <div class="hover-line"></div>
+          </a>
+          <link rel="prerender" href="/en/kitchen-display-system">
+          <a id="w-node-_9877391d-a13d-0e9e-739f-6cb1e777766e-0bdc507b" href="/en/order-display-system" class="footer-link w-inline-block">
+            <div>Client screen</div>
+            <div class="hover-line"></div>
+          </a>
+          <link rel="prerender" href="/en/order-display-system">
+          <a id="w-node-_7bdf7a97-8de6-cf92-1562-3b2cfced5d08-0bdc507b" href="/en/reception" class="footer-link w-inline-block">
+            <div>Reception</div>
+            <div class="hover-line"></div>
+          </a>
+          <link rel="prerender" href="/en/reception">
+          <a id="w-node-f03e5421-0f3f-2531-ad5d-d64c8e590b22-0bdc507b" href="/en/io-analytics" class="footer-link w-inline-block">
+            <div>IO Analytics</div>
+            <div class="hover-line"></div>
+          </a>
+          <link rel="prerender" href="/en/io-analytics">
+          <a id="w-node-_1707d742-51dc-4114-fb18-1628fb77c251-0bdc507b" href="/en/restaurant-pos-software" class="footer-link w-inline-block">
+            <div>Back Office</div>
+            <div class="hover-line"></div>
+          </a>
+          <a id="w-node-_8ae228e7-0e9e-e2c0-d9e9-78846b6b0de9-0bdc507b" href="/en/loyalty-program-restaurant" class="footer-link w-inline-block">
+            <div>Loyalty Program</div>
+            <div class="hover-line"></div>
+          </a>
+          <link rel="prerender" href="/en/loyalty-program-restaurant">
+        </div>
+      </div>
+      <div id="w-node-_4919b486-dffa-6027-9014-cf1614680bb6-0bdc507b" class="footer-content-wrapper">
+        <div class="footer-section-title red">Expertise</div>
+        <div class="w-layout-grid footer-link-grid">
+          <div class="footer-section-title no-space _1"><strong>Collective catering</strong></div>
+          <a id="w-node-_361e9bb4-f4fa-71bf-359d-7fb0303a146c-0bdc507b" href="/en/collective-catering/healthcare" class="footer-link w-inline-block">
+            <div>Health</div>
+            <div class="hover-line"></div>
+          </a>
+          <a id="w-node-_361e9bb4-f4fa-71bf-359d-7fb0303a1470-0bdc507b" href="/en/collective-catering/enterprise" class="footer-link w-inline-block">
+            <div>Company</div>
+            <div class="hover-line"></div>
+          </a>
+          <a id="w-node-_47f8b4bb-9019-dae5-f53c-e4744980a35e-0bdc507b" href="/en/collective-catering/school" class="footer-link w-inline-block">
+            <div>Teaching</div>
+            <div class="hover-line"></div>
+          </a>
+          <a id="w-node-_469ef9e1-2254-a27a-d66e-e1d0e6599825-0bdc507b" href="/en/collective-catering/administration" class="footer-link w-inline-block">
+            <div>Administration</div>
+            <div class="hover-line"></div>
+          </a>
+        </div>
+        <div class="w-layout-grid footer-link-grid">
+          <div class="footer-section-title no-space"><strong>Commercial catering</strong></div>
+          <a id="w-node-f14ccf2a-e781-9d8d-4e1d-e529692e1086-0bdc507b" href="/en/commercial-catering/fast-food" class="footer-link w-inline-block">
+            <div>Fast food</div>
+            <div class="hover-line"></div>
+          </a>
+          <a id="w-node-f14ccf2a-e781-9d8d-4e1d-e529692e108a-0bdc507b" href="/en/commercial-catering/food-court" class="footer-link w-inline-block">
+            <div>Food court</div>
+            <div class="hover-line"></div>
+          </a>
+          <a id="w-node-f14ccf2a-e781-9d8d-4e1d-e529692e108e-0bdc507b" href="/en/commercial-catering/franchise" class="footer-link w-inline-block">
+            <div>Franchise</div>
+            <div class="hover-line"></div>
+          </a>
+          <a id="w-node-f14ccf2a-e781-9d8d-4e1d-e529692e1092-0bdc507b" href="/en/commercial-catering/dark-kitchen" class="footer-link w-inline-block">
+            <div>Dark kitchen</div>
+            <div class="hover-line"></div>
+          </a>
+          <a id="w-node-_14da4b34-8838-817a-6fda-bb1a8667f42f-0bdc507b" href="/en/commercial-catering/bowling" class="footer-link w-inline-block">
+            <div>Bowling</div>
+            <div class="hover-line"></div>
+          </a>
+          <a id="w-node-f736f8c4-5e59-2aa8-2d48-96f43eea9ab8-0bdc507b" href="/en/commercial-catering/camping" class="footer-link w-inline-block">
+            <div>Campsite</div>
+            <div class="hover-line"></div>
+          </a>
+          <a id="w-node-ab836ba7-dcfa-f483-a724-4e2f784f84a9-0bdc507b" href="/en/commercial-catering/amusement-parks" class="footer-link w-inline-block">
+            <div><strong>Amusement park</strong></div>
+            <div class="hover-line"></div>
+          </a>
+          <a id="w-node-_19047cad-cd17-a0e3-75eb-109e22aebe96-0bdc507b" href="/en/commercial-catering/leisure-park" class="footer-link w-inline-block">
+            <div>Leisure area</div>
+            <div class="hover-line"></div>
+          </a>
+        </div>
+      </div>
+      <div id="w-node-_3200fa9d-54f7-c4f1-adb0-f29076aba903-0bdc507b" class="footer-content-wrapper">
+        <div class="footer-section-title red"><strong>Company</strong></div>
+        <div class="w-layout-grid footer-link-grid">
+          <a id="w-node-d3efc67e-c978-af9f-2c0f-e85d0d55f9d0-0bdc507b" href="/en/price" class="footer-link w-inline-block">
+            <div>Price</div>
+            <div class="hover-line"></div>
+          </a>
+          <link rel="prerender" href="/en/price">
+          <a id="w-node-d3efc67e-c978-af9f-2c0f-e85d0d55f9d4-0bdc507b" href="/en/connection" class="footer-link w-inline-block">
+            <div>Contact us</div>
+            <div class="hover-line"></div>
+          </a>
+          <link rel="prerender" href="/en/connection">
+          <a id="w-node-cfe908a5-6add-f4a7-c8e1-2247359b6313-0bdc507b" href="/en/our-vision" class="footer-link w-inline-block">
+            <div>Who are we?</div>
+            <div class="hover-line"></div>
+          </a>
+          <a id="w-node-_80b96797-6767-55c5-3cab-095c9643d912-0bdc507b" href="/en/ia-is-at-the-heart-of-innovorder-vision" class="footer-link w-inline-block">
+            <div>Innovorder and AI</div>
+            <div class="hover-line"></div>
+          </a>
+          <a id="w-node-_6fd7a171-4df5-274a-fb04-ce329b455d70-0bdc507b" href="/en/media" class="footer-link w-inline-block">
+            <div>Press area</div>
+            <div class="hover-line"></div>
+          </a>
+          <link rel="prerender" href="/en/media">
+          <a id="w-node-_42b474a5-2619-c49b-dd52-cdf3355e4034-0bdc507b" href="https://careers.innovorder.com/" target="_blank" class="footer-link w-inline-block">
+            <div>Join us</div>
+            <div class="hover-line"></div>
+          </a>
+        </div>
+        <div class="footer-section-title inte"><strong>Integrations</strong></div>
+        <div class="w-layout-grid footer-link-grid">
+          <a id="w-node-c5432f20-557f-039e-ca7f-cc02f57dcf5b-0bdc507b" href="/en/integrations" class="footer-link w-inline-block">
+            <div>All integrations</div>
+            <div class="hover-line"></div>
+          </a>
+          <link rel="prerender" href="/en/integrations">
+          <a id="w-node-c5432f20-557f-039e-ca7f-cc02f57dcf5f-0bdc507b" href="https://developers.innovorder.fr/" target="_blank" class="footer-link w-inline-block">
+            <div>Developer API</div>
+            <div class="hover-line"></div>
+          </a>
+        </div>
+      </div>
+      <div id="w-node-ae271cef-0601-d7dc-fff8-ae127553b80e-0bdc507b" class="footer-content-wrapper">
+        <div class="footer-section-title red"><strong>Resources</strong></div>
+        <div class="w-layout-grid footer-link-grid">
+          <a id="w-node-ae271cef-0601-d7dc-fff8-ae127553b812-0bdc507b" href="/en/faq" class="footer-link w-inline-block">
+            <div>Help Center</div>
+            <div class="hover-line"></div>
+          </a>
+          <link rel="prerender" href="/en/faq">
+          <a id="w-node-ae271cef-0601-d7dc-fff8-ae127553b816-0bdc507b" href="/en/blog" class="footer-link w-inline-block">
+            <div>Blog</div>
+            <div class="hover-line"></div>
+          </a>
+          <a id="w-node-f4eea050-a69e-c930-ea23-2564cd0ea835-0bdc507b" href="/en/success-stories" class="footer-link w-inline-block">
+            <div>Success stories</div>
+            <div class="hover-line"></div>
+          </a>
+          <a id="w-node-_6b67c85d-3fa5-573d-4731-2af1203a8459-0bdc507b" href="/en/simulateur" class="footer-link w-inline-block">
+            <div>Profitability simulator</div>
+            <div class="hover-line"></div>
+          </a>
+          <a id="w-node-_2a9e1e82-fe54-861d-869d-5f702c62a87f-0bdc507b" href="https://podcasts.apple.com/au/podcast/restaurateurs-de-demain/id1508298088" class="footer-link w-inline-block">
+            <div>Podcasts</div>
+            <div class="hover-line"></div>
+          </a>
+          <a id="w-node-b040f844-af71-165e-d6f4-79047be18277-0bdc507b" href="/en/resources/webinars" class="footer-link w-inline-block">
+            <div>Webinars</div>
+            <div class="hover-line"></div>
+          </a>
+          <a id="w-node-dcbfd2a3-a3f2-98d7-0b3c-291cfe1315d4-0bdc507b" href="/en/resources/ebook" class="footer-link w-inline-block">
+            <div>White papers</div>
+            <div class="hover-line"></div>
+          </a>
+          <a id="w-node-dac066a8-e5c7-f2fc-9262-de1002cbd2e3-0bdc507b" href="/ressources/glossaire" class="footer-link w-inline-block">
+            <div>Glossary</div>
+            <div class="hover-line"></div>
+          </a>
+          <a id="w-node-_1d4f119d-88a3-4cec-aa3a-7f78488aace1-0bdc507b" href="/en/nf525-certification" class="footer-link w-inline-block">
+            <div>About NF525</div>
+            <div class="hover-line"></div>
+          </a>
+        </div>
+      </div>
+      <div id="w-node-bc7d43eb-c89c-a20f-01ae-2c950d9c14df-0bdc507b" class="footer-content-wrapper">
+        <div class="footer-section-title red"><strong>Comparator</strong></div>
+        <div class="w-layout-grid footer-link-grid">
+          <a id="w-node-bc7d43eb-c89c-a20f-01ae-2c950d9c14e4-0bdc507b" href="/en/comparative/innovorder-vs-tabesto" class="footer-link w-inline-block">
+            <div>Tabesto</div>
+            <div class="hover-line"></div>
+          </a>
+          <link rel="prerender" href="/en/comparative/innovorder-vs-tabesto">
+          <a id="w-node-bc7d43eb-c89c-a20f-01ae-2c950d9c14e8-0bdc507b" href="/en/comparative/innovorder-vs-zelty" class="footer-link w-inline-block">
+            <div>Zelty</div>
+            <div class="hover-line"></div>
+          </a>
+          <a id="w-node-bc7d43eb-c89c-a20f-01ae-2c950d9c14ec-0bdc507b" href="/en/comparative/innovorder-vs-splash-360" class="footer-link w-inline-block">
+            <div>Splash360</div>
+            <div class="hover-line"></div>
+          </a>
+          <a id="w-node-bc7d43eb-c89c-a20f-01ae-2c950d9c14f0-0bdc507b" href="/en/comparative/innovorder-vs-lightspeed" class="footer-link w-inline-block">
+            <div>Lightspeed</div>
+            <div class="hover-line"></div>
+          </a>
+          <a id="w-node-bc7d43eb-c89c-a20f-01ae-2c950d9c14f4-0bdc507b" href="/en/comparative/innovorder-vs-laddition" class="footer-link w-inline-block">
+            <div>The Addition</div>
+            <div class="hover-line"></div>
+          </a>
+          <a id="w-node-bc7d43eb-c89c-a20f-01ae-2c950d9c14fc-0bdc507b" href="/en/comparative/innovorder-vs-x-gil" class="footer-link w-inline-block">
+            <div>X-Gil</div>
+            <div class="hover-line"></div>
+          </a>
+          <a id="w-node-_650971fb-6fe4-1170-ce3b-f8fd933fc319-0bdc507b" href="/en/comparative/innovorder-vs-pielectronique" class="footer-link w-inline-block">
+            <div>Pi Electronics</div>
+            <div class="hover-line"></div>
+          </a>
+          <a id="w-node-_4966b006-1443-9337-3aef-7fa34e826fa1-0bdc507b" href="/en/comparative/io-vs-obypay" class="footer-link w-inline-block">
+            <div>Obypay</div>
+            <div class="hover-line"></div>
+          </a>
+          <a id="w-node-_9bac2619-3d32-f014-402f-d6bac0e524eb-0bdc507b" href="/en/comparative/io-vs-menlog" class="footer-link w-inline-block">
+            <div>Menlog</div>
+            <div class="hover-line"></div>
+          </a>
+          <a id="w-node-_21efd4d3-f6de-8db7-bbc9-445a2a67c9ec-0bdc507b" href="/en/comparative/io-vs-synapsy" class="footer-link w-inline-block">
+            <div>Synapsy</div>
+            <div class="hover-line"></div>
+          </a>
+          <a id="w-node-_98250496-c6d3-558b-b90a-e2364351c2e2-0bdc507b" href="/en/comparative/innovorder-vs-popina" class="footer-link w-inline-block">
+            <div>Popina</div>
+            <div class="hover-line"></div>
+          </a>
+          <a id="w-node-_40e98445-2c4e-d8ce-aa4e-e18cbdd340d4-0bdc507b" href="/en/comparative/Innovorder-vs-softavera" class="footer-link w-inline-block">
+            <div>Softavera</div>
+            <div class="hover-line"></div>
+          </a>
+          <a id="w-node-_898b7bff-4a57-9a2b-e306-c3b1bb32347a-0bdc507b" href="/en/comparative/innovorder-vs-csi" class="footer-link w-inline-block">
+            <div>CSI</div>
+            <div class="hover-line"></div>
+          </a>
+          <a id="w-node-_4330909d-275b-3034-b75c-87312a29095c-0bdc507b" href="/en/comparative/innovorder-vs-jes" class="footer-link w-inline-block">
+            <div>JES</div>
+            <div class="hover-line"></div>
+          </a>
+        </div>
+      </div>
+      <div id="w-node-_096c0788-f6ab-6bca-bb16-f297e15c507f-0bdc507b" class="footer-content-wrapper">
+        <div class="w-layout-grid footer-link-grid-wide">
+          <div class="div-block-12">
+            <div class="div-block-13">
+              <a id="w-node-_096c0788-f6ab-6bca-bb16-f297e15c5083-0bdc507b" href="https://twitter.com/Innovorder" target="_blank" class="footer-link w-inline-block">
+                <div class="social-icon w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter-x" viewBox="0 0 16 16">
+    <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z"/>
+  </svg></div>
+                <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc59d1c119f9ac_iconmonstr-twitter-4.svg" alt="Twitter" loading="eager" class="social-icon footer-social-hidden-image">
+              </a>
+              <link rel="prerender" href="https://twitter.com/Innovorder">
+              <a id="w-node-_096c0788-f6ab-6bca-bb16-f297e15c5089-0bdc507b" href="https://www.instagram.com/innovorder/" target="_blank" class="footer-link w-inline-block">
+                <div class="social-icon w-embed"><svg aria-hidden="true" role="img" width="1em" height="1em" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Instagram icon</title><path d="M12 0C8.74 0 8.333.015 7.053.072 5.775.132 4.905.333 4.14.63c-.789.306-1.459.717-2.126 1.384S.935 3.35.63 4.14C.333 4.905.131 5.775.072 7.053.012 8.333 0 8.74 0 12s.015 3.667.072 4.947c.06 1.277.261 2.148.558 2.913.306.788.717 1.459 1.384 2.126.667.666 1.336 1.079 2.126 1.384.766.296 1.636.499 2.913.558C8.333 23.988 8.74 24 12 24s3.667-.015 4.947-.072c1.277-.06 2.148-.262 2.913-.558.788-.306 1.459-.718 2.126-1.384.666-.667 1.079-1.335 1.384-2.126.296-.765.499-1.636.558-2.913.06-1.28.072-1.687.072-4.947s-.015-3.667-.072-4.947c-.06-1.277-.262-2.149-.558-2.913-.306-.789-.718-1.459-1.384-2.126C21.319 1.347 20.651.935 19.86.63c-.765-.297-1.636-.499-2.913-.558C15.667.012 15.26 0 12 0zm0 2.16c3.203 0 3.585.016 4.85.071 1.17.055 1.805.249 2.227.415.562.217.96.477 1.382.896.419.42.679.819.896 1.381.164.422.36 1.057.413 2.227.057 1.266.07 1.646.07 4.85s-.015 3.585-.074 4.85c-.061 1.17-.256 1.805-.421 2.227-.224.562-.479.96-.899 1.382-.419.419-.824.679-1.38.896-.42.164-1.065.36-2.235.413-1.274.057-1.649.07-4.859.07-3.211 0-3.586-.015-4.859-.074-1.171-.061-1.816-.256-2.236-.421-.569-.224-.96-.479-1.379-.899-.421-.419-.69-.824-.9-1.38-.165-.42-.359-1.065-.42-2.235-.045-1.26-.061-1.649-.061-4.844 0-3.196.016-3.586.061-4.861.061-1.17.255-1.814.42-2.234.21-.57.479-.96.9-1.381.419-.419.81-.689 1.379-.898.42-.166 1.051-.361 2.221-.421 1.275-.045 1.65-.06 4.859-.06l.045.03zm0 3.678c-3.405 0-6.162 2.76-6.162 6.162 0 3.405 2.76 6.162 6.162 6.162 3.405 0 6.162-2.76 6.162-6.162 0-3.405-2.76-6.162-6.162-6.162zM12 16c-2.21 0-4-1.79-4-4s1.79-4 4-4 4 1.79 4 4-1.79 4-4 4zm7.846-10.405c0 .795-.646 1.44-1.44 1.44-.795 0-1.44-.646-1.44-1.44 0-.794.646-1.439 1.44-1.439.793-.001 1.44.645 1.44 1.439z"/></svg></div>
+                <img src="/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc596f4519f9a9_iconmonstr-instagram-14.svg" alt="Instagram" loading="eager" class="social-icon footer-social-hidden-image">
+              </a>
+              <link rel="prerender" href="https://www.instagram.com/innovorder/">
+              <a id="w-node-_096c0788-f6ab-6bca-bb16-f297e15c508f-0bdc507b" href="https://www.facebook.com/innovorder" target="_blank" class="footer-link w-inline-block">
+                <div class="social-icon w-embed"><svg aria-hidden="true" role="img" width="1em" height="1em" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Facebook icon</title><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg></div>
+              </a>
+              <link rel="prerender" href="https://www.facebook.com/innovorder">
+              <a id="w-node-_96d899fa-aabe-966a-312a-d4c6588a3a61-0bdc507b" href="https://www.linkedin.com/company/innovorder/" target="_blank" class="footer-link w-inline-block">
+                <div class="social-icon w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" fill="currentColor"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg></div>
+              </a>
+              <link rel="prerender" href="https://www.linkedin.com/company/innovorder/">
+              <a href="https://www.youtube.com/@innovorder_io" target="_blank" class="footer-link w-inline-block">
+                <div class="social-icon w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-youtube" viewBox="0 0 16 16">
+    <path d="M8.051 1.999h.089c.822.003 4.987.033 6.11.335a2.01 2.01 0 0 1 1.415 1.42c.101.38.172.883.22 1.402l.01.104.022.26.008.104c.065.914.073 1.77.074 1.957v.075c-.001.194-.01 1.108-.082 2.06l-.008.105-.009.104c-.05.572-.124 1.14-.235 1.558a2.01 2.01 0 0 1-1.415 1.42c-1.16.312-5.569.334-6.18.335h-.142c-.309 0-1.587-.006-2.927-.052l-.17-.006-.087-.004-.171-.007-.171-.007c-1.11-.049-2.167-.128-2.654-.26a2.01 2.01 0 0 1-1.415-1.419c-.111-.417-.185-.986-.235-1.558L.09 9.82l-.008-.104A31 31 0 0 1 0 7.68v-.123c.002-.215.01-.958.064-1.778l.007-.103.003-.052.008-.104.022-.26.01-.104c.048-.519.119-1.023.22-1.402a2.01 2.01 0 0 1 1.415-1.42c.487-.13 1.544-.21 2.654-.26l.17-.007.172-.006.086-.003.171-.007A100 100 0 0 1 7.858 2zM6.4 5.209v4.818l4.157-2.408z"/>
+  </svg></div>
+              </a>
+              <link rel="prerender" href="https://www.youtube.com/@innovorder_io">
+            </div>
+            <div class="text-block-91 space">Made with love in Paris ❤️</div>
+          </div>
+          <div class="footer-sub-wrap">
+            <a href="/en/terms-and-conditions" class="footer-link w-inline-block">
+              <div class="text-block-58">Terms &amp; Conditions &amp; Legal Notice</div>
+              <div class="hover-line"></div>
+            </a>
+            <div class="text-block-92">© Copyright 2026 - Innovorder SAS</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+</BaseLayout>

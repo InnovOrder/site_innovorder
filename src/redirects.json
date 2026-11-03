@@ -1,0 +1,258 @@
+{
+  "/blog-categories/restauration-collective": {
+    "status": 301,
+    "destination": "/categories/restauration-collective"
+  },
+  "/blog/10-conseils-cles-pour-accroitre-la-rentabilite-dune-dark-kitchen": {
+    "status": 301,
+    "destination": "/blog/comment-ouvrir-une-dark-kitchen"
+  },
+  "/blog/5-questions-federation-francaise-aperitif": {
+    "status": 301,
+    "destination": "/blog"
+  },
+  "/blog/avantages-caisse-enregistreuse-portable-fast-food": {
+    "status": 301,
+    "destination": "/blog/quelle-caisse-enregistreuse-choisir-pour-votre-restaurant"
+  },
+  "/blog/borne-commande-restaurant-guide": {
+    "status": 301,
+    "destination": "/borne-de-commande"
+  },
+  "/blog/borne-de-commande-boostez-le-chiffre-affaires-de-votre-restaurant-et-experience-client": {
+    "status": 301,
+    "destination": "/borne-de-commande"
+  },
+  "/blog/cas-usage-borne-de-commande-pour-restauration-collective": {
+    "status": 301,
+    "destination": "/borne-de-commande"
+  },
+  "/blog/certification-caisse-enregistreuse": {
+    "status": 301,
+    "destination": "/blog/comment-savoir-si-sa-caisse-enregistreuse-est-aux-normes"
+  },
+  "/blog/changer-de-caisse-enregistreuse-sans-perdre-ca": {
+    "status": 301,
+    "destination": "/blog/quelle-caisse-enregistreuse-choisir-pour-votre-restaurant"
+  },
+  "/blog/choix-emplacement-restaurant-franchise": {
+    "status": 301,
+    "destination": "/restauration-commerciale/franchise"
+  },
+  "/blog/comment-bien-choisir-sa-caisse-enregistreuse": {
+    "status": 301,
+    "destination": "/blog/quelle-caisse-enregistreuse-choisir-pour-votre-restaurant"
+  },
+  "/blog/comment-choisir-son-logiciel-de-caisse-restaurant": {
+    "status": 301,
+    "destination": "/logiciel-caisse-restauration"
+  },
+  "/blog/comment-les-bornes-de-commande-aident-les-restaurateurs-a-augmenter-leurs-marges": {
+    "status": 301,
+    "destination": "/borne-de-commande"
+  },
+  "/blog/comment-ouvrir-une-dark-kitchen-en-2024": {
+    "status": 301,
+    "destination": "/blog/comment-ouvrir-une-dark-kitchen"
+  },
+  "/blog/comment-recruter-candidats-franchises": {
+    "status": 301,
+    "destination": "/blog/comment-developper-efficacement-son-reseau-de-franchise-fast-food"
+  },
+  "/blog/digitalisation-franchises-restauration-data": {
+    "status": 301,
+    "destination": "/restauration-commerciale/franchise"
+  },
+  "/blog/donnees-de-vos-bornes-etaient-votre-meilleur-levier-pour-vendre-plus": {
+    "status": 301,
+    "destination": "/borne-de-commande"
+  },
+  "/blog/franchiser-son-restaurant-tout-pour-bien-demarrer": {
+    "status": 301,
+    "destination": "/blog/ouvrir-une-franchise-restauration-rapide"
+  },
+  "/blog/installation-dune-borne-de-commande-erreurs-a-eviter": {
+    "status": 301,
+    "destination": "/borne-de-commande"
+  },
+  "/blog/les-datas-cles-pour-booster-la-rentabilite-de-votre-franchise": {
+    "status": 301,
+    "destination": "/restauration-commerciale/franchise"
+  },
+  "/blog/pourquoi-choisir-une-caisse-tactile-pour-son-restaurant": {
+    "status": 301,
+    "destination": "/blog/quelle-caisse-enregistreuse-choisir-pour-votre-restaurant"
+  },
+  "/blog/pourquoi-les-logiciels-de-caisse-low-cost-ne-sont-pas-rentables-pour-les-restaurateurs": {
+    "status": 301,
+    "destination": "/logiciel-caisse-restauration"
+  },
+  "/blog/promouvoir-commande-en-ligne": {
+    "status": 301,
+    "destination": "/commande-ligne"
+  },
+  "/blog/tendances-2021-restauration": {
+    "status": 301,
+    "destination": "/blog/tendance-restauration-2023"
+  },
+  "/blog/tendances-restauration-2025": {
+    "status": 301,
+    "destination": "/blog/restauration-rapide-tendances-a-ne-pas-manquer-en-2025"
+  },
+  "/blog/tout-comprendre-au-fonctionnement-de-la-borne-de-commande-innovorder": {
+    "status": 301,
+    "destination": "/borne-de-commande"
+  },
+  "/caisse-enregistreuse-tactile-restauration": {
+    "status": 301,
+    "destination": "/caisse-enregistreuse-tactile-restaurant"
+  },
+  "/developer-api-old": {
+    "status": 301,
+    "destination": "https://developers.innovorder.io/"
+  },
+  "/en/blog-categories/collective-catering": {
+    "status": 301,
+    "destination": "/en/categories/collective-catering"
+  },
+  "/en/blog/10-key-tips-to-boost-dark-kitchen-profitability": {
+    "status": 301,
+    "destination": "/en/blog/comment-ouvrir-une-dark-kitchen"
+  },
+  "/en/blog/2021-restoration-trends": {
+    "status": 301,
+    "destination": "/en/blog/restaurant-trends-2023"
+  },
+  "/en/blog/5-questions-federation-francaise-aperitif": {
+    "status": 301,
+    "destination": "/en/blog"
+  },
+  "/en/blog/advantages-portable-cash-register-fast-food": {
+    "status": 301,
+    "destination": "/en/blog/which-cash-register-to-choose-for-your-restaurant"
+  },
+  "/en/blog/case-study-kiosk-for-collective-catering": {
+    "status": 301,
+    "destination": "/en/self-ordering-kiosk"
+  },
+  "/en/blog/certification-cash-register": {
+    "status": 301,
+    "destination": "/en/blog/how-to-check-if-your-cash-register-complies-with-standards"
+  },
+  "/en/blog/change-cash-registers-without-losing-revenue": {
+    "status": 301,
+    "destination": "/en/blog/which-cash-register-to-choose-for-your-restaurant"
+  },
+  "/en/blog/franchising-a-restaurant-everything-you-need-to-get-off-to-a-good-start": {
+    "status": 301,
+    "destination": "/en/blog/open-a-fast-food-franchise"
+  },
+  "/en/blog/guide-self-ordering-kiosk-fast-food-restaurant": {
+    "status": 301,
+    "destination": "/en/self-ordering-kiosk"
+  },
+  "/en/blog/how-do-you-recruit-the-best-franchisees": {
+    "status": 301,
+    "destination": "/en/blog/how-to-effectively-develop-your-fast-food-franchise-network"
+  },
+  "/en/blog/how-ordering-terminals-help-restaurateurs-boost-margins": {
+    "status": 301,
+    "destination": "/en/self-ordering-kiosk"
+  },
+  "/en/blog/how-to-choose-the-best-pos-software-for-restaurant": {
+    "status": 301,
+    "destination": "/en/restaurant-pos-software"
+  },
+  "/en/blog/how-to-choose-the-right-cash-register": {
+    "status": 301,
+    "destination": "/en/blog/which-cash-register-to-choose-for-your-restaurant"
+  },
+  "/en/blog/installation-dune-borne-de-commande-erreurs-a-eviter": {
+    "status": 301,
+    "destination": "/en/self-ordering-kiosk"
+  },
+  "/en/blog/key-data-to-boost-your-franchise-profitability": {
+    "status": 301,
+    "destination": "/en/commercial-catering/franchise"
+  },
+  "/en/blog/location-choice-quick-service-restaurant-franchise": {
+    "status": 301,
+    "destination": "/en/commercial-catering/franchise"
+  },
+  "/en/blog/online-ordering-promotion": {
+    "status": 301,
+    "destination": "/en/online-ordering-for-restaurant"
+  },
+  "/en/blog/opening-a-dark-kitchen-in-2024-the-complete-guide": {
+    "status": 301,
+    "destination": "/en/blog/comment-ouvrir-une-dark-kitchen"
+  },
+  "/en/blog/quick-service-restaurant-franchise-data-management": {
+    "status": 301,
+    "destination": "/en/commercial-catering/franchise"
+  },
+  "/en/blog/self-ordering-kiosk-boost-your-restaurant-business-and-customer-experience": {
+    "status": 301,
+    "destination": "/en/self-ordering-kiosk"
+  },
+  "/en/blog/tendances-restauration-2025": {
+    "status": 301,
+    "destination": "/en/blog/fast-food-8-trends-not-to-be-missed-in-2025"
+  },
+  "/en/blog/understand-everything-about-the-innovorder-control-terminal": {
+    "status": 301,
+    "destination": "/en/self-ordering-kiosk"
+  },
+  "/en/blog/why-adopt-a-touch-screen-cash-register": {
+    "status": 301,
+    "destination": "/en/blog/which-cash-register-to-choose-for-your-restaurant"
+  },
+  "/en/blog/why-low-cost-cash-management-software-is-not-profitable-for-restaurants": {
+    "status": 301,
+    "destination": "/en/restaurant-pos-software"
+  },
+  "/en/blog/your-terminal-data-is-your-best-lever-to-sell-more": {
+    "status": 301,
+    "destination": "/en/self-ordering-kiosk"
+  },
+  "/en/commercial-catering/independant": {
+    "status": 301,
+    "destination": "/en/commercial-catering/fast-food"
+  },
+  "/en/connected-fridge": {
+    "status": 301,
+    "destination": "/en/connected-fridges"
+  },
+  "/en/developer-api-old": {
+    "status": 301,
+    "destination": "https://developers.innovorder.io/"
+  },
+  "/en/expertises/restauration-collective-logiciel-caisse": {
+    "status": 301,
+    "destination": "/en/collective-catering"
+  },
+  "/en/nous-contacter-old": {
+    "status": 301,
+    "destination": "/en/contact-us"
+  },
+  "/en/point-of-sales-restaurant": {
+    "status": 301,
+    "destination": "/en/restaurant-touch-cash-register"
+  },
+  "/expertises/restauration-collective-logiciel-caisse": {
+    "status": 301,
+    "destination": "/restauration-collective"
+  },
+  "/frigo-connecte": {
+    "status": 301,
+    "destination": "/frigo-connecte-entreprise"
+  },
+  "/nous-contacter-old": {
+    "status": 301,
+    "destination": "/nous-contacter"
+  },
+  "/restauration-commerciale/independant": {
+    "status": 301,
+    "destination": "/restauration-commerciale/fast-food"
+  }
+}

@@ -1,0 +1,87 @@
+{
+ "slug": "double-xl-innovorder",
+ "seo": {
+  "title": "Success Story - How Jabrane increased his team's productivity by 30%.",
+  "description": "Jabrane, co-founder of Double XL, called on Innovorder to streamline his kitchen and dining room organization.",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6493099a93d5da4454828680_Screenshot%202023-06-21%20at%2016.30.01.avif",
+  "lang": "en",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc30",
+   "data-wf-collection": "6493777d655aea5e6643cb6a",
+   "data-wf-item-slug": "double-xl-innovorder",
+   "data-wg-translated": "en"
+  },
+  "bodyClass": "body",
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/success-stories/double-xl-innovorder\",\"en\":\"https://www.innovorder.com/en/success-stories/double-xl-innovorder\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/success-stories/double-xl-innovorder\",\"originalPath\":\"/success-stories/double-xl-innovorder\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/success-stories/double-xl-innovorder",
+  "link-href-2": "https://www.innovorder.com/en/success-stories/double-xl-innovorder",
+  "title-post": "How Jabrane increased his team's productivity by 30%.",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6493099a93d5da4454828680_Screenshot%202023-06-21%20at%2016.30.01.avif",
+  "current-post-image-sizes": "100vw",
+  "current-post-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6493099a93d5da4454828680_Screenshot%202023-06-21%20at%2016.30.01-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6493099a93d5da4454828680_Screenshot%202023-06-21%20at%2016.30.01.avif 1200w",
+  "company-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/64930a91f3847f4262f28455_logo%20double%20xl.avif\")",
+  "title-post-2": "How Jabrane increased his team's productivity by 30%.",
+  "rt-blog-html": "\n          <figure style=\"padding-bottom:56.206088992974244%\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-video\">\n            <div>\n              <iframe src=\"https://www.youtube.com/embed/B7xQ51RUw18\" title=\"Double XL X Innovorder\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>\n            </div>\n          </figure>\n          <p>‍</p>\n          <p>Since opening his restaurant in the immediate vicinity of Disneyland Paris, Jabrane, co-founder of Double XL, has had to cope with non-stop demand, lunchtime and evening.</p>\n          <p>After looking at a number of market players, he finally chose Innovorder to streamline his kitchen and dining room organization.&nbsp;</p>\n          <h4><strong>Delivery with your own drivers</strong></h4>\n          <p>To enable his customers to order takeaway or delivery, he began by setting up <a href=\"/en/online-ordering-for-restaurant\">online ordering</a>. It's an ideal opportunity to diversify sales channels and boost revenues!&nbsp;</p>\n          <p>He also opts for his own delivery service, because thanks to his own fleet of delivery drivers, he is no longer dependent on delivery platforms, and is partly freed from their high commissions.&nbsp;</p>\n          <h4><strong>+33% on its average basket</strong></h4>\n          <p>To relieve his team and streamline his business, Jabrane then installed two <a href=\"/en/self-ordering-kiosk\">order terminals</a>. As the kiosks automatically display extras (dessert, drinks, French fries, etc.), he generates additional sales that rapidly increase his average basket. </p>\n          <h4><strong>KDS: a real revolution</strong></h4>\n          <p>To serve all his customers on time, he finally installed two <a href=\"/en/kitchen-display-system\">KDS</a>, which revolutionized kitchen preparation. Gone are the days of lost and illegible tickets: his teams manage all orders rapidly and are able to dispatch them in record time.</p>\n          <blockquote><em>\"The KDS is a real productivity booster. It totally streamlines production.\"</em></blockquote>\n          <p><em>-</em></p>\n          <p>Are you a restaurant owner looking for a solution to streamline your organization and manage a large flow of customers?&nbsp;&nbsp;</p>\n          <p>👉 <a href=\"/en/commercial-catering/independant\">Discover our expertise for fast food!</a></p>\n        ",
+  "right-head": "Double XL",
+  "bozzolo-cat": "Independent",
+  "div-html": "\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/en/self-ordering-kiosk\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5975dd1a0229_Borne%20de%20commande.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Self Ordering Kiosk</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/en/kitchen-display-system\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc595abf1a0222_%C3%A9cran%20de%20production.webp\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Kitchen Display System</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/en/online-ordering-for-restaurant\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59e0dd1a0228_Commande%20en%20ligne.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Online Ordering</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/en/point-of-sales-restaurant\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc596eea1a0225_Portefeuille-2.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Cash register</div>\n                    </a></div>\n                ",
+  "image-thumb-3x-href": "/en/success-stories/alfi-innovorder",
+  "bg-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc597ce91a020d_small%20alfi.avif",
+  "bg-image-sizes": "(max-width: 767px) 100vw, 800px",
+  "bg-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc597ce91a020d_small%2520alfi-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc597ce91a020d_small%20alfi.avif 800w",
+  "company-img-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59f5ea1a022b_Alfi.avif\")",
+  "link-block-9-href": "/en/success-stories/alfi-innovorder",
+  "title-cs": "How Alfi increased its average basket by 28%.",
+  "company-name-cs": "Alfi",
+  "label-category-card": "Independent",
+  "arrow-block-blog-href": "/en/success-stories/alfi-innovorder",
+  "image-thumb-3x-href-2": "/en/success-stories/bozzolo-innovorder",
+  "bg-image-src-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5978471a01fb_image%20(3).avif",
+  "bg-image-sizes-2": "100vw",
+  "bg-image-srcset-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5978471a01fb_image%2520(3)-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5978471a01fb_image%2520(3)-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5978471a01fb_image%20(3).avif 1920w",
+  "company-img-logo-style-2": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59e60b1a022a_bozzolo-transparent-officiel.avif\")",
+  "link-block-9-href-2": "/en/success-stories/bozzolo-innovorder",
+  "title-cs-2": "How Bozzolo manages high volumes with low staffing levels",
+  "company-name-cs-2": "Bozzolo",
+  "label-category-card-2": "Independent",
+  "arrow-block-blog-href-2": "/en/success-stories/bozzolo-innovorder",
+  "image-thumb-3x-href-3": "/en/success-stories/chicken-village-innovorder",
+  "bg-image-src-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc596c781a0169_Chicken%20Village.avif",
+  "bg-image-sizes-3": "(max-width: 479px) 100vw, (max-width: 991px) 95vw, (max-width: 1439px) 30vw, 403.3203125px",
+  "bg-image-srcset-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc596c781a0169_Chicken%2520Village-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc596c781a0169_Chicken%2520Village-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc596c781a0169_Chicken%20Village.avif 1773w",
+  "company-img-logo-style-3": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59489f1a022f_Chicken%20village.png\")",
+  "link-block-9-href-3": "/en/success-stories/chicken-village-innovorder",
+  "title-cs-3": "How Chicken Village serves 200 customers per hour without error",
+  "company-name-cs-3": "Chicken Village",
+  "label-category-card-3": "Independent",
+  "arrow-block-blog-href-3": "/en/success-stories/chicken-village-innovorder"
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "slug": "nampla-innovorder",
+ "seo": {
+  "title": "Success Story - How Nampla developed its restaurant in 3 steps",
+  "description": "Find out how Yeu Ly allows its kitchen team to focus on preparing dishes and be more efficient in busy times.",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5995c51a015b_Portrait%20Yeu%20Ly.avif",
+  "lang": "en",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc30",
+   "data-wf-collection": "6493777d655aea5e6643cb6a",
+   "data-wf-item-slug": "nampla-innovorder",
+   "data-wg-translated": "en"
+  },
+  "bodyClass": "body",
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/success-stories/nampla-innovorder\",\"en\":\"https://www.innovorder.com/en/success-stories/nampla-innovorder\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/success-stories/nampla-innovorder\",\"originalPath\":\"/success-stories/nampla-innovorder\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/success-stories/nampla-innovorder",
+  "link-href-2": "https://www.innovorder.com/en/success-stories/nampla-innovorder",
+  "title-post": "How Nampla developed his restaurant in 3 steps",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5995c51a015b_Portrait%20Yeu%20Ly.avif",
+  "current-post-image-sizes": "100vw",
+  "current-post-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5995c51a015b_Portrait%2520Yeu%2520Ly-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5995c51a015b_Portrait%2520Yeu%2520Ly-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5995c51a015b_Portrait%20Yeu%20Ly.avif 1773w",
+  "company-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5928331a0230_Nampla.avif\")",
+  "title-post-2": "How Nampla developed his restaurant in 3 steps",
+  "rt-blog-html": "\n          <p>Since its opening in August 2021, the restaurant managed by Yeu Ly has not been empty. The success is such that it is quickly the rush at the peak hours. Between the dining room and the kitchen, he doesn't know where to turn!</p>\n          <p>While the idea of hiring additional staff seems obvious, the cost of hiring and the difficulty in finding candidates prevent the company from expanding.</p>\n          <p>To remedy this problem and continue the development of his restaurant, he set up a simple strategy, based on digital.</p>\n          <p>Here's his 3-point strategy. 👇</p>\n          <p>‍</p>\n          <h2><strong>1. Connect all your equipment to save time</strong></h2>\n          <p>The choice of the provider to equip his restaurant is quickly made.</p>\n          <blockquote><em>\"I wanted a complete, all-in-one, synchronized solution. With Innovorder, I only have one provider to manage, so it's much easier.\"</em></blockquote>\n          <p>Convinced that digital technology is a coherent alternative to his recruitment problem, he equipped his restaurant with an <a href=\"/en/self-ordering-kiosk\">order terminal</a> and his kitchen with a <a href=\"/en/kitchen-display-system\">production screen</a>.</p>\n          <blockquote><em>\"Thanks to the kiosk, the person in charge of cashiering can focus on order preparation and room service.\"<br></em></blockquote>\n          <p>Orders from his kiosk at the counter and online orders come directly to his KDS in the kitchen. Mr. Ly also finds this simplicity in his daily life. No more unreadable or lost paper order forms. Thanks to this complete ecosystem tailored to his organization, he also frees up his team's time, which they now devote to their customers.</p>\n          <blockquote><em>\"To better serve our customers, I finally found a way to optimize the order taking and sending of orders to the kitchen.\" </em></blockquote>\n          <figure style=\"max-width:627pxpx\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\">\n            <div><img loading=\"lazy\" alt=\"Self Ordering Kiosk\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f897204c3d4a02f3683973_62e27f258e952301be5366b2_Borne%2520de%2520commande%2520Nampla.avif\"></div>\n          </figure>\n          <p>‍</p>\n          <h2><strong>2. Multiply your sales channels</strong></h2>\n          <p>As he knows that today part of his clientele is on the Internet, he is also developing <a href=\"/en/online-ordering-for-restaurant\">home delivery</a> and <a href=\"/en/blog/guide-click-and-collect-restaurant\">Click and Collect</a>.</p>\n          <blockquote><em>\"In the first half of 2022, delivery represents more than 15% of my turnover and 15% of the volume of orders processed. I ship my specialties all over Paris. Being present online means reaching many more potential customers and building loyalty among my existing customers by allowing them to be delivered directly to their homes.\"</em></blockquote>\n          <p>&nbsp;Like <a href=\"https://www.innovorder.fr/success-stories/cot-cot-innovorder\">Cot Cot</a>'s manager, Mr. Ly also chose to install a kiosk outside his restaurant to facilitate take-out sales. This way, he saves time on the order taking and benefits from an additional sales channel which has largely contributed to the activity of Nampla during the Covid period.</p>\n          <blockquote><em>\"My kiosk captures an average of 17% of orders. The rest of the orders are split between table order and delivery.\"</em></blockquote>\n          <p>‍</p>\n          <h2><strong>3. Automate kitchen tasks</strong></h2>\n          <p>What makes life particularly easy for Mr. Ly and his teams is the KDS (Kitchen Display System).</p>\n          <p>Connected directly to its cash register, kiosk and online order entry, its kitchen instantly receives all <a href=\"/en/blog/restaurant-order-tickets\">order forms</a>. The KDS then automatically sorts each order by priority and by channel.</p>\n          <blockquote><em>\"I save a few dozen seconds per dish, but on a restaurant scale that's huge considering the number of dishes we have to put out every day.\"</em></blockquote>\n          <p>The screen allows his team in the kitchen to concentrate serenely on the preparation of dishes and to be more efficient in times of rush.</p>\n          <p>And to gain even more reactivity, Yeu Ly is now planning to equip itself with a pad for taking orders in the dining room.</p>\n          <figure style=\"max-width:800pxpx\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\">\n            <div><img loading=\"lazy\" alt=\"Restaurant Nampla\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f89720f86880702a56259b_62e27d190ac3f9eac5997305_Restaurant%2520Nampla.avif\"></div>\n          </figure>\n          <p>With this success, Nampla now intends to develop in Paris and Ile-de-France, by developing a franchise around its concept!</p>\n          <p>-</p>\n          <p>Do you run a restaurant and want to save time in the kitchen and take more orders? Call an Innovorder expert and discover how digital technology can boost your business!</p>\n          <p>‍</p>\n        ",
+  "right-head": "Nampla",
+  "bozzolo-cat": "Independent",
+  "div-html": "\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/en/self-ordering-kiosk\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5975dd1a0229_Borne%20de%20commande.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Self Ordering Kiosk</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/en/online-ordering-for-restaurant\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59e0dd1a0228_Commande%20en%20ligne.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Online Ordering</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/en/point-of-sales-restaurant\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc596eea1a0225_Portefeuille-2.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Cash register</div>\n                    </a></div>\n                ",
+  "image-thumb-3x-href": "/en/success-stories/alfi-innovorder",
+  "bg-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc597ce91a020d_small%20alfi.avif",
+  "bg-image-sizes": "(max-width: 767px) 100vw, 800px",
+  "bg-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc597ce91a020d_small%2520alfi-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc597ce91a020d_small%20alfi.avif 800w",
+  "company-img-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59f5ea1a022b_Alfi.avif\")",
+  "link-block-9-href": "/en/success-stories/alfi-innovorder",
+  "title-cs": "How Alfi increased its average basket by 28%.",
+  "company-name-cs": "Alfi",
+  "label-category-card": "Independent",
+  "arrow-block-blog-href": "/en/success-stories/alfi-innovorder",
+  "image-thumb-3x-href-2": "/en/success-stories/bozzolo-innovorder",
+  "bg-image-src-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5978471a01fb_image%20(3).avif",
+  "bg-image-sizes-2": "100vw",
+  "bg-image-srcset-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5978471a01fb_image%2520(3)-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5978471a01fb_image%2520(3)-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5978471a01fb_image%20(3).avif 1920w",
+  "company-img-logo-style-2": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59e60b1a022a_bozzolo-transparent-officiel.avif\")",
+  "link-block-9-href-2": "/en/success-stories/bozzolo-innovorder",
+  "title-cs-2": "How Bozzolo manages high volumes with low staffing levels",
+  "company-name-cs-2": "Bozzolo",
+  "label-category-card-2": "Independent",
+  "arrow-block-blog-href-2": "/en/success-stories/bozzolo-innovorder",
+  "image-thumb-3x-href-3": "/en/success-stories/cot-cot-innovorder",
+  "bg-image-src-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5958f71a0149_Cot%20cot.avif",
+  "bg-image-sizes-3": "(max-width: 479px) 100vw, (max-width: 991px) 95vw, (max-width: 1439px) 30vw, 403.3203125px",
+  "bg-image-srcset-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5958f71a0149_Cotcot%2520(1)-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5958f71a0149_Cotcot%2520(1)-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5958f71a0149_Cotcot%2520(1)-p-1080.avif 1080w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5958f71a0149_Cotcot%2520(1)-p-1600.avif 1600w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5958f71a0149_Cot%20cot.avif 2710w",
+  "company-img-logo-style-3": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc599fdd1a022e_logo%2BCOTCOT%2B2%2Blignes.avif\")",
+  "link-block-9-href-3": "/en/success-stories/cot-cot-innovorder",
+  "title-cs-3": "How Cot Cot always serves its customers on time",
+  "company-name-cs-3": "CotCot",
+  "label-category-card-3": "Independent",
+  "arrow-block-blog-href-3": "/en/success-stories/cot-cot-innovorder"
+ }
+}

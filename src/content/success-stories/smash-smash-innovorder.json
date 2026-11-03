@@ -1,0 +1,85 @@
+{
+ "slug": "smash-smash-innovorder",
+ "seo": {
+  "title": "Success Story - Comment Smash Smash est devenu un as de la gestion grâce à Innovorder",
+  "description": "Guillaume, franchisé Smash Smash à Bordeaux, revient sur les solutions qu'il a mises en place pour gérer au mieux son point de vente pour capter un maximum de clients et les servir à l’heure.",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/649c2588433fb54b2b5f35b8_Screenshot%202023-06-26%20at%2010.50.22.avif",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc30",
+   "data-wf-collection": "6493777d655aea5e6643cb6a",
+   "data-wf-item-slug": "smash-smash-innovorder"
+  },
+  "bodyClass": "body",
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/success-stories/smash-smash-innovorder\",\"en\":\"https://www.innovorder.com/en/success-stories/smash-smash-innovorder\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/success-stories/smash-smash-innovorder\",\"originalPath\":\"/success-stories/smash-smash-innovorder\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/success-stories/smash-smash-innovorder",
+  "link-href-2": "https://www.innovorder.com/en/success-stories/smash-smash-innovorder",
+  "title-post": "Comment Smash Smash est devenu un as de la gestion grâce à Innovorder",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/649c2588433fb54b2b5f35b8_Screenshot%202023-06-26%20at%2010.50.22.avif",
+  "current-post-image-sizes": "100vw",
+  "current-post-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/649c2588433fb54b2b5f35b8_Screenshot%202023-06-26%20at%2010.50.22-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/649c2588433fb54b2b5f35b8_Screenshot%202023-06-26%20at%2010.50.22.avif 1200w",
+  "company-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/649c254f2b64748805cc3463_logo%20smash%20smash.jpeg\")",
+  "title-post-2": "Comment Smash Smash est devenu un as de la gestion grâce à Innovorder",
+  "rt-blog-html": "\n          <figure style=\"padding-bottom:56.206088992974244%\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-video\">\n            <div>\n              <iframe src=\"https://www.youtube.com/embed/TQtlNEauMGQ\" title=\"Smash Smash X Innovorder\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>\n            </div>\n          </figure>\n          <p>Franchisé Smash Smash à Bordeaux, Guillaume a installé son restaurant rue Sainte-Catherine, la plus grande rue piétonne d’Europe (18 000 passages/jour) !&nbsp;</p>\n          <p>Son défi ? Gérer au mieux son point de vente pour capter un maximum de clients et les servir à l’heure. Pour y arriver, il a fait appel à Innovorder.&nbsp;</p>\n          <h4>Son panier moyen est 30% plus élevé</h4>\n          <p>En installant une <a href=\"/borne-de-commande\">borne</a>, non seulement il a fluidifié la prise de commande et déchargé un employé qui peut se concentrer sur le service et la cuisine, mais en plus, il a boosté son panier moyen.&nbsp;</p>\n          <p><em>“On est en moyenne 30% plus élevé sur le panier moyen sur la borne que sur la caisse car le caissier n’a pas toujours le temps de proposer un dessert ou un menu, ce que la borne fait systématiquement.”&nbsp;</em></p>\n          <h4>La caisse tactile est devenue la tour de contrôle de son restaurant&nbsp;</h4>\n          <p>Pour réceptionner automatiquement toutes ses commandes (borne, livraison et click &amp; collect), Guillaume peut compter sur sa <a href=\"/caisse-enregistreuse-tactile-restauration\">caisse enregistreuse Innovorder</a>. En effet, la caisse rassemble toutes les commandes en un seul endroit et permet de visualiser tous les metrics indispensables à la gestion du restaurant.</p>\n          <h4>Sa fonctionnalité préférée : la Heat Map</h4>\n          <p>Guillaume adore la Heat Map d’Innovorder car elle lui permet de suivre en un seul coup d'œil son chiffre d’affaires par jour et par heure, et de gérer ainsi correctement sa masse salariale en fonction de son activité.</p>\n          <p>—</p>\n          <p>Vous gérez un établissement de restauration rapide ? Faites appel à un expert Innovorder et découvrez comment fluidifier votre activité et augmenter votre rentabilité !</p>\n          <p>👉 <a href=\"/restauration-commerciale/franchise\"><strong>Découvrez notre expertise pour les franchises !</strong></a></p>\n        ",
+  "right-head": "Smash Smash",
+  "bozzolo-cat": "Franchise",
+  "div-html": "\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/borne-de-commande\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5975dd1a0229_Borne%20de%20commande.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Borne de commande</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/caisse-enregistreuse-tactile-restauration\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc596eea1a0225_Portefeuille-2.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Caisse enregistreuse</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/commande-ligne\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59e0dd1a0228_Commande%20en%20ligne.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Commande en ligne</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/ecran-cuisine-production\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc595abf1a0222_%C3%A9cran%20de%20production.webp\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Écran de production</div>\n                    </a></div>\n                ",
+  "image-thumb-3x-href": "/success-stories/focaccia-club-innovorder",
+  "bg-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6495865112b4a5998b3d910e_iStock-544333618.avif",
+  "bg-image-sizes": "(max-width: 767px) 100vw, 800px",
+  "bg-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6495865112b4a5998b3d910e_iStock-544333618-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6495865112b4a5998b3d910e_iStock-544333618.avif 800w",
+  "company-img-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6495677d3b68942460fe2b3b_logo%20focaccia.avif\")",
+  "link-block-9-href": "/success-stories/focaccia-club-innovorder",
+  "title-cs": "Pourquoi Focaccia Club a équipé ses 9 restaurants avec Innovorder ",
+  "company-name-cs": "Focaccia Club",
+  "label-category-card": "Franchise",
+  "arrow-block-blog-href": "/success-stories/focaccia-club-innovorder",
+  "image-thumb-3x-href-2": "/success-stories/bchef-innovorder",
+  "bg-image-src-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5960b71a0242_BCHEF.avif",
+  "bg-image-sizes-2": "100vw",
+  "bg-image-srcset-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5960b71a0242_BCHEF-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5960b71a0242_BCHEF-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5960b71a0242_BCHEF-p-1080.avif 1080w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5960b71a0242_BCHEF.avif 1920w",
+  "company-img-logo-style-2": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5978961a0240_logo%20bchef.avif\")",
+  "link-block-9-href-2": "/success-stories/bchef-innovorder",
+  "title-cs-2": "Comment Charlène a fluidifié le service dans son restaurant BCHEF",
+  "company-name-cs-2": "BCHEF",
+  "label-category-card-2": "Franchise",
+  "arrow-block-blog-href-2": "/success-stories/bchef-innovorder",
+  "image-thumb-3x-href-3": "/success-stories/ankka-grenoble-innovorder",
+  "bg-image-src-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc593f411a01b8_Alain%20Ankka%20Miniature.avif",
+  "bg-image-sizes-3": null,
+  "bg-image-srcset-3": null,
+  "company-img-logo-style-3": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5980181a022d_Ankka_logo.avif\")",
+  "link-block-9-href-3": "/success-stories/ankka-grenoble-innovorder",
+  "title-cs-3": "Comment Ankka a boosté sa franchise en 5 étapes",
+  "company-name-cs-3": "Ankka",
+  "label-category-card-3": "Franchise",
+  "arrow-block-blog-href-3": "/success-stories/ankka-grenoble-innovorder"
+ }
+}

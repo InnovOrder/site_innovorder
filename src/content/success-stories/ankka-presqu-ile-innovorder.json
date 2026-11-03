@@ -1,0 +1,85 @@
+{
+ "slug": "ankka-presqu-ile-innovorder",
+ "seo": {
+  "title": "Success Story - Pourquoi Anthony, franchisé Ankka, a embauché un livreur",
+  "description": "Ankka Presqu'île génère régulièrement des ventes quotidiennes de plus de 500€ juste avec la livraison ! Découvrez quelle stratégie Anthony et Floriane ont mis en place pour y arriver.",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59e2c61a0199_Portrait%20Anthony.avif",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc30",
+   "data-wf-collection": "6493777d655aea5e6643cb6a",
+   "data-wf-item-slug": "ankka-presqu-ile-innovorder"
+  },
+  "bodyClass": "body",
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/success-stories/ankka-presqu-ile-innovorder\",\"en\":\"https://www.innovorder.com/en/success-stories/ankka-presqu-ile-innovorder\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/success-stories/ankka-presqu-ile-innovorder\",\"originalPath\":\"/success-stories/ankka-presqu-ile-innovorder\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/success-stories/ankka-presqu-ile-innovorder",
+  "link-href-2": "https://www.innovorder.com/en/success-stories/ankka-presqu-ile-innovorder",
+  "title-post": "Pourquoi Anthony, franchisé Ankka, a embauché un livreur",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59e2c61a0199_Portrait%20Anthony.avif",
+  "current-post-image-sizes": "100vw",
+  "current-post-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59e2c61a0199_Portrait%2520Anthony-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59e2c61a0199_Portrait%2520Anthony-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59e2c61a0199_Portrait%20Anthony.avif 1773w",
+  "company-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5980181a022d_Ankka_logo.avif\")",
+  "title-post-2": "Pourquoi Anthony, franchisé Ankka, a embauché un livreur",
+  "rt-blog-html": "\n          <h3><strong>Le contexte</strong></h3>\n          <p>Suite à une réorientation professionnelle et en quête de nouveaux challenges, Anthony et sa femme Floriane rejoignent <a href=\"/success-stories/ankka-grenoble-innovorder\">Ankka, la franchise d’Alain</a>, il y a 5 ans.</p>\n          <p>Avec son concept de salad bar aux produits frais et healthy, sa rentabilité intéressante et un droit d’entrée abordable, ils sont tout de suite séduits.</p>\n          <p>Forts du succès de leur premier restaurant Ankka Presqu’île, installé depuis 2017, ils ouvrent Ankka Grenette en juillet 2022 dans un magnifique bâtiment classé en plein cœur de Grenoble. Cerise sur le gâteau, le restaurant possède une terrasse ensoleillée toute la journée !</p>\n          <p>Cela dit, c’est la stratégie omnicanale qu’ils ont mis en place chez Ankka Presqu’île qui nous intéresse dans cet article.</p>\n          <figure style=\"max-width:1773pxpx\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\">\n            <div><img loading=\"lazy\" alt=\"Ankka Grenoble\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66cdbc8404bbe96cd835d903_63f501f3fcfc59bdc71a01a6_Ankka%2520Grenoble.avif\"></div>\n          </figure>\n          <p>‍</p>\n          <h3><strong>Son challenge</strong></h3>\n          <p>Ankka Presqu’île est situé dans une zone d’activité tertiaire. Il attire donc majoritairement les employés des bureaux alentour, dont les horaires de déjeuner sont assez contraignants.</p>\n          <blockquote><em>“On accueille jusqu’à 200 personnes le midi. On doit donc s’assurer de servir nos clients en moins de 8 minutes pour être sûr d’être toujours dans le bon timing.”</em></blockquote>\n          <p>Compte tenu de cette clientèle un peu particulière, Anthony et Floriane n’ont d’autre choix que de restreindre leurs horaires de 8h30 à 15h30 et de faire le plus de volume possible sur le temps imparti pour être rentable.</p>\n          <p>Convaincus depuis toujours par l’intérêt du digital dans la restauration, ils se lancent donc dans la commande en ligne et la livraison en propre pour développer au maximum leur activité et répondre à des clients de plus en plus connectés.</p>\n          <p>Voici les deux raisons qui ont motivé ce choix stratégique ! 👇</p>\n          <p>‍</p>\n          <h3><strong>Raison #1 : livraison en propre et plateformes sont complémentaires</strong></h3>\n          <p>Dès l’ouverture de son point de vente, les plateformes de livraison comme Uber Eats et Deliveroo leur apportent la notoriété dont ils ont besoin pour faire augmenter rapidement leurs ventes. Avec plus de 5 ans d’ancienneté, Ankka Presqu’île s’est d’ailleurs fait un nom dans le bassin tertiaire où le restaurant est implanté et compte aujourd’hui HP, Crédit Agricole ou encore Portalp parmi ses clients réguliers !</p>\n          <p>Ensuite, grâce à la mise en place de la <a href=\"/commande-ligne\">commande en ligne Innovorder</a>, ils constatent que de nombreux clients ont pris l’habitude de passer directement par la <a href=\"https://ankka.innovorder.fr/home/places\">page de son restaurant</a> pour commander à déjeuner.</p>\n          <blockquote><em>“Les clients ont pris le pli, ils choisissent leur créneau horaire en quelques clics. Les premières commandes commencent à 8h et finissent vers 11h/11h30.”</em></blockquote>\n          <p>En effet, pour s’assurer que toutes les entreprises à la ronde sont bien livrées à temps, ils couplent leur présence sur les plateformes de livraison à la commande en ligne en direct.</p>\n          <blockquote><em>“La solution proposée par Innovorder est bien faite. Elle se complète parfaitement avec le système des plateformes. Même si les plateformes apportent de la visibilité et des clients, on a aussi énormément de succès avec notre propre livreuse.”</em></blockquote>\n          <p>Néanmoins, si la force des plateformes réside dans leur grande popularité auprès des Français et dans leur force de frappe phénoménale pour attirer de nouveaux clients, Anthony et Floriane ne sont pas convaincus à 100%.</p>\n          <p>Voilà pourquoi ! 👇</p>\n          <p>‍</p>\n          <h3><strong>Raison #2 : la livraison en propre est très vite rentable</strong></h3>\n          <p>Il est important de rappeler que le business modèle des plateformes de livraison repose sur un système de commissions, payées par les restaurateurs mais aussi par les consommateurs finaux. Appliquées à chaque commande, les commissions mangent leurs marges et le retour sur investissement n’est pas optimal au bout du compte.</p>\n          <p>D’autant que pour maintenir un rapport qualité/prix intéressant pour ses clients, Anthony et Floriane ont fait le choix de ne pas répercuter ces commissions sur les menus qu’ils proposent sur les plateformes.</p>\n          <p>Le constat est donc sans appel.</p>\n          <blockquote><em>“On fait souvent plus de chiffres d’affaires avec notre livreur qu’avec les plateformes. Malgré le coût d’un livreur à amortir (salaire, essence, etc.), quand on monte à un certain montant de livraison, ça devient plus rentable que les plateformes dont les commissions explosent !”</em></blockquote>\n          <p>Leur secret ? Regrouper les commandes !</p>\n          <blockquote><em>“Comme ça marche par créneau de livraison, on regroupe les commandes. C’est le gros avantage du système développé par Innovorder. Notre livreuse n’a ensuite plus qu’à faire sa tournée.”</em></blockquote>\n          <p>En commandant directement via la commande en ligne d’Ankka, développée par Innovorder, les clients d’Ankka sélectionnent eux-mêmes les créneaux qui leur conviennent. De cette manière, ils sont sûrs d’être livrés sur le créneau indiqué.</p>\n          <p>De son côté, la livreuse du point de vente suit scrupuleusement le planning de livraison établi par défaut par les clients.</p>\n          <p>👉 Pour aller plus loin : <a href=\"/blog/avantages-commande-en-ligne-restaurant?f91db4ed_page=12\">9 raisons de se passer des plateformes de livraison</a></p>\n          <figure style=\"max-width:1773pxpx\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\">\n            <div><img loading=\"lazy\" alt=\"Caisse d'Ankka Grenoble\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66cdbc8504bbe96cd835d90d_63f501f3fcfc5960061a019d_Anthony%2520%25C3%25A0%2520la%2520caisse.avif\"></div>\n          </figure>\n          <p>‍</p>\n          <h3><strong>Résultat</strong></h3>\n          <p>Avec un panier moyen de 14€, Anthony et Floriane génèrent régulièrement des ventes quotidiennes supérieures à 500€, simplement avec la livraison en direct ! A la fin de la journée, quand ils ajoutent la livraison via les plateformes et les repas sur place qui représentent en moyenne 45% des commandes, ils obtiennent un chiffre d’affaires en phase avec leurs attentes.</p>\n          <p>En multipliant ainsi leurs canaux de prise de commande et en mettant au point une organisation rodée au millimètre au niveau de la livraison et de la préparation en cuisine, ils assurent depuis 5 ans un succès mérité à leur point de vente de la Presqu’île !</p>\n          <p>Bravo à tous les deux !</p>\n          <p>—</p>\n          <p>Vous souhaitez développer l'activité de votre restaurant ? Faites appel à un expert Innovorder et découvrez comment la livraison avec (ou sans) plateforme va booster vos ventes !</p>\n        ",
+  "right-head": "Ankka",
+  "bozzolo-cat": "Franchise",
+  "div-html": "\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/commande-ligne\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59e0dd1a0228_Commande%20en%20ligne.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Commande en ligne</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/caisse-enregistreuse-tactile-restauration\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc596eea1a0225_Portefeuille-2.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Caisse enregistreuse</div>\n                    </a></div>\n                ",
+  "image-thumb-3x-href": "/success-stories/ankka-grenoble-innovorder",
+  "bg-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc593f411a01b8_Alain%20Ankka%20Miniature.avif",
+  "bg-image-sizes": null,
+  "bg-image-srcset": null,
+  "company-img-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5980181a022d_Ankka_logo.avif\")",
+  "link-block-9-href": "/success-stories/ankka-grenoble-innovorder",
+  "title-cs": "Comment Ankka a boosté sa franchise en 5 étapes",
+  "company-name-cs": "Ankka",
+  "label-category-card": "Franchise",
+  "arrow-block-blog-href": "/success-stories/ankka-grenoble-innovorder",
+  "image-thumb-3x-href-2": "/success-stories/cot-cot-innovorder",
+  "bg-image-src-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5958f71a0149_Cot%20cot.avif",
+  "bg-image-sizes-2": "100vw",
+  "bg-image-srcset-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5958f71a0149_Cotcot%2520(1)-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5958f71a0149_Cotcot%2520(1)-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5958f71a0149_Cotcot%2520(1)-p-1080.avif 1080w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5958f71a0149_Cotcot%2520(1)-p-1600.avif 1600w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5958f71a0149_Cot%20cot.avif 2710w",
+  "company-img-logo-style-2": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc599fdd1a022e_logo%2BCOTCOT%2B2%2Blignes.avif\")",
+  "link-block-9-href-2": "/success-stories/cot-cot-innovorder",
+  "title-cs-2": "Comment Cot Cot sert toujours ses clients à temps",
+  "company-name-cs-2": "CotCot",
+  "label-category-card-2": "Indépendant",
+  "arrow-block-blog-href-2": "/success-stories/cot-cot-innovorder",
+  "image-thumb-3x-href-3": "/success-stories/alfi-innovorder",
+  "bg-image-src-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc597ce91a020d_small%20alfi.avif",
+  "bg-image-sizes-3": "(max-width: 479px) 100vw, (max-width: 991px) 95vw, (max-width: 1439px) 30vw, 403.3203125px",
+  "bg-image-srcset-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc597ce91a020d_small%2520alfi-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc597ce91a020d_small%20alfi.avif 800w",
+  "company-img-logo-style-3": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59f5ea1a022b_Alfi.avif\")",
+  "link-block-9-href-3": "/success-stories/alfi-innovorder",
+  "title-cs-3": "Comment Alfi a augmenté son panier moyen de 28%",
+  "company-name-cs-3": "Alfi",
+  "label-category-card-3": "Indépendant",
+  "arrow-block-blog-href-3": "/success-stories/alfi-innovorder"
+ }
+}

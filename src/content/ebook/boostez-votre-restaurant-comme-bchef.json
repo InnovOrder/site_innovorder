@@ -1,0 +1,68 @@
+{
+ "slug": "boostez-votre-restaurant-comme-bchef",
+ "seo": {
+  "title": "Boostez votre franchise comme BCHEF !",
+  "description": "Découvrez comment Stéphanie, Peggy et Damien, franchisés BCHEF, ont augmenté leurs ventes et réalisent entre 600K et 1M€ de CA !",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/641209b230cbae4dd0df2e1e_ebook2.avif",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc09",
+   "data-wf-collection": "6493777d655aea5e6643cb5f",
+   "data-wf-item-slug": "boostez-votre-restaurant-comme-bchef"
+  },
+  "bodyClass": "body",
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/ebook/boostez-votre-restaurant-comme-bchef\",\"en\":\"https://www.innovorder.com/en/ebook/boost-your-restaurant-like-bchef\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/ebook/boostez-votre-restaurant-comme-bchef\",\"originalPath\":\"/ebook/boostez-votre-restaurant-comme-bchef\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/ebook/boostez-votre-restaurant-comme-bchef",
+  "link-href-2": "https://www.innovorder.com/en/ebook/boost-your-restaurant-like-bchef",
+  "title-00": "Boostez votre franchise comme BCHEF !",
+  "subtitle-hero-ebook-inner": "Découvrez comment la franchise BCHEF a augmenté ses ventes et comment ses restaurants réalisent entre 600K et 1M€ de CA grâce au digital !",
+  "name-value": "Boostez votre franchise comme BCHEF !",
+  "image-form-ebook-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/641209b230cbae4dd0df2e1e_ebook2.avif",
+  "image-form-ebook-sizes": "(max-width: 479px) 100vw, 269px",
+  "image-form-ebook-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/641209b230cbae4dd0df2e1e_ebook2-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/641209b230cbae4dd0df2e1e_ebook2.avif 788w",
+  "rt-thank-you-html": "\n                    <h2>Votre livre blanc est disponible 👇</h2>\n                    <h2>Boostez votre restaurant comme BChef !</h2>\n                    <p><strong>Merci !</strong></p>\n                    <p><a target=\"_blank\" href=\"https://5696087.fs1.hubspotusercontent-na1.net/hubfs/5696087/Livres%20blancs/Boostez%20votre%20franchise%20comme%20BCHEF.pdf\">Télécharger</a></p>\n                    <p>Merci l'équipe <a target=\"_blank\" href=\"/\">Innovorder</a></p>\n                  ",
+  "rt-ebook-html": "\n              <p>Julien Perret, <strong>fondateur de BCHEF</strong>, partage sa vision sur la <strong>digitalisation</strong> des franchises de restauration rapide en France.</p>\n            ",
+  "temoignage-img-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/642de52943894ea292355396_logo%20bchef%201.avif",
+  "temoignage-img-class": "temoignage-img",
+  "icon-ebook-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6496c09ebbeb019764e0a0ce_Picto%20euro.avif",
+  "icon-ebook-sizes": null,
+  "icon-ebook-srcset": null,
+  "rt-decouvrirez-block-html": "\n            <p>Comment Stéphanie a<strong> augmenté de 30% son panier moyen</strong> et de 13% son volume de commandes.</p>\n          ",
+  "icon-ebook-src-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6496c0cad63c5d39f97ed12c_Picto%20horloge.avif",
+  "icon-ebook-sizes-2": null,
+  "icon-ebook-srcset-2": null,
+  "rt-decouvrirez-block-html-2": "\n            <p>Comment Peggy <strong>gagne 30 minutes</strong> par jour sur l’ouverture et la fermeture de sa caisse.</p>\n          ",
+  "icon-ebook-src-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/6496c0d394873c8b56360c17_Picto%20fus%C3%A9e%201.avif",
+  "icon-ebook-sizes-3": null,
+  "icon-ebook-srcset-3": null,
+  "rt-decouvrirez-block-html-3": "\n            <p>Comment Damien <strong>sert ses clients en 6 minutes</strong> et pourquoi il est convaincu par le digital.</p>\n          ",
+  "rt-decouvrirez-block-html-4": "\n          <p>Le digital est un levier essentiel pour développer l’activité de sa franchise et piloter ses restaurants. <strong>BCHEF </strong>vous dévoile sa stratégie éprouvée en exclusivité. </p>\n          <p>Bénéficiez dès maintenant de leurs meilleurs conseils !</p>\n        "
+ }
+}

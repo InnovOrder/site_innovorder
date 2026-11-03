@@ -1,0 +1,85 @@
+{
+ "slug": "saintconde-x-innovorder",
+ "seo": {
+  "title": "Success Story - Saint Condé x Innovorder",
+  "description": "SaintCondé est un traiteur pour entreprises, particuliers et événementiel en Ile-de-France. L’entreprise est l’une de ces nombreuses TPE qui constituent le panorama de la restauration et qui misent sur le caractère local de leur activité pour se développer.",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59b22619ff4f_saint%20conde.avif",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc30",
+   "data-wf-collection": "6493777d655aea5e6643cb6a",
+   "data-wf-item-slug": "saintconde-x-innovorder"
+  },
+  "bodyClass": "body",
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/success-stories/saintconde-x-innovorder\",\"en\":\"https://www.innovorder.com/en/success-stories/saintconde-x-innovorder\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/success-stories/saintconde-x-innovorder\",\"originalPath\":\"/success-stories/saintconde-x-innovorder\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/success-stories/saintconde-x-innovorder",
+  "link-href-2": "https://www.innovorder.com/en/success-stories/saintconde-x-innovorder",
+  "title-post": "Saint Condé x Innovorder ",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59b22619ff4f_saint%20conde.avif",
+  "current-post-image-sizes": "100vw",
+  "current-post-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59b22619ff4f_valeurs_saint_conde_traiteur-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59b22619ff4f_saint%20conde.avif 1000w",
+  "company-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59ceb21a0239_saint%20conde.avif\")",
+  "title-post-2": "Saint Condé x Innovorder ",
+  "rt-blog-html": "\n          <h3>01. Le contexte</h3>\n          <p><strong>Définition du besoin</strong></p>\n          <p>Depuis le lancement de sa franchise en 2014, <strong>Bagel Corner</strong> connaît une <strong>forte croissance</strong>. L'enseigne ouvre une quinzaine de points de vente supplémentaires tous les ans, avec pour objectif d'atteindre, à terme, les 700 restaurants. Pour répondre à tous les enjeux liés à ce développement, Bagel Corner a équipé son réseau d’une <strong>suite logicielle </strong>qui s’est déployée en quelques semaines.<br></p>\n          <h3>02. Leur principal enjeu</h3>\n          <p><strong>Dimension stratégique</strong></p>\n          <p><strong>Consolider leur position et fidéliser leurs clients avec une nouvelle offre</strong></p>\n          <p>Pour les entreprises et les institutionnels, les événements sont récurrents. Des préparations culinaires et rafraîchissements viennent souvent y apporter une touche de légèreté, que ce soit au travers d’un cocktail ou d’un buffet.</p>\n          <p>Partant de ce constat, <strong>SaintCondé a fait de la satisfaction des clients un levier majeur de sa stratégie d’entreprise</strong>, en accordant une importance particulière à la <strong>qualité des prestations et du relationnel</strong> avec ses clients.</p>\n          <p>C’est ainsi que l’IEA, après avoir sollicité le restaurateur à plusieurs reprises pour des événements ponctuels, a envisagé l’ouverture d’une cafétéria avec SaintCondé. Jusqu’à aujourd’hui, le restaurateur n’avait jamais assuré une telle offre. Et pourtant, grâce à sa relation de confiance avec l’IEA, l’organisme s’est tout de même dirigé vers lui pour ce projet nécessitant un <strong>dispositif sur mesure</strong>.<br>La forte dimension digitale de la cafétéria présuppose un <strong>partenariat avec un éditeur de logiciel capable d’adresser des solutions à tout niveau du parcours convive</strong>. SaintCondé s’est appuyé sur la solution Innovorder pour compléter ses ressources, <strong>séduire et fidéliser</strong> son client avec une offre inédite, et renforcer sa position sur son marché. Mais le restaurateur <strong>développe également de nouvelles opportunités</strong> en prouvant son aptitude à aller au-delà de son activité de traiteur pour entreprises, particuliers et événementiel.</p>\n          <p>‍</p>\n          <h3>03. Un dispositif co-construit avec un interlocuteur unique</h3>\n          <p><strong>Choisir un partenaire</strong></p>\n          <p>Pour répondre à l’appel d’offres de l’OCDE, le choix de SaintCondé s’est porté sur Innovorder - le seul prestataire consulté capable de mettre en place une <strong>offre sur-mesure</strong>. En effet, la stratégie de Saint-Condé a été la <strong>personnalisation maximale de son dispositif</strong>, afin de se différencier.</p>\n          <p>C’est ainsi que le restaurateur a imaginé avec Innovorder une cafétéria innovante. Parmi les solutions intégrées, le <strong>click and collect</strong> a fait l’unanimité auprès de lui et de ses clients : “Cette fonctionnalité a semblé évidente, intuitive, facile à mettre en place, et répond à la demande de notre client” indique <strong>Georges Martinez, Dirigeant de SaintCondé</strong>.</p>\n          <p>Au-delà de la pertinence de cette solution globale, incluant hardware et software, SaintCondé apprécie la <strong>proximité et la disponibilité des équipes d’Innovorder</strong> : “L’accompagnement d’Innovorder a été décisif. Il y a toujours une personne qui intervient aux moments clés” précise <strong>Georges Martinez, Dirigeant de SaintCondé</strong>.</p>\n          <figure style=\"max-width:1000px\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\">\n            <div><img alt src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f2fcfc5989a919fe62_saint_conde_traiteur.jpeg\" loading=\"lazy\"></div>\n          </figure>\n          <h4>‍</h4>\n          <h4><strong>Quels étaient les problématiques et enjeux de SaintCondé ?</strong></h4>\n          <p>En plus des enjeux liés à la nouveauté de cette offre, SaintCondé a exprimé une attention particulière au <strong>système de monitoring</strong>, et plus précisément aux <strong>activités financières et commerciales</strong> de la cafétéria.</p>\n          <p>“La solution Innovorder répond à une problématique commerciale de suivi d’amélioration de l’expérience client, mais également de contrôle des coûts, de maîtrise des marges\" - <strong>Georges Martinez, Dirigeant de SaintCondé</strong></p>\n          <figure style=\"max-width:1000px\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\">\n            <div><img alt src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59649d19ffe9_equipe_saint_conde_traiteur.jpeg\" loading=\"lazy\"></div>\n          </figure>\n          <p>‍<br></p>\n          <h4><strong>Pourquoi avoir choisi Innovorder ?</strong></h4>\n          <p>Pour SaintCondé, Innovorder est le <strong>partenaire idéal pour élargir son activité</strong> de traiteur avec une offre modulable et innovante, s’adaptant aux besoins spécifiques de ses clients.</p>\n          <p>L’entreprise a choisi Innovorder, notamment parce que <strong>l’offre intégrée implique un interlocuteur unique</strong>, ce qui facilite le développement du projet. Mais c’est aussi une <strong>solution évolutive</strong>, non figée, qui va bénéficier de toutes les mises à jour pendant la durée du contrat d’exploitation.</p>\n          <p>Enfin, le <strong>professionnalisme des équipes</strong> a également fait la différence. SaintCondé a apprécié chez les interlocuteurs Innovorder leurs connaissances pointues des problématiques des restaurateurs et traiteurs, ainsi que leur expertise face aux problématiques de déploiement.</p>\n        ",
+  "right-head": "Saint Condé",
+  "bozzolo-cat": "Restauration collective",
+  "div-html": "\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/caisse-enregistreuse-tactile-restauration\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc596eea1a0225_Portefeuille-2.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Caisse enregistreuse</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/borne-de-commande\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5975dd1a0229_Borne%20de%20commande.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Borne de commande</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/logiciel-caisse-restauration\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5943581a021e_Backoffice.webp\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Backoffice</div>\n                    </a></div>\n                ",
+  "image-thumb-3x-href": "/success-stories/11h59-innovorder",
+  "bg-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5937cc1a01f2_iStock-1407282999.avif",
+  "bg-image-sizes": "(max-width: 767px) 100vw, 800px",
+  "bg-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5937cc1a01f2_iStock-1407282999-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5937cc1a01f2_iStock-1407282999.avif 1254w",
+  "company-img-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5989d21a022c_image.avif\")",
+  "link-block-9-href": "/success-stories/11h59-innovorder",
+  "title-cs": "Pourquoi 11H59 choisit Innovorder pour répondre à ses appels d'offres",
+  "company-name-cs": "11H59",
+  "label-category-card": "Restauration collective",
+  "arrow-block-blog-href": "/success-stories/11h59-innovorder",
+  "image-thumb-3x-href-2": "/success-stories/elior-x-innovorder",
+  "bg-image-src-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f2fcfc59cb0119fef2_Elior.avif",
+  "bg-image-sizes-2": "100vw",
+  "bg-image-srcset-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f2fcfc59cb0119fef2_weeky-connect-mobile-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f2fcfc59cb0119fef2_Elior.avif 800w",
+  "company-img-logo-style-2": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc591c481a0238_elior%20logo.avif\")",
+  "link-block-9-href-2": "/success-stories/elior-x-innovorder",
+  "title-cs-2": "Elior x Innovorder",
+  "company-name-cs-2": "Elior",
+  "label-category-card-2": "Restauration collective",
+  "arrow-block-blog-href-2": "/success-stories/elior-x-innovorder",
+  "image-thumb-3x-href-3": "/success-stories/convivio-x-innovorder",
+  "bg-image-src-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f2fcfc5920f919fe80_convivio.avif",
+  "bg-image-sizes-3": "(max-width: 479px) 100vw, (max-width: 991px) 95vw, (max-width: 1439px) 30vw, 403.3203125px",
+  "bg-image-srcset-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f2fcfc5920f919fe80_UseCase_Convivio2-e1562774879188-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f2fcfc5920f919fe80_UseCase_Convivio2-e1562774879188-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f2fcfc5920f919fe80_UseCase_Convivio2-e1562774879188-p-1080.avif 1080w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f2fcfc5920f919fe80_UseCase_Convivio2-e1562774879188-p-1600.avif 1600w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f2fcfc5920f919fe80_convivio.avif 2953w",
+  "company-img-logo-style-3": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5981011a0237_convivio.avif\")",
+  "link-block-9-href-3": "/success-stories/convivio-x-innovorder",
+  "title-cs-3": "Convivio x Innovorder",
+  "company-name-cs-3": "Convivio",
+  "label-category-card-3": "Restauration collective",
+  "arrow-block-blog-href-3": "/success-stories/convivio-x-innovorder"
+ }
+}

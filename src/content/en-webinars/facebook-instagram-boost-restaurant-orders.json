@@ -1,0 +1,71 @@
+{
+ "slug": "facebook-instagram-boost-restaurant-orders",
+ "seo": {
+  "title": "Facebook, Instagram... Become an advertising rockstar and boost your restaurant's orders! - Innovorder",
+  "description": "Become an advertising rockstar and boost your restaurant's orders Commercial Catering",
+  "lang": "en",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc31",
+   "data-wf-collection": "6493777d655aea5e6643cb65",
+   "data-wf-item-slug": "facebook-instagram-boostez-les-commandes-de-votre-restaurant",
+   "data-wg-translated": "en"
+  },
+  "bodyClass": "body",
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/webinars/facebook-instagram-boostez-les-commandes-de-votre-restaurant\",\"en\":\"https://www.innovorder.com/en/webinars/facebook-instagram-boost-restaurant-orders\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/webinars/facebook-instagram-boostez-les-commandes-de-votre-restaurant\",\"originalPath\":\"/webinars/facebook-instagram-boostez-les-commandes-de-votre-restaurant\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/webinars/facebook-instagram-boostez-les-commandes-de-votre-restaurant",
+  "link-href-2": "https://www.innovorder.com/en/webinars/facebook-instagram-boost-restaurant-orders",
+  "breadcrumb-text-href": "/en/webinars/facebook-instagram-boost-restaurant-orders",
+  "breadcrumb-text": "Facebook, Instagram... Become an advertising rockstar and boost your restaurant's orders!",
+  "embedly-embed-src": "//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FDpExjBXuLkk%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDpExjBXuLkk&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FDpExjBXuLkk%2Fhqdefault.jpg&key=96f1f04c5f4143bcb0f2e68c87d65feb&type=text%2Fhtml&schema=youtube",
+  "embedly-embed-allow": "autoplay; fullscreen",
+  "title-webinar": "Facebook, Instagram... Become an advertising rockstar and boost your restaurant's orders!",
+  "webinar-category": "Commercial catering",
+  "webinar-description-html": "\n          <p>Boost your restaurant's orders with social media advertising</p>\n        ",
+  "featured-vid-block-href": "/en/webinars/ai-for-the-foodservice-industry",
+  "video-suggested-webinar-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66a9f59d7cd3ab3b4e292d76_webinar%207%20Large.avif",
+  "video-suggested-webinar-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66a9f59d7cd3ab3b4e292d76_webinar%207%20Large-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66a9f59d7cd3ab3b4e292d76_webinar%207%20Large.avif 1280w",
+  "webinar-category-2": "Collective catering",
+  "title-featured-webinar": "AI at the service of catering",
+  "featured-vid-block-href-2": "/en/webinars/boosting-productivity-in-fast-food",
+  "video-suggested-webinar-src-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/666c3048b3b2b87c59ba1e42_webinaire.avif",
+  "video-suggested-webinar-srcset-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/666c3048b3b2b87c59ba1e42_webinaire-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/666c3048b3b2b87c59ba1e42_webinaire.avif 1200w",
+  "title-featured-webinar-2": "How to boost productivity in the fast-food sector?",
+  "featured-vid-block-href-3": "/en/webinars/focus-on-commitment-as-driver-of-hypergrowth",
+  "video-suggested-webinar-src-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/641ca54f8f93d702ce615ada_thumb-web.avif",
+  "video-suggested-webinar-srcset-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/641ca54f8f93d702ce615ada_thumb-web-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/641ca54f8f93d702ce615ada_thumb-web.avif 976w",
+  "title-featured-webinar-3": "Making engagement the engine of hypergrowth?",
+  "featured-vid-block-href-4": "/en/webinars/increase-point-of-sales-online-ordering",
+  "video-suggested-webinar-src-4": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/641ca5743f3b8bfdf509e122_thumb-web.avif",
+  "video-suggested-webinar-srcset-4": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/641ca5743f3b8bfdf509e122_thumb-web-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/641ca5743f3b8bfdf509e122_thumb-web.avif 976w",
+  "title-featured-webinar-4": "Covid-19: how can you speed up the recovery of your outlet by ordering online?",
+  "tail:field-script": "<script>\n\n  function labnolIframe(div) {\n    var iframe = document.createElement('iframe');\n    iframe.setAttribute('src', 'https://www.youtube.com/embed/' + div.dataset.id + '?autoplay=1&rel=0');\n    iframe.setAttribute('frameborder', '0');\n    iframe.setAttribute('allowfullscreen', '1');\n    iframe.setAttribute('allow', 'accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture');\n    div.parentNode.replaceChild(iframe, div);\n  }\n\n  function initYouTubeVideos() {\n    var playerElements = document.getElementsByClassName('youtube-player');\n    for (var n = 0; n < playerElements.length; n++) {\n      var videoId = playerElements[n].dataset.id;\n      var div = document.createElement('div');\n      div.setAttribute('data-id', videoId);\n      var thumbNode = document.createElement('img');\n      thumbNode.src = '//Facebook, Instagram... Devenez une rockstar de la pub'.replace('https://Facebook, Instagram... Devenez une rockstar de la pub');\n      div.appendChild(thumbNode);\n      var playButton = document.createElement('div');\n      playButton.setAttribute('class', 'play');\n      div.appendChild(playButton);\n      div.onclick = function () {\n        labnolIframe(this);\n      };\n      playerElements[n].appendChild(div);\n    }\n  }\n\n  document.addEventListener('DOMContentLoaded', initYouTubeVideos);\n</script>"
+ }
+}

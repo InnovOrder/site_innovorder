@@ -1,0 +1,85 @@
+{
+ "slug": "foud-a-uniformise-son-reseau-de-franchise",
+ "seo": {
+  "title": "Success Story - Comment Foud a simplifié la gestion de sa franchise de 5 restaurants",
+  "description": "Thibault, co-fondateur de Foud, revient sur les solutions qu'il a mises en place pour uniformiser son réseau de franchise et offrir la meilleure expérience client possible.",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66630a50a094f5e7a0c1aeee_IMG_7582%20(1).avif",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc30",
+   "data-wf-collection": "6493777d655aea5e6643cb6a",
+   "data-wf-item-slug": "foud-a-uniformise-son-reseau-de-franchise"
+  },
+  "bodyClass": "body",
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/success-stories/foud-a-uniformise-son-reseau-de-franchise\",\"en\":\"https://www.innovorder.com/en/success-stories/foud-standardized-its-franchise-network\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/success-stories/foud-a-uniformise-son-reseau-de-franchise\",\"originalPath\":\"/success-stories/foud-a-uniformise-son-reseau-de-franchise\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/success-stories/foud-a-uniformise-son-reseau-de-franchise",
+  "link-href-2": "https://www.innovorder.com/en/success-stories/foud-standardized-its-franchise-network",
+  "title-post": "Comment Foud a simplifié la gestion de sa franchise de 5 restaurants",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66630a50a094f5e7a0c1aeee_IMG_7582%20(1).avif",
+  "current-post-image-sizes": "100vw",
+  "current-post-image-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66630a50a094f5e7a0c1aeee_IMG_7582%20(1)-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66630a50a094f5e7a0c1aeee_IMG_7582%20(1).avif 1200w",
+  "company-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/666309fdeb595124d5c829a0_logo%20NL_carre%CC%81_AL.avif\")",
+  "title-post-2": "Comment Foud a simplifié la gestion de sa franchise de 5 restaurants",
+  "rt-blog-html": "\n          <h2>Le contexte</h2>\n          <p>Fondée en 2019 par Thibault Amat et ses associés Nicolas Giansily et Frédéric Charlet, la franchise Foud propose une cuisine hybride mêlant restauration sur place, à emporter et livraison. Avec une cuisine centrale située à Aubagne, Foud prépare chaque matin des plats frais et variés, qu'ils dispatchent ensuite à leurs cinq points de vente. La particularité de Foud réside dans ses recettes de bistro français et méditerranéen, renouvelées chaque semaine.</p>\n          <figure style=\"max-width:3299pxpx\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\">\n            <div><img loading=\"lazy\" alt src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66cdbb4a6b5758f6bb75e2df_666309bfb7be09fd168f3b94_3154496F-DBB2-4370-88E0-C428CEBA173A.avif\"></div>\n          </figure>\n          <h2>Le challenge</h2>\n          <p>Dès ses débuts, Foud a voulu intégrer le digital pour simplifier et optimiser son fonctionnement. Toutefois, leur système initial, basé sur PrestaShop et un logiciel de caisse, posait des limites.</p>\n          <blockquote>\"Ce n'est pas notre métier de gérer la maintenance des API entre nos solutions.\"</blockquote>\n          <p>Pour soutenir leur expansion, ils avaient besoin d'une solution tout-en-un plus intégrée et évolutive.</p>\n          <h2>La solution : un prestataire unique</h2>\n          <p>En quête de simplification, Foud s'est tourné vers Innovorder pour répondre à leurs besoins de digitalisation et d'efficacité. </p>\n          <blockquote>\"Nous avions besoin d'un partenaire capable de fournir une solution tout-en-un pour la caisse et la commande en ligne.\" </blockquote>\n          <p>Innovorder s'est avéré être le choix idéal, non seulement pour sa facilité d'utilisation, mais aussi pour sa capacité à s'intégrer avec d'autres solutions digitales comme les bornes de commande et les plateformes Uber Eats et Deliveroo.</p>\n          <h2>Uniformiser l'expérience client</h2>\n          <p>Avec Innovorder, Foud a pu uniformiser l'expérience client, que ce soit en ligne ou sur place. </p>\n          <blockquote>\"L’intérêt d’Innovorder est d’unifier notre expérience, que les clients soient sur place ou sur un espace de commande en ligne, ils se retrouvent à commander de la même façon\", explique Thibault. </blockquote>\n          <p>Cela garantit une expérience fluide et cohérente, renforçant la satisfaction et la fidélité des clients.</p>\n          <h2>Miser sur la livraison</h2>\n          <p>Foud a fait de la livraison un pilier central de son modèle d'affaires. Grâce à Innovorder, ils ont pu développer leur propre système de commande en ligne, intégré directement à leur flotte de livraison. Ce système intégré permet de traiter environ 250 livraisons par jour, réparties entre leurs points de vente.</p>\n          <p>L'utilisation de leur flotte de livraison interne garantit un contrôle total sur la qualité et la rapidité du service. Il suit chaque étape de la commande, de la préparation à la livraison, ce qui améliore la satisfaction client et réduit les erreurs. </p>\n          <figure style=\"max-width:3000pxpx\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\">\n            <div><img loading=\"lazy\" alt src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/66cdbb4a6b5758f6bb75e30d_6662f447363c85caa7f227af_IMG_7578.avif\"></div>\n          </figure>\n          <h2>Scaler le développement et l'expansion de son réseau</h2>\n          <p>Innovorder s'est révélé indispensable pour l'expansion de Foud. </p>\n          <blockquote>\"Le logiciel nous permet de dupliquer facilement nos processus et de former nos franchisés sous la même technologie\", souligne Thibault. </blockquote>\n          <p>Ce soutien technologique a été déterminant dans l'ouverture de nouveaux points de vente, comme le prochain restaurant à l'aéroport de Marseille, prévu pour juin 2024.</p>\n          <h2>Et la suite ? </h2>\n          <p>Foud continue de se développer avec Innovorder, renforçant sa présence en France et assurant une gestion optimisée de ses opérations.</p>\n          <blockquote>\"En 2024, nous poursuivons nos ouvertures avec un nouveau restaurant à l'aéroport de Marseille. Nos franchisés à Aix-en-Provence, étant récemment intégrés, nous veillons également à ce que nos pionniers du réseau soient bien installés et opérationnels\", conclut Thibault.</blockquote>\n          <p>Foud prévoit d'ouvrir davantage de points de vente en franchise et de continuer à offrir une expérience client exceptionnelle grâce au digital.</p>\n          <p>—</p>\n          <p>Vous dirigez une franchise ou vous souhaitez lancer votre franchise ? Faites appel à un expert Innovorder et découvrez comment piloter facilement votre réseau de restaurants et booster votre activité !</p>\n        ",
+  "right-head": "Foud",
+  "bozzolo-cat": "Franchise",
+  "div-html": "\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/borne-de-commande\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5975dd1a0229_Borne%20de%20commande.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Borne de commande</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/caisse-enregistreuse-tactile-restauration\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc596eea1a0225_Portefeuille-2.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Caisse enregistreuse</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/commande-ligne\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59e0dd1a0228_Commande%20en%20ligne.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Commande en ligne</div>\n                    </a></div>\n                  <div role=\"listitem\" class=\"w-dyn-item\"><a href=\"/integrations\" class=\"solutions-block-item w-inline-block\">\n                      <img src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc592e8e1a021c_Integration.avif\" loading=\"lazy\" alt class=\"icon-solution\">\n                      <div>Intégrations</div>\n                    </a></div>\n                ",
+  "image-thumb-3x-href": "/success-stories/ankka-grenoble-innovorder",
+  "bg-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc593f411a01b8_Alain%20Ankka%20Miniature.avif",
+  "bg-image-sizes": null,
+  "bg-image-srcset": null,
+  "company-img-logo-style": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5980181a022d_Ankka_logo.avif\")",
+  "link-block-9-href": "/success-stories/ankka-grenoble-innovorder",
+  "title-cs": "Comment Ankka a boosté sa franchise en 5 étapes",
+  "company-name-cs": "Ankka",
+  "label-category-card": "Franchise",
+  "arrow-block-blog-href": "/success-stories/ankka-grenoble-innovorder",
+  "image-thumb-3x-href-2": "/success-stories/bchef-innovorder",
+  "bg-image-src-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5960b71a0242_BCHEF.avif",
+  "bg-image-sizes-2": "100vw",
+  "bg-image-srcset-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5960b71a0242_BCHEF-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5960b71a0242_BCHEF-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5960b71a0242_BCHEF-p-1080.avif 1080w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5960b71a0242_BCHEF.avif 1920w",
+  "company-img-logo-style-2": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5978961a0240_logo%20bchef.avif\")",
+  "link-block-9-href-2": "/success-stories/bchef-innovorder",
+  "title-cs-2": "Comment Charlène a fluidifié le service dans son restaurant BCHEF",
+  "company-name-cs-2": "BCHEF",
+  "label-category-card-2": "Franchise",
+  "arrow-block-blog-href-2": "/success-stories/bchef-innovorder",
+  "image-thumb-3x-href-3": "/success-stories/ankka-presqu-ile-innovorder",
+  "bg-image-src-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc59eebc1a019f_Portrait%20miniature.avif",
+  "bg-image-sizes-3": null,
+  "bg-image-srcset-3": null,
+  "company-img-logo-style-3": "background-image:url(\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63f501f3fcfc5980181a022d_Ankka_logo.avif\")",
+  "link-block-9-href-3": "/success-stories/ankka-presqu-ile-innovorder",
+  "title-cs-3": "Pourquoi Anthony, franchisé Ankka, a embauché un livreur",
+  "company-name-cs-3": "Ankka",
+  "label-category-card-3": "Franchise",
+  "arrow-block-blog-href-3": "/success-stories/ankka-presqu-ile-innovorder"
+ }
+}

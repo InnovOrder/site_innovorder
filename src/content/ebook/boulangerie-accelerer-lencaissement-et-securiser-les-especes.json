@@ -1,0 +1,68 @@
+{
+ "slug": "boulangerie-accelerer-lencaissement-et-securiser-les-especes",
+ "seo": {
+  "title": "Boulangerie : accélérer l'encaissement et sécuriser les espèces",
+  "description": "Comment Tranché a accéléré son encaissement et sécurisé ses espèces : une caisse connectée, un monnayeur automatique et un pilotage centralisé sur 4 boutiques.",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69a5a727abf38a85767bc155_Tranche%CC%81.avif",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc09",
+   "data-wf-collection": "6493777d655aea5e6643cb5f",
+   "data-wf-item-slug": "boulangerie-accelerer-lencaissement-et-securiser-les-especes"
+  },
+  "bodyClass": "body",
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/ebook/boulangerie-accelerer-lencaissement-et-securiser-les-especes\",\"en\":\"https://www.innovorder.com/en/ebook/bakery-speed-up-checkout-and-secure-cash\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/ebook/boulangerie-accelerer-lencaissement-et-securiser-les-especes\",\"originalPath\":\"/ebook/boulangerie-accelerer-lencaissement-et-securiser-les-especes\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/ebook/boulangerie-accelerer-lencaissement-et-securiser-les-especes",
+  "link-href-2": "https://www.innovorder.com/en/ebook/bakery-speed-up-checkout-and-secure-cash",
+  "title-00": "Boulangerie : accélérer l'encaissement et sécuriser les espèces ",
+  "subtitle-hero-ebook-inner": "Comment Tranché a accéléré son encaissement et sécurisé ses espèces : une caisse connectée, un monnayeur automatique et un pilotage centralisé sur 4 boutiques.",
+  "name-value": "Boulangerie : accélérer l'encaissement et sécuriser les espèces ",
+  "image-form-ebook-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69a5a727abf38a85767bc155_Tranche%CC%81.avif",
+  "image-form-ebook-sizes": "(max-width: 479px) 100vw, 269px",
+  "image-form-ebook-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69a5a727abf38a85767bc155_Tranche%CC%81-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69a5a727abf38a85767bc155_Tranche%CC%81-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69a5a727abf38a85767bc155_Tranche%CC%81-p-1080.avif 1080w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69a5a727abf38a85767bc155_Tranche%CC%81.avif 1446w",
+  "rt-thank-you-html": "\n                    <h2>Votre guide est disponible 👇</h2>\n                    <p><strong>Merci et bonne lecture !</strong></p>\n                    <p><a href=\"https://5696087.fs1.hubspotusercontent-na1.net/hubfs/5696087/Livres%20blancs/USE%20CASE%20-%20BOULANGERIE.pdf\" target=\"_blank\">Télécharger le guide ultime</a></p>\n                    <p>L'équipe <a href=\"/\" target=\"_blank\">Innovorder</a></p>\n                    <p>‍</p>\n                    <p>‍</p>\n                  ",
+  "rt-ebook-html": "\n              <p>Face aux rushes du matin, Tranché a digitalisé son encaissement : moins d'attente en caisse, zéro erreur sur les espèces et un pilotage simplifié sur ses 4 boutiques.</p>\n            ",
+  "temoignage-img-src": "",
+  "temoignage-img-class": "temoignage-img w-dyn-bind-empty",
+  "icon-ebook-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69a5ab210af2be782a357251_Pictogrammes%20-%20_euro.avif",
+  "icon-ebook-sizes": "100vw",
+  "icon-ebook-srcset": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69a5ab210af2be782a357251_Pictogrammes%20-%20_euro-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69a5ab210af2be782a357251_Pictogrammes%20-%20_euro-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69a5ab210af2be782a357251_Pictogrammes%20-%20_euro-p-1080.avif 1080w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69a5ab210af2be782a357251_Pictogrammes%20-%20_euro-p-1600.avif 1600w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69a5ab210af2be782a357251_Pictogrammes%20-%20_euro.avif 2083w",
+  "rt-decouvrirez-block-html": "\n            <p><strong>Comment accélérer l'encaissement</strong> en période de forte affluence</p>\n          ",
+  "icon-ebook-src-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69a5ab221cf1c9c4c4022af3_Pictogrammes%20-%20_horloge.avif",
+  "icon-ebook-sizes-2": "100vw",
+  "icon-ebook-srcset-2": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69a5ab221cf1c9c4c4022af3_Pictogrammes%20-%20_horloge-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69a5ab221cf1c9c4c4022af3_Pictogrammes%20-%20_horloge-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69a5ab221cf1c9c4c4022af3_Pictogrammes%20-%20_horloge-p-1080.avif 1080w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69a5ab221cf1c9c4c4022af3_Pictogrammes%20-%20_horloge-p-1600.avif 1600w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69a5ab221cf1c9c4c4022af3_Pictogrammes%20-%20_horloge.avif 2083w",
+  "rt-decouvrirez-block-html-2": "\n            <p><strong>Comment sécuriser la gestion des espèces</strong> et éliminer les erreurs de caisse</p>\n          ",
+  "icon-ebook-src-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69a5ab2addb001e3a6f18e2a_Pictogrammes%20-%20_Site%20internet.avif",
+  "icon-ebook-sizes-3": "100vw",
+  "icon-ebook-srcset-3": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69a5ab2addb001e3a6f18e2a_Pictogrammes%20-%20_Site%20internet-p-500.avif 500w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69a5ab2addb001e3a6f18e2a_Pictogrammes%20-%20_Site%20internet-p-800.avif 800w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69a5ab2addb001e3a6f18e2a_Pictogrammes%20-%20_Site%20internet-p-1080.avif 1080w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69a5ab2addb001e3a6f18e2a_Pictogrammes%20-%20_Site%20internet-p-1600.avif 1600w, /assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/69a5ab2addb001e3a6f18e2a_Pictogrammes%20-%20_Site%20internet.avif 2083w",
+  "rt-decouvrirez-block-html-3": "\n            <p><strong>Comment centraliser le pilotage</strong> de plusieurs points de vente en temps réel</p>\n          ",
+  "rt-decouvrirez-block-html-4": "\n          <p>Depuis plus de dix ans, nos équipes accompagnent les acteurs de la restauration dans l’optimisation de leurs performances. </p>\n          <p>Nous partageons aujourd’hui une synthèse exclusive, issue de nos retours d’expérience et des résultats obtenus sur le terrain.</p>\n        "
+ }
+}

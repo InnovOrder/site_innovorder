@@ -1,0 +1,101 @@
+{
+ "slug": "collective-catering-and-covid-19-challenges",
+ "seo": {
+  "title": "Covid-19: the major challenges of the catering industry",
+  "description": "Manage HR organization to ensure team continuity. Streamline order collection and canteen operations.",
+  "ogImage": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d256f1ef3281258355_63f501f3fcfc59b2c81a000c_61bef5e7372eee01364b00a9_restauration-collective-covid19-blog-innovorder.avif",
+  "lang": "en",
+  "htmlAttrs": {
+   "data-wf-page": "6493777d655aea5e6643cc01",
+   "data-wf-collection": "6493777d655aea5e6643cb6c",
+   "data-wf-item-slug": "covid-19-defis-restauration-collective",
+   "data-wg-translated": "en"
+  },
+  "bodyClass": "body",
+  "bodyAttrs": {
+   "ph-category": "blog"
+  },
+  "webflowScripts": [
+   {
+    "src": "/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js",
+    "type": "text/javascript",
+    "integrity": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.4621b44054c4cc64.js",
+    "type": "text/javascript",
+    "integrity": "sha384-aghwvml5rig/T7e4zosxno6oA1Egc3cKPM6FP9ti9TCQkAoo+GH+XXh7xNn/M+6r",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.schunk.b693920686705a26.js",
+    "type": "text/javascript",
+    "integrity": "sha384-C/wFs2yjYA9jOcYLm4wK5l9pvcKosdzrrEqod/82XTjVD5Sa5FyXRmbPrHN7uuct",
+    "crossorigin": "anonymous"
+   },
+   {
+    "src": "/assets/cdn.prod.website-files.com/63f501f2fcfc59779719f99c/js/webflow.81c8caa2.7a583d2f84404f74.js",
+    "type": "text/javascript",
+    "integrity": "sha384-DJVlwW9hLkiHqUOtjKtqn5a4YlqRnDc0Qur0U7MOnZJttoySvb0C7QVV3p98mPpb",
+    "crossorigin": "anonymous"
+   }
+  ]
+ },
+ "fields": {
+  "head:field-script": "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.innovorder.com/en/blog/collective-catering-and-covid-19-challenges\"},\"headline\":\"Covid-19 : les grands défis de la restauration collective\",\"description\":\"Manage HR organization to ensure team continuity. Streamline order collection and canteen operations.\",\"image\":\"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d256f1ef3281258355_63f501f3fcfc59b2c81a000c_61bef5e7372eee01364b00a9_restauration-collective-covid19-blog-innovorder.avif\",\"author\":{\"@type\":\"Person\",\"name\":\"Sophie Lecomte\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Innovorder\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.9\",\"reviewCount\":\"550\",\"bestRating\":\"5\",\"worstRating\":\"1\"}},\"datePublished\":\"30 juillet 2020\",\"dateModified\":\"\",\"articleSection\":\"Les défis de la restauration collective\",\"timeRequired\":\"2\"}</script>",
+  "field-script-2": "<script type=\"application/json\" id=\"weglot-data\">{\"allLanguageUrls\":{\"fr\":\"https://www.innovorder.com/blog/covid-19-defis-restauration-collective\",\"en\":\"https://www.innovorder.com/en/blog/collective-catering-and-covid-19-challenges\"},\"originalCanonicalUrl\":\"https://www.innovorder.com/blog/covid-19-defis-restauration-collective\",\"originalPath\":\"/blog/covid-19-defis-restauration-collective\",\"settings\":{\"auto_switch\":false,\"auto_switch_fallback\":null,\"category\":11,\"custom_settings\":{\"button_style\":{\"with_name\":true,\"full_name\":false,\"is_dropdown\":true,\"with_flags\":false,\"flag_type\":\"rectangle_mat\",\"custom_css\":\".country-selector {\\r\\n  visibility: hidden;\\r\\n}\"},\"switchers\":[],\"translate_search\":false,\"loading_bar\":true,\"hide_switcher\":false,\"wait_transition\":true,\"definitions\":{}},\"deleted_at\":null,\"dynamics\":[],\"excluded_blocks\":[{\"value\":\"wg-selector2-text-lang1\",\"description\":null},{\"value\":\"wg-selector2-text-lang2\",\"description\":null},{\"value\":\".wg-element-wrapper\",\"description\":null},{\"value\":\".weglot-exclude\",\"description\":null},{\"value\":\".date-post-text\",\"description\":null}],\"excluded_paths\":[{\"excluded_languages\":[\"en\"],\"language_button_displayed\":false,\"type\":\"CONTAIN\",\"value\":\"/ressources/glossaire\"}],\"external_enabled\":false,\"host\":\"www.innovorder.com\",\"is_dns_set\":true,\"is_https\":true,\"language_from\":\"fr\",\"language_from_custom_flag\":null,\"language_from_custom_name\":null,\"languages\":[{\"connect_host_destination\":null,\"custom_code\":null,\"custom_flag\":null,\"custom_local_name\":null,\"custom_name\":null,\"enabled\":true,\"language_to\":\"en\"}],\"media_enabled\":false,\"page_views_enabled\":false,\"technology_id\":13,\"technology_name\":\"Webflow\",\"translation_engine\":3,\"url_type\":\"SUBDIRECTORY\",\"versions\":{\"translation\":1785418213,\"slugTranslation\":1781253270}}}</script>",
+  "head:link-href": "https://www.innovorder.com/blog/covid-19-defis-restauration-collective",
+  "link-href-2": "https://www.innovorder.com/en/blog/collective-catering-and-covid-19-challenges",
+  "breadcrumb-text-href": "/en/categories/collective-catering",
+  "breadcrumb-text": "The challenges of foodservice",
+  "breadcrumb-text-href-2": "/en/blog/collective-catering-and-covid-19-challenges",
+  "breadcrumb-text-2": "Covid-19: the major challenges of the catering industry",
+  "current-post-image-src": "/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d256f1ef3281258355_63f501f3fcfc59b2c81a000c_61bef5e7372eee01364b00a9_restauration-collective-covid19-blog-innovorder.avif",
+  "current-post-image-alt": "",
+  "current-post-image-sizes": null,
+  "current-post-image-srcset": null,
+  "category-name-current-post": "The challenges of foodservice",
+  "read-time-txt-class": "read-time-txt",
+  "read-time-txt-html": "2",
+  "title-post": "Covid-19: the major challenges of the catering industry",
+  "author-post-class": "author-post w-condition-invisible",
+  "author-post-html": "Sophie Lecomte",
+  "date-post-text": "05 December 2024",
+  "rt-blog-html": "\n          <p>Organize the takeover, especially in the <a href=\"/en/blog/2021-restoration-trends\"><strong>the school and corporate catering sector, required</strong></a><strong> and corporate</strong> catering, required intense weeks of preparation and reorganization for all concerned, often resulting not only in the creation of new and very precise protocols to ensure a demanding sanitary framework, but also in tailor-made approaches for each establishment.</p>\n          <p>There are several challenges common to most players in the sector. Their ability to meet these challenges will determine <strong>the confidence of their guests and staff, and the evolution of their behavior and habits</strong> (going to the canteen, ordering or... opting for the return of home-made Tupperware, for example, the famous \"return of the lunch box\").</p>\n          <p>The stakes are therefore high around various issues and allow us to \"prepare the ground\" for a strong recovery anticipated in September.</p>\n          <ul role=\"list\">\n            <li><strong>Continue to manage service continuity. </strong>Restarting the machine is not that simple and requires organizational efforts that are sometimes \"experimental\" and involve internal mobility.</li>\n            <li><strong>Evolve in a complex and uncertain environment. </strong>Like many economic players, the <a href=\"/en/blog/collective-catering-losses-waste-management\"><strong>contract catering</strong></a><strong> </strong>must start up again without much visibility and with many parameters still unknown.</li>\n            <li><strong>Adapting its offer. </strong>Menus, service... We can already see an evolution towards the simplification of menus (hot meals with consumption in the dining room, cold meal offer elsewhere...) Protect. employees, guests...</li>\n            <li><strong>Rethinking consumption spaces</strong>. Where can/should meals be taken? In some cases, as Scolarest has done for example <a href=\"https://www.compass-group.fr/wwp-actu/a-chacun-sa-solution/\"><strong>picnics have been organized in schools</strong></a>.</li>\n            <li><strong>Adopt an agile and tailored approach. </strong>Restarting safely means finding a scenario adapted to each site, on a case-by-case basis, according to human means, space and resources. Most of the time, an operational diagnosis must be carried out: furniture, living and circulation spaces, available staff...</li>\n            <li><strong>Protecting </strong>employees, guests...</li>\n            <li><strong>Ensuring replenishment. </strong> Here again, it is not always easy to ensure a continuous restart. The question of <strong>support for the French sectors</strong> is also raised, in a context of sometimes tense purchasing throughout the country.</li>\n            <li><strong>Disinfection of the premises </strong> must be <strong data-wg-splitted>well organized </strong>... crucial in the context, with virucidal products that meet specific standards. It is also necessary to remove the elements accessible by all (cutlery trays, microwaves...)</li>\n            <li><strong>To inform the guests</strong>, but also the parents of the pupils in the case of the school catering.</li>\n            <li><strong>Create technical sheets for the staff</strong>. Maintain the high level of nutritional quality while respecting economic constraints and without forgetting the fundamentals of the fight against food waste.</li>\n            <li><strong>Organize social distancing.</strong> Marking on the floor, placement in the room (every other seat? Staggered? etc.)</li>\n            <li><strong>Inform and train staff</strong>. Most of them are already aware of the barrier gestures and trained in strict sanitary procedures. However, the new organization needs to provide an information upgrade.</li>\n            <li><strong>Manage its HR organization</strong> to organize the continuity of the teams.</li>\n            <li><strong>To fluidify the passages of withdrawal of order or passage to the canteen to maintain the safety distances</strong>. On this point, pre-ordering and <a href=\"/en/blog/benefits-of-online-ordering-for-restaurants\"><strong>online ordering</strong></a> are essential. They allow not only to manage stocks, but also to absorb flows and to rationalize the passages according to precise time slots.</li>\n          </ul>\n          <p><strong>The Innovorder solution even allows you to organize the withdrawal by time slot, to \"smooth out\" the passages with complete peace of mind!</strong></p>\n        ",
+  "div-class": null,
+  "right-head-class": "right-head interesting-art",
+  "div-role": "list",
+  "div-class-2": "w-dyn-items",
+  "div-role-2": "listitem",
+  "div-class-3": "w-dyn-item",
+  "div-html": "<a href=\"/en/blog/haccp-principles-in-collective-catering\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d6648a63308efac3ab_63f501f3fcfc5979fe1a0212_iStock-1271148377.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">HACCP approach in the catering industry: the complete guide</div>\n                  <div class=\"interesting-articles-category\">The challenges of foodservice</div>\n                </div>\n              </a>",
+  "div-role-3": "list",
+  "div-class-4": "w-dyn-items",
+  "div-role-4": "listitem",
+  "div-class-5": "w-dyn-item",
+  "div-html-2": "<a href=\"/en/blog/corporate-cafeteria-management\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d58dc4be04e1d7ec5f_63f501f3fcfc59f9451a01c5_Miniature%2520resto%2520entreprise.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">9 tips to better manage your company restaurant</div>\n                  <div class=\"interesting-articles-category\">The challenges of foodservice</div>\n                </div>\n              </a>",
+  "div-role-5": "list",
+  "div-class-6": "w-dyn-items",
+  "div-role-6": "listitem",
+  "div-class-7": "w-dyn-item",
+  "div-html-3": "<a href=\"/en/blog/online-ordering-in-healthcare-industry\" class=\"interesting-articles-wrap w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d1e6407e57b366c4cb_63f501f3fcfc59c2211a0020_61bef490c9edd6a1934e4ea3_commande-en-ligne-restauration-sante-hopitaux-innovorder.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Online ordering in the health sector</div>\n                  <div class=\"interesting-articles-category\">The challenges of foodservice</div>\n                </div>\n              </a>",
+  "slider-mobile-blog-class": "slider-mobile-blog w-slider",
+  "div-role-7": "list",
+  "div-class-8": "w-dyn-items",
+  "div-role-8": "listitem",
+  "div-class-9": "w-dyn-item",
+  "div-html-4": "<a href=\"/en/blog/haccp-principles-in-collective-catering\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d6648a63308efac3ab_63f501f3fcfc5979fe1a0212_iStock-1271148377.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">HACCP approach in the catering industry: the complete guide</div>\n                  <div class=\"interesting-articles-category\">The challenges of foodservice</div>\n                </div>\n              </a>",
+  "div-role-9": "list",
+  "div-class-10": "w-dyn-items",
+  "div-role-10": "listitem",
+  "div-class-11": "w-dyn-item",
+  "div-html-5": "<a href=\"/en/blog/corporate-cafeteria-management\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d58dc4be04e1d7ec5f_63f501f3fcfc59f9451a01c5_Miniature%2520resto%2520entreprise.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">9 tips to better manage your company restaurant</div>\n                  <div class=\"interesting-articles-category\">The challenges of foodservice</div>\n                </div>\n              </a>",
+  "div-role-11": "list",
+  "div-class-12": "w-dyn-items",
+  "div-role-12": "listitem",
+  "div-class-13": "w-dyn-item",
+  "div-html-6": "<a href=\"/en/blog/online-ordering-in-healthcare-industry\" class=\"interesting-articles-wrap-post w-inline-block\">\n                <div class=\"most-recent-img-div\"><img alt loading=\"lazy\" width=\"262\" src=\"/assets/cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d1e6407e57b366c4cb_63f501f3fcfc59c2211a0020_61bef490c9edd6a1934e4ea3_commande-en-ligne-restauration-sante-hopitaux-innovorder.avif\" class=\"most-recent-img\"></div>\n                <div class=\"bottom-recent-post\">\n                  <div class=\"interesting-articles-title\">Online ordering in the health sector</div>\n                  <div class=\"interesting-articles-category\">The challenges of foodservice</div>\n                </div>\n              </a>",
+  "tail:field-script": "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.innovorder.com/en/blog/collective-catering-and-covid-19-challenges\"},\"headline\":\"Covid-19 : les grands défis de la restauration collective\",\"description\":\"Manage HR organization to ensure team continuity. Streamline order collection and canteen operations.\",\"image\":\"https://cdn.prod.website-files.com/63f501f2fcfc599ea419f99b/63fe01d256f1ef3281258355_63f501f3fcfc59b2c81a000c_61bef5e7372eee01364b00a9_restauration-collective-covid19-blog-innovorder.avif\",\"author\":{\"@type\":\"\",\"name\":\"Sophie Lecomte\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Innovorder\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://cdn.prod.website-files.com/63f501f2fcfc59779719f99c/63f501f2fcfc5931ce19fd4b_Logo%20Innovorder.svg\"}},\"datePublished\":\"30 juillet 2020\"}</script>"
+ }
+}
