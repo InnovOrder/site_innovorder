@@ -15,7 +15,8 @@
     "check:links": "node scripts/check-links.mjs",
     "crawl": "node scripts/crawl-live.mjs",
     "verify:parity": "node scripts/verify-parity.mjs",
-    "audit:translations": "node scripts/audit-translations.mjs"
+    "audit:translations": "node scripts/audit-translations.mjs",
+    "optimize:images": "node scripts/optimize-images.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.4",
