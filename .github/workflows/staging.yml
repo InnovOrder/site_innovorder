@@ -42,3 +42,4 @@ jobs:
           workload_identity_provider: projects/140579438237/locations/global/workloadIdentityPools/site-staging-github/providers/github
           service_account: site-staging-deploy@innovorder-ai-prod.iam.gserviceaccount.com
       - run: python scripts/deploy-staging.py
+      - run: node scripts/verify-staging.mjs --wait

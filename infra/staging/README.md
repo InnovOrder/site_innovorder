@@ -69,5 +69,6 @@ Pour revenir à une version précédente du site, reconstruire et republier le c
 
 ## Vérifications après déploiement
 
-Vérifier `/`, `/prix`, `/en/price`, un article, une image, une URL absente (404), une ancienne URL (301),
-HTTP vers HTTPS et l’en-tête `X-Robots-Tag`. Le build seul ne valide pas le routage GCP ni le certificat.
+Exécuter `node scripts/verify-staging.mjs` (ou `--wait` pendant la propagation initiale).
+Ce contrôle vérifie `/`, `/prix`, `/en/price`, un article, une image, une URL absente (404), une ancienne
+URL (301), HTTP vers HTTPS et l’en-tête `X-Robots-Tag`. Il est aussi exécuté après chaque déploiement CI.
