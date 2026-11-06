@@ -88,6 +88,13 @@ const locale = lang === 'en' ? 'en_US' : 'fr_FR';
     {site.webclip && <link rel="apple-touch-icon" href={site.webclip} />}
     <link rel="sitemap" href="/sitemap-index.xml" />
 
+    <!-- Domaines tiers chargés par GTM (consentement, HubSpot) : connexion ouverte en avance. -->
+    <link rel="preconnect" href="https://static.axept.io" />
+    <link rel="preconnect" href="https://js.hs-scripts.com" />
+    <link rel="dns-prefetch" href="https://js.hsadspixel.net" />
+    <link rel="dns-prefetch" href="https://js.hs-analytics.net" />
+    <link rel="dns-prefetch" href="https://js.hubspot.com" />
+
     {site.stylesheets.map((href) => <link rel="stylesheet" href={href} />)}
     <script is:inline>
       !(function (o, c) {
