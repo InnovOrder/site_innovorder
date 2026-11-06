@@ -6,6 +6,7 @@ Authentication uses Application Default Credentials (GitHub OIDC or local ADC).
 """
 import argparse
 import base64
+import gzip
 import hashlib
 import mimetypes
 import subprocess
@@ -16,6 +17,35 @@ from pathlib import Path
 PROJECT = "innovorder-ai-prod"
 BUCKET = "innovorder-ai-prod-site-staging"
 ROOT = Path(__file__).resolve().parents[1]
+
+# Text files are stored gzip-compressed with Content-Encoding: gzip. GCS serves them compressed to browsers
+# and decompresses them on the fly for the rare clients that do not accept gzip (decompressive transcoding).
+COMPRESSIBLE = {".html", ".css", ".js", ".mjs", ".json", ".svg", ".xml", ".txt", ".map", ".webmanifest", ".ico"}
+MIN_COMPRESS_SIZE = 1024
+
+
+def cache_control(name, source):
+    """HTML is never cached; assets have unique (Webflow id or hashed) names and are cached for a year."""
+    if source.suffix == ".html":
+        return "no-store"
+    if name.startswith(("assets/", "_astro/")):
+        return "public, max-age=31536000"
+    return "public, max-age=300"
+
+
+def content_type(source):
+    return mimetypes.guess_type(source.name)[0] or "application/octet-stream"
+
+
+def payload(source):
+    """Bytes to store for a file and their Content-Encoding (None when stored as is)."""
+    data = source.read_bytes()
+    if source.suffix.lower() in COMPRESSIBLE and len(data) >= MIN_COMPRESS_SIZE:
+        # mtime=0 keeps the output deterministic, so unchanged files keep the same MD5 and are skipped.
+        compressed = gzip.compress(data, compresslevel=9, mtime=0)
+        if len(compressed) < len(data) * 0.9:
+            return compressed, "gzip"
+    return data, None
 
 
 class RobotsParser(HTMLParser):
@@ -81,17 +111,18 @@ def main():
         raise ValueError("Target bucket does not have the expected staging labels")
 
     existing = {blob.name: blob for blob in client.list_blobs(bucket)}
-    checksums = {}
+    # MD5 and encoding of what is actually stored (compressed bytes for text files).
+    stored = {}
     for source in set(objects.values()):
-        with source.open("rb") as stream:
-            checksums[source] = base64.b64encode(hashlib.file_digest(stream, "md5").digest()).decode()
+        data, encoding = payload(source)
+        stored[source] = (base64.b64encode(hashlib.md5(data).digest()).decode(), encoding)
 
     pending = []
     for name, source in objects.items():
-        content_type = mimetypes.guess_type(source.name)[0] or "application/octet-stream"
-        cache_control = "no-store" if source.suffix == ".html" else "public, max-age=300"
+        md5, encoding = stored[source]
+        expected = (md5, content_type(source), cache_control(name, source), encoding)
         previous = existing.get(name)
-        if previous and (previous.md5_hash, previous.content_type, previous.cache_control) == (checksums[source], content_type, cache_control):
+        if previous and (previous.md5_hash, previous.content_type, previous.cache_control, previous.content_encoding) == expected:
             continue
         pending.append((name, source))
     print(f"Uploading {len(pending)} changed objects; {len(objects) - len(pending)} unchanged", flush=True)
@@ -99,9 +130,10 @@ def main():
     def upload(item):
         name, source = item
         blob = bucket.blob(name)
-        content_type = mimetypes.guess_type(source.name)[0] or "application/octet-stream"
-        blob.cache_control = "no-store" if source.suffix == ".html" else "public, max-age=300"
-        blob.upload_from_filename(str(source), content_type=content_type, timeout=120)
+        data, encoding = payload(source)
+        blob.cache_control = cache_control(name, source)
+        blob.content_encoding = encoding
+        blob.upload_from_string(data, content_type=content_type(source), timeout=120)
 
     # Assets first: pages only become visible after their dependencies are uploaded.
     with ThreadPoolExecutor(max_workers=8) as executor:
