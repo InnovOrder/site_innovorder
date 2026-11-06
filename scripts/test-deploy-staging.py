@@ -41,6 +41,11 @@ class DeploymentTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "Conflicting"):
             deploy.objects_to_upload(self.dist)
 
+    def test_rejects_lfs_pointers(self):
+        (self.dist / "logo.svg").write_text("version https://git-lfs.github.com/spec/v1\noid sha256:abc\nsize 3000\n")
+        with self.assertRaisesRegex(ValueError, "Git LFS pointer"):
+            deploy.objects_to_upload(self.dist)
+
 
 if __name__ == "__main__":
     unittest.main()

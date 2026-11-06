@@ -22,7 +22,8 @@ async function verify() {
   const asset = await request(new URL(site.favicon, origin));
   assert.equal(asset.status, 200, 'favicon');
   assert.match(asset.headers.get('content-type') ?? '', /^image\//, 'favicon');
-  await asset.arrayBuffer();
+  const assetBytes = new Uint8Array(await asset.arrayBuffer());
+  assert.ok(!new TextDecoder().decode(assetBytes.slice(0, 80)).startsWith('version https://git-lfs.github.com/spec/v1'), 'favicon must contain the image, not a Git LFS pointer');
 
   const missing = await request(origin + '/__staging-smoke-missing__');
   assert.equal(missing.status, 404, 'missing page');

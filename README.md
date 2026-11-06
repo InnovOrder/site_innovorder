@@ -21,6 +21,14 @@ npm run preview      # sert dist/ en local
 npm run check:links  # vérifie les liens internes et les assets du build
 ```
 
+## Staging
+
+Le staging est hébergé sur [staging.innovorder.io](https://staging.innovorder.io), dans
+`innovorder-ai-prod` : bucket Cloud Storage et load balancer HTTPS, avec `noindex`.
+La configuration Terraform et les commandes de publication sont décrites dans
+[infra/staging/README.md](infra/staging/README.md). Le workflow GitHub est prévu pour la branche `staging`.
+Les médias sont stockés via Git LFS : exécuter `git lfs pull` avant de construire le site.
+
 ## Organisation
 
 ```

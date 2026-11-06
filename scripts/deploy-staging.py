@@ -5,6 +5,8 @@ Authentication uses Application Default Credentials (GitHub OIDC or local ADC).
 --dry-run validates the object mapping without credentials or third-party packages.
 """
 import argparse
+import base64
+import hashlib
 import mimetypes
 import subprocess
 from concurrent.futures import ThreadPoolExecutor
@@ -35,6 +37,8 @@ def objects_to_upload(dist):
             continue
         if source.is_symlink():
             raise ValueError(f"Symlinks are not allowed in the build: {source}")
+        if source.stat().st_size < 1024 and source.read_bytes().startswith(b"version https://git-lfs.github.com/spec/v1"):
+            raise ValueError(f"Unresolved Git LFS pointer: {source}. Run git lfs pull before building.")
         name = source.relative_to(dist).as_posix()
         names = [name]
         if name.endswith(".html"):
@@ -76,6 +80,22 @@ def main():
     if bucket.labels.get("application") != "site-innovorder" or bucket.labels.get("environment") != "staging":
         raise ValueError("Target bucket does not have the expected staging labels")
 
+    existing = {blob.name: blob for blob in client.list_blobs(bucket)}
+    checksums = {}
+    for source in set(objects.values()):
+        with source.open("rb") as stream:
+            checksums[source] = base64.b64encode(hashlib.file_digest(stream, "md5").digest()).decode()
+
+    pending = []
+    for name, source in objects.items():
+        content_type = mimetypes.guess_type(source.name)[0] or "application/octet-stream"
+        cache_control = "no-store" if source.suffix == ".html" else "public, max-age=300"
+        previous = existing.get(name)
+        if previous and (previous.md5_hash, previous.content_type, previous.cache_control) == (checksums[source], content_type, cache_control):
+            continue
+        pending.append((name, source))
+    print(f"Uploading {len(pending)} changed objects; {len(objects) - len(pending)} unchanged", flush=True)
+
     def upload(item):
         name, source = item
         blob = bucket.blob(name)
@@ -86,10 +106,12 @@ def main():
     # Assets first: pages only become visible after their dependencies are uploaded.
     with ThreadPoolExecutor(max_workers=8) as executor:
         for html in (False, True):
-            items = [(name, source) for name, source in objects.items() if (source.suffix == ".html") == html]
-            list(executor.map(upload, items))
+            items = [(name, source) for name, source in pending if (source.suffix == ".html") == html]
+            for count, _ in enumerate(executor.map(upload, items), 1):
+                if count % 500 == 0:
+                    print(f"Uploaded {count}/{len(items)} {'pages' if html else 'assets'}", flush=True)
     # No deletion on deploy: old assets remain available to already-open pages.
-    print(f"Uploaded {len(objects)} objects. Verify https://staging.innovorder.io/")
+    print(f"Uploaded {len(pending)} changed objects. Verify https://staging.innovorder.io/")
 
 
 if __name__ == "__main__":

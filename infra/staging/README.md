@@ -20,7 +20,8 @@ Webflow, HubSpot ou d’autres services de production. Ne pas envoyer de faux le
 
 ## Provisionnement initial
 
-Prérequis : Terraform >= 1.5, gcloud, permissions GCP nécessaires et compte GitHub avec écriture.
+Prérequis : Terraform >= 1.5, Node 24, Python >= 3.11, Git LFS, gcloud,
+permissions GCP nécessaires et compte GitHub avec écriture.
 Avant application, inspecter les load balancers existants : cette configuration crée un load balancer dédié.
 S’il faut réutiliser un load balancer partagé, adapter cette partie après inspection de ses règles.
 
@@ -48,6 +49,8 @@ Une modification de `src/redirects.json` nécessite également un nouvel apply T
 
 ```sh
 # Node 24
+git lfs install --local
+git lfs pull
 npm ci
 ASTRO_TELEMETRY_DISABLED=1 DEPLOY_ENV=staging npm run build
 npm run check:links
@@ -63,7 +66,8 @@ Les pages `/blog` et `/blog/article` peuvent coexister car les noms des objets G
 répertoires locaux. Les URLs avec slash sont servies en staging ; les canoniques conservent les URLs
 de production sans slash. La racine utilise `index.html` et les erreurs utilisent `404.html`.
 
-Les assets sont envoyés avant les pages. La publication n’est pas atomique et les objets supprimés du
+Les objets inchangés (empreinte MD5, type et cache) ne sont pas renvoyés ; les références Git LFS non
+résolues bloquent la publication. Les assets sont envoyés avant les pages. La publication n’est pas atomique et les objets supprimés du
 build ne sont pas purgés automatiquement. Les versions GCS précédentes sont conservées sept jours.
 Pour revenir à une version précédente du site, reconstruire et republier le commit correspondant.
 
