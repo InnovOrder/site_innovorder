@@ -19,3 +19,12 @@ npm-debug.log*
 !.vscode/extensions.json
 .idea/
 .cache/
+
+# Deployment credentials and Terraform state
+gha-creds-*.json
+infra/**/.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+.venv/
+__pycache__/

@@ -59,6 +59,7 @@ const pathname = Astro.url.pathname.replace(/(\/index)?\.html$/, '').replace(/\/
 const canonicalUrl = new URL(canonical ?? pathname, Astro.site).href;
 const ogImageUrl = ogImage && new URL(ogImage, Astro.site).href;
 const locale = lang === 'en' ? 'en_US' : 'fr_FR';
+const isStaging = import.meta.env.DEPLOY_ENV === 'staging';
 ---
 
 <!doctype html>
@@ -69,7 +70,7 @@ const locale = lang === 'en' ? 'en_US' : 'fr_FR';
     <title>{title}</title>
     {description && <meta name="description" content={description} />}
     <link rel="canonical" href={canonicalUrl} />
-    {noindex && <meta name="robots" content="noindex" />}
+    {(noindex || isStaging) && <meta name="robots" content="noindex" />}
     {Object.entries(alternates).map(([hreflang, href]) => <link rel="alternate" hreflang={hreflang} href={href} />)}
 
     <meta property="og:type" content={ogType} />

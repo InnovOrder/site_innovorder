@@ -1,0 +1,44 @@
+name: Deploy staging
+
+on:
+  push:
+    branches: [staging]
+  workflow_dispatch:
+
+concurrency:
+  group: site-staging
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    if: github.ref == 'refs/heads/staging'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: read
+      id-token: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+        env:
+          DEPLOY_ENV: staging
+      - run: npm run check:links
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/test-deploy-staging.py
+      - run: pip install -r scripts/requirements-deploy.txt
+      - run: python scripts/deploy-staging.py --dry-run
+      - uses: google-github-actions/auth@v3
+        with:
+          workload_identity_provider: projects/140579438237/locations/global/workloadIdentityPools/site-staging-github/providers/github
+          service_account: site-staging-deploy@innovorder-ai-prod.iam.gserviceaccount.com
+      - run: python scripts/deploy-staging.py
