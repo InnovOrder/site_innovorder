@@ -54,6 +54,7 @@ scripts/
   lib/i18n.mjs                 # retrait de Weglot, sélecteur de langue, traductions EN
   verify-parity.mjs            # compare le build au site publié, page par page
   audit-translations.mjs       # repère les textes restés en français dans les pages EN
+  optimize-images.mjs          # convertit les PNG / JPEG en WebP et met à jour les références
   check-links.mjs
 migration/
   REPORT.md                    # rapport de la dernière migration
@@ -85,6 +86,18 @@ champs, puis ajouter si besoin la carte dans les listes (`src/pages/blog.astro`,
 - balises SEO de chaque page reprises à l'identique, canonique et `og:url` générées par le layout ;
 - `hreflang` FR/EN conservés ; sitemap généré (`/sitemap-index.xml`) avec les mêmes pages que Webflow ;
 - redirections 301 reprises (`src/redirects.json`, à appliquer aussi côté hébergeur).
+
+### Performance
+
+- **Images** : les PNG / JPEG sont servis en WebP (≈ 4,5 fois plus légers). Après avoir ajouté des images,
+  lancer `npm run optimize:images` : il convertit les nouvelles images, met à jour les références et supprime
+  les originaux devenus inutiles. Les images Open Graph restent en PNG / JPEG.
+- **Hébergement** (indispensable, c'est l'essentiel du score Lighthouse) :
+  - compression gzip ou brotli des fichiers texte (HTML, CSS, JS, SVG, JSON, XML) : le CSS Webflow passe de
+    844 Ko à 126 Ko en gzip (82 Ko en brotli) ;
+  - cache long sur `/assets/*` (`Cache-Control: public, max-age=31536000, immutable`) : les noms de fichiers
+    Webflow contiennent un identifiant unique ;
+  - cache court sur les pages HTML (`Cache-Control: public, max-age=300` ou `no-cache`).
 
 ## Migration depuis Webflow
 
