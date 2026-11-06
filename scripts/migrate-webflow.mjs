@@ -208,8 +208,11 @@ const pages = Object.entries(livePages)
     for (const a of du.findAll((e) => /^\?[a-z0-9]+_page=\d+$/.test(e.attribs.href || ''), body.children)) {
       a.attribs.href = paginatedRoute(base + a.attribs.href);
     }
-    // La classe w--current est posée dynamiquement par webflow.js : on la retire du markup statique.
-    for (const el of du.findAll((e) => /\bw--current\b/.test(e.attribs.class || ''), body.children)) {
+    // La classe w--current des liens de navigation est posée dynamiquement par webflow.js : on la retire du
+    // markup statique. Sauf sur les onglets (w-tab-link), où elle désigne l'onglet ouvert par défaut : sans
+    // elle, webflow.js n'initialise pas le composant Tabs.
+    const isNavCurrent = (e) => /\bw--current\b/.test(e.attribs.class || '') && !/\bw-tab-link\b/.test(e.attribs.class);
+    for (const el of du.findAll(isNavCurrent, body.children)) {
       el.attribs.class = el.attribs.class.replace(/\s*w--current/, '');
       delete el.attribs['aria-current'];
     }
